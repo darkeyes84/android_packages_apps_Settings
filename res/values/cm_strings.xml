@@ -493,4 +493,10 @@
     <!-- IC Codes -->
     <string name="ic_code_model">Model: %1$s</string>
     <string name="ic_code_full">IC: %1$s</string>
+
+    <!-- Default left shortcut on lockscreen -->
+    <string name="left_default_voice_title">Left shortcut on keyguard</string>
+    <string name="left_default_voice_summary_on">Default shortcut is voice assistant</string>
+    <string name="left_default_voice_summary_off">Default shortcut is phone</string>
+
 </resources>
