@@ -545,4 +545,8 @@
     <string name="lockscreen_enable_power_menu_title">Secure lockscreen</string>
     <string name="lockscreen_enable_power_menu_summary">Prevent access to quick settings and power menu</string>
 
+    <!-- Settings suggestions  -->
+    <string name="disable_settings_suggestions_title">Disable suggestions</string>
+    <string name="disable_settings_suggestions_summary">Disable suggestions on the dashboard</string>
+
 </resources>
