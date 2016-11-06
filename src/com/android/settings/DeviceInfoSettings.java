@@ -56,9 +56,6 @@ public class DeviceInfoSettings extends SettingsPreferenceFragment implements In
 
     private static final String LOG_TAG = "DeviceInfoSettings";
 
-    private static final String KEY_MANUAL = "manual";
-    private static final String KEY_REGULATORY_INFO = "regulatory_info";
-    private static final String PROPERTY_URL_SAFETYLEGAL = "ro.url.safetylegal";
     private static final String PROPERTY_SELINUX_STATUS = "ro.build.selinux";
     private static final String KEY_KERNEL_VERSION = "kernel_version";
     private static final String KEY_BUILD_NUMBER = "build_number";
@@ -70,8 +67,6 @@ public class DeviceInfoSettings extends SettingsPreferenceFragment implements In
     private static final String KEY_SECURITY_PATCH = "security_patch";
     private static final String KEY_EQUIPMENT_ID = "fcc_equipment_id";
     private static final String PROPERTY_EQUIPMENT_ID = "ro.ril.fccid";
-    private static final String KEY_DEVICE_FEEDBACK = "device_feedback";
-    private static final String KEY_SAFETY_LEGAL = "safetylegal";
     private static final String KEY_MBN_VERSION = "mbn_version";
     private static final String PROPERTY_MBN_VERSION = "persist.mbn.version";
     private static final String KEY_QGP_VERSION = "qgp_version";
@@ -166,10 +161,6 @@ public class DeviceInfoSettings extends SettingsPreferenceFragment implements In
         removePreferenceIfPropertyMissing(getPreferenceScreen(), KEY_SELINUX_STATUS,
                 PROPERTY_SELINUX_STATUS);
 
-        // Remove Safety information preference if PROPERTY_URL_SAFETYLEGAL is not set
-        removePreferenceIfPropertyMissing(getPreferenceScreen(), KEY_SAFETY_LEGAL,
-                PROPERTY_URL_SAFETYLEGAL);
-
         // Remove Equipment id preference if FCC ID is not set by RIL
         removePreferenceIfPropertyMissing(getPreferenceScreen(), KEY_EQUIPMENT_ID,
                 PROPERTY_EQUIPMENT_ID);
@@ -177,11 +168,6 @@ public class DeviceInfoSettings extends SettingsPreferenceFragment implements In
         // Remove Baseband version if wifi-only device
         if (Utils.isWifiOnly(getActivity())) {
             getPreferenceScreen().removePreference(findPreference(KEY_BASEBAND_VERSION));
-        }
-
-        // Dont show feedback option if there is no reporter.
-        if (TextUtils.isEmpty(DeviceInfoUtils.getFeedbackReporterPackage(getActivity()))) {
-            getPreferenceScreen().removePreference(findPreference(KEY_DEVICE_FEEDBACK));
         }
 
         /*
@@ -192,25 +178,6 @@ public class DeviceInfoSettings extends SettingsPreferenceFragment implements In
 
         // These are contained by the root preference screen
         PreferenceGroup parentPreference = getPreferenceScreen();
-
-        // Remove manual entry if none present.
-        removePreferenceIfBoolFalse(KEY_MANUAL, R.bool.config_show_manual);
-
-        // Remove regulatory information if none present or config_show_regulatory_info is disabled
-        final Intent intent = new Intent(Settings.ACTION_SHOW_REGULATORY_INFO);
-        if (getPackageManager().queryIntentActivities(intent, 0).isEmpty()
-                || !getResources().getBoolean(R.bool.config_show_regulatory_info)) {
-            Preference pref = findPreference(KEY_REGULATORY_INFO);
-            if (pref != null) {
-                getPreferenceScreen().removePreference(pref);
-            }
-        }
-        // Remove regulatory labels if no activity present to handle intent.
-        removePreferenceIfActivityMissing(
-                KEY_REGULATORY_INFO, Settings.ACTION_SHOW_REGULATORY_INFO);
-
-        removePreferenceIfActivityMissing(
-                "safety_info", "android.settings.SHOW_SAFETY_AND_REGULATORY_INFO");
     }
 
     @Override
@@ -316,8 +283,6 @@ public class DeviceInfoSettings extends SettingsPreferenceFragment implements In
                         + "queryIntentActivities() returns empty" );
                 return true;
             }
-        } else if (preference.getKey().equals(KEY_DEVICE_FEEDBACK)) {
-            sendFeedback();
         }
         return super.onPreferenceTreeClick(preference);
     }
@@ -422,16 +387,6 @@ public class DeviceInfoSettings extends SettingsPreferenceFragment implements In
         }
     }
 
-    private void sendFeedback() {
-        String reporterPackage = DeviceInfoUtils.getFeedbackReporterPackage(getActivity());
-        if (TextUtils.isEmpty(reporterPackage)) {
-            return;
-        }
-        Intent intent = new Intent(Intent.ACTION_BUG_REPORT);
-        intent.setPackage(reporterPackage);
-        startActivityForResult(intent, 0);
-    }
-
     private static String constructApiLevelString() {
         int sdkInt = cyanogenmod.os.Build.CM_VERSION.SDK_INT;
         StringBuilder builder = new StringBuilder();
@@ -488,19 +443,12 @@ public class DeviceInfoSettings extends SettingsPreferenceFragment implements In
                 if (isPropertyMissing(PROPERTY_SELINUX_STATUS)) {
                     keys.add(KEY_SELINUX_STATUS);
                 }
-                if (isPropertyMissing(PROPERTY_URL_SAFETYLEGAL)) {
-                    keys.add(KEY_SAFETY_LEGAL);
-                }
                 if (isPropertyMissing(PROPERTY_EQUIPMENT_ID)) {
                     keys.add(KEY_EQUIPMENT_ID);
                 }
                 // Remove Baseband version if wifi-only device
                 if (Utils.isWifiOnly(context)) {
                     keys.add((KEY_BASEBAND_VERSION));
-                }
-                // Dont show feedback option if there is no reporter.
-                if (TextUtils.isEmpty(DeviceInfoUtils.getFeedbackReporterPackage(context))) {
-                    keys.add(KEY_DEVICE_FEEDBACK);
                 }
                 return keys;
             }
