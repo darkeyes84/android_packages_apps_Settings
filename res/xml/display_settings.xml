@@ -133,6 +133,12 @@
         <org.cyanogenmod.internal.cmparts.CMPartsPreference
                 android:key="expanded_desktop_settings" />
 
+        <ListPreference
+            android:entries="@array/screenshot_type_entries"
+            android:entryValues="@array/screenshot_type_values"
+            android:key="screenshot_type"
+            android:title="@string/screenshot_type_title" />
+
         <PreferenceScreen
                 android:key="font_size"
                 android:title="@string/title_font_size"
