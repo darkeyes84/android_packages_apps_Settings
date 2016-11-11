@@ -49,9 +49,6 @@
         <PreferenceScreen
             android:title="@string/virtual_keyboard_category"
             android:fragment="com.android.settings.inputmethod.VirtualKeyboardFragment" />
-        <PreferenceScreen
-            android:title="@string/physical_keyboard_title"
-            android:fragment="com.android.settings.inputmethod.PhysicalKeyboardFragment" />
 
         <cyanogenmod.preference.CMSystemSettingSwitchPreference
                 android:key="status_bar_ime_switcher"
