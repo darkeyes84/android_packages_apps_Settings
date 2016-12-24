@@ -537,4 +537,8 @@
     <string name="unlock_quick_unlock_control_summary_password">Unlock automatically when the correct password is entered</string>
     <string name="unlock_quick_unlock_control_summary_pin">Unlock automatically when the correct PIN is entered</string>
 
+    <!-- Notification Ticker -->
+    <string name="ticker_title">Notification ticker</string>
+    <string name="ticker_summary">Enable the notification ticker in the status bar</string>
+
 </resources>
