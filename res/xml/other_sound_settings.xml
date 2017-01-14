@@ -56,6 +56,11 @@
             android:title="@string/volume_adjust_sounds_title"
             android:defaultValue="true" />
 
+    <!-- Boot sounds -->
+    <SwitchPreference
+            android:key="boot_sounds"
+            android:title="@string/boot_sounds_title" />
+
     <!-- Vibrate on touch -->
     <SwitchPreference
             android:key="vibrate_on_touch"
@@ -73,11 +78,6 @@
             android:key="dock_audio_media"
             android:title="@string/dock_audio_media_title"
             android:summary="%s" />
-
-    <!-- Boot sounds -->
-    <SwitchPreference
-            android:key="boot_sounds"
-            android:title="@string/boot_sounds_title" />
 
     <!-- Emergency tone -->
     <DropDownPreference

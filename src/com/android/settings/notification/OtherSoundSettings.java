@@ -212,12 +212,8 @@ public class OtherSoundSettings extends SettingsPreferenceFragment implements In
             pref.init(this);
         }
 
-        if (mContext.getResources().getBoolean(R.bool.has_boot_sounds)) {
-            mBootSounds = (SwitchPreference) findPreference(KEY_BOOT_SOUNDS);
-            mBootSounds.setChecked(SystemProperties.getBoolean(PROPERTY_BOOT_SOUNDS, true));
-        } else {
-            removePreference(KEY_BOOT_SOUNDS);
-        }
+        mBootSounds = (SwitchPreference) findPreference(KEY_BOOT_SOUNDS);
+        mBootSounds.setChecked(SystemProperties.getBoolean(PROPERTY_BOOT_SOUNDS, true));
 
         final CMHardwareManager hardware = CMHardwareManager.getInstance(mContext);
         if (!hardware.isSupported(CMHardwareManager.FEATURE_VIBRATOR)) {
