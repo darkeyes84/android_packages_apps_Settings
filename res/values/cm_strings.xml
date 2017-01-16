@@ -541,4 +541,8 @@
     <string name="ticker_title">Notification ticker</string>
     <string name="ticker_summary">Enable the notification ticker in the status bar</string>
 
+    <!-- Secure lockscreen -->
+    <string name="lockscreen_enable_power_menu_title">Secure lockscreen</string>
+    <string name="lockscreen_enable_power_menu_summary">Prevent access to quick settings and power menu</string>
+
 </resources>
