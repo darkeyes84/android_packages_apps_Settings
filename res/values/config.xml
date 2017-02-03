@@ -101,9 +101,6 @@
     -->
     <integer name="config_fingerprintSensorLocation">0</integer>
 
-    <!-- Does the device allow updating the recovery. -->
-    <bool name="config_enableRecoveryUpdater">true</bool>
-
     <!-- Enable/disable wifi region code preferences -->
     <bool name="config_hideWifiRegionCode">false</bool>
 
