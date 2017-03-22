@@ -25,19 +25,29 @@
             android:title="@string/owner_info_settings_title"
             android:summary="@string/owner_info_settings_summary"/>
 
-        <com.android.settings.preference.SystemSettingSwitchPreference
-            android:key="left_default_voice"
-            android:title="@string/left_default_voice_title"
-            android:summaryOn="@string/left_default_voice_summary_on"
-            android:summaryOff="@string/left_default_voice_summary_off"
-            android:defaultValue="true" />
-
         <PreferenceScreen
             android:title="@string/lockscreen_targets_message" >
             <intent
                 android:targetPackage="com.android.systemui"
                 android:targetClass="com.android.systemui.cm.LockscreenShortcutsActivity" />
         </PreferenceScreen>
+
+        <com.android.settings.preference.SystemSettingSwitchPreference
+            android:key="keyguard_show_carrier"
+            android:title="@string/keyguard_show_carrier_title"
+            android:summary="@string/keyguard_show_carrier_summary"
+            android:defaultValue="false" />
+
+        <PreferenceScreen
+            android:key="custom_carrier_label"
+            android:title="@string/custom_carrier_label_title" />
+
+        <com.android.settings.preference.SystemSettingSwitchPreference
+            android:key="left_default_voice"
+            android:title="@string/left_default_voice_title"
+            android:summaryOn="@string/left_default_voice_summary_on"
+            android:summaryOff="@string/left_default_voice_summary_off"
+            android:defaultValue="true" />
 
         <com.android.settings.preference.SystemSettingSwitchPreference
             android:key="show_next_alarm_lockscreen"

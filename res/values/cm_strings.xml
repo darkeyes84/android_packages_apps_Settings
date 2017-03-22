@@ -549,4 +549,11 @@
     <string name="disable_settings_suggestions_title">Disable suggestions</string>
     <string name="disable_settings_suggestions_summary">Disable suggestions on the dashboard</string>
 
+    <!-- Custom carrier label and position -->
+    <string name="keyguard_show_carrier_title">Hide carrier label</string>
+    <string name="keyguard_show_carrier_summary">Hide the carrier label on the keyguard</string>
+    <string name="custom_carrier_label_title">Custom carrier label</string>
+    <string name="custom_carrier_label_explain">Please enter a new label or leave blank to revert to stock label</string>
+    <string name="custom_carrier_label_notset">Custom label currently not set</string>
+
 </resources>

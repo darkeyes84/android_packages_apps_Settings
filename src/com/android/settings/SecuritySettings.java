@@ -50,8 +50,10 @@ import android.telephony.CarrierConfigManager;
 import android.telephony.SubscriptionInfo;
 import android.telephony.SubscriptionManager;
 import android.telephony.TelephonyManager;
+import android.text.Spannable;
 import android.text.TextUtils;
 import android.util.Log;
+import android.widget.EditText;
 import com.android.internal.logging.MetricsProto.MetricsEvent;
 import com.android.internal.widget.LockPatternUtils;
 import com.android.settings.TrustAgentUtils.TrustAgentComponentInfo;
@@ -1034,6 +1036,11 @@ public class SecuritySettings extends SettingsPreferenceFragment
         private static final String SWITCH_PREFERENCE_KEYS[] = { KEY_LOCK_AFTER_TIMEOUT,
                 KEY_VISIBLE_PATTERN, KEY_POWER_INSTANTLY_LOCKS, KEY_DIRECTLY_SHOW_LOCK };
 
+        private static final String CUSTOM_CARRIER_LABEL = "custom_carrier_label";
+
+        private PreferenceScreen mCustomCarrierLabel;
+        private String mCustomCarrierLabelText;
+
         private TimeoutListPreference mLockAfter;
         private SwitchPreference mVisiblePattern;
         private SwitchPreference mPowerButtonInstantlyLocks;
@@ -1086,6 +1093,17 @@ public class SecuritySettings extends SettingsPreferenceFragment
             super.onActivityResult(requestCode, resultCode, data);
 
             createPreferenceHierarchy();
+        }
+
+        private void updateCustomLabelTextSummary() {
+            mCustomCarrierLabelText = Settings.System.getString(
+                getContentResolver(), Settings.System.CUSTOM_CARRIER_LABEL);
+
+            if (TextUtils.isEmpty(mCustomCarrierLabelText)) {
+                mCustomCarrierLabel.setSummary(R.string.custom_carrier_label_notset);
+            } else {
+                mCustomCarrierLabel.setSummary(mCustomCarrierLabelText);
+	        }
         }
 
         private void createPreferenceHierarchy() {
@@ -1149,6 +1167,13 @@ public class SecuritySettings extends SettingsPreferenceFragment
             for (int i = 0; i < SWITCH_PREFERENCE_KEYS.length; i++) {
                 final Preference pref = findPreference(SWITCH_PREFERENCE_KEYS[i]);
                 if (pref != null) pref.setOnPreferenceChangeListener(this);
+            }
+
+            mCustomCarrierLabel = (PreferenceScreen) findPreference(CUSTOM_CARRIER_LABEL);
+            if (TelephonyManager.getDefault().isMultiSimEnabled()) {
+                getPreferenceScreen().removePreference(mCustomCarrierLabel);
+            } else {
+                updateCustomLabelTextSummary();
             }
         }
 
@@ -1265,6 +1290,36 @@ public class SecuritySettings extends SettingsPreferenceFragment
                 mLockPatternUtils.setVisiblePatternEnabled((Boolean) value, MY_USER_ID);
             }
             return true;
+        }
+
+        @Override
+        public boolean onPreferenceTreeClick(Preference preference) {
+            if (preference.getKey().equals(CUSTOM_CARRIER_LABEL)) {
+                AlertDialog.Builder alert = new AlertDialog.Builder(getActivity());
+                alert.setTitle(R.string.custom_carrier_label_title);
+                alert.setMessage(R.string.custom_carrier_label_explain);
+
+                // Set an EditText view to get user input
+                final EditText input = new EditText(getActivity());
+                input.setText(TextUtils.isEmpty(mCustomCarrierLabelText) ? "" : mCustomCarrierLabelText);
+                input.setSelection(input.getText().length());
+                alert.setView(input);
+                alert.setPositiveButton(getString(android.R.string.ok),
+                        new DialogInterface.OnClickListener() {
+                            public void onClick(DialogInterface dialog, int whichButton) {
+                                String value = ((Spannable) input.getText()).toString().trim();
+                                Settings.System.putString(getActivity().getContentResolver(),
+                                    Settings.System.CUSTOM_CARRIER_LABEL, value);
+                                updateCustomLabelTextSummary();
+                                Intent i = new Intent();
+                                i.setAction(Intent.ACTION_CUSTOM_CARRIER_LABEL_CHANGED);
+                                getActivity().sendBroadcast(i);
+                    }
+                });
+                alert.setNegativeButton(getString(android.R.string.cancel), null);
+                alert.show();
+            }
+            return super.onPreferenceTreeClick(preference);
         }
     }
 
