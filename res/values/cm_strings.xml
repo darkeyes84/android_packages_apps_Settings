@@ -556,4 +556,7 @@
     <string name="custom_carrier_label_explain">Please enter a new label or leave blank to revert to stock label</string>
     <string name="custom_carrier_label_notset">Custom label currently not set</string>
 
+    <string name="one_hand_mode_title">One hand mode</string>
+    <string name="one_hand_mode_summary">Swipe on the navigation bar to enable one hand mode</string>
+
 </resources>
