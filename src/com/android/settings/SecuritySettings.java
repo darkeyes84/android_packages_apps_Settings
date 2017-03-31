@@ -1294,7 +1294,8 @@ public class SecuritySettings extends SettingsPreferenceFragment
 
         @Override
         public boolean onPreferenceTreeClick(Preference preference) {
-            if (preference.getKey().equals(CUSTOM_CARRIER_LABEL)) {
+			String key = preference.getKey();
+            if (CUSTOM_CARRIER_LABEL.equals(key)) {
                 AlertDialog.Builder alert = new AlertDialog.Builder(getActivity());
                 alert.setTitle(R.string.custom_carrier_label_title);
                 alert.setMessage(R.string.custom_carrier_label_explain);
@@ -1318,8 +1319,10 @@ public class SecuritySettings extends SettingsPreferenceFragment
                 });
                 alert.setNegativeButton(getString(android.R.string.cancel), null);
                 alert.show();
-            }
-            return super.onPreferenceTreeClick(preference);
+            } else {
+				return super.onPreferenceTreeClick(preference);
+			}
+			return true;
         }
     }
 
