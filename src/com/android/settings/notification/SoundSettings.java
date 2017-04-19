@@ -87,6 +87,10 @@ public class SoundSettings extends SettingsPreferenceFragment implements Indexab
     private static final String KEY_INCREASING_RING_VOLUME = "increasing_ring_volume";
     private static final String KEY_ZEN_MODE = "zen_mode";
 
+    private static final String KEY_VIBRATE_ON_CONNECT = "vibrate_on_connect";
+    private static final String KEY_VIBRATE_ON_CALL_WAITING = "vibrate_on_callwaiting";
+    private static final String KEY_VIBRATE_ON_DISCONNECT = "vibrate_on_disconnect";
+
     private static final String SELECTED_PREFERENCE_KEY = "selected_preference";
     private static final int REQUEST_CODE = 200;
 
@@ -168,6 +172,12 @@ public class SoundSettings extends SettingsPreferenceFragment implements Indexab
         } else {
             removePreference(KEY_RING_VOLUME);
             removePreference("volume_link_notification");
+        }
+
+        if (!mVoiceCapable) {
+            removePreference(KEY_VIBRATE_ON_CONNECT);
+            removePreference(KEY_VIBRATE_ON_CALL_WAITING);
+            removePreference(KEY_VIBRATE_ON_DISCONNECT);
         }
 
         initRingtones();
