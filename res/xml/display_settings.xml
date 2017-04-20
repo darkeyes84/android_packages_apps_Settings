@@ -96,6 +96,12 @@
                 android:title="@string/doze_title"
                 android:summary="@string/doze_summary" />
 
+        <Preference
+                 android:key="doze_brightness_level"
+                 android:title="@string/doze_brightness_level_title"
+                 android:summary="@string/doze_brightness_level_summary"
+                 android:persistent="false" />
+
         <cyanogenmod.preference.RemotePreference
                 android:key="doze_device_settings"
                 android:title="@string/doze_title"
