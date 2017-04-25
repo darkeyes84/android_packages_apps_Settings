@@ -3116,6 +3116,17 @@
                        android:resource="@string/gesture_preference_summary" />
         </activity>
 
+        <activity android:name="Settings$PieSettingsActivity"
+                  android:label="@string/pie_settings">
+            <intent-filter>
+                <action android:name="com.android.settings.PIE_SETTINGS" />
+                <action android:name="android.settings.PIE_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <meta-data android:name="com.android.settings.FRAGMENT_CLASS"
+                android:value="com.android.settings.PieSettings" />
+        </activity>
+
         <activity android:name="BackupSettingsActivity"
                   android:label="@string/privacy_settings_title"
                   android:icon="@drawable/ic_settings_backup"

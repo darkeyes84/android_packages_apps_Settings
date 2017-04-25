@@ -227,4 +227,24 @@
     <string name="theme_force_enabled_title">Force enable color engine</string>
     <string name="theme_force_enabled_summary">Color engine will be forcibly enabled nonetheless OMS state</string>
 
+    <!-- Pie -->
+    <string name="pie_settings">PIE controls</string>
+    <string name="pie_gravity_title">Location</string>
+    <string name="pie_gravity_bottom">Bottom</string>
+    <string name="pie_gravity_right">Right</string>
+    <string name="pie_gravity_left">Left</string>
+    <string name="pie_theme_mode_title">Theme</string>
+    <string name="pie_auto">Automatic</string>
+    <string name="pie_white">White</string>
+    <string name="pie_dark">Dark</string>
+    <string name="pie_battery_title">Battery indicator</string>
+    <string name="pie_battery_text">Text only</string>
+    <string name="pie_battery_circle">Circle only</string>
+    <string name="pie_battery_both">Both</string>
+    <string name="pie_status_indicator">Network indicator</string>
+    <string name="pie_status_wifi">WiFi only</string>
+    <string name="pie_status_mobile">Mobile network only</string>
+    <string name="pie_status_none">None</string>
+    <string name="pie_status_both">Both</string>
+
 </resources>
