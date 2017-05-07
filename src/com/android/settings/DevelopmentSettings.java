@@ -2429,7 +2429,7 @@ public class DevelopmentSettings extends RestrictedSettingsFragment
             flashLockState = mOemUnlockManager.getFlashLockState();
         }
 
-        return flashLockState == PersistentDataBlockManager.FLASH_LOCK_UNLOCKED;
+        return true;
     }
 
     /**
