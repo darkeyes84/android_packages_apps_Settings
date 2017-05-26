@@ -20,6 +20,7 @@ import android.app.admin.DevicePolicyManager;
 import android.app.NotificationManager;
 import android.content.ContentResolver;
 import android.content.Context;
+import android.content.res.Resources;
 import android.database.ContentObserver;
 import android.net.Uri;
 import android.os.Bundle;
@@ -27,6 +28,7 @@ import android.os.Handler;
 import android.os.UserHandle;
 import android.os.UserManager;
 import android.provider.Settings;
+import android.support.v7.preference.ListPreference;
 import android.support.v7.preference.Preference;
 import android.support.v7.preference.PreferenceCategory;
 import android.support.v7.preference.Preference.OnPreferenceChangeListener;
@@ -46,16 +48,20 @@ import static android.app.admin.DevicePolicyManager.KEYGUARD_DISABLE_SECURE_NOTI
 import static android.app.admin.DevicePolicyManager.KEYGUARD_DISABLE_UNREDACTED_NOTIFICATIONS;
 import static com.android.settingslib.RestrictedLockUtils.EnforcedAdmin;
 
-public class ConfigureNotificationSettings extends SettingsPreferenceFragment {
+public class ConfigureNotificationSettings extends SettingsPreferenceFragment
+        implements Preference.OnPreferenceChangeListener {
+
     private static final String TAG = "ConfigNotiSettings";
 
     private static final String KEY_NOTIFICATION_PULSE = "notification_pulse";
     private static final String KEY_LOCK_SCREEN_NOTIFICATIONS = "lock_screen_notifications";
     private static final String KEY_LOCK_SCREEN_PROFILE_NOTIFICATIONS =
             "lock_screen_notifications_profile";
+    private static final String PREF_HEADS_UP_TIME_OUT = "heads_up_time_out";
 
     private final SettingsObserver mSettingsObserver = new SettingsObserver();
 
+    private ListPreference mHeadsUpTimeOut;
     private Context mContext;
 
     private TwoStatePreference mNotificationPulse;
@@ -97,6 +103,21 @@ public class ConfigureNotificationSettings extends SettingsPreferenceFragment {
             initLockscreenNotificationsForProfile();
         }
 
+        Resources systemUiResources;
+        try {
+            systemUiResources = getPackageManager().getResourcesForApplication("com.android.systemui");
+        } catch (Exception e) {
+            return;
+        }
+
+        int defaultTimeOut = systemUiResources.getInteger(systemUiResources.getIdentifier(
+                    "com.android.systemui:integer/heads_up_notification_decay", null, null));
+        mHeadsUpTimeOut = (ListPreference) findPreference(PREF_HEADS_UP_TIME_OUT);
+        mHeadsUpTimeOut.setOnPreferenceChangeListener(this);
+        int headsUpTimeOut = Settings.System.getInt(getContentResolver(),
+                Settings.System.HEADS_UP_TIMEOUT, defaultTimeOut);
+        mHeadsUpTimeOut.setValue(String.valueOf(headsUpTimeOut));
+        updateHeadsUpTimeOutSummary(headsUpTimeOut);
     }
 
     @Override
@@ -342,6 +363,24 @@ public class ConfigureNotificationSettings extends SettingsPreferenceFragment {
                 Settings.Secure.LOCK_SCREEN_ALLOW_PRIVATE_NOTIFICATIONS, 0, userId) != 0;
     }
 
+    @Override
+    public boolean onPreferenceChange(Preference preference, Object newValue) {
+        if (preference == mHeadsUpTimeOut) {
+            int headsUpTimeOut = Integer.valueOf((String) newValue);
+            Settings.System.putInt(getContentResolver(),
+                    Settings.System.HEADS_UP_TIMEOUT,
+                    headsUpTimeOut);
+            updateHeadsUpTimeOutSummary(headsUpTimeOut);
+            return true;
+        }
+        return false;
+    }
+
+    private void updateHeadsUpTimeOutSummary(int value) {
+        String summary = getResources().getString(R.string.heads_up_time_out_summary,
+                value / 1000);
+        mHeadsUpTimeOut.setSummary(summary);
+    }
 
     // === Callbacks ===
 

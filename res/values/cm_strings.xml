@@ -581,4 +581,14 @@
     <string name="doze_brightness_level_title">Ambient display brightness</string>
     <string name="doze_brightness_level_summary">Adjust the brightness level for ambient display</string>
 
+    <!-- Heads up timeout -->
+    <string name="heads_up_time_out_title">Heads-up time out</string>
+    <string name="heads_up_time_out_summary">Heads-up notifications will show for <xliff:g id="number">%d</xliff:g> seconds</string>
+    <string name="heads_up_time_out_2sec">2 seconds</string>
+    <string name="heads_up_time_out_4sec">4 seconds</string>
+    <string name="heads_up_time_out_5sec">5 seconds</string>
+    <string name="heads_up_time_out_6sec">6 seconds</string>
+    <string name="heads_up_time_out_8sec">8 seconds</string>
+    <string name="heads_up_time_out_10sec">10 seconds</string>
+
 </resources>
