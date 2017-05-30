@@ -428,8 +428,8 @@
     <string name="wake_when_plugged_or_unplugged_title">Wake on plug</string>
     <string name="wake_when_plugged_or_unplugged_summary">Turn the screen on when connecting or disconnecting a power source</string>
 
-    <!-- Heads-up -->
-    <string name="heads_up_notifications_enabled_title">Heads-up</string>
+    <!-- Heads up -->
+    <string name="heads_up_notifications_enabled_title">Heads up</string>
     <string name="heads_up_notifications_enabled_summary">Display priority notifications in a small floating window</string>
 
     <!-- Tethering & portable hotspot other category -->
@@ -541,6 +541,10 @@
     <string name="ticker_title">Notification ticker</string>
     <string name="ticker_summary">Enable the notification ticker in the status bar</string>
 
+    <!-- Notification Ticker Track-->
+    <string name="ticker_track_title">Notification ticker music tracks</string>
+    <string name="ticker_track_summary">Show the metadata in the status bar when a new track plays</string>
+
     <!-- Secure lockscreen -->
     <string name="lockscreen_enable_power_menu_title">Secure lockscreen</string>
     <string name="lockscreen_enable_power_menu_summary">Prevent access to quick settings and power menu</string>
@@ -582,8 +586,8 @@
     <string name="doze_brightness_level_summary">Adjust the brightness level for ambient display</string>
 
     <!-- Heads up timeout -->
-    <string name="heads_up_time_out_title">Heads-up time out</string>
-    <string name="heads_up_time_out_summary">Heads-up notifications will show for <xliff:g id="number">%d</xliff:g> seconds</string>
+    <string name="heads_up_time_out_title">Heads up timeout</string>
+    <string name="heads_up_time_out_summary">Heads up notifications will show for <xliff:g id="number">%d</xliff:g> seconds</string>
     <string name="heads_up_time_out_2sec">2 seconds</string>
     <string name="heads_up_time_out_4sec">4 seconds</string>
     <string name="heads_up_time_out_5sec">5 seconds</string>
@@ -592,9 +596,9 @@
     <string name="heads_up_time_out_10sec">10 seconds</string>
 
     <!-- Heads up snooze -->
-    <string name="heads_up_snooze_title">Heads-up snooze</string>
-    <string name="heads_up_snooze_summary_one_minute">Swiping up on heads-up notifications will snooze them for that application for 1 minute</string>
-    <string name="heads_up_snooze_summary">Swiping up on heads-up notifications will snooze them for that application for <xliff:g id="number">%d</xliff:g> minutes</string>
+    <string name="heads_up_snooze_title">Heads up snooze</string>
+    <string name="heads_up_snooze_summary_one_minute">Swiping up on heads up notifications will snooze them for that application for 1 minute</string>
+    <string name="heads_up_snooze_summary">Swiping up on heads up notifications will snooze them for that application for <xliff:g id="number">%d</xliff:g> minutes</string>
     <string name="heads_up_snooze_disabled_summary">Snooze is disabled</string>
     <string name="heads_up_snooze_1min">1 minute</string>
     <string name="heads_up_snooze_3min">3 minutes</string>

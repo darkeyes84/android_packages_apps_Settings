@@ -44,14 +44,16 @@
         android:title="@string/heads_up_time_out_title"
         android:entries="@array/heads_up_time_out_entries"
         android:entryValues="@array/heads_up_time_out_values"
-        android:persistent="false" />
+        android:persistent="false"
+        android:dependency="heads_up_notifications_enabled" />
 
     <ListPreference
         android:key="heads_up_snooze_time"
         android:title="@string/heads_up_snooze_title"
         android:entries="@array/heads_up_snooze_entries"
         android:entryValues="@array/heads_up_snooze_values"
-        android:persistent="false" />
+        android:persistent="false"
+        android:dependency="heads_up_notifications_enabled" />
 
     <!-- Notification ticker -->
     <com.android.settings.preference.SystemSettingSwitchPreference
@@ -59,6 +61,14 @@
         android:title="@string/ticker_title"
         android:summary="@string/ticker_summary"
         android:defaultValue="false" />
+
+    <!-- Notification ticker track -->
+    <com.android.settings.preference.SystemSettingSwitchPreference
+        android:key="status_bar_show_ticker_track"
+        android:title="@string/ticker_track_title"
+        android:summary="@string/ticker_track_summary"
+        android:defaultValue="false" 
+        android:dependency="status_bar_show_ticker" />
 
     <!-- Lights -->
     <PreferenceCategory
