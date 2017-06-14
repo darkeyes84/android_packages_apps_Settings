@@ -50,6 +50,12 @@
             android:title="@string/virtual_keyboard_category"
             android:fragment="com.android.settings.inputmethod.VirtualKeyboardFragment" />
 
+        <com.android.settings.preference.SystemSettingSwitchPreference
+                android:key="disable_fullscreen_keyboard"
+                android:title="@string/disable_fullscreen_keyboard_title"
+                android:summary="@string/disable_fullscreen_keyboard_summary"
+                android:defaultValue="false" />
+
         <cyanogenmod.preference.CMSystemSettingSwitchPreference
                 android:key="status_bar_ime_switcher"
                 android:title="@string/ime_switcher_notify"
