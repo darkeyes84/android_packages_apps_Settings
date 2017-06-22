@@ -57,62 +57,62 @@
   <string name="ticker_title">Benachrichtigungsticker</string>
   <string name="ticker_summary">Aktiviert Benachrichtigungsanzeige in der Statusleiste</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Notification ticker music tracks</string>
-  <string name="ticker_track_summary">Show the metadata in the status bar when a new track plays</string>
+  <string name="ticker_track_title">Benachrichtigungsanzeige für Musiktitel</string>
+  <string name="ticker_track_summary">Zeigt Metadaten in der Statusleiste, wenn ein neuer Track spielt</string>
   <!-- Secure lockscreen -->
-  <string name="lockscreen_enable_power_menu_title">Secure lockscreen</string>
-  <string name="lockscreen_enable_power_menu_summary">Prevent access to quick settings and power menu</string>
+  <string name="lockscreen_enable_power_menu_title">Auf dem Sperrbildschirm werden keine Schnelleinstellungen angezeigt</string>
+  <string name="lockscreen_enable_power_menu_summary">Verhinderung des Zugriffs auf Schnelleinstellungen und Power-Menü</string>
   <!-- Settings suggestions  -->
-  <string name="disable_settings_suggestions_title">Disable suggestions</string>
-  <string name="disable_settings_suggestions_summary">Disable suggestions on the dashboard</string>
+  <string name="disable_settings_suggestions_title">Vorschläge deaktivieren</string>
+  <string name="disable_settings_suggestions_summary">Vorschläge auf dem Dashboard deaktivieren</string>
   <!-- Custom carrier label and position -->
-  <string name="keyguard_show_carrier_title">Hide carrier label</string>
-  <string name="keyguard_show_carrier_summary">Hide the carrier label on the keyguard</string>
-  <string name="custom_carrier_label_title">Custom carrier label</string>
-  <string name="custom_carrier_label_explain">Please enter a new label or leave blank to revert to stock label</string>
-  <string name="custom_carrier_label_notset">Custom label currently not set</string>
-  <string name="one_hand_mode_title">One hand mode</string>
-  <string name="one_hand_mode_summary">Swipe on the navigation bar to enable one hand mode</string>
+  <string name="keyguard_show_carrier_title">Netzbetreiber ausblenden</string>
+  <string name="keyguard_show_carrier_summary">Netzbetreiber auf dem Tastenschutz verstecken</string>
+  <string name="custom_carrier_label_title">Eigene Netzbetreiber-Anzeige</string>
+  <string name="custom_carrier_label_explain">Bitte geben Sie eine neue Bezeichnung ein. Um Ihre Standard Bezeichnung wiederherzustellen, lassen Sie das Feld leer</string>
+  <string name="custom_carrier_label_notset">Benutzerdefiniertes Label ist nicht gesetzt</string>
+  <string name="one_hand_mode_title">Einhandmodus</string>
+  <string name="one_hand_mode_summary">Durch streichen auf der Navigationsleiste den Einhand-Modus aktivieren</string>
   <!-- Advanced night mode brightness -->
-  <string name="night_brightness_category">Brightness</string>
-  <string name="night_brightness_value_title">Night Light brightness</string>
-  <string name="night_brightness_text">When Night Light is enabled, automatically set the desired brightness.</string>
-  <string name="night_bright_disabled">Disabled</string>
-  <string name="night_bright_min">Minimum brightness</string>
-  <string name="night_bright_low">Low brightness</string>
-  <string name="night_bright_medium">Medium brightness</string>
+  <string name="night_brightness_category">Helligkeit</string>
+  <string name="night_brightness_value_title">Nachtlicht Helligkeit</string>
+  <string name="night_brightness_text">Bei aktiviertem Nachtlicht, wird automatisch die gewünschte Helligkeit eingestellt.</string>
+  <string name="night_bright_disabled">Deaktiviert</string>
+  <string name="night_bright_min">Minimale Helligkeit</string>
+  <string name="night_bright_low">Niedrige Helligkeit</string>
+  <string name="night_bright_medium">Mittlere Helligkeit</string>
   <string name="magisk_title">Magisk Manager</string>
-  <string name="magisk_summary">Control modules and settings</string>
+  <string name="magisk_summary">Steuerung und Einstellungen</string>
   <string name="substratum_title">Substratum</string>
-  <string name="substratum_summary">Customize device theme</string>
+  <string name="substratum_summary">Ausgewähltes Theme anpassen</string>
   <!-- Incall vibrate options -->
-  <string name="incall_vibrate_connect_title">Vibrate on call connect</string>
-  <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
-  <string name="incall_vibrate_disconnect_title">Vibrate on call disconnect</string>
-  <string name="doze_brightness_level_title">Ambient display brightness</string>
-  <string name="doze_brightness_level_summary">Adjust the brightness level for ambient display</string>
+  <string name="incall_vibrate_connect_title">Vibriert bei Verbindung</string>
+  <string name="incall_vibrate_call_wait_title">Vibriert beim Halten des Anrufs</string>
+  <string name="incall_vibrate_disconnect_title">Vibriert bei Verbindung</string>
+  <string name="doze_brightness_level_title">Ambient-Display-Helligkeit</string>
+  <string name="doze_brightness_level_summary">Passt die Helligkeit für Inaktivitätsdisplay an</string>
   <!-- Heads up timeout -->
-  <string name="heads_up_time_out_title">Heads up timeout</string>
-  <string name="heads_up_time_out_summary">Heads up notifications will show for <xliff:g id="number">%d</xliff:g> seconds</string>
-  <string name="heads_up_time_out_2sec">2 seconds</string>
-  <string name="heads_up_time_out_4sec">4 seconds</string>
-  <string name="heads_up_time_out_5sec">5 seconds</string>
-  <string name="heads_up_time_out_6sec">6 seconds</string>
-  <string name="heads_up_time_out_8sec">8 seconds</string>
-  <string name="heads_up_time_out_10sec">10 seconds</string>
+  <string name="heads_up_time_out_title">Heads up Timeout</string>
+  <string name="heads_up_time_out_summary">Heads-Up Benachrichtigung für <xliff:g id="number">%d</xliff:g> Sekunden anzeigen</string>
+  <string name="heads_up_time_out_2sec">2 Sekunden</string>
+  <string name="heads_up_time_out_4sec">4 Sekunden</string>
+  <string name="heads_up_time_out_5sec">5 Sekunden</string>
+  <string name="heads_up_time_out_6sec">6 Sekunden</string>
+  <string name="heads_up_time_out_8sec">8 Sekunden</string>
+  <string name="heads_up_time_out_10sec">10 Sekunden</string>
   <!-- Heads up snooze -->
-  <string name="heads_up_snooze_title">Heads up snooze</string>
-  <string name="heads_up_snooze_summary_one_minute">Swiping up on heads up notifications will snooze them for that application for 1 minute</string>
-  <string name="heads_up_snooze_summary">Swiping up on heads up notifications will snooze them for that application for <xliff:g id="number">%d</xliff:g> minutes</string>
-  <string name="heads_up_snooze_disabled_summary">Snooze is disabled</string>
-  <string name="heads_up_snooze_1min">1 minute</string>
-  <string name="heads_up_snooze_3min">3 minutes</string>
-  <string name="heads_up_snooze_5min">5 minutes</string>
-  <string name="heads_up_snooze_10min">10 minutes</string>
-  <string name="heads_up_snooze_15min">15 minutes</string>
-  <string name="heads_up_snooze_20min">20 minutes</string>
+  <string name="heads_up_snooze_title">Heads-Up-Modus</string>
+  <string name="heads_up_snooze_summary_one_minute">Durch das Hochwischen der Heads-Up-Benachrichtigung werden alle Meldungen der entsprechenden Applikation für 1 Minute pausiert</string>
+  <string name="heads_up_snooze_summary">Durch das Hochwischen der Heads Up-Benachrichtigung werden alle Meldungen der entsprechenden Applikation für <xliff:g id="number">%d</xliff:g> Minuten pausiert</string>
+  <string name="heads_up_snooze_disabled_summary">Snooze-Timer ist deaktiviert</string>
+  <string name="heads_up_snooze_1min">1 Minute</string>
+  <string name="heads_up_snooze_3min">3 Minuten</string>
+  <string name="heads_up_snooze_5min">5 Minuten</string>
+  <string name="heads_up_snooze_10min">10 Minuten</string>
+  <string name="heads_up_snooze_15min">15 Minuten</string>
+  <string name="heads_up_snooze_20min">20 Minuten</string>
   <!-- Recents panel settings -->
-  <string name="show_clear_all_recents_button_title">Enable clear all button</string>
+  <string name="show_clear_all_recents_button_title">Alle-Beenden Taste aktivieren</string>
   <string name="show_clear_all_recents_button_summary">Show the clear all button when using recents</string>
   <string name="recents_clear_all_location_title">Clear all button location</string>
   <string name="recents_clear_all_location_stock">Top right (auto hide)</string>
