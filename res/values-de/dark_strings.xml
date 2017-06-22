@@ -18,25 +18,25 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Default left shortcut on lockscreen -->
-  <string name="left_default_voice_title">Left shortcut on keyguard</string>
-  <string name="left_default_voice_summary_on">Default shortcut is voice assistant</string>
-  <string name="left_default_voice_summary_off">Default shortcut is phone</string>
+  <string name="left_default_voice_title">Linke Taste auf Keyboard</string>
+  <string name="left_default_voice_summary_on">Standardtastenkombination für Sprachassistent</string>
+  <string name="left_default_voice_summary_off">Standardtastenkombination für Telefon</string>
   <!-- Hide the next alarm on lockscreen -->
-  <string name="show_next_alarm_lockscreen_title">Show next alarm</string>
-  <string name="show_next_alarm_lockscreen_summary">Show the next alarm on the lockscreen when an alarm is set</string>
+  <string name="show_next_alarm_lockscreen_title">Nächsten Alarm anzeigen</string>
+  <string name="show_next_alarm_lockscreen_summary">Zeigt den nächste Alarm auf dem Lockscreen an, wenn ein Alarm eingestellt ist</string>
   <!-- Disabling immersive mode messages -->
-  <string name="disable_immersive_message_title">Disable immersive mode messages</string>
-  <string name="disable_immersive_message_summary">This will hide all immersive mode messages</string>
+  <string name="disable_immersive_message_title">Deaktiviert der immersive-mode-für Benachrichtigungen</string>
+  <string name="disable_immersive_message_summary">Diese Einstellung versteckt alle immersive Mode-Nachrichten</string>
   <!-- Volume Steps -->
-  <string name="volume_steps_title">Volume steps</string>
-  <string name="volume_steps_alarm_title">Volume steps: Alarm</string>
-  <string name="volume_steps_dtmf_title">Volume steps: DTMF</string>
-  <string name="volume_steps_music_title">Volume steps: Music</string>
-  <string name="volume_steps_notification_title">Volume steps: Notification</string>
-  <string name="volume_steps_ring_title">Volume steps: Ringer</string>
-  <string name="volume_steps_system_title">Volume steps: System</string>
-  <string name="volume_steps_voice_call_title">Volume steps: Voice Call</string>
-  <string name="volume_steps_reset">Reset</string>
+  <string name="volume_steps_title">Lautstärke-Schritte</string>
+  <string name="volume_steps_alarm_title">Lautstärkestufen: Wecker</string>
+  <string name="volume_steps_dtmf_title">Lautstärke-Stufen: DTMF</string>
+  <string name="volume_steps_music_title">Lautstärke-Schritte: Musik</string>
+  <string name="volume_steps_notification_title">Lautstärkestufen: Benachrichtigung</string>
+  <string name="volume_steps_ring_title">Lautstärkestufen: Rufton</string>
+  <string name="volume_steps_system_title">Lautstärkestufen: System</string>
+  <string name="volume_steps_voice_call_title">Lautstärkestufen: Telefongespräch</string>
+  <string name="volume_steps_reset">Zurücksetzen</string>
   <string name="volume_steps_60">60</string>
   <string name="volume_steps_45">45</string>
   <string name="volume_steps_30">30</string>
@@ -44,18 +44,18 @@
   <string name="volume_steps_7">7</string>
   <string name="volume_steps_5">5</string>
   <!-- OpenDelta updates -->
-  <string name="deltaupdate_settings_title">System updates</string>
+  <string name="deltaupdate_settings_title">Systemaktualisierungen</string>
   <!-- Optional screenshot type -->
-  <string name="screenshot_type_title">Screenshot type</string>
-  <string name="screenshot_type_fullscreen">Take fullscreen screenshots</string>
-  <string name="screenshot_type_partial">Drag selection to take a partial screenshot</string>
+  <string name="screenshot_type_title">Screenshot</string>
+  <string name="screenshot_type_fullscreen">Vollbild Screenshot</string>
+  <string name="screenshot_type_partial">Ziehe die Auswahl für einen partiellen Screenshot</string>
   <!-- Quick unlock -->
-  <string name="unlock_quick_unlock_control_title">Quick unlock</string>
-  <string name="unlock_quick_unlock_control_summary_password">Unlock automatically when the correct password is entered</string>
-  <string name="unlock_quick_unlock_control_summary_pin">Unlock automatically when the correct PIN is entered</string>
+  <string name="unlock_quick_unlock_control_title">Schnelles Entsperren</string>
+  <string name="unlock_quick_unlock_control_summary_password">Entsperren durch korrekte Pin- oder Passworteingabe</string>
+  <string name="unlock_quick_unlock_control_summary_pin">Automatisch entsperren, wenn die korrekte PIN/Passwort eingegeben wird</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">Notification ticker</string>
-  <string name="ticker_summary">Enable the notification ticker in the status bar</string>
+  <string name="ticker_title">Benachrichtigungsticker</string>
+  <string name="ticker_summary">Aktiviert Benachrichtigungsanzeige in der Statusleiste</string>
   <!-- Notification Ticker Track-->
   <string name="ticker_track_title">Notification ticker music tracks</string>
   <string name="ticker_track_summary">Show the metadata in the status bar when a new track plays</string>
