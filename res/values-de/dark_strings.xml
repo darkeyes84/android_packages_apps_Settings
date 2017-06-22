@@ -128,7 +128,7 @@
   <string name="ok_string">Ok</string>
   <!-- Fullscreen Keyboard -->
   <string name="disable_fullscreen_keyboard_title">Vollbild-Tastatur deaktivieren</string>
-  <string name="disable_fullscreen_keyboard_summary">Prevent keyboard from using the entire screen in landscape</string>
-  <string name="tile_summary_title">Disable summaries</string>
-  <string name="tile_summary">Disable summaries on the dashboard</string>
+  <string name="disable_fullscreen_keyboard_summary">Verhindert, dass die Tastatur im Querformat über den gesamten Bildschirm verläuft</string>
+  <string name="tile_summary_title">Zusammenfassungen deaktivieren</string>
+  <string name="tile_summary">Vorschläge auf dem Dashboard deaktivieren</string>
 </resources>
