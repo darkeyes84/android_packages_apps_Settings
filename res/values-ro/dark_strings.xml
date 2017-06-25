@@ -18,7 +18,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Default left shortcut on lockscreen -->
-  <string name="left_default_voice_title">Left shortcut on keyguard</string>
+  <string name="left_default_voice_title">Comanda rapidă la stânga pe ecranul blocat</string>
   <string name="left_default_voice_summary_on">Scurtătura implicită este asistent de voce</string>
   <string name="left_default_voice_summary_off">Scurtătura implicită este telefon</string>
   <!-- Hide the next alarm on lockscreen -->
@@ -67,7 +67,7 @@
   <string name="disable_settings_suggestions_summary">Dezactivarea sugestiilor pe tabloul de bord</string>
   <!-- Custom carrier label and position -->
   <string name="keyguard_show_carrier_title">Ascunde etichetă operator</string>
-  <string name="keyguard_show_carrier_summary">Hide the carrier label on the keyguard</string>
+  <string name="keyguard_show_carrier_summary">Ascunde etichetă operator pe ecranul blocat</string>
   <string name="custom_carrier_label_title">Eticheta operatorului particularizată</string>
   <string name="custom_carrier_label_explain">Introduceţi o etichetă nouă sau lăsaţi necompletat pentru a reveni la eticheta de stoc</string>
   <string name="custom_carrier_label_notset">Eticheta particularizată nu este setată în prezent</string>
@@ -102,8 +102,8 @@
   <string name="heads_up_time_out_10sec">10 secunde</string>
   <!-- Heads up snooze -->
   <string name="heads_up_snooze_title">Amânare atenţionare</string>
-  <string name="heads_up_snooze_summary_one_minute">Swiping up on heads up notifications will snooze them for that application for 1 minute</string>
-  <string name="heads_up_snooze_summary">Swiping up on heads up notifications will snooze them for that application for <xliff:g id="number">%d</xliff:g> minutes</string>
+  <string name="heads_up_snooze_summary_one_minute">Glisând în sus pe notificările de atenţionare le va amâna pentru acea aplicaţie timp de un minut</string>
+  <string name="heads_up_snooze_summary">Glisând în sus pe notificările de atenţionare le va amâna pentru acea aplicaţie timp de <xliff:g id="number">%d</xliff:g> minute</string>
   <string name="heads_up_snooze_disabled_summary">Amânarea este dezactivată</string>
   <string name="heads_up_snooze_1min">1 minut</string>
   <string name="heads_up_snooze_3min">3 minute</string>
