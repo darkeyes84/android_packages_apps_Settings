@@ -57,8 +57,8 @@
   <string name="ticker_title">Notificare ticker</string>
   <string name="ticker_summary">Permite notificare ticker în bara de stare</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Notification ticker music tracks</string>
-  <string name="ticker_track_summary">Show the metadata in the status bar when a new track plays</string>
+  <string name="ticker_track_title">Notificare ticker pentru piese muzicale</string>
+  <string name="ticker_track_summary">Afişează metadate în bara de stare atunci când se redă o nouă melodie</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">Ecran de blocare securizat</string>
   <string name="lockscreen_enable_power_menu_summary">Prevenirea accesului la setările rapide şi meniului de pornire</string>
