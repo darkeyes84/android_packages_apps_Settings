@@ -54,28 +54,28 @@
   <string name="unlock_quick_unlock_control_summary_password">Deblochează automat când se introduce parola corectă</string>
   <string name="unlock_quick_unlock_control_summary_pin">Deblochează automat când se introduce corect codul PIN</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">Notification ticker</string>
-  <string name="ticker_summary">Enable the notification ticker in the status bar</string>
+  <string name="ticker_title">Notificare ticker</string>
+  <string name="ticker_summary">Permite notificare ticker în bara de stare</string>
   <!-- Notification Ticker Track-->
   <string name="ticker_track_title">Notification ticker music tracks</string>
   <string name="ticker_track_summary">Show the metadata in the status bar when a new track plays</string>
   <!-- Secure lockscreen -->
-  <string name="lockscreen_enable_power_menu_title">Secure lockscreen</string>
-  <string name="lockscreen_enable_power_menu_summary">Prevent access to quick settings and power menu</string>
+  <string name="lockscreen_enable_power_menu_title">Ecran de blocare securizat</string>
+  <string name="lockscreen_enable_power_menu_summary">Prevenirea accesului la setările rapide şi meniului de pornire</string>
   <!-- Settings suggestions  -->
-  <string name="disable_settings_suggestions_title">Disable suggestions</string>
-  <string name="disable_settings_suggestions_summary">Disable suggestions on the dashboard</string>
+  <string name="disable_settings_suggestions_title">Dezactivarea sugestiilor</string>
+  <string name="disable_settings_suggestions_summary">Dezactivarea sugestiilor pe tabloul de bord</string>
   <!-- Custom carrier label and position -->
-  <string name="keyguard_show_carrier_title">Hide carrier label</string>
+  <string name="keyguard_show_carrier_title">Ascunde etichetă operator</string>
   <string name="keyguard_show_carrier_summary">Hide the carrier label on the keyguard</string>
-  <string name="custom_carrier_label_title">Custom carrier label</string>
-  <string name="custom_carrier_label_explain">Please enter a new label or leave blank to revert to stock label</string>
-  <string name="custom_carrier_label_notset">Custom label currently not set</string>
-  <string name="one_hand_mode_title">One hand mode</string>
-  <string name="one_hand_mode_summary">Swipe on the navigation bar to enable one hand mode</string>
+  <string name="custom_carrier_label_title">Eticheta operatorului particularizată</string>
+  <string name="custom_carrier_label_explain">Introduceţi o etichetă nouă sau lăsaţi necompletat pentru a reveni la eticheta de stoc</string>
+  <string name="custom_carrier_label_notset">Eticheta particularizată nu este setată în prezent</string>
+  <string name="one_hand_mode_title">Modul \"o singură mână\"</string>
+  <string name="one_hand_mode_summary">Glisați bara de navigare pentru a activa modul \"o singură mână\"</string>
   <!-- Advanced night mode brightness -->
-  <string name="night_brightness_category">Brightness</string>
-  <string name="night_brightness_value_title">Night Light brightness</string>
+  <string name="night_brightness_category">Luminozitate</string>
+  <string name="night_brightness_value_title">Luminozitatea de noapte</string>
   <string name="night_brightness_text">When Night Light is enabled, automatically set the desired brightness.</string>
   <string name="night_bright_disabled">Disabled</string>
   <string name="night_bright_min">Minimum brightness</string>
