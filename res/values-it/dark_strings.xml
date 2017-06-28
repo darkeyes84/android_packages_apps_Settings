@@ -18,24 +18,24 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Default left shortcut on lockscreen -->
-  <string name="left_default_voice_title">Left shortcut on keyguard</string>
-  <string name="left_default_voice_summary_on">Default shortcut is voice assistant</string>
-  <string name="left_default_voice_summary_off">Default shortcut is phone</string>
+  <string name="left_default_voice_title">Scorciatoia sinistra nella lockscreen</string>
+  <string name="left_default_voice_summary_on">La scorciatoia predefinita è l\'assistente vocale</string>
+  <string name="left_default_voice_summary_off">La scorciatoia predefinita è il telefono</string>
   <!-- Hide the next alarm on lockscreen -->
   <string name="show_next_alarm_lockscreen_title">Visualizza la prossima sveglia</string>
   <string name="show_next_alarm_lockscreen_summary">Visualizza l\'allarme successivo sulla lockscreen quando un allarme è impostato</string>
   <!-- Disabling immersive mode messages -->
-  <string name="disable_immersive_message_title">Disable immersive mode messages</string>
-  <string name="disable_immersive_message_summary">This will hide all immersive mode messages</string>
+  <string name="disable_immersive_message_title">Disabilita i messaggi nella modalità immersiva</string>
+  <string name="disable_immersive_message_summary">Questo nasconderà tutti i messaggi nella modalità Immersiva</string>
   <!-- Volume Steps -->
   <string name="volume_steps_title">Livelli del volume</string>
-  <string name="volume_steps_alarm_title">Volume steps: Alarm</string>
-  <string name="volume_steps_dtmf_title">Volume steps: DTMF</string>
-  <string name="volume_steps_music_title">Volume steps: Music</string>
-  <string name="volume_steps_notification_title">Volume steps: Notification</string>
-  <string name="volume_steps_ring_title">Volume steps: Ringer</string>
-  <string name="volume_steps_system_title">Volume steps: System</string>
-  <string name="volume_steps_voice_call_title">Volume steps: Voice Call</string>
+  <string name="volume_steps_alarm_title">Livello volume: Sveglia</string>
+  <string name="volume_steps_dtmf_title">Livello volume: DTMF</string>
+  <string name="volume_steps_music_title">Livello volume: Musica</string>
+  <string name="volume_steps_notification_title">Livello volume: Notifica</string>
+  <string name="volume_steps_ring_title">Livello volume: Suoneria</string>
+  <string name="volume_steps_system_title">Livello volume: Sistema</string>
+  <string name="volume_steps_voice_call_title">Livello volume: Chiamata vocale</string>
   <string name="volume_steps_reset">Reset</string>
   <string name="volume_steps_60">60</string>
   <string name="volume_steps_45">45</string>
