@@ -47,21 +47,21 @@
   <string name="deltaupdate_settings_title">Aggiornamenti di sistema</string>
   <!-- Optional screenshot type -->
   <string name="screenshot_type_title">Tipo di screenshot</string>
-  <string name="screenshot_type_fullscreen">Take fullscreen screenshots</string>
-  <string name="screenshot_type_partial">Drag selection to take a partial screenshot</string>
+  <string name="screenshot_type_fullscreen">Cattura screenshot a schermo intero</string>
+  <string name="screenshot_type_partial">Trascina nello schermo per catturare uno screenshot parziale</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Sblocco rapido</string>
-  <string name="unlock_quick_unlock_control_summary_password">Unlock automatically when the correct password is entered</string>
-  <string name="unlock_quick_unlock_control_summary_pin">Unlock automatically when the correct PIN is entered</string>
+  <string name="unlock_quick_unlock_control_summary_password">Sblocca automaticamente quando la password inserita è corretta</string>
+  <string name="unlock_quick_unlock_control_summary_pin">Sblocca automaticamente quando il PIN inserito è corretto</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">Notification ticker</string>
-  <string name="ticker_summary">Enable the notification ticker in the status bar</string>
+  <string name="ticker_title">Notifiche nella status bar</string>
+  <string name="ticker_summary">Abilita la visualizzazione delle notifiche nella status bar</string>
   <!-- Notification Ticker Track-->
   <string name="ticker_track_title">Notification ticker music tracks</string>
-  <string name="ticker_track_summary">Show the metadata in the status bar when a new track plays</string>
+  <string name="ticker_track_summary">Mostra il metadata nella status bar quando una nuova canzone è in esecuzione</string>
   <!-- Secure lockscreen -->
-  <string name="lockscreen_enable_power_menu_title">Secure lockscreen</string>
-  <string name="lockscreen_enable_power_menu_summary">Prevent access to quick settings and power menu</string>
+  <string name="lockscreen_enable_power_menu_title">Lockscreen sicura</string>
+  <string name="lockscreen_enable_power_menu_summary">Impedisce l\'accesso alle impostazioni rapide e al menu sul tasto power</string>
   <!-- Settings suggestions  -->
   <string name="disable_settings_suggestions_title">Disabilita suggerimenti</string>
   <string name="disable_settings_suggestions_summary">Disable suggestions on the dashboard</string>
