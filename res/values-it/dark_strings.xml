@@ -57,7 +57,7 @@
   <string name="ticker_title">Notifiche nella status bar</string>
   <string name="ticker_summary">Abilita la visualizzazione delle notifiche nella status bar</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Notification ticker music tracks</string>
+  <string name="ticker_track_title">Notifica del Ticker della musica</string>
   <string name="ticker_track_summary">Mostra il metadata nella status bar quando una nuova canzone è in esecuzione</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">Lockscreen sicura</string>
@@ -69,8 +69,8 @@
   <string name="keyguard_show_carrier_title">Nascondi il nome dell\'operatore</string>
   <string name="keyguard_show_carrier_summary">Nascondi il nome dell\'operatore mobile nella lockscreen</string>
   <string name="custom_carrier_label_title">Nome operatore personalizzato</string>
-  <string name="custom_carrier_label_explain">Please enter a new label or leave blank to revert to stock label</string>
-  <string name="custom_carrier_label_notset">Custom label currently not set</string>
+  <string name="custom_carrier_label_explain">Inserisci una nuova etichetta. Lasciare vuoto per ritornare all\'etichetta base</string>
+  <string name="custom_carrier_label_notset">Etichetta personalizzata attualmente non impostata</string>
   <string name="one_hand_mode_title">Modalità una mano</string>
   <string name="one_hand_mode_summary">Consente di attivare la modalità ad una mano strisciando sulla barra di navigazione</string>
   <!-- Advanced night mode brightness -->
