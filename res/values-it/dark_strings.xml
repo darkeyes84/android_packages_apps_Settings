@@ -64,36 +64,36 @@
   <string name="lockscreen_enable_power_menu_summary">Impedisce l\'accesso alle impostazioni rapide e al menu sul tasto power</string>
   <!-- Settings suggestions  -->
   <string name="disable_settings_suggestions_title">Disabilita suggerimenti</string>
-  <string name="disable_settings_suggestions_summary">Disable suggestions on the dashboard</string>
+  <string name="disable_settings_suggestions_summary">Disabilita i suggerimenti sulla dashboard</string>
   <!-- Custom carrier label and position -->
   <string name="keyguard_show_carrier_title">Nascondi il nome dell\'operatore</string>
-  <string name="keyguard_show_carrier_summary">Hide the carrier label on the keyguard</string>
+  <string name="keyguard_show_carrier_summary">Nascondi il nome dell\'operatore mobile nella lockscreen</string>
   <string name="custom_carrier_label_title">Nome operatore personalizzato</string>
   <string name="custom_carrier_label_explain">Please enter a new label or leave blank to revert to stock label</string>
   <string name="custom_carrier_label_notset">Custom label currently not set</string>
-  <string name="one_hand_mode_title">One hand mode</string>
-  <string name="one_hand_mode_summary">Swipe on the navigation bar to enable one hand mode</string>
+  <string name="one_hand_mode_title">Modalità una mano</string>
+  <string name="one_hand_mode_summary">Consente di attivare la modalità ad una mano strisciando sulla barra di navigazione</string>
   <!-- Advanced night mode brightness -->
-  <string name="night_brightness_category">Brightness</string>
-  <string name="night_brightness_value_title">Night Light brightness</string>
-  <string name="night_brightness_text">When Night Light is enabled, automatically set the desired brightness.</string>
+  <string name="night_brightness_category">Luminosità</string>
+  <string name="night_brightness_value_title">Luminosità luce notturna</string>
+  <string name="night_brightness_text">Attivando la funzione luce notturna, si imposta automaticamente la luminosità desiderata.</string>
   <string name="night_bright_disabled">Disattivato</string>
-  <string name="night_bright_min">Minimum brightness</string>
+  <string name="night_bright_min">Luminosità minima</string>
   <string name="night_bright_low">Bassa luminosità</string>
-  <string name="night_bright_medium">Medium brightness</string>
+  <string name="night_bright_medium">Luminosità media</string>
   <string name="magisk_title">Magisk Manager</string>
-  <string name="magisk_summary">Control modules and settings</string>
+  <string name="magisk_summary">Controlla i moduli e le impostazioni</string>
   <string name="substratum_title">Substratum</string>
-  <string name="substratum_summary">Customize device theme</string>
+  <string name="substratum_summary">Personalizza tema dispositivo</string>
   <!-- Incall vibrate options -->
-  <string name="incall_vibrate_connect_title">Vibrate on call connect</string>
-  <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
-  <string name="incall_vibrate_disconnect_title">Vibrate on call disconnect</string>
-  <string name="doze_brightness_level_title">Ambient display brightness</string>
-  <string name="doze_brightness_level_summary">Adjust the brightness level for ambient display</string>
+  <string name="incall_vibrate_connect_title">Vibra quando arriva la chiamata è risposta</string>
+  <string name="incall_vibrate_call_wait_title">Vibra quando la chiamata è in attesa</string>
+  <string name="incall_vibrate_disconnect_title">Vibra quando la chiamata è disconessa</string>
+  <string name="doze_brightness_level_title">Luminosità Ambient Display</string>
+  <string name="doze_brightness_level_summary">Regolare il livello di luminosità per l\'ambient display</string>
   <!-- Heads up timeout -->
-  <string name="heads_up_time_out_title">Heads up timeout</string>
-  <string name="heads_up_time_out_summary">Heads up notifications will show for <xliff:g id="number">%d</xliff:g> seconds</string>
+  <string name="heads_up_time_out_title">Durata della notifica HeadsUp</string>
+  <string name="heads_up_time_out_summary">Le notifiche heads up verranno visualizzate per <xliff:g id="number">%d</xliff:g> secondi</string>
   <string name="heads_up_time_out_2sec">2 secondi</string>
   <string name="heads_up_time_out_4sec">4 secondi</string>
   <string name="heads_up_time_out_5sec">5 secondi</string>
@@ -101,10 +101,10 @@
   <string name="heads_up_time_out_8sec">8 secondi</string>
   <string name="heads_up_time_out_10sec">10 secondi</string>
   <!-- Heads up snooze -->
-  <string name="heads_up_snooze_title">Heads up snooze</string>
-  <string name="heads_up_snooze_summary_one_minute">Swiping up on heads up notifications will snooze them for that application for 1 minute</string>
-  <string name="heads_up_snooze_summary">Swiping up on heads up notifications will snooze them for that application for <xliff:g id="number">%d</xliff:g> minutes</string>
-  <string name="heads_up_snooze_disabled_summary">Snooze is disabled</string>
+  <string name="heads_up_snooze_title">Silenzia le notifiche Heads up</string>
+  <string name="heads_up_snooze_summary_one_minute">Scorri verso l\'alto sulle notifiche Heads up per silenziare l\'applicazione per 1 minuto</string>
+  <string name="heads_up_snooze_summary">Scorri verso l\'alto sulle notifiche Heads up le silenziarà per quella l\'applicazione per <xliff:g id="number">%d</xliff:g> minuti</string>
+  <string name="heads_up_snooze_disabled_summary">Il timer dello snooze è disattivato</string>
   <string name="heads_up_snooze_1min">1 minuto</string>
   <string name="heads_up_snooze_3min">3 minuti</string>
   <string name="heads_up_snooze_5min">5 minuti</string>
@@ -113,8 +113,8 @@
   <string name="heads_up_snooze_20min">20 minuti</string>
   <!-- Recents panel settings -->
   <string name="show_clear_all_recents_button_title">Abilita il pulsante cancella tutto</string>
-  <string name="show_clear_all_recents_button_summary">Show the clear all button when using recents</string>
-  <string name="recents_clear_all_location_title">Clear all button location</string>
+  <string name="show_clear_all_recents_button_summary">Visualizza il pulsante cancella tutto quando si utilizzano i recenti</string>
+  <string name="recents_clear_all_location_title">Posizione del pulsante cancella tutto</string>
   <string name="recents_clear_all_location_stock">In alto a destra (Nascondi automaticamente)</string>
   <string name="recents_clear_all_location_top_right">In alto a destra</string>
   <string name="recents_clear_all_location_top_left">In alto a sinistra</string>
@@ -129,6 +129,6 @@
   <!-- Fullscreen Keyboard -->
   <string name="disable_fullscreen_keyboard_title">Disabilita tastiera a schermo intero</string>
   <string name="disable_fullscreen_keyboard_summary">Impedire alla tastiera di usare lo schermo intero in modalità landscape</string>
-  <string name="tile_summary_title">Disable summaries</string>
-  <string name="tile_summary">Disable summaries on the dashboard</string>
+  <string name="tile_summary_title">Disabilita i suggerimenti</string>
+  <string name="tile_summary">Disabilita i suggerimenti sulla dashboard</string>
 </resources>
