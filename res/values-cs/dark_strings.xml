@@ -52,54 +52,54 @@
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Rychlé odemknutí</string>
   <string name="unlock_quick_unlock_control_summary_password">Automatické odemknutí, pokud je zadáno správné heslo</string>
-  <string name="unlock_quick_unlock_control_summary_pin">Unlock automatically when the correct PIN is entered</string>
+  <string name="unlock_quick_unlock_control_summary_pin">Automatické odemknutí, pokud je zadán správný PIN</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">Notification ticker</string>
-  <string name="ticker_summary">Enable the notification ticker in the status bar</string>
+  <string name="ticker_title">Notifikační oznámení</string>
+  <string name="ticker_summary">Povolit oznámení ve stavové liště</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Notification ticker music tracks</string>
-  <string name="ticker_track_summary">Show the metadata in the status bar when a new track plays</string>
+  <string name="ticker_track_title">Oznámení hudebních skladeb</string>
+  <string name="ticker_track_summary">Zobrazí se metadata ve stavové liště při přehrávání nové skladby</string>
   <!-- Secure lockscreen -->
-  <string name="lockscreen_enable_power_menu_title">Secure lockscreen</string>
-  <string name="lockscreen_enable_power_menu_summary">Prevent access to quick settings and power menu</string>
+  <string name="lockscreen_enable_power_menu_title">Zabezpečená zamykací obrazovka</string>
+  <string name="lockscreen_enable_power_menu_summary">Zakázat přístup k rychlým nastavením a nabídce tlačítka Vypnout</string>
   <!-- Settings suggestions  -->
-  <string name="disable_settings_suggestions_title">Disable suggestions</string>
-  <string name="disable_settings_suggestions_summary">Disable suggestions on the dashboard</string>
+  <string name="disable_settings_suggestions_title">Zakázat návrhy</string>
+  <string name="disable_settings_suggestions_summary">Zakázat návrhy na hlavním panelu</string>
   <!-- Custom carrier label and position -->
-  <string name="keyguard_show_carrier_title">Hide carrier label</string>
-  <string name="keyguard_show_carrier_summary">Hide the carrier label on the keyguard</string>
-  <string name="custom_carrier_label_title">Custom carrier label</string>
-  <string name="custom_carrier_label_explain">Please enter a new label or leave blank to revert to stock label</string>
-  <string name="custom_carrier_label_notset">Custom label currently not set</string>
-  <string name="one_hand_mode_title">One hand mode</string>
-  <string name="one_hand_mode_summary">Swipe on the navigation bar to enable one hand mode</string>
+  <string name="keyguard_show_carrier_title">Skrýt název operátora</string>
+  <string name="keyguard_show_carrier_summary">Skrýt název operátora na zamykací obrazovce</string>
+  <string name="custom_carrier_label_title">Vlastní název operátora</string>
+  <string name="custom_carrier_label_explain">Zadejte prosím nový název nebo ponechte prázdné pro navrácení k původnímu</string>
+  <string name="custom_carrier_label_notset">Vlastní název není momentálně nastaven</string>
+  <string name="one_hand_mode_title">Režim jedné ruky</string>
+  <string name="one_hand_mode_summary">Přejetím přes navigační lištu povolíte režim jedné ruky</string>
   <!-- Advanced night mode brightness -->
-  <string name="night_brightness_category">Brightness</string>
-  <string name="night_brightness_value_title">Night Light brightness</string>
-  <string name="night_brightness_text">When Night Light is enabled, automatically set the desired brightness.</string>
-  <string name="night_bright_disabled">Disabled</string>
-  <string name="night_bright_min">Minimum brightness</string>
-  <string name="night_bright_low">Low brightness</string>
-  <string name="night_bright_medium">Medium brightness</string>
+  <string name="night_brightness_category">Jas</string>
+  <string name="night_brightness_value_title">Jas nočního osvětlení</string>
+  <string name="night_brightness_text">Při zapnutí nočního osvětlení automaticky nastavit požadovaný jas.</string>
+  <string name="night_bright_disabled">Vypnuto</string>
+  <string name="night_bright_min">Minimální jas</string>
+  <string name="night_bright_low">Nízký jas</string>
+  <string name="night_bright_medium">Střední jas</string>
   <string name="magisk_title">Magisk Manager</string>
-  <string name="magisk_summary">Control modules and settings</string>
+  <string name="magisk_summary">Nastavení Magisk a moduly</string>
   <string name="substratum_title">Substratum</string>
-  <string name="substratum_summary">Customize device theme</string>
+  <string name="substratum_summary">Přizpůsobit motiv vzhledu zařízení</string>
   <!-- Incall vibrate options -->
-  <string name="incall_vibrate_connect_title">Vibrate on call connect</string>
-  <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
-  <string name="incall_vibrate_disconnect_title">Vibrate on call disconnect</string>
-  <string name="doze_brightness_level_title">Ambient display brightness</string>
-  <string name="doze_brightness_level_summary">Adjust the brightness level for ambient display</string>
+  <string name="incall_vibrate_connect_title">Vibrovat při připojení</string>
+  <string name="incall_vibrate_call_wait_title">Vibrovat při čekání</string>
+  <string name="incall_vibrate_disconnect_title">Vibrovat při odpojení</string>
+  <string name="doze_brightness_level_title">Jas ambientního displeje</string>
+  <string name="doze_brightness_level_summary">Upravit úroveň jasu pro ambientní displej</string>
   <!-- Heads up timeout -->
-  <string name="heads_up_time_out_title">Heads up timeout</string>
-  <string name="heads_up_time_out_summary">Heads up notifications will show for <xliff:g id="number">%d</xliff:g> seconds</string>
-  <string name="heads_up_time_out_2sec">2 seconds</string>
-  <string name="heads_up_time_out_4sec">4 seconds</string>
-  <string name="heads_up_time_out_5sec">5 seconds</string>
-  <string name="heads_up_time_out_6sec">6 seconds</string>
-  <string name="heads_up_time_out_8sec">8 seconds</string>
-  <string name="heads_up_time_out_10sec">10 seconds</string>
+  <string name="heads_up_time_out_title">Časový limit plovoucího oznámení</string>
+  <string name="heads_up_time_out_summary">Plovoucí oznámení budou zobrazena na <xliff:g id="number">%d</xliff:g> sekund</string>
+  <string name="heads_up_time_out_2sec">2 sekundy</string>
+  <string name="heads_up_time_out_4sec">4 sekundy</string>
+  <string name="heads_up_time_out_5sec">5 sekund</string>
+  <string name="heads_up_time_out_6sec">6 sekund</string>
+  <string name="heads_up_time_out_8sec">8 sekund</string>
+  <string name="heads_up_time_out_10sec">10 sekund</string>
   <!-- Heads up snooze -->
   <string name="heads_up_snooze_title">Heads up snooze</string>
   <string name="heads_up_snooze_summary_one_minute">Swiping up on heads up notifications will snooze them for that application for 1 minute</string>
