@@ -63,23 +63,23 @@
   <string name="lockscreen_enable_power_menu_title">Secure lockscreen</string>
   <string name="lockscreen_enable_power_menu_summary">Prevent access to quick settings and power menu</string>
   <!-- Settings suggestions  -->
-  <string name="disable_settings_suggestions_title">Disable suggestions</string>
+  <string name="disable_settings_suggestions_title">Desativar sugestões</string>
   <string name="disable_settings_suggestions_summary">Disable suggestions on the dashboard</string>
   <!-- Custom carrier label and position -->
   <string name="keyguard_show_carrier_title">Hide carrier label</string>
   <string name="keyguard_show_carrier_summary">Hide the carrier label on the keyguard</string>
-  <string name="custom_carrier_label_title">Custom carrier label</string>
+  <string name="custom_carrier_label_title">Etiqueta personalizada da operadora</string>
   <string name="custom_carrier_label_explain">Please enter a new label or leave blank to revert to stock label</string>
-  <string name="custom_carrier_label_notset">Custom label currently not set</string>
-  <string name="one_hand_mode_title">One hand mode</string>
+  <string name="custom_carrier_label_notset">Etiqueta personalizada actualmente não defenida</string>
+  <string name="one_hand_mode_title">Modo de uma mão</string>
   <string name="one_hand_mode_summary">Swipe on the navigation bar to enable one hand mode</string>
   <!-- Advanced night mode brightness -->
-  <string name="night_brightness_category">Brightness</string>
-  <string name="night_brightness_value_title">Night Light brightness</string>
-  <string name="night_brightness_text">When Night Light is enabled, automatically set the desired brightness.</string>
-  <string name="night_bright_disabled">Disabled</string>
-  <string name="night_bright_min">Minimum brightness</string>
-  <string name="night_bright_low">Low brightness</string>
+  <string name="night_brightness_category">Brilho</string>
+  <string name="night_brightness_value_title">Brilho da luz noturna</string>
+  <string name="night_brightness_text">Definir automaticamente o brilho desejado quando a Luz Noturna é ativada.</string>
+  <string name="night_bright_disabled">Desactivado</string>
+  <string name="night_bright_min">Brilho mínimo</string>
+  <string name="night_bright_low">Brilho baixo</string>
   <string name="night_bright_medium">Medium brightness</string>
   <string name="magisk_title">Magisk Manager</string>
   <string name="magisk_summary">Control modules and settings</string>
