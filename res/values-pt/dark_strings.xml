@@ -18,9 +18,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Default left shortcut on lockscreen -->
-  <string name="left_default_voice_title">Left shortcut on keyguard</string>
-  <string name="left_default_voice_summary_on">Default shortcut is voice assistant</string>
-  <string name="left_default_voice_summary_off">Default shortcut is phone</string>
+  <string name="left_default_voice_title">Atalho à esquerda na tela de bloqueio</string>
+  <string name="left_default_voice_summary_on">O atalho padrão é o assistente de voz</string>
+  <string name="left_default_voice_summary_off">Atalho padrão é telefone</string>
   <!-- Hide the next alarm on lockscreen -->
   <string name="show_next_alarm_lockscreen_title">Mostrar próximo alarme</string>
   <string name="show_next_alarm_lockscreen_summary">Show the next alarm on the lockscreen when an alarm is set</string>
@@ -47,12 +47,12 @@
   <string name="deltaupdate_settings_title">Atualizações de sistema</string>
   <!-- Optional screenshot type -->
   <string name="screenshot_type_title">Tipo de captura de ecrã</string>
-  <string name="screenshot_type_fullscreen">Take fullscreen screenshots</string>
+  <string name="screenshot_type_fullscreen">Tirar captura de todo o ecrã</string>
   <string name="screenshot_type_partial">Drag selection to take a partial screenshot</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Desbloqueio rápido</string>
-  <string name="unlock_quick_unlock_control_summary_password">Unlock automatically when the correct password is entered</string>
-  <string name="unlock_quick_unlock_control_summary_pin">Unlock automatically when the correct PIN is entered</string>
+  <string name="unlock_quick_unlock_control_summary_password">Desbloquear automaticamente quando o Pin/senha correto é inserido</string>
+  <string name="unlock_quick_unlock_control_summary_pin">Desbloquear automaticamente quando o Pin/senha correto é inserido</string>
   <!-- Notification Ticker -->
   <string name="ticker_title">Notification ticker</string>
   <string name="ticker_summary">Enable the notification ticker in the status bar</string>
