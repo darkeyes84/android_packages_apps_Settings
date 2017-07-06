@@ -23,7 +23,7 @@
   <string name="left_default_voice_summary_off">Atalho padrão é telefone</string>
   <!-- Hide the next alarm on lockscreen -->
   <string name="show_next_alarm_lockscreen_title">Mostrar próximo alarme</string>
-  <string name="show_next_alarm_lockscreen_summary">Show the next alarm on the lockscreen when an alarm is set</string>
+  <string name="show_next_alarm_lockscreen_summary">Mostrar o próximo alarme na ecrã de bloqueio quando um alarme está definido</string>
   <!-- Disabling immersive mode messages -->
   <string name="disable_immersive_message_title">Desativar pop-ups no modo imersivo</string>
   <string name="disable_immersive_message_summary">Esconder todas as notificações no modo imersivo</string>
@@ -48,7 +48,7 @@
   <!-- Optional screenshot type -->
   <string name="screenshot_type_title">Tipo de captura de ecrã</string>
   <string name="screenshot_type_fullscreen">Tirar captura de todo o ecrã</string>
-  <string name="screenshot_type_partial">Drag selection to take a partial screenshot</string>
+  <string name="screenshot_type_partial">Arraste a selecção para tirar uma captura de ecrã parcial</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Desbloqueio rápido</string>
   <string name="unlock_quick_unlock_control_summary_password">Desbloquear automaticamente quando o Pin/senha correto é inserido</string>
@@ -128,7 +128,7 @@
   <string name="ok_string">Ok</string>
   <!-- Fullscreen Keyboard -->
   <string name="disable_fullscreen_keyboard_title">Desativar o teclado em ecrã completo</string>
-  <string name="disable_fullscreen_keyboard_summary">Prevent keyboard from using the entire screen in landscape</string>
+  <string name="disable_fullscreen_keyboard_summary">Impedir que o teclado use o ecrã inteiro em paisagem</string>
   <string name="tile_summary_title">Disable summaries</string>
-  <string name="tile_summary">Disable summaries on the dashboard</string>
+  <string name="tile_summary">Desactivar os resumos no painel de controle</string>
 </resources>
