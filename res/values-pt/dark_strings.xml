@@ -89,8 +89,8 @@
   <string name="incall_vibrate_connect_title">Vibrar ao ligar</string>
   <string name="incall_vibrate_call_wait_title">Vibrar com chamada em espera</string>
   <string name="incall_vibrate_disconnect_title">Vibrar ao desligar</string>
-  <string name="doze_brightness_level_title">Ambient display brightness</string>
-  <string name="doze_brightness_level_summary">Adjust the brightness level for ambient display</string>
+  <string name="doze_brightness_level_title">Brilho da visualização de ambiente</string>
+  <string name="doze_brightness_level_summary">Ajustar o nível do brilho para ecrã ambiente</string>
   <!-- Heads up timeout -->
   <string name="heads_up_time_out_title">Heads up timeout</string>
   <string name="heads_up_time_out_summary">Heads up notifications will show for <xliff:g id="number">%d</xliff:g> seconds</string>
