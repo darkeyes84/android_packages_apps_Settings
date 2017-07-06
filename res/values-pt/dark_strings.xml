@@ -80,14 +80,14 @@
   <string name="night_bright_disabled">Desactivado</string>
   <string name="night_bright_min">Brilho mínimo</string>
   <string name="night_bright_low">Brilho baixo</string>
-  <string name="night_bright_medium">Medium brightness</string>
-  <string name="magisk_title">Magisk Manager</string>
+  <string name="night_bright_medium">Brilho médio</string>
+  <string name="magisk_title">Gestor Magisk</string>
   <string name="magisk_summary">Control modules and settings</string>
   <string name="substratum_title">Substratum</string>
-  <string name="substratum_summary">Customize device theme</string>
+  <string name="substratum_summary">Personalizar o seu Tema</string>
   <!-- Incall vibrate options -->
   <string name="incall_vibrate_connect_title">Vibrate on call connect</string>
-  <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
+  <string name="incall_vibrate_call_wait_title">Vibrar com chamada em espera</string>
   <string name="incall_vibrate_disconnect_title">Vibrate on call disconnect</string>
   <string name="doze_brightness_level_title">Ambient display brightness</string>
   <string name="doze_brightness_level_summary">Adjust the brightness level for ambient display</string>
