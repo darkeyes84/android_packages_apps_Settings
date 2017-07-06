@@ -54,11 +54,11 @@
   <string name="unlock_quick_unlock_control_summary_password">Desbloquear automaticamente quando o Pin/senha correto é inserido</string>
   <string name="unlock_quick_unlock_control_summary_pin">Desbloquear automaticamente quando o Pin/senha correto é inserido</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">Ativador de notificação</string>
-  <string name="ticker_summary">Enable the notification ticker in the status bar</string>
+  <string name="ticker_title">Ticker de notificação</string>
+  <string name="ticker_summary">Permite o ticker de notificação na barra de estado</string>
   <!-- Notification Ticker Track-->
   <string name="ticker_track_title">Notification ticker music tracks</string>
-  <string name="ticker_track_summary">Show the metadata in the status bar when a new track plays</string>
+  <string name="ticker_track_summary">Mostrar os meta dados na barra de estado quando uma nova musica toca</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">No ecrã de bloqueio protegido</string>
   <string name="lockscreen_enable_power_menu_summary">Impedir o acesso às configurações rápidas e ao menu de energia</string>
