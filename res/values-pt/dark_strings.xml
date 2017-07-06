@@ -102,8 +102,8 @@
   <string name="heads_up_time_out_10sec">10 Segundos</string>
   <!-- Heads up snooze -->
   <string name="heads_up_snooze_title">Snooze das notificações pop-up</string>
-  <string name="heads_up_snooze_summary_one_minute">Swiping up on heads up notifications will snooze them for that application for 1 minute</string>
-  <string name="heads_up_snooze_summary">Swiping up on heads up notifications will snooze them for that application for <xliff:g id="number">%d</xliff:g> minutes</string>
+  <string name="heads_up_snooze_summary_one_minute">Deslizar para cima vai desactivar as notificações pop-up para essa aplicação durante 1 minuto</string>
+  <string name="heads_up_snooze_summary">Deslizar para cima vai desactivar as notificações pop-up para essa aplicação durante <xliff:g id="number">%d </xliff:g> minutos</string>
   <string name="heads_up_snooze_disabled_summary">Snooze está desactivado</string>
   <string name="heads_up_snooze_1min">1 minuto</string>
   <string name="heads_up_snooze_3min">3 minutos</string>
