@@ -54,22 +54,22 @@
   <string name="unlock_quick_unlock_control_summary_password">Desbloquear automaticamente quando o Pin/senha correto é inserido</string>
   <string name="unlock_quick_unlock_control_summary_pin">Desbloquear automaticamente quando o Pin/senha correto é inserido</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">Notification ticker</string>
+  <string name="ticker_title">Ativador de notificação</string>
   <string name="ticker_summary">Enable the notification ticker in the status bar</string>
   <!-- Notification Ticker Track-->
   <string name="ticker_track_title">Notification ticker music tracks</string>
   <string name="ticker_track_summary">Show the metadata in the status bar when a new track plays</string>
   <!-- Secure lockscreen -->
-  <string name="lockscreen_enable_power_menu_title">Secure lockscreen</string>
-  <string name="lockscreen_enable_power_menu_summary">Prevent access to quick settings and power menu</string>
+  <string name="lockscreen_enable_power_menu_title">No ecrã de bloqueio protegido</string>
+  <string name="lockscreen_enable_power_menu_summary">Impedir o acesso às configurações rápidas e ao menu de energia</string>
   <!-- Settings suggestions  -->
   <string name="disable_settings_suggestions_title">Desativar sugestões</string>
   <string name="disable_settings_suggestions_summary">Disable suggestions on the dashboard</string>
   <!-- Custom carrier label and position -->
-  <string name="keyguard_show_carrier_title">Hide carrier label</string>
+  <string name="keyguard_show_carrier_title">Ocultar a etiqueta da operadora</string>
   <string name="keyguard_show_carrier_summary">Hide the carrier label on the keyguard</string>
   <string name="custom_carrier_label_title">Etiqueta personalizada da operadora</string>
-  <string name="custom_carrier_label_explain">Please enter a new label or leave blank to revert to stock label</string>
+  <string name="custom_carrier_label_explain">Por favor, insira um nova etiqueta ou deixe em branco para reverter o nome predefinido</string>
   <string name="custom_carrier_label_notset">Etiqueta personalizada actualmente não defenida</string>
   <string name="one_hand_mode_title">Modo de uma mão</string>
   <string name="one_hand_mode_summary">Swipe on the navigation bar to enable one hand mode</string>
