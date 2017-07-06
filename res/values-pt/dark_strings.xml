@@ -57,7 +57,7 @@
   <string name="ticker_title">Ticker de notificação</string>
   <string name="ticker_summary">Permite o ticker de notificação na barra de estado</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Notification ticker music tracks</string>
+  <string name="ticker_track_title">O ticker de notificações procura músicas</string>
   <string name="ticker_track_summary">Mostrar os meta dados na barra de estado quando uma nova musica toca</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">No ecrã de bloqueio protegido</string>
@@ -72,11 +72,11 @@
   <string name="custom_carrier_label_explain">Por favor, insira um nova etiqueta ou deixe em branco para reverter o nome predefinido</string>
   <string name="custom_carrier_label_notset">Etiqueta personalizada actualmente não defenida</string>
   <string name="one_hand_mode_title">Modo de uma mão</string>
-  <string name="one_hand_mode_summary">Swipe on the navigation bar to enable one hand mode</string>
+  <string name="one_hand_mode_summary">Desliza na barra de navegação para activar o modo de uma mão</string>
   <!-- Advanced night mode brightness -->
   <string name="night_brightness_category">Brilho</string>
   <string name="night_brightness_value_title">Brilho da luz noturna</string>
-  <string name="night_brightness_text">Definir automaticamente o brilho desejado quando a Luz Noturna é ativada.</string>
+  <string name="night_brightness_text">Definir automaticamente o brilho desejado quando a Luz Nocturna é activada.</string>
   <string name="night_bright_disabled">Desactivado</string>
   <string name="night_bright_min">Brilho mínimo</string>
   <string name="night_bright_low">Brilho baixo</string>
@@ -112,7 +112,7 @@
   <string name="heads_up_snooze_15min">15 minutos</string>
   <string name="heads_up_snooze_20min">20 minutos</string>
   <!-- Recents panel settings -->
-  <string name="show_clear_all_recents_button_title">Enable clear all button</string>
+  <string name="show_clear_all_recents_button_title">Activar o botão de limpar tudo</string>
   <string name="show_clear_all_recents_button_summary">Show the clear all button when using recents</string>
   <string name="recents_clear_all_location_title">Posição do botão de Limpar tudo</string>
   <string name="recents_clear_all_location_stock">Superior direito (escondido automaticamente)</string>
