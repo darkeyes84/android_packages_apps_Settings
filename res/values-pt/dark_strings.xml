@@ -64,7 +64,7 @@
   <string name="lockscreen_enable_power_menu_summary">Impedir o acesso às configurações rápidas e ao menu de energia</string>
   <!-- Settings suggestions  -->
   <string name="disable_settings_suggestions_title">Desativar sugestões</string>
-  <string name="disable_settings_suggestions_summary">Disable suggestions on the dashboard</string>
+  <string name="disable_settings_suggestions_summary">Desactivar as sugestões no painel de controle</string>
   <!-- Custom carrier label and position -->
   <string name="keyguard_show_carrier_title">Ocultar a etiqueta da operadora</string>
   <string name="keyguard_show_carrier_summary">Hide the carrier label on the keyguard</string>
@@ -86,7 +86,7 @@
   <string name="substratum_title">Substratum</string>
   <string name="substratum_summary">Personalizar o seu Tema</string>
   <!-- Incall vibrate options -->
-  <string name="incall_vibrate_connect_title">Vibrate on call connect</string>
+  <string name="incall_vibrate_connect_title">Vibrar ao ligar</string>
   <string name="incall_vibrate_call_wait_title">Vibrar com chamada em espera</string>
   <string name="incall_vibrate_disconnect_title">Vibrar ao desligar</string>
   <string name="doze_brightness_level_title">Ambient display brightness</string>
@@ -129,6 +129,6 @@
   <!-- Fullscreen Keyboard -->
   <string name="disable_fullscreen_keyboard_title">Desativar o teclado em ecrã completo</string>
   <string name="disable_fullscreen_keyboard_summary">Impedir que o teclado use o ecrã inteiro em paisagem</string>
-  <string name="tile_summary_title">Disable summaries</string>
+  <string name="tile_summary_title">Desativar os resumos</string>
   <string name="tile_summary">Desactivar os resumos no painel de controle</string>
 </resources>
