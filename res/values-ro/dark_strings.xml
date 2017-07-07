@@ -131,4 +131,6 @@
   <string name="disable_fullscreen_keyboard_summary">Împiedica tastatura să folosească întregul ecran în modul peisaj</string>
   <string name="tile_summary_title">Dezactivare rezumate</string>
   <string name="tile_summary">Dezactivare rezumate pe tabloul de bord</string>
+  <string name="notification_light_zen_mode">Notification light</string>
+  <string name="battery_light_zen_mode">Battery light</string>
 </resources>
