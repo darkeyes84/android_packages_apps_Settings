@@ -131,6 +131,6 @@
   <string name="disable_fullscreen_keyboard_summary">Impedire alla tastiera di usare lo schermo intero in modalità landscape</string>
   <string name="tile_summary_title">Disabilita i suggerimenti</string>
   <string name="tile_summary">Disabilita i suggerimenti sulla dashboard</string>
-  <string name="notification_light_zen_mode">Notification light</string>
-  <string name="battery_light_zen_mode">Battery light</string>
+  <string name="notification_light_zen_mode">Luce di notifica</string>
+  <string name="battery_light_zen_mode">Indicatore batteria</string>
 </resources>
