@@ -131,6 +131,6 @@
   <string name="disable_fullscreen_keyboard_summary">Evitar que el teclado use toda la pantalla en apaisado</string>
   <string name="tile_summary_title">Desactivar resúmenes</string>
   <string name="tile_summary">Desactivar resúmenes en el dashboard</string>
-  <string name="notification_light_zen_mode">Notification light</string>
-  <string name="battery_light_zen_mode">Battery light</string>
+  <string name="notification_light_zen_mode">Luz de notificación</string>
+  <string name="battery_light_zen_mode">Indicador de batería</string>
 </resources>
