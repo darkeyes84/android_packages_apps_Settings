@@ -131,6 +131,6 @@
   <string name="disable_fullscreen_keyboard_summary">منع لوحة المفاتيح من استخدام كامل الشاشة في الوضع الافقي</string>
   <string name="tile_summary_title">تعطيل الملخصات</string>
   <string name="tile_summary">تعطيل الملخصات في لوحة العرض</string>
-  <string name="notification_light_zen_mode">Notification light</string>
-  <string name="battery_light_zen_mode">Battery light</string>
+  <string name="notification_light_zen_mode">ضوء الإشعارات</string>
+  <string name="battery_light_zen_mode">إضائة البطارية</string>
 </resources>
