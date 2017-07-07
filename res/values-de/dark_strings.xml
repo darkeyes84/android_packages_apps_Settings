@@ -131,4 +131,6 @@
   <string name="disable_fullscreen_keyboard_summary">Verhindert, dass die Tastatur im Querformat über den gesamten Bildschirm verläuft</string>
   <string name="tile_summary_title">Zusammenfassungen deaktivieren</string>
   <string name="tile_summary">Vorschläge auf dem Dashboard deaktivieren</string>
+  <string name="notification_light_zen_mode">Notification light</string>
+  <string name="battery_light_zen_mode">Battery light</string>
 </resources>
