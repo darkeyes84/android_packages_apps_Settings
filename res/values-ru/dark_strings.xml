@@ -131,4 +131,6 @@
   <string name="disable_fullscreen_keyboard_summary">В ландшафтном режиме клавиатура не займет весь экран</string>
   <string name="tile_summary_title">Отключить резюме</string>
   <string name="tile_summary">Отключить резюме в настройках</string>
+  <string name="notification_light_zen_mode">Notification light</string>
+  <string name="battery_light_zen_mode">Battery light</string>
 </resources>
