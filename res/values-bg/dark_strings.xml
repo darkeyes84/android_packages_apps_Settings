@@ -83,11 +83,11 @@
   <string name="night_bright_medium">Средна яркост</string>
   <string name="magisk_title">Magisk мениджър</string>
   <string name="magisk_summary">Control modules and settings</string>
-  <string name="substratum_title">Substratum</string>
-  <string name="substratum_summary">Customize device theme</string>
+  <string name="substratum_title">Субстратум</string>
+  <string name="substratum_summary">Персонализиране на темата</string>
   <!-- Incall vibrate options -->
   <string name="incall_vibrate_connect_title">Vibrate on call connect</string>
-  <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
+  <string name="incall_vibrate_call_wait_title">Вибрирай при изчакване на повикването</string>
   <string name="incall_vibrate_disconnect_title">Vibrate on call disconnect</string>
   <string name="doze_brightness_level_title">Ambient display brightness</string>
   <string name="doze_brightness_level_summary">Adjust the brightness level for ambient display</string>
@@ -101,10 +101,10 @@
   <string name="heads_up_time_out_8sec">8 секунди</string>
   <string name="heads_up_time_out_10sec">10 секунди</string>
   <!-- Heads up snooze -->
-  <string name="heads_up_snooze_title">Heads up snooze</string>
-  <string name="heads_up_snooze_summary_one_minute">Swiping up on heads up notifications will snooze them for that application for 1 minute</string>
-  <string name="heads_up_snooze_summary">Swiping up on heads up notifications will snooze them for that application for <xliff:g id="number">%d</xliff:g> minutes</string>
-  <string name="heads_up_snooze_disabled_summary">Snooze is disabled</string>
+  <string name="heads_up_snooze_title">Заглушаване на изкачащите известия</string>
+  <string name="heads_up_snooze_summary_one_minute">Плъзване нагоре на изкачащо известие ще заглуши известията от това приложение за 1 минута</string>
+  <string name="heads_up_snooze_summary">Плъзване нагоре на изкачащо известие ще заглуши известията от това приложение за <xliff:g id="number">%d</xliff:g> минути</string>
+  <string name="heads_up_snooze_disabled_summary">Заглушаването е забранено</string>
   <string name="heads_up_snooze_1min">1 минута</string>
   <string name="heads_up_snooze_3min">3 минути</string>
   <string name="heads_up_snooze_5min">5 минути</string>
@@ -112,9 +112,9 @@
   <string name="heads_up_snooze_15min">15 минути</string>
   <string name="heads_up_snooze_20min">20 минути</string>
   <!-- Recents panel settings -->
-  <string name="show_clear_all_recents_button_title">Enable clear all button</string>
-  <string name="show_clear_all_recents_button_summary">Show the clear all button when using recents</string>
-  <string name="recents_clear_all_location_title">Clear all button location</string>
+  <string name="show_clear_all_recents_button_title">Разрешаване на бутона за изчистване на всички активни приложени</string>
+  <string name="show_clear_all_recents_button_summary">Показване на бутона за изчистване на всички активни приложения</string>
+  <string name="recents_clear_all_location_title">Изчистване на всички настройки за разположението на бутоните</string>
   <string name="recents_clear_all_location_stock">Горе в дясно (автоматично скриване)</string>
   <string name="recents_clear_all_location_top_right">Горе вдясно</string>
   <string name="recents_clear_all_location_top_left">Горе вляво</string>
@@ -123,14 +123,14 @@
   <string name="recents_clear_all_location_bottom_left">Долу вляво</string>
   <string name="recents_clear_all_location_bottom_center">Долу центрирано</string>
   <!-- Battery stats reset -->
-  <string name="battery_stats_reset">Reset statistics</string>
-  <string name="battery_stats_message">Battery history will be removed</string>
+  <string name="battery_stats_reset">Нулиране на статистиката</string>
+  <string name="battery_stats_message">История на батерията ще бъде премахната</string>
   <string name="ok_string">OK</string>
   <!-- Fullscreen Keyboard -->
-  <string name="disable_fullscreen_keyboard_title">Disable fullscreen keyboard</string>
-  <string name="disable_fullscreen_keyboard_summary">Prevent keyboard from using the entire screen in landscape</string>
-  <string name="tile_summary_title">Disable summaries</string>
-  <string name="tile_summary">Disable summaries on the dashboard</string>
-  <string name="notification_light_zen_mode">Notification light</string>
+  <string name="disable_fullscreen_keyboard_title">Изключване на клавиетурата на цял екран</string>
+  <string name="disable_fullscreen_keyboard_summary">Предотвратяване на клавиатурата от използване на целия екран хоризонтално</string>
+  <string name="tile_summary_title">Забраняване на резюмета</string>
+  <string name="tile_summary">Забраняване на резюмета на таблото</string>
+  <string name="notification_light_zen_mode">Светлинна индикации на известия</string>
   <string name="battery_light_zen_mode">Светлинна индикации на батерия</string>
 </resources>
