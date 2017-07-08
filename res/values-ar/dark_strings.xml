@@ -129,6 +129,8 @@
   <!-- Fullscreen Keyboard -->
   <string name="disable_fullscreen_keyboard_title">تعطيل لوحة المفاتيح في وضع الشاشة الكاملة</string>
   <string name="disable_fullscreen_keyboard_summary">منع لوحة المفاتيح من استخدام كامل الشاشة في الوضع الافقي</string>
-  <string name="tile_summary_title">Disable summaries</string>
-  <string name="tile_summary">Disable summaries on the dashboard</string>
+  <string name="tile_summary_title">تعطيل الملخصات</string>
+  <string name="tile_summary">تعطيل الملخصات في لوحة العرض</string>
+  <string name="notification_light_zen_mode">ضوء الإشعارات</string>
+  <string name="battery_light_zen_mode">إضائة البطارية</string>
 </resources>

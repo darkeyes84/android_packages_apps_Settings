@@ -129,6 +129,8 @@
   <!-- Fullscreen Keyboard -->
   <string name="disable_fullscreen_keyboard_title">Отключить клавиатуру в полноэкранном режиме</string>
   <string name="disable_fullscreen_keyboard_summary">В ландшафтном режиме клавиатура не займет весь экран</string>
-  <string name="tile_summary_title">Disable summaries</string>
-  <string name="tile_summary">Disable summaries on the dashboard</string>
+  <string name="tile_summary_title">Отключить резюме</string>
+  <string name="tile_summary">Отключить резюме в настройках</string>
+  <string name="notification_light_zen_mode">Индикация уведомлений</string>
+  <string name="battery_light_zen_mode">Индикация батареи</string>
 </resources>
