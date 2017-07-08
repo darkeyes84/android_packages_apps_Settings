@@ -18,12 +18,12 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Default left shortcut on lockscreen -->
-  <string name="left_default_voice_title">Left shortcut on keyguard</string>
-  <string name="left_default_voice_summary_on">Default shortcut is voice assistant</string>
-  <string name="left_default_voice_summary_off">Default shortcut is phone</string>
+  <string name="left_default_voice_title">Ляв пряк път на заключения екран</string>
+  <string name="left_default_voice_summary_on">По подразбиране прекият път е гласов асистент</string>
+  <string name="left_default_voice_summary_off">По подразбиране прекият път е телефон</string>
   <!-- Hide the next alarm on lockscreen -->
-  <string name="show_next_alarm_lockscreen_title">Show next alarm</string>
-  <string name="show_next_alarm_lockscreen_summary">Show the next alarm on the lockscreen when an alarm is set</string>
+  <string name="show_next_alarm_lockscreen_title">Покзване на следващата аларма</string>
+  <string name="show_next_alarm_lockscreen_summary">Покзване на следващата аларма на заключения екран, когато алармата е настроена</string>
   <!-- Disabling immersive mode messages -->
   <string name="disable_immersive_message_title">Disable immersive mode messages</string>
   <string name="disable_immersive_message_summary">This will hide all immersive mode messages</string>
@@ -44,15 +44,15 @@
   <string name="volume_steps_7">7</string>
   <string name="volume_steps_5">5</string>
   <!-- OpenDelta updates -->
-  <string name="deltaupdate_settings_title">System updates</string>
+  <string name="deltaupdate_settings_title">Системни актуализации</string>
   <!-- Optional screenshot type -->
-  <string name="screenshot_type_title">Screenshot type</string>
-  <string name="screenshot_type_fullscreen">Take fullscreen screenshots</string>
-  <string name="screenshot_type_partial">Drag selection to take a partial screenshot</string>
+  <string name="screenshot_type_title">Тип на екранната снимка</string>
+  <string name="screenshot_type_fullscreen">Екранна снимка на целия екран</string>
+  <string name="screenshot_type_partial">Плъзнете рамката за частична екранна снимка</string>
   <!-- Quick unlock -->
-  <string name="unlock_quick_unlock_control_title">Quick unlock</string>
-  <string name="unlock_quick_unlock_control_summary_password">Unlock automatically when the correct password is entered</string>
-  <string name="unlock_quick_unlock_control_summary_pin">Unlock automatically when the correct PIN is entered</string>
+  <string name="unlock_quick_unlock_control_title">Бързо отключване</string>
+  <string name="unlock_quick_unlock_control_summary_password">Автоматично отключване, когато е въведена правилната парола</string>
+  <string name="unlock_quick_unlock_control_summary_pin">Автоматично отключване, когато е въведен правилният ПИН код</string>
   <!-- Notification Ticker -->
   <string name="ticker_title">Notification ticker</string>
   <string name="ticker_summary">Enable the notification ticker in the status bar</string>
@@ -74,12 +74,12 @@
   <string name="one_hand_mode_title">One hand mode</string>
   <string name="one_hand_mode_summary">Swipe on the navigation bar to enable one hand mode</string>
   <!-- Advanced night mode brightness -->
-  <string name="night_brightness_category">Brightness</string>
+  <string name="night_brightness_category">Яркост</string>
   <string name="night_brightness_value_title">Night Light brightness</string>
   <string name="night_brightness_text">When Night Light is enabled, automatically set the desired brightness.</string>
-  <string name="night_bright_disabled">Disabled</string>
-  <string name="night_bright_min">Minimum brightness</string>
-  <string name="night_bright_low">Low brightness</string>
+  <string name="night_bright_disabled">Изключено</string>
+  <string name="night_bright_min">Минимална яркост</string>
+  <string name="night_bright_low">Ниска яркост</string>
   <string name="night_bright_medium">Средна яркост</string>
   <string name="magisk_title">Magisk мениджър</string>
   <string name="magisk_summary">Control modules and settings</string>
@@ -92,8 +92,8 @@
   <string name="doze_brightness_level_title">Ambient display brightness</string>
   <string name="doze_brightness_level_summary">Adjust the brightness level for ambient display</string>
   <!-- Heads up timeout -->
-  <string name="heads_up_time_out_title">Heads up timeout</string>
-  <string name="heads_up_time_out_summary">Heads up notifications will show for <xliff:g id="number">%d</xliff:g> seconds</string>
+  <string name="heads_up_time_out_title">Таймаут на изкачащите известия</string>
+  <string name="heads_up_time_out_summary">Изкачащите известия ще се показват за <xliff:g id="number">%d</xliff:g> секунди</string>
   <string name="heads_up_time_out_2sec">2 секунди</string>
   <string name="heads_up_time_out_4sec">4 секунди</string>
   <string name="heads_up_time_out_5sec">5 секунди</string>
