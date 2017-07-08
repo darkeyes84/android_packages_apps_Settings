@@ -150,4 +150,10 @@
     <string name="disable_fullscreen_keyboard_title">Disable fullscreen keyboard</string>
     <string name="disable_fullscreen_keyboard_summary">Prevent keyboard from using the entire screen in landscape</string>
 
+    <string name="tile_summary_title">Disable summaries</string>
+    <string name="tile_summary">Disable summaries on the dashboard</string>
+
+    <string name="notification_light_zen_mode">Notification light</string>
+    <string name="battery_light_zen_mode">Battery light</string>
+
 </resources>

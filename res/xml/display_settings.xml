@@ -23,7 +23,13 @@
     <PreferenceCategory
             android:key="display"
             android:title="@string/display_label">
- 
+
+        <com.android.settings.preference.SystemSettingSwitchPreference
+                android:key="show_tile_summary"
+                android:title="@string/tile_summary_title"
+                android:summary="@string/tile_summary"
+                android:defaultValue="false" />
+
         <com.android.settings.preference.SystemSettingSwitchPreference
 				android:key="disable_settings_suggestions"
 				android:title="@string/disable_settings_suggestions_title"

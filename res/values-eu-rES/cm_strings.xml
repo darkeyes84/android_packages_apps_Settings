@@ -253,6 +253,10 @@
   <string name="unlock_scramble_pin_layout_summary">PIN zenbakiaren antolaketa nahastu gailua desblokeatzean</string>
   <!-- lock screen visualizer -->
   <string name="lockscreen_visualizer_title">Bistaratu musika irudikatzea</string>
+  <!-- Lock screen cover art -->
+  <string name="lockscreen_media_art_title">Bistaratu azalaren irudia</string>
+  <!-- Double tap to sleep on keyguard -->
+  <string name="double_tap_sleep_anywhere_title">Birritan edonon lokartzeko</string>
   <!-- Protected apps lockpattern reset button -->
   <string name="lockpattern_reset_button">Leheneratu eredua</string>
   <string name="lockpattern_settings_reset_summary">Idatzi e-posta kontu nagusia eta bere pasahitza eredu blokeoa kentzeko</string>
@@ -398,7 +402,7 @@
   <string name="headset_connect_player_summary">Abiatu musika erreproduzigailu lehenetsia aurikularrak konektatzean</string>
   <!-- Update recovery -->
   <string name="update_recovery_title">Eguneratu berreskuratzea</string>
-  <string name="update_recovery_summary">Eguneratu berreskuratzea sistema-eguneraketekin</string>
+  <string name="update_recovery_summary">Eguneratu berreskuratzea sistema-eguneratzeekin</string>
   <string name="update_recovery_on_warning">OHARRA: Ezaugarri hau gaitzean, instalatutako berreskuratze irudia oraingo sistema eragilearen bertsio bera duen batekin ordeztuko da.\n\nZure berreskuratze irudia sistemaren eguneraketekin batera eguneratuko da, etorkizuneko bertsioekin bateragarritasuna bermatzea lagunduz.\n\nEzaugarri hau gaitu nahi duzu?</string>
   <string name="update_recovery_off_warning">KONTUZ: Ezaugarri hau ezgaitzean, instalatutako berreskuratze irudia ez da eguneratuko sistema eragilearekin batera.\n\nEtorkizuneko sistema eragilearen eguneraketak agian ezin izango dira instalatu zaharkitutako edo pertsonalizatutako berreskuratze irudietan.\n\n Ziur ezaugarri hau ezgaitu nahi duzula?</string>
   <!-- Status bar - double tap to sleep -->
