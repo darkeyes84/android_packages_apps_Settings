@@ -25,8 +25,8 @@
   <string name="show_next_alarm_lockscreen_title">Покзване на следващата аларма</string>
   <string name="show_next_alarm_lockscreen_summary">Покзване на следващата аларма на заключения екран, когато алармата е настроена</string>
   <!-- Disabling immersive mode messages -->
-  <string name="disable_immersive_message_title">Disable immersive mode messages</string>
-  <string name="disable_immersive_message_summary">This will hide all immersive mode messages</string>
+  <string name="disable_immersive_message_title">Забраняване на съобщения за \"режим на потапяне\"</string>
+  <string name="disable_immersive_message_summary">Това ще скриете всички съобщения за \"режим на потапяне\"</string>
   <!-- Volume Steps -->
   <string name="volume_steps_title">Стъпки на звука</string>
   <string name="volume_steps_alarm_title">Стъпки на звукът: Аларма</string>
@@ -54,14 +54,14 @@
   <string name="unlock_quick_unlock_control_summary_password">Автоматично отключване, когато е въведена правилната парола</string>
   <string name="unlock_quick_unlock_control_summary_pin">Автоматично отключване, когато е въведен правилният ПИН код</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">Notification ticker</string>
-  <string name="ticker_summary">Enable the notification ticker in the status bar</string>
+  <string name="ticker_title">Избиране на няколко известия</string>
+  <string name="ticker_summary">Разрешаване на избиране на няколко известия в лентата на състоянието</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Notification ticker music tracks</string>
-  <string name="ticker_track_summary">Show the metadata in the status bar when a new track plays</string>
+  <string name="ticker_track_title">Избиране на няколко известия за песни</string>
+  <string name="ticker_track_summary">Показване на мета-данните в лентата на състоянието, когато е пусната нова песен</string>
   <!-- Secure lockscreen -->
-  <string name="lockscreen_enable_power_menu_title">Secure lockscreen</string>
-  <string name="lockscreen_enable_power_menu_summary">Prevent access to quick settings and power menu</string>
+  <string name="lockscreen_enable_power_menu_title">Защитен заключен екран</string>
+  <string name="lockscreen_enable_power_menu_summary">Предотвратяване на достъпа до бързи настройки и меню за рестартиране</string>
   <!-- Settings suggestions  -->
   <string name="disable_settings_suggestions_title">Деактивиране на предложенията</string>
   <string name="disable_settings_suggestions_summary">Деактивиране на предложенията на таблото</string>
@@ -86,9 +86,9 @@
   <string name="substratum_title">Субстратум</string>
   <string name="substratum_summary">Персонализиране на темата</string>
   <!-- Incall vibrate options -->
-  <string name="incall_vibrate_connect_title">Vibrate on call connect</string>
+  <string name="incall_vibrate_connect_title">Вибрация при свързване на повикване</string>
   <string name="incall_vibrate_call_wait_title">Вибрирай при изчакване на повикването</string>
-  <string name="incall_vibrate_disconnect_title">Vibrate on call disconnect</string>
+  <string name="incall_vibrate_disconnect_title">Вибрация при разпадане на повикване</string>
   <string name="doze_brightness_level_title">Яркост на ambient display функцията</string>
   <string name="doze_brightness_level_summary">Настройване на нивото на яркостта за ambient display функцията</string>
   <!-- Heads up timeout -->
