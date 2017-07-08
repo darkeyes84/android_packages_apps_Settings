@@ -131,6 +131,6 @@
   <string name="disable_fullscreen_keyboard_summary">Impedir que o teclado use o ecrã inteiro em paisagem</string>
   <string name="tile_summary_title">Desativar os resumos</string>
   <string name="tile_summary">Desactivar os resumos no painel de controle</string>
-  <string name="notification_light_zen_mode">Notification light</string>
-  <string name="battery_light_zen_mode">Battery light</string>
+  <string name="notification_light_zen_mode">Luz de notificação</string>
+  <string name="battery_light_zen_mode">Luz da bateria</string>
 </resources>
