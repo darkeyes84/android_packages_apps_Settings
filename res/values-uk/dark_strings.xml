@@ -18,12 +18,12 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Default left shortcut on lockscreen -->
-  <string name="left_default_voice_title">Left shortcut on keyguard</string>
-  <string name="left_default_voice_summary_on">Default shortcut is voice assistant</string>
-  <string name="left_default_voice_summary_off">Default shortcut is phone</string>
+  <string name="left_default_voice_title">Лівий ярлик екрану блокування</string>
+  <string name="left_default_voice_summary_on">Голосовий асистент</string>
+  <string name="left_default_voice_summary_off">Телефон</string>
   <!-- Hide the next alarm on lockscreen -->
-  <string name="show_next_alarm_lockscreen_title">Show next alarm</string>
-  <string name="show_next_alarm_lockscreen_summary">Show the next alarm on the lockscreen when an alarm is set</string>
+  <string name="show_next_alarm_lockscreen_title">Показати наступний будильник</string>
+  <string name="show_next_alarm_lockscreen_summary">Показувати на екрані блокування наступний будильник, коли встановлено</string>
   <!-- Disabling immersive mode messages -->
   <string name="disable_immersive_message_title">Disable immersive mode messages</string>
   <string name="disable_immersive_message_summary">This will hide all immersive mode messages</string>
