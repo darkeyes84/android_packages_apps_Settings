@@ -91,10 +91,10 @@
   <string name="incall_vibrate_call_wait_title">Вібрувати під час очікування дзвінка</string>
   <string name="incall_vibrate_disconnect_title">Вібрація при роз\'єднанні</string>
   <string name="doze_brightness_level_title">Рівень яскравості Ambient Display</string>
-  <string name="doze_brightness_level_summary">Adjust the brightness level for ambient display</string>
+  <string name="doze_brightness_level_summary">Налаштувати рівень яскравості Ambient Display</string>
   <!-- Heads up timeout -->
-  <string name="heads_up_time_out_title">Heads up timeout</string>
-  <string name="heads_up_time_out_summary">Heads up notifications will show for <xliff:g id="number">%d</xliff:g> seconds</string>
+  <string name="heads_up_time_out_title">Затримка спливаючих сповіщень</string>
+  <string name="heads_up_time_out_summary">Сповіщення буде показано протягом <xliff:g id="number">%d</xliff:g> секунд(и)</string>
   <string name="heads_up_time_out_2sec">2 секунди</string>
   <string name="heads_up_time_out_4sec">4 секунди</string>
   <string name="heads_up_time_out_5sec">5 секунд</string>
@@ -102,10 +102,10 @@
   <string name="heads_up_time_out_8sec">8 секунд</string>
   <string name="heads_up_time_out_10sec">10 секунд</string>
   <!-- Heads up snooze -->
-  <string name="heads_up_snooze_title">Heads up snooze</string>
-  <string name="heads_up_snooze_summary_one_minute">Swiping up on heads up notifications will snooze them for that application for 1 minute</string>
-  <string name="heads_up_snooze_summary">Swiping up on heads up notifications will snooze them for that application for <xliff:g id="number">%d</xliff:g> minutes</string>
-  <string name="heads_up_snooze_disabled_summary">Snooze is disabled</string>
+  <string name="heads_up_snooze_title">Приховати спливаючі сповіщення</string>
+  <string name="heads_up_snooze_summary_one_minute">Свайп вгору приховає сповіщення від додатка на 1 хвилину</string>
+  <string name="heads_up_snooze_summary">Свайп вгору приховає сповіщення від додатка на <xliff:g id="number">%d</xliff:g> хвилин</string>
+  <string name="heads_up_snooze_disabled_summary">Приховування сповіщень вимкнено</string>
   <string name="heads_up_snooze_1min">1 хвилина</string>
   <string name="heads_up_snooze_3min">3 хвилини</string>
   <string name="heads_up_snooze_5min">5 хвилин</string>
