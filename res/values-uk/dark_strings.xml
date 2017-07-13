@@ -114,9 +114,9 @@
   <string name="heads_up_snooze_20min">20 хвилин</string>
   <!-- Recents panel settings -->
   <string name="show_clear_all_recents_button_title">Показати кнопку \"Очистити все\"</string>
-  <string name="show_clear_all_recents_button_summary">Show the clear all button when using recents</string>
+  <string name="show_clear_all_recents_button_summary">Показувати кнопку \"Очистити все\" на екрані запущених додатків</string>
   <string name="recents_clear_all_location_title">Розташування кнопки \"Очистити все\"</string>
-  <string name="recents_clear_all_location_stock">Top right (auto hide)</string>
+  <string name="recents_clear_all_location_stock">Зверху справа (ховати автоматично)</string>
   <string name="recents_clear_all_location_top_right">Зверху справа</string>
   <string name="recents_clear_all_location_top_left">Зверху зліва</string>
   <string name="recents_clear_all_location_top_center">Зверху по центру</string>
@@ -128,10 +128,10 @@
   <string name="battery_stats_message">Історію використання батареї буде скинуто</string>
   <string name="ok_string">OK</string>
   <!-- Fullscreen Keyboard -->
-  <string name="disable_fullscreen_keyboard_title">Disable fullscreen keyboard</string>
-  <string name="disable_fullscreen_keyboard_summary">Prevent keyboard from using the entire screen in landscape</string>
-  <string name="tile_summary_title">Disable summaries</string>
-  <string name="tile_summary">Disable summaries on the dashboard</string>
-  <string name="notification_light_zen_mode">Notification light</string>
-  <string name="battery_light_zen_mode">Battery light</string>
+  <string name="disable_fullscreen_keyboard_title">Вимкнути повноекранний режим клавіатури</string>
+  <string name="disable_fullscreen_keyboard_summary">Попередити використання повноекранного режиму клавіатури в ландшафті</string>
+  <string name="tile_summary_title">Вимкнути резюме</string>
+  <string name="tile_summary">Вимкнути резюме в налаштуваннях</string>
+  <string name="notification_light_zen_mode">LED-сповіщеннь</string>
+  <string name="battery_light_zen_mode">LED-батареї</string>
 </resources>
