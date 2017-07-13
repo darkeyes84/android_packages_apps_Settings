@@ -69,63 +69,64 @@
   <string name="keyguard_show_carrier_title">Приховати назву мережі</string>
   <string name="keyguard_show_carrier_summary">Приховати назву мережі на екрані блокування</string>
   <string name="custom_carrier_label_title">Власна назва мережі</string>
-  <string name="custom_carrier_label_explain">Please enter a new label or leave blank to revert to stock label</string>
-  <string name="custom_carrier_label_notset">Custom label currently not set</string>
-  <string name="one_hand_mode_title">One hand mode</string>
-  <string name="one_hand_mode_summary">Swipe on the navigation bar to enable one hand mode</string>
+  <string name="custom_carrier_label_explain">Введіть власну назву мережі або залишіть поле пустими, щоб повернутися до типової</string>
+  <string name="custom_carrier_label_notset">Власну назву мережі не встановлено</string>
+  <string name="one_hand_mode_title">Керування однією рукою</string>
+  <string name="one_hand_mode_summary">Проведіть по панелі навігації, щоб активувати керування однією рукою
+</string>
   <!-- Advanced night mode brightness -->
-  <string name="night_brightness_category">Brightness</string>
-  <string name="night_brightness_value_title">Night Light brightness</string>
-  <string name="night_brightness_text">When Night Light is enabled, automatically set the desired brightness.</string>
-  <string name="night_bright_disabled">Disabled</string>
-  <string name="night_bright_min">Minimum brightness</string>
-  <string name="night_bright_low">Low brightness</string>
-  <string name="night_bright_medium">Medium brightness</string>
-  <string name="magisk_title">Magisk Manager</string>
-  <string name="magisk_summary">Control modules and settings</string>
+  <string name="night_brightness_category">Яскравість</string>
+  <string name="night_brightness_value_title">Яскравість в Нічному режимі</string>
+  <string name="night_brightness_text">Коли активний Нічний режим, автоматично встановити бажану яскравість.</string>
+  <string name="night_bright_disabled">Вимкнено</string>
+  <string name="night_bright_min">Мінімальна яскравість</string>
+  <string name="night_bright_low">Низька яскравість</string>
+  <string name="night_bright_medium">Середня яскравість</string>
+  <string name="magisk_title">Magisk менеджер</string>
+  <string name="magisk_summary">Налаштування Magisk та модулів</string>
   <string name="substratum_title">Substratum</string>
-  <string name="substratum_summary">Customize device theme</string>
+  <string name="substratum_summary">Налаштувати тему</string>
   <!-- Incall vibrate options -->
-  <string name="incall_vibrate_connect_title">Vibrate on call connect</string>
-  <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
-  <string name="incall_vibrate_disconnect_title">Vibrate on call disconnect</string>
-  <string name="doze_brightness_level_title">Ambient display brightness</string>
+  <string name="incall_vibrate_connect_title">Вібрація при з\'єднанні</string>
+  <string name="incall_vibrate_call_wait_title">Вібрувати під час очікування дзвінка</string>
+  <string name="incall_vibrate_disconnect_title">Вібрація при роз\'єднанні</string>
+  <string name="doze_brightness_level_title">Рівень яскравості Ambient Display</string>
   <string name="doze_brightness_level_summary">Adjust the brightness level for ambient display</string>
   <!-- Heads up timeout -->
   <string name="heads_up_time_out_title">Heads up timeout</string>
   <string name="heads_up_time_out_summary">Heads up notifications will show for <xliff:g id="number">%d</xliff:g> seconds</string>
-  <string name="heads_up_time_out_2sec">2 seconds</string>
-  <string name="heads_up_time_out_4sec">4 seconds</string>
-  <string name="heads_up_time_out_5sec">5 seconds</string>
-  <string name="heads_up_time_out_6sec">6 seconds</string>
-  <string name="heads_up_time_out_8sec">8 seconds</string>
-  <string name="heads_up_time_out_10sec">10 seconds</string>
+  <string name="heads_up_time_out_2sec">2 секунди</string>
+  <string name="heads_up_time_out_4sec">4 секунди</string>
+  <string name="heads_up_time_out_5sec">5 секунд</string>
+  <string name="heads_up_time_out_6sec">6 секунд</string>
+  <string name="heads_up_time_out_8sec">8 секунд</string>
+  <string name="heads_up_time_out_10sec">10 секунд</string>
   <!-- Heads up snooze -->
   <string name="heads_up_snooze_title">Heads up snooze</string>
   <string name="heads_up_snooze_summary_one_minute">Swiping up on heads up notifications will snooze them for that application for 1 minute</string>
   <string name="heads_up_snooze_summary">Swiping up on heads up notifications will snooze them for that application for <xliff:g id="number">%d</xliff:g> minutes</string>
   <string name="heads_up_snooze_disabled_summary">Snooze is disabled</string>
-  <string name="heads_up_snooze_1min">1 minute</string>
-  <string name="heads_up_snooze_3min">3 minutes</string>
-  <string name="heads_up_snooze_5min">5 minutes</string>
-  <string name="heads_up_snooze_10min">10 minutes</string>
-  <string name="heads_up_snooze_15min">15 minutes</string>
-  <string name="heads_up_snooze_20min">20 minutes</string>
+  <string name="heads_up_snooze_1min">1 хвилина</string>
+  <string name="heads_up_snooze_3min">3 хвилини</string>
+  <string name="heads_up_snooze_5min">5 хвилин</string>
+  <string name="heads_up_snooze_10min">10 хвилин</string>
+  <string name="heads_up_snooze_15min">15 хвилин</string>
+  <string name="heads_up_snooze_20min">20 хвилин</string>
   <!-- Recents panel settings -->
-  <string name="show_clear_all_recents_button_title">Enable clear all button</string>
+  <string name="show_clear_all_recents_button_title">Показати кнопку \"Очистити все\"</string>
   <string name="show_clear_all_recents_button_summary">Show the clear all button when using recents</string>
-  <string name="recents_clear_all_location_title">Clear all button location</string>
+  <string name="recents_clear_all_location_title">Розташування кнопки \"Очистити все\"</string>
   <string name="recents_clear_all_location_stock">Top right (auto hide)</string>
-  <string name="recents_clear_all_location_top_right">Top right</string>
-  <string name="recents_clear_all_location_top_left">Top left</string>
-  <string name="recents_clear_all_location_top_center">Top center</string>
-  <string name="recents_clear_all_location_bottom_right">Bottom right</string>
-  <string name="recents_clear_all_location_bottom_left">Bottom left</string>
-  <string name="recents_clear_all_location_bottom_center">Bottom center</string>
+  <string name="recents_clear_all_location_top_right">Зверху справа</string>
+  <string name="recents_clear_all_location_top_left">Зверху зліва</string>
+  <string name="recents_clear_all_location_top_center">Зверху по центру</string>
+  <string name="recents_clear_all_location_bottom_right">Внизу справа</string>
+  <string name="recents_clear_all_location_bottom_left">Внизу зліва</string>
+  <string name="recents_clear_all_location_bottom_center">Внизу по центру</string>
   <!-- Battery stats reset -->
-  <string name="battery_stats_reset">Reset statistics</string>
-  <string name="battery_stats_message">Battery history will be removed</string>
-  <string name="ok_string">Ok</string>
+  <string name="battery_stats_reset">Скинути статистику</string>
+  <string name="battery_stats_message">Історію використання батареї буде скинуто</string>
+  <string name="ok_string">OK</string>
   <!-- Fullscreen Keyboard -->
   <string name="disable_fullscreen_keyboard_title">Disable fullscreen keyboard</string>
   <string name="disable_fullscreen_keyboard_summary">Prevent keyboard from using the entire screen in landscape</string>
