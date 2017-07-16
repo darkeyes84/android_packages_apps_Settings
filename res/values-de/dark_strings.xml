@@ -67,8 +67,8 @@
   <string name="disable_settings_suggestions_summary">Vorschläge auf dem Dashboard deaktivieren</string>
   <!-- Custom carrier label and position -->
   <string name="keyguard_show_carrier_title">Netzbetreiber ausblenden</string>
-  <string name="keyguard_show_carrier_summary">Netzbetreiber auf dem Tastenschutz verstecken</string>
-  <string name="custom_carrier_label_title">Eigene Netzbetreiber-Anzeige</string>
+  <string name="keyguard_show_carrier_summary">Netzanbieter auf dem Tastenschutz verstecken</string>
+  <string name="custom_carrier_label_title">Eigene Netzanbieter-Anzeige</string>
   <string name="custom_carrier_label_explain">Bitte geben Sie eine neue Bezeichnung ein. Um Ihre Standard Bezeichnung wiederherzustellen, lassen Sie das Feld leer</string>
   <string name="custom_carrier_label_notset">Benutzerdefiniertes Label ist nicht gesetzt</string>
   <string name="one_hand_mode_title">Einhandmodus</string>
