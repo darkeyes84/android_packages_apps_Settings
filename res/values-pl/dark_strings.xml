@@ -29,14 +29,14 @@
   <string name="disable_immersive_message_summary">Ukrywa wszystkie wiadomości trybu rozszerzonego</string>
   <!-- Volume Steps -->
   <string name="volume_steps_title">Poziomy głośności</string>
-  <string name="volume_steps_alarm_title">Poziom głośności: Alarm</string>
-  <string name="volume_steps_dtmf_title">Volume steps: DTMF</string>
-  <string name="volume_steps_music_title">Volume steps: Music</string>
-  <string name="volume_steps_notification_title">Volume steps: Notification</string>
-  <string name="volume_steps_ring_title">Volume steps: Ringer</string>
-  <string name="volume_steps_system_title">Volume steps: System</string>
-  <string name="volume_steps_voice_call_title">Volume steps: Voice Call</string>
-  <string name="volume_steps_reset">Reset</string>
+  <string name="volume_steps_alarm_title">Poziom głośności: Alarmy</string>
+  <string name="volume_steps_dtmf_title">Poziom głośności: DTMF</string>
+  <string name="volume_steps_music_title">Poziom głośności: Muzyka</string>
+  <string name="volume_steps_notification_title">Poziom głośności: Powiadomienia</string>
+  <string name="volume_steps_ring_title">Poziom głośności: Dzwonek</string>
+  <string name="volume_steps_system_title">Poziom głośności: Dźwięki systemowe</string>
+  <string name="volume_steps_voice_call_title">Poziom głośności: Rozmowa głosowa</string>
+  <string name="volume_steps_reset">Przywróć domyślne</string>
   <string name="volume_steps_60">60</string>
   <string name="volume_steps_45">45</string>
   <string name="volume_steps_30">30</string>
@@ -44,15 +44,15 @@
   <string name="volume_steps_7">7</string>
   <string name="volume_steps_5">5</string>
   <!-- OpenDelta updates -->
-  <string name="deltaupdate_settings_title">System updates</string>
+  <string name="deltaupdate_settings_title">Aktualizacje systemu</string>
   <!-- Optional screenshot type -->
-  <string name="screenshot_type_title">Screenshot type</string>
-  <string name="screenshot_type_fullscreen">Take fullscreen screenshots</string>
-  <string name="screenshot_type_partial">Drag selection to take a partial screenshot</string>
+  <string name="screenshot_type_title">Typ zrzutu ekranu</string>
+  <string name="screenshot_type_fullscreen">Zrzut pełnego ekranu</string>
+  <string name="screenshot_type_partial">Zaznacz obszar częściowego zrzutu ekranu</string>
   <!-- Quick unlock -->
-  <string name="unlock_quick_unlock_control_title">Quick unlock</string>
-  <string name="unlock_quick_unlock_control_summary_password">Unlock automatically when the correct password is entered</string>
-  <string name="unlock_quick_unlock_control_summary_pin">Unlock automatically when the correct PIN is entered</string>
+  <string name="unlock_quick_unlock_control_title">Szybkie odblokowanie</string>
+  <string name="unlock_quick_unlock_control_summary_password">Odblokuj automatycznie, gdy wprowadzone zostanie poprawne hasło</string>
+  <string name="unlock_quick_unlock_control_summary_pin">Odblokuj automatycznie, gdy wprowadzony zostanie poprawny PIN</string>
   <!-- Notification Ticker -->
   <string name="ticker_title">Notification ticker</string>
   <string name="ticker_summary">Enable the notification ticker in the status bar</string>
