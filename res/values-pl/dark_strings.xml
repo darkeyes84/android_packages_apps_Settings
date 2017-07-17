@@ -61,27 +61,27 @@
   <string name="ticker_track_summary">Pokaż informacje o nowym utworze na pasku statusu przy zmianie utworu muzycznego</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">Zabezpiecz ekran blokady</string>
-  <string name="lockscreen_enable_power_menu_summary">Prevent access to quick settings and power menu</string>
+  <string name="lockscreen_enable_power_menu_summary">Zablokuj dostęp do szybkich ustawień i menu zasilania</string>
   <!-- Settings suggestions  -->
-  <string name="disable_settings_suggestions_title">Disable suggestions</string>
-  <string name="disable_settings_suggestions_summary">Disable suggestions on the dashboard</string>
+  <string name="disable_settings_suggestions_title">Wyłącz podpowiedzi</string>
+  <string name="disable_settings_suggestions_summary">Wyłącz podpowiedzi na ekranie głównym</string>
   <!-- Custom carrier label and position -->
-  <string name="keyguard_show_carrier_title">Hide carrier label</string>
-  <string name="keyguard_show_carrier_summary">Hide the carrier label on the keyguard</string>
-  <string name="custom_carrier_label_title">Custom carrier label</string>
-  <string name="custom_carrier_label_explain">Please enter a new label or leave blank to revert to stock label</string>
-  <string name="custom_carrier_label_notset">Custom label currently not set</string>
-  <string name="one_hand_mode_title">One hand mode</string>
-  <string name="one_hand_mode_summary">Swipe on the navigation bar to enable one hand mode</string>
+  <string name="keyguard_show_carrier_title">Ukryj etykietę sieci</string>
+  <string name="keyguard_show_carrier_summary">Ukryj etykietę sieci na klawiaturze</string>
+  <string name="custom_carrier_label_title">Własna etykieta sieci</string>
+  <string name="custom_carrier_label_explain">Wprowadź nowy tekst. Pozostaw puste, aby powrócić do domyślnego.</string>
+  <string name="custom_carrier_label_notset">Własna etykieta nie jest obecnie ustawiona</string>
+  <string name="one_hand_mode_title">Tryb obsługi jedną ręką</string>
+  <string name="one_hand_mode_summary">Przesuń po pasku nawigacji, aby włączyć tryb obsługi jedną ręką</string>
   <!-- Advanced night mode brightness -->
-  <string name="night_brightness_category">Brightness</string>
-  <string name="night_brightness_value_title">Night Light brightness</string>
-  <string name="night_brightness_text">When Night Light is enabled, automatically set the desired brightness.</string>
-  <string name="night_bright_disabled">Disabled</string>
-  <string name="night_bright_min">Minimum brightness</string>
-  <string name="night_bright_low">Low brightness</string>
-  <string name="night_bright_medium">Medium brightness</string>
-  <string name="magisk_title">Magisk Manager</string>
+  <string name="night_brightness_category">Jasność</string>
+  <string name="night_brightness_value_title">Jasność Podświetlania nocnego</string>
+  <string name="night_brightness_text">Kiedy Podświetlanie nocne jest włączone, automatycznie ustaw wskazaną wartość jasności ekranu.</string>
+  <string name="night_bright_disabled">Wyłączone</string>
+  <string name="night_bright_min">Minimalna jasność</string>
+  <string name="night_bright_low">Niska jasność</string>
+  <string name="night_bright_medium">Średnia jasność</string>
+  <string name="magisk_title">Menedżer Magisk</string>
   <string name="magisk_summary">Control modules and settings</string>
   <string name="substratum_title">Substratum</string>
   <string name="substratum_summary">Customize device theme</string>
@@ -94,23 +94,23 @@
   <!-- Heads up timeout -->
   <string name="heads_up_time_out_title">Heads up timeout</string>
   <string name="heads_up_time_out_summary">Heads up notifications will show for <xliff:g id="number">%d</xliff:g> seconds</string>
-  <string name="heads_up_time_out_2sec">2 seconds</string>
-  <string name="heads_up_time_out_4sec">4 seconds</string>
-  <string name="heads_up_time_out_5sec">5 seconds</string>
-  <string name="heads_up_time_out_6sec">6 seconds</string>
-  <string name="heads_up_time_out_8sec">8 seconds</string>
-  <string name="heads_up_time_out_10sec">10 seconds</string>
+  <string name="heads_up_time_out_2sec">2 sekundy</string>
+  <string name="heads_up_time_out_4sec">4 sekundy</string>
+  <string name="heads_up_time_out_5sec">5 sekund</string>
+  <string name="heads_up_time_out_6sec">6 sekund</string>
+  <string name="heads_up_time_out_8sec">8 sekund</string>
+  <string name="heads_up_time_out_10sec">10 sekund</string>
   <!-- Heads up snooze -->
-  <string name="heads_up_snooze_title">Heads up snooze</string>
+  <string name="heads_up_snooze_title">Drzemka wyskakujących powiadomień</string>
   <string name="heads_up_snooze_summary_one_minute">Swiping up on heads up notifications will snooze them for that application for 1 minute</string>
   <string name="heads_up_snooze_summary">Swiping up on heads up notifications will snooze them for that application for <xliff:g id="number">%d</xliff:g> minutes</string>
   <string name="heads_up_snooze_disabled_summary">Snooze is disabled</string>
-  <string name="heads_up_snooze_1min">1 minute</string>
-  <string name="heads_up_snooze_3min">3 minutes</string>
-  <string name="heads_up_snooze_5min">5 minutes</string>
-  <string name="heads_up_snooze_10min">10 minutes</string>
-  <string name="heads_up_snooze_15min">15 minutes</string>
-  <string name="heads_up_snooze_20min">20 minutes</string>
+  <string name="heads_up_snooze_1min">1 minuta</string>
+  <string name="heads_up_snooze_3min">3 minuty</string>
+  <string name="heads_up_snooze_5min">5 minut</string>
+  <string name="heads_up_snooze_10min">10 minut</string>
+  <string name="heads_up_snooze_15min">15 minut</string>
+  <string name="heads_up_snooze_20min">20 minut</string>
   <!-- Recents panel settings -->
   <string name="show_clear_all_recents_button_title">Enable clear all button</string>
   <string name="show_clear_all_recents_button_summary">Show the clear all button when using recents</string>
