@@ -104,7 +104,7 @@
   <string name="heads_up_snooze_title">Drzemka wyskakujących powiadomień</string>
   <string name="heads_up_snooze_summary_one_minute">Swiping up on heads up notifications will snooze them for that application for 1 minute</string>
   <string name="heads_up_snooze_summary">Swiping up on heads up notifications will snooze them for that application for <xliff:g id="number">%d</xliff:g> minutes</string>
-  <string name="heads_up_snooze_disabled_summary">Snooze is disabled</string>
+  <string name="heads_up_snooze_disabled_summary">Drzemka jest wyłączona</string>
   <string name="heads_up_snooze_1min">1 minuta</string>
   <string name="heads_up_snooze_3min">3 minuty</string>
   <string name="heads_up_snooze_5min">5 minut</string>
@@ -112,25 +112,25 @@
   <string name="heads_up_snooze_15min">15 minut</string>
   <string name="heads_up_snooze_20min">20 minut</string>
   <!-- Recents panel settings -->
-  <string name="show_clear_all_recents_button_title">Enable clear all button</string>
-  <string name="show_clear_all_recents_button_summary">Show the clear all button when using recents</string>
-  <string name="recents_clear_all_location_title">Clear all button location</string>
-  <string name="recents_clear_all_location_stock">Top right (auto hide)</string>
-  <string name="recents_clear_all_location_top_right">Top right</string>
-  <string name="recents_clear_all_location_top_left">Top left</string>
-  <string name="recents_clear_all_location_top_center">Top center</string>
-  <string name="recents_clear_all_location_bottom_right">Bottom right</string>
-  <string name="recents_clear_all_location_bottom_left">Bottom left</string>
-  <string name="recents_clear_all_location_bottom_center">Bottom center</string>
+  <string name="show_clear_all_recents_button_title">Włącz przycisk \"Wyczyść wszystko\"</string>
+  <string name="show_clear_all_recents_button_summary">Pokaż przycisk \"Wyczyść wszystko\" w menu ostatnio używanych aplikacji</string>
+  <string name="recents_clear_all_location_title">Pozycja przycisku \"Wyczyść wszystko\"</string>
+  <string name="recents_clear_all_location_stock">Prawy górny róg (automatyczne ukrywanie)</string>
+  <string name="recents_clear_all_location_top_right">Prawy górny róg</string>
+  <string name="recents_clear_all_location_top_left">Lewy górny róg</string>
+  <string name="recents_clear_all_location_top_center">Wyśrodkowany na górze</string>
+  <string name="recents_clear_all_location_bottom_right">Prawy dolny róg</string>
+  <string name="recents_clear_all_location_bottom_left">Lewy dolny róg</string>
+  <string name="recents_clear_all_location_bottom_center">Wyśrodkowany na dole</string>
   <!-- Battery stats reset -->
-  <string name="battery_stats_reset">Reset statistics</string>
-  <string name="battery_stats_message">Battery history will be removed</string>
+  <string name="battery_stats_reset">Resetuj statystyki</string>
+  <string name="battery_stats_message">Historia baterii zostanie usunięta</string>
   <string name="ok_string">Ok</string>
   <!-- Fullscreen Keyboard -->
-  <string name="disable_fullscreen_keyboard_title">Disable fullscreen keyboard</string>
-  <string name="disable_fullscreen_keyboard_summary">Prevent keyboard from using the entire screen in landscape</string>
-  <string name="tile_summary_title">Disable summaries</string>
-  <string name="tile_summary">Disable summaries on the dashboard</string>
-  <string name="notification_light_zen_mode">Notification light</string>
-  <string name="battery_light_zen_mode">Battery light</string>
+  <string name="disable_fullscreen_keyboard_title">Wyłącz pełnoekranową klawiaturę</string>
+  <string name="disable_fullscreen_keyboard_summary">Zapobiegaj pełnoekranowej klawiaturze w trybie poziomym</string>
+  <string name="tile_summary_title">Wyłącz podsumowania</string>
+  <string name="tile_summary">Wyłącz podsumowania na ekranie głównym</string>
+  <string name="notification_light_zen_mode">Dioda powiadomień</string>
+  <string name="battery_light_zen_mode">Dioda baterii</string>
 </resources>
