@@ -135,11 +135,11 @@
   <string name="notification_light_zen_mode">LED-сповіщеннь</string>
   <string name="battery_light_zen_mode">LED-батареї</string>
   <!-- Fingerprint unlock keystore -->
-  <string name="fp_unlock_keystore_title">Fingerprint unlock</string>
-  <string name="fp_unlock_password_summary">Unlock device with fingerprint after reboot without password</string>
-  <string name="fp_unlock_pattern_summary">Unlock device with fingerprint after reboot without pattern</string>
-  <string name="fp_unlock_pin_summary">Unlock device with fingerprint after reboot without pin</string>
+  <string name="fp_unlock_keystore_title">Розблокувати відбитком пальця</string>
+  <string name="fp_unlock_password_summary">Розблокувати пристрій за допомогою відбитка пальця після перезавантаження без паролю</string>
+  <string name="fp_unlock_pattern_summary">Розблокувати пристрій за допомогою відбитка пальця після перезавантаження без ключа</string>
+  <string name="fp_unlock_pin_summary">Розблокувати пристрій за допомогою відбитка пальця після перезавантаження без PIN-коду</string>
   <!-- Force expanded notifications -->
   <string name="expanded_notifications_title">Force expanded notifications</string>
-  <string name="expanded_notifications_summary">Always show expanded notifications when supported</string>
+  <string name="expanded_notifications_summary">Завжди показувати сповіщення повністю, якщо можна</string>
 </resources>
