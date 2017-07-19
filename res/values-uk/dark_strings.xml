@@ -140,6 +140,6 @@
   <string name="fp_unlock_pattern_summary">Розблокувати пристрій за допомогою відбитка пальця після перезавантаження без ключа</string>
   <string name="fp_unlock_pin_summary">Розблокувати пристрій за допомогою відбитка пальця після перезавантаження без PIN-коду</string>
   <!-- Force expanded notifications -->
-  <string name="expanded_notifications_title">Force expanded notifications</string>
+  <string name="expanded_notifications_title">Розгорнуті сповіщення</string>
   <string name="expanded_notifications_summary">Завжди показувати сповіщення повністю, якщо можна</string>
 </resources>
