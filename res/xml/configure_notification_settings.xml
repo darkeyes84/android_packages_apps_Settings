@@ -26,6 +26,13 @@
             android:title="@string/lock_screen_notifications_title"
             android:summary="%s" />
 
+    <!-- Force expanded notifications -->
+    <com.android.settings.preference.SystemSettingSwitchPreference
+        android:key="force_expanded_notifications"
+        android:title="@string/expanded_notifications_title"
+        android:summary="@string/expanded_notifications_summary"
+        android:defaultValue="false" />
+
     <!-- importance -->
     <PreferenceScreen
         android:key="power_notification_controls"

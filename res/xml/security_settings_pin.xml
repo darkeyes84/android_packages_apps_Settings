@@ -39,6 +39,12 @@
             android:summary="@string/lockscreen_enable_power_menu_summary" 
             android:defaultValue="false" />
 
+        <SwitchPreference
+            android:key="fp_unlock_keystore"
+            android:title="@string/fp_unlock_keystore_title"
+            android:summary="@string/fp_unlock_pin_summary"
+            android:persistent="false" />
+
     </PreferenceCategory>
 
 </PreferenceScreen>
