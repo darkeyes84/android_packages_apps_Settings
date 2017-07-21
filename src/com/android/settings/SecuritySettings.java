@@ -382,16 +382,17 @@ public class SecuritySettings extends SettingsPreferenceFragment
                     getResources().getString(R.string.switch_on_text));
         }
 
-        FingerprintManager mFingerprintManager =
+        if (mLockPatternUtils.isSecure(MY_USER_ID)) {
+            FingerprintManager fpm =
                     (FingerprintManager) getActivity().getSystemService(Context.FINGERPRINT_SERVICE);
-
-        mFpKeystore = (SwitchPreference) findPreference(FP_UNLOCK_KEYSTORE);
-        if (!mFingerprintManager.isHardwareDetected()){
-            root.removePreference(mFpKeystore);
-        } else {
-            mFpKeystore.setChecked((Settings.System.getInt(getContentResolver(),
-                Settings.System.FP_UNLOCK_KEYSTORE, 0) == 1));
-            mFpKeystore.setOnPreferenceChangeListener(this);
+            mFpKeystore = (SwitchPreference) findPreference(FP_UNLOCK_KEYSTORE);
+            if (fpm != null && fpm.isHardwareDetected()){
+                mFpKeystore.setChecked((Settings.System.getInt(getContentResolver(),
+                        Settings.System.FP_UNLOCK_KEYSTORE, 0) == 1));
+                mFpKeystore.setOnPreferenceChangeListener(this);
+            } else {
+                securityCategory.removePreference(mFpKeystore);
+            }
         }
 
         // Show password
