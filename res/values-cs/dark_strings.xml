@@ -137,8 +137,8 @@
   <string name="fp_unlock_keystore_title">Odemknout pomocí otisku prstu</string>
   <string name="fp_unlock_password_summary">Odemknutí zařízení pomocí otisku prstu po restartu bez zadání hesla</string>
   <string name="fp_unlock_pattern_summary">Odemknutí zařízení pomocí otisku prstu po restartu bez zadání vzoru</string>
-  <string name="fp_unlock_pin_summary">Unlock device with fingerprint after reboot without pin</string>
+  <string name="fp_unlock_pin_summary">Odemknutí zařízení pomocí otisku prstu po restartu bez zadání PINu</string>
   <!-- Force expanded notifications -->
-  <string name="expanded_notifications_title">Force expanded notifications</string>
-  <string name="expanded_notifications_summary">Always show expanded notifications when supported</string>
+  <string name="expanded_notifications_title">Vynutit rozšířené oznámení</string>
+  <string name="expanded_notifications_summary">Vždy zobrazovat rozšířené oznámení, pokud je podporováno</string>
 </resources>
