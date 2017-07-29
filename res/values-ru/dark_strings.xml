@@ -134,11 +134,11 @@
   <string name="notification_light_zen_mode">Индикация уведомлений</string>
   <string name="battery_light_zen_mode">Индикация батареи</string>
   <!-- Fingerprint unlock keystore -->
-  <string name="fp_unlock_keystore_title">Fingerprint unlock</string>
-  <string name="fp_unlock_password_summary">Unlock device with fingerprint after reboot without password</string>
-  <string name="fp_unlock_pattern_summary">Unlock device with fingerprint after reboot without pattern</string>
-  <string name="fp_unlock_pin_summary">Unlock device with fingerprint after reboot without pin</string>
+  <string name="fp_unlock_keystore_title">Разблокировка отпечатком пальца</string>
+  <string name="fp_unlock_password_summary">Разблокировать устройство с помощью отпечатка пальца после перезагрузки без пароля</string>
+  <string name="fp_unlock_pattern_summary">Разблокировать устройство с помощью отпечатка пальца после перезагрузки без графического ключа</string>
+  <string name="fp_unlock_pin_summary">Разблокировать устройство с помощью отпечатка пальца после перезагрузки без пароля</string>
   <!-- Force expanded notifications -->
-  <string name="expanded_notifications_title">Force expanded notifications</string>
-  <string name="expanded_notifications_summary">Always show expanded notifications when supported</string>
+  <string name="expanded_notifications_title">Принудительно расширять уведомления</string>
+  <string name="expanded_notifications_summary">Всегда показывать расширенные уведомления если поддерживает</string>
 </resources>
