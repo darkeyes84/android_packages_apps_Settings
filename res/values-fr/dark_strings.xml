@@ -131,4 +131,14 @@
   <string name="disable_fullscreen_keyboard_summary">Prevent keyboard from using the entire screen in landscape</string>
   <string name="tile_summary_title">Disable summaries</string>
   <string name="tile_summary">Disable summaries on the dashboard</string>
+  <string name="notification_light_zen_mode">Notification light</string>
+  <string name="battery_light_zen_mode">Battery light</string>
+  <!-- Fingerprint unlock keystore -->
+  <string name="fp_unlock_keystore_title">Fingerprint unlock</string>
+  <string name="fp_unlock_password_summary">Unlock device with fingerprint after reboot without password</string>
+  <string name="fp_unlock_pattern_summary">Unlock device with fingerprint after reboot without pattern</string>
+  <string name="fp_unlock_pin_summary">Unlock device with fingerprint after reboot without pin</string>
+  <!-- Force expanded notifications -->
+  <string name="expanded_notifications_title">Force expanded notifications</string>
+  <string name="expanded_notifications_summary">Always show expanded notifications when supported</string>
 </resources>
