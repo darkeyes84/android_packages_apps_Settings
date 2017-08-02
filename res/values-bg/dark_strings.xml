@@ -139,6 +139,6 @@
   <string name="fp_unlock_pattern_summary">Unlock device with fingerprint after reboot without pattern</string>
   <string name="fp_unlock_pin_summary">Unlock device with fingerprint after reboot without pin</string>
   <!-- Force expanded notifications -->
-  <string name="expanded_notifications_title">Force expanded notifications</string>
-  <string name="expanded_notifications_summary">Always show expanded notifications when supported</string>
+  <string name="expanded_notifications_title">Налагане на разширени известия</string>
+  <string name="expanded_notifications_summary">Винаги показвай разширени известия когато се поддържат</string>
 </resources>
