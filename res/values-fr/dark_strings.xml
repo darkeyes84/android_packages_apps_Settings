@@ -51,8 +51,8 @@
   <string name="screenshot_type_partial">Drag selection to take a partial screenshot</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Déverrouillage rapide</string>
-  <string name="unlock_quick_unlock_control_summary_password">Unlock automatically when the correct password is entered</string>
-  <string name="unlock_quick_unlock_control_summary_pin">Unlock automatically when the correct PIN is entered</string>
+  <string name="unlock_quick_unlock_control_summary_password">Déverrouiller automatiquement l\'appareil lorsque le mot de passe est correct</string>
+  <string name="unlock_quick_unlock_control_summary_pin">Déverrouiller automatiquement l\'appareil lorsque le code PIN est correct</string>
   <!-- Notification Ticker -->
   <string name="ticker_title">Notification ticker</string>
   <string name="ticker_summary">Enable the notification ticker in the status bar</string>
@@ -63,25 +63,25 @@
   <string name="lockscreen_enable_power_menu_title">Secure lockscreen</string>
   <string name="lockscreen_enable_power_menu_summary">Prevent access to quick settings and power menu</string>
   <!-- Settings suggestions  -->
-  <string name="disable_settings_suggestions_title">Disable suggestions</string>
+  <string name="disable_settings_suggestions_title">Désactiver les suggestions</string>
   <string name="disable_settings_suggestions_summary">Disable suggestions on the dashboard</string>
   <!-- Custom carrier label and position -->
   <string name="keyguard_show_carrier_title">Masquer le nom de l\'opérateur</string>
-  <string name="keyguard_show_carrier_summary">Hide the carrier label on the keyguard</string>
-  <string name="custom_carrier_label_title">Custom carrier label</string>
+  <string name="keyguard_show_carrier_summary">Masquer le nom de l\'opérateur sur l\'écran de verrouillage</string>
+  <string name="custom_carrier_label_title">Personnaliser le nom de l\'opérateur</string>
   <string name="custom_carrier_label_explain">Please enter a new label or leave blank to revert to stock label</string>
   <string name="custom_carrier_label_notset">Custom label currently not set</string>
-  <string name="one_hand_mode_title">One hand mode</string>
+  <string name="one_hand_mode_title">Mode à une main</string>
   <string name="one_hand_mode_summary">Swipe on the navigation bar to enable one hand mode</string>
   <!-- Advanced night mode brightness -->
-  <string name="night_brightness_category">Brightness</string>
-  <string name="night_brightness_value_title">Night Light brightness</string>
+  <string name="night_brightness_category">Luminosité</string>
+  <string name="night_brightness_value_title">Éclairage nocturne</string>
   <string name="night_brightness_text">When Night Light is enabled, automatically set the desired brightness.</string>
   <string name="night_bright_disabled">Désactivé</string>
   <string name="night_bright_min">Luminosité minimale</string>
   <string name="night_bright_low">Luminosité faible</string>
   <string name="night_bright_medium">Medium brightness</string>
-  <string name="magisk_title">Magisk Manager</string>
+  <string name="magisk_title">Gestionnaire Magisk</string>
   <string name="magisk_summary">Control modules and settings</string>
   <string name="substratum_title">Substratum</string>
   <string name="substratum_summary">Customize device theme</string>
@@ -112,7 +112,7 @@
   <string name="heads_up_snooze_15min">15 minutes</string>
   <string name="heads_up_snooze_20min">20 minutes</string>
   <!-- Recents panel settings -->
-  <string name="show_clear_all_recents_button_title">Enable clear all button</string>
+  <string name="show_clear_all_recents_button_title">Activer le bouton \"tout effacer\"</string>
   <string name="show_clear_all_recents_button_summary">Afficher le bouton \"Tout effacer\"</string>
   <string name="recents_clear_all_location_title">Position du bouton \"Tout effacer\"</string>
   <string name="recents_clear_all_location_stock">Top right (auto hide)</string>
@@ -123,7 +123,7 @@
   <string name="recents_clear_all_location_bottom_left">En bas à gauche</string>
   <string name="recents_clear_all_location_bottom_center">En bas au centre</string>
   <!-- Battery stats reset -->
-  <string name="battery_stats_reset">Reset statistics</string>
+  <string name="battery_stats_reset">Réinitialiser les statistiques</string>
   <string name="battery_stats_message">Battery history will be removed</string>
   <string name="ok_string">Ok</string>
   <!-- Fullscreen Keyboard -->
@@ -139,6 +139,6 @@
   <string name="fp_unlock_pattern_summary">Unlock device with fingerprint after reboot without pattern</string>
   <string name="fp_unlock_pin_summary">Unlock device with fingerprint after reboot without pin</string>
   <!-- Force expanded notifications -->
-  <string name="expanded_notifications_title">Force expanded notifications</string>
+  <string name="expanded_notifications_title">Forcer le mode étendu des notifications</string>
   <string name="expanded_notifications_summary">Always show expanded notifications when supported</string>
 </resources>
