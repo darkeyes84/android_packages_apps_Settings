@@ -29,13 +29,13 @@
   <string name="disable_immersive_message_summary">This will hide all immersive mode messages</string>
   <!-- Volume Steps -->
   <string name="volume_steps_title">Incrémentation du volume</string>
-  <string name="volume_steps_alarm_title">Volume steps: Alarm</string>
-  <string name="volume_steps_dtmf_title">Volume steps: DTMF</string>
-  <string name="volume_steps_music_title">Volume steps: Music</string>
-  <string name="volume_steps_notification_title">Volume steps: Notification</string>
-  <string name="volume_steps_ring_title">Volume steps: Ringer</string>
-  <string name="volume_steps_system_title">Volume steps: System</string>
-  <string name="volume_steps_voice_call_title">Volume steps: Voice Call</string>
+  <string name="volume_steps_alarm_title">Niveaux du volume : Alarme</string>
+  <string name="volume_steps_dtmf_title">Niveaux du volume : DTMF</string>
+  <string name="volume_steps_music_title">Niveaux du volume: Musique</string>
+  <string name="volume_steps_notification_title">Niveaux du volume : Notification</string>
+  <string name="volume_steps_ring_title">Niveaux du volume: Sonnerie</string>
+  <string name="volume_steps_system_title">Niveaux du volume : Système</string>
+  <string name="volume_steps_voice_call_title">Niveaux du volume : Appel Vocal</string>
   <string name="volume_steps_reset">Réinitialiser</string>
   <string name="volume_steps_60">60</string>
   <string name="volume_steps_45">45</string>
@@ -47,7 +47,7 @@
   <string name="deltaupdate_settings_title">Mises à jour du système</string>
   <!-- Optional screenshot type -->
   <string name="screenshot_type_title">Type de capture d\'écran</string>
-  <string name="screenshot_type_fullscreen">Take fullscreen screenshots</string>
+  <string name="screenshot_type_fullscreen">Prendre des captures d’écran en plein écran</string>
   <string name="screenshot_type_partial">Drag selection to take a partial screenshot</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Déverrouillage rapide</string>
