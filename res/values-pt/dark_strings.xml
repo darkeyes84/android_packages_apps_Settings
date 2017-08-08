@@ -134,11 +134,11 @@
   <string name="notification_light_zen_mode">Luz de notificação</string>
   <string name="battery_light_zen_mode">Luz da bateria</string>
   <!-- Fingerprint unlock keystore -->
-  <string name="fp_unlock_keystore_title">Fingerprint unlock</string>
-  <string name="fp_unlock_password_summary">Unlock device with fingerprint after reboot without password</string>
-  <string name="fp_unlock_pattern_summary">Unlock device with fingerprint after reboot without pattern</string>
-  <string name="fp_unlock_pin_summary">Unlock device with fingerprint after reboot without pin</string>
+  <string name="fp_unlock_keystore_title">Desbloqueio com impressão digital</string>
+  <string name="fp_unlock_password_summary">Desbloquear o dispositivo com impressão digital após a reinicialização sem senha</string>
+  <string name="fp_unlock_pattern_summary">Desbloquear o dispositivo com impressão digital após a reinicialização sem padrão</string>
+  <string name="fp_unlock_pin_summary">Desbloquear o dispositivo com impressão digital após a reinicialização sem pin</string>
   <!-- Force expanded notifications -->
-  <string name="expanded_notifications_title">Force expanded notifications</string>
-  <string name="expanded_notifications_summary">Always show expanded notifications when supported</string>
+  <string name="expanded_notifications_title">Forçar as notificações expandidas</string>
+  <string name="expanded_notifications_summary">Sempre Mostrar notificações expandidas quando suportado</string>
 </resources>

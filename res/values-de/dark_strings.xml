@@ -134,11 +134,11 @@
   <string name="notification_light_zen_mode">Benachrichtigungs-LED</string>
   <string name="battery_light_zen_mode">Akku-LED</string>
   <!-- Fingerprint unlock keystore -->
-  <string name="fp_unlock_keystore_title">Fingerprint unlock</string>
-  <string name="fp_unlock_password_summary">Unlock device with fingerprint after reboot without password</string>
-  <string name="fp_unlock_pattern_summary">Unlock device with fingerprint after reboot without pattern</string>
-  <string name="fp_unlock_pin_summary">Unlock device with fingerprint after reboot without pin</string>
+  <string name="fp_unlock_keystore_title">Entsperren mit Fingerabdruck</string>
+  <string name="fp_unlock_password_summary">Gerät mit Fingerabdruck nach Neustart ohne Passwort entsperren</string>
+  <string name="fp_unlock_pattern_summary">Gerät mit Fingerabdruck nach einem Neustart ohne Muster entsperren</string>
+  <string name="fp_unlock_pin_summary">Gerät mit Fingerabdruck nach Neustart ohne Pin entsperren</string>
   <!-- Force expanded notifications -->
-  <string name="expanded_notifications_title">Force expanded notifications</string>
-  <string name="expanded_notifications_summary">Always show expanded notifications when supported</string>
+  <string name="expanded_notifications_title">Erzwinge erweiterte Benachrichtigungen</string>
+  <string name="expanded_notifications_summary">Immer erweiterte Benachrichtigungen anzeigen, sofern unterstützt</string>
 </resources>
