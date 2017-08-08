@@ -20,7 +20,7 @@
   <!-- Default left shortcut on lockscreen -->
   <string name="left_default_voice_title">Raccourci de gauche sur l\'écran de verrouillage</string>
   <string name="left_default_voice_summary_on">Le raccourci par défaut est l\'assistant vocal</string>
-  <string name="left_default_voice_summary_off">Le raccourci par défaut est téléphone</string>
+  <string name="left_default_voice_summary_off">Le raccourci par défaut est le téléphone</string>
   <!-- Hide the next alarm on lockscreen -->
   <string name="show_next_alarm_lockscreen_title">Afficher la prochaine alarme</string>
   <string name="show_next_alarm_lockscreen_summary">Afficher la prochaine alarme sur l\'écran de verrouillage</string>
