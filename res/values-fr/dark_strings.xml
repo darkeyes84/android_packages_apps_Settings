@@ -72,7 +72,7 @@
   <string name="custom_carrier_label_explain">Please enter a new label or leave blank to revert to stock label</string>
   <string name="custom_carrier_label_notset">Custom label currently not set</string>
   <string name="one_hand_mode_title">Mode à une main</string>
-  <string name="one_hand_mode_summary">Swipe on the navigation bar to enable one hand mode</string>
+  <string name="one_hand_mode_summary">Glisser sur la barre de navigation pour activer le mode à une main</string>
   <!-- Advanced night mode brightness -->
   <string name="night_brightness_category">Luminosité</string>
   <string name="night_brightness_value_title">Éclairage nocturne</string>
@@ -86,9 +86,9 @@
   <string name="substratum_title">Substratum</string>
   <string name="substratum_summary">Personnaliser le thème de l\'appareil</string>
   <!-- Incall vibrate options -->
-  <string name="incall_vibrate_connect_title">Vibrate on call connect</string>
-  <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
-  <string name="incall_vibrate_disconnect_title">Vibrate on call disconnect</string>
+  <string name="incall_vibrate_connect_title">Vibrer lorsque l\'appel est décroché</string>
+  <string name="incall_vibrate_call_wait_title">Vibrer quand un appel est en attente</string>
+  <string name="incall_vibrate_disconnect_title">Vibrer lorsque l\'appel est raccroché</string>
   <string name="doze_brightness_level_title">Ambient display brightness</string>
   <string name="doze_brightness_level_summary">Adjust the brightness level for ambient display</string>
   <!-- Heads up timeout -->
@@ -130,7 +130,7 @@
   <string name="disable_fullscreen_keyboard_title">Disable fullscreen keyboard</string>
   <string name="disable_fullscreen_keyboard_summary">Prevent keyboard from using the entire screen in landscape</string>
   <string name="tile_summary_title">Désactiver les résumés</string>
-  <string name="tile_summary">Disable summaries on the dashboard</string>
+  <string name="tile_summary">Désactiver les résumés sur le tableau de bord</string>
   <string name="notification_light_zen_mode">Voyant de notification</string>
   <string name="battery_light_zen_mode">Voyant batterie</string>
   <!-- Fingerprint unlock keystore -->
