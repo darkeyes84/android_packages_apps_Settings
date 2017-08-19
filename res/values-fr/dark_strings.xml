@@ -80,11 +80,11 @@
   <string name="night_bright_disabled">Désactivé</string>
   <string name="night_bright_min">Luminosité minimale</string>
   <string name="night_bright_low">Luminosité faible</string>
-  <string name="night_bright_medium">Medium brightness</string>
+  <string name="night_bright_medium">Luminosité moyenne</string>
   <string name="magisk_title">Gestionnaire Magisk</string>
   <string name="magisk_summary">Control modules and settings</string>
   <string name="substratum_title">Substratum</string>
-  <string name="substratum_summary">Customize device theme</string>
+  <string name="substratum_summary">Personnaliser le thème de l\'appareil</string>
   <!-- Incall vibrate options -->
   <string name="incall_vibrate_connect_title">Vibrate on call connect</string>
   <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
