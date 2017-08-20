@@ -18,6 +18,8 @@ package com.android.settings;
 
 import android.content.Context;
 import android.content.res.Configuration;
+import android.graphics.drawable.Drawable;
+import android.graphics.PorterDuff;
 import android.os.Bundle;
 import android.provider.Settings;
 import android.support.v4.view.ViewPager;
@@ -137,10 +139,14 @@ public abstract class PreviewSeekBarPreferenceFragment extends SettingsPreferenc
             final int count = i;
             final boolean selected = colorValue == i;
             final ImageView view = new ImageView(getContext());
+            final Drawable check = getContext().getDrawable(R.drawable.ic_check);
             view.setImageDrawable(getContext().getDrawable(R.drawable.color_circle));
             view.setColorFilter(color);
             if (selected) {
-                view.setForeground(getContext().getDrawable(R.drawable.ic_check));
+				if (!mAccentShowing && colorValue == 0) {
+					check.setColorFilter(colors[1], PorterDuff.Mode.SRC_ATOP);
+			    }
+                view.setForeground(check);
                 view.setForegroundGravity(Gravity.CENTER);
             }
             view.setOnClickListener(new OnClickListener() {
@@ -330,15 +336,13 @@ public abstract class PreviewSeekBarPreferenceFragment extends SettingsPreferenc
             }
         }
         switch (primaryColorValue) {
-            case 3:
-                return context.getString(R.string.black);
             case 2:
-                return context.getString(R.string.pixel);
+                return context.getString(R.string.black);
             case 1:
                 return context.getString(R.string.dark);
             case 0:
             default:
-                return context.getString(R.string.default_string);
+                return context.getString(R.string.white);
         }
     }
 

@@ -100,10 +100,6 @@ public class UsbModeChooserActivity extends Activity {
         if (themeMode != 0 || accentColor != 0) {
             getTheme().applyStyle(mTheme, true);
         }
-        if (themeMode == 2) {
-            getTheme().applyStyle(R.style.settings_pixel_theme, true);
-        }
-
         super.onCreate(savedInstanceState);
 
         mLayoutInflater = LayoutInflater.from(this);

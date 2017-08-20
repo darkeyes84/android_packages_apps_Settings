@@ -167,11 +167,11 @@
     <string name="expanded_notifications_summary">Always show expanded notifications when supported</string>
 
     <!-- Color engine -->
-    <string name="theme_switch_palette">Switch between primary and accent colors</string>
+    <string name="theme_switch_palette">Switch between background and accent colors</string>
     <string name="theme_title">Color engine</string>
     <string name="theme_summary">Select different colors for your current theme</string>
     <string name="theme_accent_color">Accent color</string>
-    <string name="theme_primary_color">Primary color</string>
+    <string name="theme_primary_color">Background color</string>
     <string name="theme">Theme</string>
     <string name="oms_enabled">Theme modes unavailable because a Substratum theme is currently applied</string>
     <string name="red">Red</string>
@@ -187,6 +187,6 @@
     <string name="teal">Blue</string>
     <string name="cyan">Cyan</string>
     <string name="grey">Grey</string>
-    <string name="default_string">Default</string>
+    <string name="white">White</string>
 
 </resources>

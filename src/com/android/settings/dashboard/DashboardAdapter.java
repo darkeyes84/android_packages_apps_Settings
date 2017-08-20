@@ -116,7 +116,7 @@ public class DashboardAdapter extends RecyclerView.Adapter<DashboardAdapter.Dash
                 Settings.Secure.THEME_PRIMARY_COLOR, 1);
 
         mThemeEnabled = accentColor != 0 || primaryColor != 0;
-        mDarkThemeEnabled = primaryColor == 3 || primaryColor == 1;
+        mDarkThemeEnabled = primaryColor != 0;
 
         setHasStableIds(true);
 
