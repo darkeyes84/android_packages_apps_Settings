@@ -111,9 +111,9 @@ public class DashboardAdapter extends RecyclerView.Adapter<DashboardAdapter.Dash
         ta.recycle();
 
         int accentColor = Settings.Secure.getInt(context.getContentResolver(),
-                Settings.Secure.THEME_ACCENT_COLOR, 1);
+                Settings.Secure.THEME_ACCENT_COLOR, 0);
         int primaryColor = Settings.Secure.getInt(context.getContentResolver(),
-                Settings.Secure.THEME_PRIMARY_COLOR, 2);
+                Settings.Secure.THEME_PRIMARY_COLOR, 1);
 
         mThemeEnabled = accentColor != 0 || primaryColor != 0;
         mDarkThemeEnabled = primaryColor == 3 || primaryColor == 1;

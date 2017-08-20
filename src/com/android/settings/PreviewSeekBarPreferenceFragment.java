@@ -172,9 +172,9 @@ public abstract class PreviewSeekBarPreferenceFragment extends SettingsPreferenc
             mAccentShowing = Settings.Secure.getInt(getContext().getContentResolver(),
                     Settings.Secure.THEME_SETTINGS_MODE, 0) == 1;
             mAccentColorValue = Settings.Secure.getInt(getContext().getContentResolver(),
-                    Settings.Secure.THEME_ACCENT_COLOR, 1);
+                    Settings.Secure.THEME_ACCENT_COLOR, 0);
             mPrimaryColorValue = Settings.Secure.getInt(getContext().getContentResolver(),
-                    Settings.Secure.THEME_PRIMARY_COLOR, 2);
+                    Settings.Secure.THEME_PRIMARY_COLOR, 1);
             final int[] accentColors = getContext().getResources().getIntArray(
                     R.array.accent_colors);
             final int[] primaryColors = getContext().getResources().getIntArray(
@@ -331,11 +331,11 @@ public abstract class PreviewSeekBarPreferenceFragment extends SettingsPreferenc
         }
         switch (primaryColorValue) {
             case 3:
-                return context.getString(R.string.dark);
+                return context.getString(R.string.black);
             case 2:
                 return context.getString(R.string.pixel);
             case 1:
-                return context.getString(R.string.grey);
+                return context.getString(R.string.dark);
             case 0:
             default:
                 return context.getString(R.string.default_string);
