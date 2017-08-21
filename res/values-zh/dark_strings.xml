@@ -105,18 +105,18 @@
   <string name="heads_up_snooze_summary_one_minute">Swiping up on heads up notifications will snooze them for that application for 1 minute</string>
   <string name="heads_up_snooze_summary">Swiping up on heads up notifications will snooze them for that application for <xliff:g id="number">%d</xliff:g> minutes</string>
   <string name="heads_up_snooze_disabled_summary">Snooze is disabled</string>
-  <string name="heads_up_snooze_1min">1 minute</string>
-  <string name="heads_up_snooze_3min">3 minutes</string>
-  <string name="heads_up_snooze_5min">5 minutes</string>
-  <string name="heads_up_snooze_10min">10 minutes</string>
-  <string name="heads_up_snooze_15min">15 minutes</string>
-  <string name="heads_up_snooze_20min">20 minutes</string>
+  <string name="heads_up_snooze_1min">1 分钟</string>
+  <string name="heads_up_snooze_3min">3 分钟</string>
+  <string name="heads_up_snooze_5min">5 分钟</string>
+  <string name="heads_up_snooze_10min">10 分钟</string>
+  <string name="heads_up_snooze_15min">15 分钟</string>
+  <string name="heads_up_snooze_20min">20 分钟</string>
   <!-- Recents panel settings -->
-  <string name="show_clear_all_recents_button_title">Enable clear all button</string>
-  <string name="show_clear_all_recents_button_summary">Show the clear all button when using recents</string>
-  <string name="recents_clear_all_location_title">Clear all button location</string>
+  <string name="show_clear_all_recents_button_title">启用全部清除按钮</string>
+  <string name="show_clear_all_recents_button_summary">在任务切换窗口中显示全部清除按钮</string>
+  <string name="recents_clear_all_location_title">全部清除按钮位置</string>
   <string name="recents_clear_all_location_stock">Top right (auto hide)</string>
-  <string name="recents_clear_all_location_top_right">Top right</string>
+  <string name="recents_clear_all_location_top_right">右上角</string>
   <string name="recents_clear_all_location_top_left">Top left</string>
   <string name="recents_clear_all_location_top_center">Top center</string>
   <string name="recents_clear_all_location_bottom_right">Bottom right</string>
@@ -137,16 +137,16 @@
   <string name="fp_unlock_keystore_title">Fingerprint unlock</string>
   <string name="fp_unlock_password_summary">Unlock device with fingerprint after reboot without password</string>
   <string name="fp_unlock_pattern_summary">Unlock device with fingerprint after reboot without pattern</string>
-  <string name="fp_unlock_pin_summary">Unlock device with fingerprint after reboot without pin</string>
+  <string name="fp_unlock_pin_summary">在重启后无须PIN而直接使用指纹解锁设备</string>
   <!-- Force expanded notifications -->
-  <string name="expanded_notifications_title">Force expanded notifications</string>
-  <string name="expanded_notifications_summary">Always show expanded notifications when supported</string>
+  <string name="expanded_notifications_title">强制展开通知</string>
+  <string name="expanded_notifications_summary">如通知支持则总是显示展开后通知</string>
   <!-- Color engine -->
-  <string name="theme_switch_palette">Switch between background and accent colors</string>
-  <string name="theme_title">Color engine</string>
-  <string name="theme_summary">Select different colors for your current theme</string>
-  <string name="theme_accent_color">Accent color</string>
-  <string name="theme_primary_color">Background color</string>
+  <string name="theme_switch_palette">在主色调和强调色间切换</string>
+  <string name="theme_title">色彩引擎</string>
+  <string name="theme_summary">为你的当前主题选择不同的颜色</string>
+  <string name="theme_accent_color">强调色</string>
+  <string name="theme_primary_color">背景色</string>
   <string name="theme">主题</string>
   <string name="oms_enabled">主题模块不可用因为当前正在使用一个 Substratum 主题</string>
   <string name="red">红色</string>
@@ -160,7 +160,7 @@
   <string name="dark">暗黑</string>
   <string name="pixel">Pixel</string>
   <string name="teal">蓝色</string>
-  <string name="cyan">Cyan</string>
-  <string name="grey">Grey</string>
-  <string name="white">White</string>
+  <string name="cyan">青色</string>
+  <string name="grey">灰色</string>
+  <string name="white">白色</string>
 </resources>
