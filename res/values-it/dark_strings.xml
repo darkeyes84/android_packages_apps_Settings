@@ -142,7 +142,7 @@
   <string name="expanded_notifications_title">Forza notifiche estese</string>
   <string name="expanded_notifications_summary">Espandi sempre le notifiche che lo supportano</string>
   <!-- Color engine -->
-  <string name="theme_switch_palette">Switch between background and accent colors</string>
+  <string name="theme_switch_palette">Passa tra colore di sfondo e colore degli accenti</string>
   <string name="theme_title">Color engine</string>
   <string name="theme_summary">Select different colors for your current theme</string>
   <string name="theme_accent_color">Accent color</string>
