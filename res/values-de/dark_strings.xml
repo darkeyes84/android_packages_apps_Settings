@@ -141,4 +141,26 @@
   <!-- Force expanded notifications -->
   <string name="expanded_notifications_title">Erzwinge erweiterte Benachrichtigungen</string>
   <string name="expanded_notifications_summary">Immer erweiterte Benachrichtigungen anzeigen, sofern unterstützt</string>
+  <!-- Color engine -->
+  <string name="theme_switch_palette">Switch between background and accent colors</string>
+  <string name="theme_title">Color engine</string>
+  <string name="theme_summary">Select different colors for your current theme</string>
+  <string name="theme_accent_color">Accent color</string>
+  <string name="theme_primary_color">Background color</string>
+  <string name="theme">Theme</string>
+  <string name="oms_enabled">Theme modes unavailable because a Substratum theme is currently applied</string>
+  <string name="red">Red</string>
+  <string name="orange">Orange</string>
+  <string name="blue">Teal</string>
+  <string name="green">Green</string>
+  <string name="yellow">Yellow</string>
+  <string name="purple">Purple</string>
+  <string name="pink">Pink</string>
+  <string name="black">Black</string>
+  <string name="dark">Dark</string>
+  <string name="pixel">Pixel</string>
+  <string name="teal">Blue</string>
+  <string name="cyan">Cyan</string>
+  <string name="grey">Grey</string>
+  <string name="white">White</string>
 </resources>
