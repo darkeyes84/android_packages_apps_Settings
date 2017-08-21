@@ -28,15 +28,15 @@
   <string name="disable_immersive_message_title">Disable immersive mode messages</string>
   <string name="disable_immersive_message_summary">This will hide all immersive mode messages</string>
   <!-- Volume Steps -->
-  <string name="volume_steps_title">Volume steps</string>
-  <string name="volume_steps_alarm_title">Volume steps: Alarm</string>
+  <string name="volume_steps_title">音量步数</string>
+  <string name="volume_steps_alarm_title">音量步数：闹钟</string>
   <string name="volume_steps_dtmf_title">Volume steps: DTMF</string>
-  <string name="volume_steps_music_title">Volume steps: Music</string>
-  <string name="volume_steps_notification_title">Volume steps: Notification</string>
-  <string name="volume_steps_ring_title">Volume steps: Ringer</string>
-  <string name="volume_steps_system_title">Volume steps: System</string>
-  <string name="volume_steps_voice_call_title">Volume steps: Voice Call</string>
-  <string name="volume_steps_reset">Reset</string>
+  <string name="volume_steps_music_title">音量步数：音乐</string>
+  <string name="volume_steps_notification_title">音量步数：通知</string>
+  <string name="volume_steps_ring_title">音量步数：铃声</string>
+  <string name="volume_steps_system_title">音量步数：系统</string>
+  <string name="volume_steps_voice_call_title">音量步数：语音通话</string>
+  <string name="volume_steps_reset">重置</string>
   <string name="volume_steps_60">60</string>
   <string name="volume_steps_45">45</string>
   <string name="volume_steps_30">30</string>
@@ -48,14 +48,14 @@
   <!-- Optional screenshot type -->
   <string name="screenshot_type_title">Screenshot type</string>
   <string name="screenshot_type_fullscreen">全屏截图</string>
-  <string name="screenshot_type_partial">Drag selection to take a partial screenshot</string>
+  <string name="screenshot_type_partial">拖动选择的局部截图</string>
   <!-- Quick unlock -->
-  <string name="unlock_quick_unlock_control_title">Quick unlock</string>
-  <string name="unlock_quick_unlock_control_summary_password">Unlock automatically when the correct password is entered</string>
-  <string name="unlock_quick_unlock_control_summary_pin">Unlock automatically when the correct PIN is entered</string>
+  <string name="unlock_quick_unlock_control_title">快速解锁</string>
+  <string name="unlock_quick_unlock_control_summary_password">当输入正确的密码时自动解锁</string>
+  <string name="unlock_quick_unlock_control_summary_pin">当输入正确的 PIN 时自动解锁</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">Notification ticker</string>
-  <string name="ticker_summary">Enable the notification ticker in the status bar</string>
+  <string name="ticker_title">通知预览</string>
+  <string name="ticker_summary">在状态栏上显示通知预览</string>
   <!-- Notification Ticker Track-->
   <string name="ticker_track_title">Notification ticker music tracks</string>
   <string name="ticker_track_summary">Show the metadata in the status bar when a new track plays</string>
@@ -63,7 +63,7 @@
   <string name="lockscreen_enable_power_menu_title">Secure lockscreen</string>
   <string name="lockscreen_enable_power_menu_summary">Prevent access to quick settings and power menu</string>
   <!-- Settings suggestions  -->
-  <string name="disable_settings_suggestions_title">Disable suggestions</string>
+  <string name="disable_settings_suggestions_title">禁用建议</string>
   <string name="disable_settings_suggestions_summary">Disable suggestions on the dashboard</string>
   <!-- Custom carrier label and position -->
   <string name="keyguard_show_carrier_title">Hide carrier label</string>
@@ -137,7 +137,7 @@
   <string name="fp_unlock_keystore_title">指纹解锁</string>
   <string name="fp_unlock_password_summary">在重启后无须输入密码直接使用指纹解锁设备</string>
   <string name="fp_unlock_pattern_summary">在重启后无须绘制图案直接使用指纹解锁设备</string>
-  <string name="fp_unlock_pin_summary">在重启后无须输入PIN直接使用指纹解锁设备</string>
+  <string name="fp_unlock_pin_summary">在重启后无须输入 PIN 直接使用指纹解锁设备</string>
   <!-- Force expanded notifications -->
   <string name="expanded_notifications_title">强制展开通知</string>
   <string name="expanded_notifications_summary">如通知支持则总是显示展开后通知</string>
