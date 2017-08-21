@@ -101,10 +101,10 @@
   <string name="heads_up_time_out_8sec">8 秒</string>
   <string name="heads_up_time_out_10sec">10 秒</string>
   <!-- Heads up snooze -->
-  <string name="heads_up_snooze_title">浮动通知延迟</string>
-  <string name="heads_up_snooze_summary_one_minute">Swiping up on heads up notifications will snooze them for that application for 1 minute</string>
-  <string name="heads_up_snooze_summary">Swiping up on heads up notifications will snooze them for that application for <xliff:g id="number">%d</xliff:g> minutes</string>
-  <string name="heads_up_snooze_disabled_summary">已禁用延迟</string>
+  <string name="heads_up_snooze_title">浮动通知延时</string>
+  <string name="heads_up_snooze_summary_one_minute">上滑浮动通知将使通知显示延时 1 分钟</string>
+  <string name="heads_up_snooze_summary">上滑浮动通知将使通知显示延时 <xliff:g id="number">%d</xliff:g> 分钟</string>
+  <string name="heads_up_snooze_disabled_summary">已禁用延时</string>
   <string name="heads_up_snooze_1min">1 分钟</string>
   <string name="heads_up_snooze_3min">3 分钟</string>
   <string name="heads_up_snooze_5min">5 分钟</string>
