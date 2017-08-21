@@ -46,7 +46,7 @@
   <!-- OpenDelta updates -->
   <string name="deltaupdate_settings_title">系统更新</string>
   <!-- Optional screenshot type -->
-  <string name="screenshot_type_title">Screenshot type</string>
+  <string name="screenshot_type_title">屏幕截图类型</string>
   <string name="screenshot_type_fullscreen">全屏截图</string>
   <string name="screenshot_type_partial">拖动选择的局部截图</string>
   <!-- Quick unlock -->
@@ -57,8 +57,8 @@
   <string name="ticker_title">通知预览</string>
   <string name="ticker_summary">在状态栏上显示通知预览</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Notification ticker music tracks</string>
-  <string name="ticker_track_summary">Show the metadata in the status bar when a new track plays</string>
+  <string name="ticker_track_title">音乐曲目预览</string>
+  <string name="ticker_track_summary">当播放歌曲时在状态栏上显示曲目信息</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">安全锁屏</string>
   <string name="lockscreen_enable_power_menu_summary">防止访问快速设置和电源菜单</string>
