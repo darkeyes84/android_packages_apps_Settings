@@ -64,22 +64,22 @@
   <string name="lockscreen_enable_power_menu_summary">Prevent access to quick settings and power menu</string>
   <!-- Settings suggestions  -->
   <string name="disable_settings_suggestions_title">禁用建议</string>
-  <string name="disable_settings_suggestions_summary">Disable suggestions on the dashboard</string>
+  <string name="disable_settings_suggestions_summary">在设置内禁用建议</string>
   <!-- Custom carrier label and position -->
-  <string name="keyguard_show_carrier_title">Hide carrier label</string>
-  <string name="keyguard_show_carrier_summary">Hide the carrier label on the keyguard</string>
-  <string name="custom_carrier_label_title">Custom carrier label</string>
-  <string name="custom_carrier_label_explain">Please enter a new label or leave blank to revert to stock label</string>
-  <string name="custom_carrier_label_notset">Custom label currently not set</string>
-  <string name="one_hand_mode_title">One hand mode</string>
-  <string name="one_hand_mode_summary">Swipe on the navigation bar to enable one hand mode</string>
+  <string name="keyguard_show_carrier_title">隐藏运营商名称</string>
+  <string name="keyguard_show_carrier_summary">在锁屏内隐藏运营商名称</string>
+  <string name="custom_carrier_label_title">自定义运营商名称</string>
+  <string name="custom_carrier_label_explain">请输入一个新名称，留空将恢复至默认的运营商名称</string>
+  <string name="custom_carrier_label_notset">当前未设置自定义名称</string>
+  <string name="one_hand_mode_title">单手模式</string>
+  <string name="one_hand_mode_summary">在导航栏上滑动以启动单手模式</string>
   <!-- Advanced night mode brightness -->
-  <string name="night_brightness_category">Brightness</string>
-  <string name="night_brightness_value_title">Night Light brightness</string>
-  <string name="night_brightness_text">When Night Light is enabled, automatically set the desired brightness.</string>
-  <string name="night_bright_disabled">Disabled</string>
-  <string name="night_bright_min">Minimum brightness</string>
-  <string name="night_bright_low">Low brightness</string>
+  <string name="night_brightness_category">亮度</string>
+  <string name="night_brightness_value_title">夜间模式亮度</string>
+  <string name="night_brightness_text">当夜间模式启动时将自动设置合适的亮度。</string>
+  <string name="night_bright_disabled">禁用</string>
+  <string name="night_bright_min">最低亮度</string>
+  <string name="night_bright_low">低亮度</string>
   <string name="night_bright_medium">中等亮度</string>
   <string name="magisk_title">Magisk 管理器</string>
   <string name="magisk_summary">控制模块和设置</string>
@@ -89,8 +89,8 @@
   <string name="incall_vibrate_connect_title">接通时振动</string>
   <string name="incall_vibrate_call_wait_title">呼叫等待时振动</string>
   <string name="incall_vibrate_disconnect_title">挂断时振动</string>
-  <string name="doze_brightness_level_title">Ambient display brightness</string>
-  <string name="doze_brightness_level_summary">Adjust the brightness level for ambient display</string>
+  <string name="doze_brightness_level_title">环境显示亮度</string>
+  <string name="doze_brightness_level_summary">调整环境显示的亮度级别</string>
   <!-- Heads up timeout -->
   <string name="heads_up_time_out_title">浮动通知超时</string>
   <string name="heads_up_time_out_summary">浮动通知将显示 <xliff:g id="number">%d</xliff:g> 秒</string>
