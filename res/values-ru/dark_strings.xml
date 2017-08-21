@@ -143,7 +143,7 @@
   <string name="expanded_notifications_summary">Всегда показывать расширенные уведомления если поддерживает</string>
   <!-- Color engine -->
   <string name="theme_switch_palette">Переключение между основным и дополнительным цветом</string>
-  <string name="theme_title">Color engine</string>
+  <string name="theme_title">Цветовая схема</string>
   <string name="theme_summary">Выберите различные цвета для вашей текущей темы</string>
   <string name="theme_accent_color">Контрастный цвет</string>
   <string name="theme_primary_color">Цвет фона</string>
