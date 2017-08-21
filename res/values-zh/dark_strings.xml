@@ -44,10 +44,10 @@
   <string name="volume_steps_7">7</string>
   <string name="volume_steps_5">5</string>
   <!-- OpenDelta updates -->
-  <string name="deltaupdate_settings_title">System updates</string>
+  <string name="deltaupdate_settings_title">系统更新</string>
   <!-- Optional screenshot type -->
   <string name="screenshot_type_title">Screenshot type</string>
-  <string name="screenshot_type_fullscreen">Take fullscreen screenshots</string>
+  <string name="screenshot_type_fullscreen">全屏截图</string>
   <string name="screenshot_type_partial">Drag selection to take a partial screenshot</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Quick unlock</string>
@@ -80,31 +80,31 @@
   <string name="night_bright_disabled">Disabled</string>
   <string name="night_bright_min">Minimum brightness</string>
   <string name="night_bright_low">Low brightness</string>
-  <string name="night_bright_medium">Medium brightness</string>
-  <string name="magisk_title">Magisk Manager</string>
-  <string name="magisk_summary">Control modules and settings</string>
+  <string name="night_bright_medium">中等亮度</string>
+  <string name="magisk_title">Magisk 管理器</string>
+  <string name="magisk_summary">控制模块和设置</string>
   <string name="substratum_title">Substratum</string>
-  <string name="substratum_summary">Customize device theme</string>
+  <string name="substratum_summary">自定义设备主题</string>
   <!-- Incall vibrate options -->
-  <string name="incall_vibrate_connect_title">Vibrate on call connect</string>
-  <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
-  <string name="incall_vibrate_disconnect_title">Vibrate on call disconnect</string>
+  <string name="incall_vibrate_connect_title">接通时振动</string>
+  <string name="incall_vibrate_call_wait_title">呼叫等待时振动</string>
+  <string name="incall_vibrate_disconnect_title">挂断时振动</string>
   <string name="doze_brightness_level_title">Ambient display brightness</string>
   <string name="doze_brightness_level_summary">Adjust the brightness level for ambient display</string>
   <!-- Heads up timeout -->
-  <string name="heads_up_time_out_title">Heads up timeout</string>
-  <string name="heads_up_time_out_summary">Heads up notifications will show for <xliff:g id="number">%d</xliff:g> seconds</string>
-  <string name="heads_up_time_out_2sec">2 seconds</string>
-  <string name="heads_up_time_out_4sec">4 seconds</string>
-  <string name="heads_up_time_out_5sec">5 seconds</string>
-  <string name="heads_up_time_out_6sec">6 seconds</string>
-  <string name="heads_up_time_out_8sec">8 seconds</string>
-  <string name="heads_up_time_out_10sec">10 seconds</string>
+  <string name="heads_up_time_out_title">浮动通知超时</string>
+  <string name="heads_up_time_out_summary">浮动通知将显示 <xliff:g id="number">%d</xliff:g> 秒</string>
+  <string name="heads_up_time_out_2sec">2 秒</string>
+  <string name="heads_up_time_out_4sec">4 秒</string>
+  <string name="heads_up_time_out_5sec">5 秒</string>
+  <string name="heads_up_time_out_6sec">6 秒</string>
+  <string name="heads_up_time_out_8sec">8 秒</string>
+  <string name="heads_up_time_out_10sec">10 秒</string>
   <!-- Heads up snooze -->
-  <string name="heads_up_snooze_title">Heads up snooze</string>
+  <string name="heads_up_snooze_title">浮动通知延迟</string>
   <string name="heads_up_snooze_summary_one_minute">Swiping up on heads up notifications will snooze them for that application for 1 minute</string>
   <string name="heads_up_snooze_summary">Swiping up on heads up notifications will snooze them for that application for <xliff:g id="number">%d</xliff:g> minutes</string>
-  <string name="heads_up_snooze_disabled_summary">Snooze is disabled</string>
+  <string name="heads_up_snooze_disabled_summary">已禁用延迟</string>
   <string name="heads_up_snooze_1min">1 分钟</string>
   <string name="heads_up_snooze_3min">3 分钟</string>
   <string name="heads_up_snooze_5min">5 分钟</string>
@@ -135,9 +135,9 @@
   <string name="battery_light_zen_mode">电量指示灯</string>
   <!-- Fingerprint unlock keystore -->
   <string name="fp_unlock_keystore_title">指纹解锁</string>
-  <string name="fp_unlock_password_summary">Unlock device with fingerprint after reboot without password</string>
-  <string name="fp_unlock_pattern_summary">Unlock device with fingerprint after reboot without pattern</string>
-  <string name="fp_unlock_pin_summary">在重启后无须PIN直接使用指纹解锁设备</string>
+  <string name="fp_unlock_password_summary">在重启后无须输入密码直接使用指纹解锁设备</string>
+  <string name="fp_unlock_pattern_summary">在重启后无须绘制图案直接使用指纹解锁设备</string>
+  <string name="fp_unlock_pin_summary">在重启后无须输入PIN直接使用指纹解锁设备</string>
   <!-- Force expanded notifications -->
   <string name="expanded_notifications_title">强制展开通知</string>
   <string name="expanded_notifications_summary">如通知支持则总是显示展开后通知</string>
