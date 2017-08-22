@@ -142,14 +142,14 @@
   <string name="expanded_notifications_title">Erzwinge erweiterte Benachrichtigungen</string>
   <string name="expanded_notifications_summary">Immer erweiterte Benachrichtigungen anzeigen, sofern unterstützt</string>
   <!-- Color engine -->
-  <string name="theme_switch_palette">Switch between background and accent colors</string>
-  <string name="theme_title">Color engine</string>
-  <string name="theme_summary">Select different colors for your current theme</string>
-  <string name="theme_accent_color">Accent color</string>
-  <string name="theme_primary_color">Background color</string>
-  <string name="theme">Theme</string>
-  <string name="oms_enabled">Theme modes unavailable because a Substratum theme is currently applied</string>
-  <string name="red">Red</string>
+  <string name="theme_switch_palette">Wechsel zwischen Haupt- und Akzentfarben</string>
+  <string name="theme_title">Farbanpassung</string>
+  <string name="theme_summary">Wähle verschiedene Farben für das aktuelle Schema</string>
+  <string name="theme_accent_color">Akzentfarbe</string>
+  <string name="theme_primary_color">Hintergrundfarbe</string>
+  <string name="theme">Erscheinungsbild</string>
+  <string name="oms_enabled">Erscheinungsbildänderungsmodus nicht verfügbar weil ein Substratum Erscheinungsbild aktiv ist</string>
+  <string name="red">Rot</string>
   <string name="orange">Orange</string>
   <string name="blue">Teal</string>
   <string name="green">Green</string>
