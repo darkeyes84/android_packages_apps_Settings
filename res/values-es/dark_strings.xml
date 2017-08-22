@@ -48,7 +48,7 @@
   <!-- Optional screenshot type -->
   <string name="screenshot_type_title">Tipo de captura de pantalla</string>
   <string name="screenshot_type_fullscreen">Tomar capturas de pantalla completa</string>
-  <string name="screenshot_type_partial">Arrastras selección para tomar una captura de pantalla parcial</string>
+  <string name="screenshot_type_partial">Seleccione arrastrando para tomar una captura de pantalla parcial</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Desbloqueo rápido</string>
   <string name="unlock_quick_unlock_control_summary_password">Desbloquear automáticamente cuando se introduce la contraseña correcta</string>
@@ -64,7 +64,7 @@
   <string name="lockscreen_enable_power_menu_summary">Prevenir acceso a ajustes rápidos y al menú de apagado</string>
   <!-- Settings suggestions  -->
   <string name="disable_settings_suggestions_title">Desactivar sugerencias</string>
-  <string name="disable_settings_suggestions_summary">Desactivar sugerencias en el dashboard</string>
+  <string name="disable_settings_suggestions_summary">Desactivar sugerencias en el tablero</string>
   <!-- Custom carrier label and position -->
   <string name="keyguard_show_carrier_title">Ocultar nombre de la operadora</string>
   <string name="keyguard_show_carrier_summary">Ocultar el nombre de la operadora en la pantalla de bloqueo</string>
@@ -86,7 +86,7 @@
   <string name="substratum_title">Substratum</string>
   <string name="substratum_summary">Personalizar el tema de dispositivo</string>
   <!-- Incall vibrate options -->
-  <string name="incall_vibrate_connect_title">Vibrar al conectar con la llamada</string>
+  <string name="incall_vibrate_connect_title">Vibrar al conectar la llamada</string>
   <string name="incall_vibrate_call_wait_title">Vibrar en llamada en espera</string>
   <string name="incall_vibrate_disconnect_title">Vibrar al desconectar con la llamada</string>
   <string name="doze_brightness_level_title">Brillo en pantalla ambiente</string>
