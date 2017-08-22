@@ -26,7 +26,7 @@
   <string name="show_next_alarm_lockscreen_summary">Afficher la prochaine alarme sur l\'écran de verrouillage</string>
   <!-- Disabling immersive mode messages -->
   <string name="disable_immersive_message_title">Désactiver les messages du mode immersif</string>
-  <string name="disable_immersive_message_summary">This will hide all immersive mode messages</string>
+  <string name="disable_immersive_message_summary">Ceci masquera tous les messages du mode immersif</string>
   <!-- Volume Steps -->
   <string name="volume_steps_title">Incrémentation du volume</string>
   <string name="volume_steps_alarm_title">Niveaux du volume : Alarme</string>
@@ -69,14 +69,14 @@
   <string name="keyguard_show_carrier_title">Masquer le nom de l\'opérateur</string>
   <string name="keyguard_show_carrier_summary">Masquer le nom de l\'opérateur sur l\'écran de verrouillage</string>
   <string name="custom_carrier_label_title">Personnaliser le nom de l\'opérateur</string>
-  <string name="custom_carrier_label_explain">Please enter a new label or leave blank to revert to stock label</string>
-  <string name="custom_carrier_label_notset">Custom label currently not set</string>
+  <string name="custom_carrier_label_explain">Veuillez saisir un nouveau nom ou laisser vide pour revenir au nom par défaut</string>
+  <string name="custom_carrier_label_notset">Nom d\'opérateur personnalisée non défini</string>
   <string name="one_hand_mode_title">Mode à une main</string>
   <string name="one_hand_mode_summary">Glisser sur la barre de navigation pour activer le mode à une main</string>
   <!-- Advanced night mode brightness -->
   <string name="night_brightness_category">Luminosité</string>
   <string name="night_brightness_value_title">Éclairage nocturne</string>
-  <string name="night_brightness_text">When Night Light is enabled, automatically set the desired brightness.</string>
+  <string name="night_brightness_text">Lorsque la veilleuse est activé, réglez automatiquement la luminosité souhaitée.</string>
   <string name="night_bright_disabled">Désactivé</string>
   <string name="night_bright_min">Luminosité minimale</string>
   <string name="night_bright_low">Luminosité faible</string>
@@ -89,8 +89,8 @@
   <string name="incall_vibrate_connect_title">Vibrer lorsque l\'appel est décroché</string>
   <string name="incall_vibrate_call_wait_title">Vibrer quand un appel est en attente</string>
   <string name="incall_vibrate_disconnect_title">Vibrer lorsque l\'appel est raccroché</string>
-  <string name="doze_brightness_level_title">Ambient display brightness</string>
-  <string name="doze_brightness_level_summary">Adjust the brightness level for ambient display</string>
+  <string name="doze_brightness_level_title">Niveau de luminosité de l\'affichage en mode Veille</string>
+  <string name="doze_brightness_level_summary">Ajuster le niveau de luminosité pour le mode affichage ambiant</string>
   <!-- Heads up timeout -->
   <string name="heads_up_time_out_title">Heads up timeout</string>
   <string name="heads_up_time_out_summary">Heads up notifications will show for <xliff:g id="number">%d</xliff:g> seconds</string>
