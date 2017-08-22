@@ -142,13 +142,13 @@
   <string name="expanded_notifications_title">Wymusić rozszerzone powiadomienia</string>
   <string name="expanded_notifications_summary">Zawsze pokazuj rozszerzone powiadomienia gdy obsługiwane</string>
   <!-- Color engine -->
-  <string name="theme_switch_palette">Przełącz pomiędzy kolorem tła i dodatkowym</string>
-  <string name="theme_title">Color engine</string>
+  <string name="theme_switch_palette">Przełącz pomiędzy kolorem głównym i akcentu</string>
+  <string name="theme_title">Aplikacja Color Engine</string>
   <string name="theme_summary">Wybierz inne kolory dla aktualnego motywu</string>
   <string name="theme_accent_color">Kolor akcentu</string>
   <string name="theme_primary_color">Główny kolor</string>
   <string name="theme">Motyw</string>
-  <string name="oms_enabled">Color engine jest niedostępny, ponieważ aktualnie używane jest motyw Substratum</string>
+  <string name="oms_enabled">Aplikacja Color Engine jest niedostępna, ponieważ aktualnie używany jest motyw Substratum</string>
   <string name="red">Czerwony</string>
   <string name="orange">Pomarańczowy</string>
   <string name="blue">Morski</string>
