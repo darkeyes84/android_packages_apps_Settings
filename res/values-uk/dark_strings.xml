@@ -23,7 +23,7 @@
   <string name="left_default_voice_summary_off">Телефон</string>
   <!-- Hide the next alarm on lockscreen -->
   <string name="show_next_alarm_lockscreen_title">Показати наступний будильник</string>
-  <string name="show_next_alarm_lockscreen_summary">Показувати на екрані блокування наступний будильник, коли встановлено</string>
+  <string name="show_next_alarm_lockscreen_summary">Показувати на екрані блокування наступний будильник, коли його встановлено</string>
   <!-- Disabling immersive mode messages -->
   <string name="disable_immersive_message_title">Вимкнути повідомлення розширеного екрану</string>
   <string name="disable_immersive_message_summary">Це дозволить приховати всі повідомлення режиму розширеного екрану</string>
@@ -131,7 +131,7 @@
   <string name="disable_fullscreen_keyboard_title">Вимкнути повноекранний режим клавіатури</string>
   <string name="disable_fullscreen_keyboard_summary">Попередити використання повноекранного режиму клавіатури в ландшафті</string>
   <string name="tile_summary_title">Вимкнути резюме</string>
-  <string name="tile_summary">Вимкнути резюме в налаштуваннях</string>
+  <string name="tile_summary">Вимкнути доп. інформацію пунктів меню в налаштуванях</string>
   <string name="notification_light_zen_mode">LED-сповіщеннь</string>
   <string name="battery_light_zen_mode">LED-батареї</string>
   <!-- Fingerprint unlock keystore -->
