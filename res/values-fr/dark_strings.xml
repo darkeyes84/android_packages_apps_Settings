@@ -54,13 +54,13 @@
   <string name="unlock_quick_unlock_control_summary_password">Déverrouiller automatiquement l\'appareil lorsque le mot de passe est correct</string>
   <string name="unlock_quick_unlock_control_summary_pin">Déverrouiller automatiquement l\'appareil lorsque le code PIN est correct</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">Notification ticker</string>
-  <string name="ticker_summary">Enable the notification ticker in the status bar</string>
+  <string name="ticker_title">Notifications dans la barre d\'état</string>
+  <string name="ticker_summary">Permet l\'affichage des notifications dans la barre d\'état</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Notification ticker music tracks</string>
-  <string name="ticker_track_summary">Show the metadata in the status bar when a new track plays</string>
+  <string name="ticker_track_title">Notifications pour les pistes musicales</string>
+  <string name="ticker_track_summary">Afficher les métadonnées dans la barre d\'état quand une nouvelle piste musicale est jouée</string>
   <!-- Secure lockscreen -->
-  <string name="lockscreen_enable_power_menu_title">Secure lockscreen</string>
+  <string name="lockscreen_enable_power_menu_title">Écran de verrouillage protégé</string>
   <string name="lockscreen_enable_power_menu_summary">Empêche l’accès aux paramètres rapides et au menu d\'alimentation</string>
   <!-- Settings suggestions  -->
   <string name="disable_settings_suggestions_title">Désactiver les suggestions</string>
