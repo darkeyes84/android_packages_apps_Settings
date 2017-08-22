@@ -76,7 +76,7 @@
   <!-- Advanced night mode brightness -->
   <string name="night_brightness_category">Luminosité</string>
   <string name="night_brightness_value_title">Éclairage nocturne</string>
-  <string name="night_brightness_text">Lorsque la veilleuse est activé, réglez automatiquement la luminosité souhaitée.</string>
+  <string name="night_brightness_text">Lorsque le mode éclairage nocturne est activé, permet de définir le niveau de luminosité.</string>
   <string name="night_bright_disabled">Désactivé</string>
   <string name="night_bright_min">Luminosité minimale</string>
   <string name="night_bright_low">Luminosité faible</string>
@@ -112,8 +112,8 @@
   <string name="heads_up_snooze_15min">15 minutes</string>
   <string name="heads_up_snooze_20min">20 minutes</string>
   <!-- Recents panel settings -->
-  <string name="show_clear_all_recents_button_title">Activer le bouton \"tout effacer\"</string>
-  <string name="show_clear_all_recents_button_summary">Afficher le bouton \"Tout effacer\"</string>
+  <string name="show_clear_all_recents_button_title">Activer le bouton \"Tout effacer\"</string>
+  <string name="show_clear_all_recents_button_summary">Afficher le bouton \"Tout effacer\" lorsque vous parcourez les applications récentes</string>
   <string name="recents_clear_all_location_title">Position du bouton \"Tout effacer\"</string>
   <string name="recents_clear_all_location_stock">En haut à droite (masquage automatique)</string>
   <string name="recents_clear_all_location_top_right">En haut à droite</string>
