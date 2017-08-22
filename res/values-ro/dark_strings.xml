@@ -134,33 +134,33 @@
   <string name="notification_light_zen_mode">Lumină de notificare</string>
   <string name="battery_light_zen_mode">Lumină baterie</string>
   <!-- Fingerprint unlock keystore -->
-  <string name="fp_unlock_keystore_title">Fingerprint unlock</string>
-  <string name="fp_unlock_password_summary">Unlock device with fingerprint after reboot without password</string>
-  <string name="fp_unlock_pattern_summary">Unlock device with fingerprint after reboot without pattern</string>
-  <string name="fp_unlock_pin_summary">Unlock device with fingerprint after reboot without pin</string>
+  <string name="fp_unlock_keystore_title">Deblocare cu amprentă</string>
+  <string name="fp_unlock_password_summary">Deblochează dispozitivul cu ajutorul amprentei fără parolă după repornire</string>
+  <string name="fp_unlock_pattern_summary">Deblochează dispozitivul cu ajutorul amprentei fără desen după repornire</string>
+  <string name="fp_unlock_pin_summary">Deblochează dispozitivul cu ajutorul amprentei fără pin după repornire</string>
   <!-- Force expanded notifications -->
-  <string name="expanded_notifications_title">Force expanded notifications</string>
+  <string name="expanded_notifications_title">Forţează extindere notificări</string>
   <string name="expanded_notifications_summary">Always show expanded notifications when supported</string>
   <!-- Color engine -->
   <string name="theme_switch_palette">Switch between background and accent colors</string>
-  <string name="theme_title">Color engine</string>
-  <string name="theme_summary">Select different colors for your current theme</string>
-  <string name="theme_accent_color">Accent color</string>
-  <string name="theme_primary_color">Background color</string>
-  <string name="theme">Theme</string>
+  <string name="theme_title">Instrument de culoare</string>
+  <string name="theme_summary">Selectaţi culori diferite pentru tema curentă</string>
+  <string name="theme_accent_color">Culoare accent</string>
+  <string name="theme_primary_color">Culoare de fundal</string>
+  <string name="theme">Temă</string>
   <string name="oms_enabled">Theme modes unavailable because a Substratum theme is currently applied</string>
-  <string name="red">Red</string>
-  <string name="orange">Orange</string>
-  <string name="blue">Teal</string>
-  <string name="green">Green</string>
-  <string name="yellow">Yellow</string>
-  <string name="purple">Purple</string>
-  <string name="pink">Pink</string>
-  <string name="black">Black</string>
-  <string name="dark">Dark</string>
+  <string name="red">Roșu</string>
+  <string name="orange">Portocaliu</string>
+  <string name="blue">Verde pin</string>
+  <string name="green">Verde</string>
+  <string name="yellow">Galben</string>
+  <string name="purple">Violet</string>
+  <string name="pink">Roz</string>
+  <string name="black">Negru</string>
+  <string name="dark">Întunecat</string>
   <string name="pixel">Pixel</string>
-  <string name="teal">Blue</string>
-  <string name="cyan">Cyan</string>
-  <string name="grey">Grey</string>
-  <string name="white">White</string>
+  <string name="teal">Albastru</string>
+  <string name="cyan">Turcoaz</string>
+  <string name="grey">Gri</string>
+  <string name="white">Alb</string>
 </resources>
