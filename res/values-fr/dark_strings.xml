@@ -134,21 +134,21 @@
   <string name="notification_light_zen_mode">Voyant de notification</string>
   <string name="battery_light_zen_mode">Voyant batterie</string>
   <!-- Fingerprint unlock keystore -->
-  <string name="fp_unlock_keystore_title">Fingerprint unlock</string>
-  <string name="fp_unlock_password_summary">Unlock device with fingerprint after reboot without password</string>
-  <string name="fp_unlock_pattern_summary">Unlock device with fingerprint after reboot without pattern</string>
-  <string name="fp_unlock_pin_summary">Unlock device with fingerprint after reboot without pin</string>
+  <string name="fp_unlock_keystore_title">Déverrouiller avec l\'empreinte digitale</string>
+  <string name="fp_unlock_password_summary">Déverrouiller l’appareil avec l\'empreinte digitale après un redémarrage, sans saisir le mot de passe</string>
+  <string name="fp_unlock_pattern_summary">Déverrouiller l’appareil avec l\'empreinte digitale après un redémarrage, sans dessiner le schéma</string>
+  <string name="fp_unlock_pin_summary">Déverrouiller l’appareil avec l\'empreinte digitale après un redémarrage, sans saisir le code pin</string>
   <!-- Force expanded notifications -->
   <string name="expanded_notifications_title">Forcer le mode étendu des notifications</string>
-  <string name="expanded_notifications_summary">Always show expanded notifications when supported</string>
+  <string name="expanded_notifications_summary">Toujours affiché des notifications étendues lorsque c\'est pris en charge</string>
   <!-- Color engine -->
-  <string name="theme_switch_palette">Switch between background and accent colors</string>
-  <string name="theme_title">Color engine</string>
-  <string name="theme_summary">Select different colors for your current theme</string>
+  <string name="theme_switch_palette">Basculer entre la couleur de fond et les couleurs d\'accentuations</string>
+  <string name="theme_title">Moteur de couleur</string>
+  <string name="theme_summary">Sélectionner différentes couleurs de votre thème actuel</string>
   <string name="theme_accent_color">Couleur d\'accentuation</string>
   <string name="theme_primary_color">Couleur d\'arrière-plan</string>
   <string name="theme">Thème</string>
-  <string name="oms_enabled">Theme modes unavailable because a Substratum theme is currently applied</string>
+  <string name="oms_enabled">Les thèmes sont désactivé car un thème Substratum a été appliqué</string>
   <string name="red">Rouge</string>
   <string name="orange">Orange</string>
   <string name="blue">Turquoise</string>
