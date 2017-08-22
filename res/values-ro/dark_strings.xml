@@ -140,15 +140,15 @@
   <string name="fp_unlock_pin_summary">Deblochează dispozitivul cu ajutorul amprentei fără pin după repornire</string>
   <!-- Force expanded notifications -->
   <string name="expanded_notifications_title">Forţează extindere notificări</string>
-  <string name="expanded_notifications_summary">Always show expanded notifications when supported</string>
+  <string name="expanded_notifications_summary">Întotdeauna arată notificările extinse când sunt acceptate</string>
   <!-- Color engine -->
-  <string name="theme_switch_palette">Switch between background and accent colors</string>
+  <string name="theme_switch_palette">Comută între culorile de fundal şi accent</string>
   <string name="theme_title">Instrument de culoare</string>
   <string name="theme_summary">Selectaţi culori diferite pentru tema curentă</string>
   <string name="theme_accent_color">Culoare accent</string>
   <string name="theme_primary_color">Culoare de fundal</string>
   <string name="theme">Temă</string>
-  <string name="oms_enabled">Theme modes unavailable because a Substratum theme is currently applied</string>
+  <string name="oms_enabled">Temele sunt indisponibile deoarece o temă Substratum este aplicată în prezent</string>
   <string name="red">Roșu</string>
   <string name="orange">Portocaliu</string>
   <string name="blue">Verde pin</string>
