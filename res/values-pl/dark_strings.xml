@@ -143,12 +143,12 @@
   <string name="expanded_notifications_summary">Zawsze pokazuj rozszerzone powiadomienia gdy obsługiwane</string>
   <!-- Color engine -->
   <string name="theme_switch_palette">Przełącz pomiędzy kolorem tła i akcentu</string>
-  <string name="theme_title">Aplikacja Color engine</string>
+  <string name="theme_title">Color engine</string>
   <string name="theme_summary">Wybierz inne kolory dla aktualnego motywu</string>
   <string name="theme_accent_color">Kolor akcentów</string>
   <string name="theme_primary_color">Kolor tła</string>
   <string name="theme">Motyw</string>
-  <string name="oms_enabled">Aplikacja Color engine jest niedostępna, ponieważ aktualnie używane jest motyw Substratum</string>
+  <string name="oms_enabled">Color engine jest niedostępny, ponieważ aktualnie używane jest motyw Substratum</string>
   <string name="red">Czerwony</string>
   <string name="orange">Pomarańczowy</string>
   <string name="blue">Morski</string>
@@ -158,7 +158,7 @@
   <string name="pink">Różowy</string>
   <string name="black">Czarny</string>
   <string name="dark">Ciemny</string>
-  <string name="pixel">Pixel</string>
+  <string name="pixel">Piksel</string>
   <string name="teal">Niebieski</string>
   <string name="cyan">Turkusowy</string>
   <string name="grey">Szary</string>
