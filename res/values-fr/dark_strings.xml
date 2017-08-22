@@ -82,7 +82,7 @@
   <string name="night_bright_low">Luminosité faible</string>
   <string name="night_bright_medium">Luminosité moyenne</string>
   <string name="magisk_title">Gestionnaire Magisk</string>
-  <string name="magisk_summary">Control modules and settings</string>
+  <string name="magisk_summary">Vérifiez les modules et les paramètres</string>
   <string name="substratum_title">Substratum</string>
   <string name="substratum_summary">Personnaliser le thème de l\'appareil</string>
   <!-- Incall vibrate options -->
@@ -92,8 +92,8 @@
   <string name="doze_brightness_level_title">Niveau de luminosité de l\'affichage en mode Veille</string>
   <string name="doze_brightness_level_summary">Ajuster le niveau de luminosité pour le mode affichage ambiant</string>
   <!-- Heads up timeout -->
-  <string name="heads_up_time_out_title">Heads up timeout</string>
-  <string name="heads_up_time_out_summary">Heads up notifications will show for <xliff:g id="number">%d</xliff:g> seconds</string>
+  <string name="heads_up_time_out_title">Délai de notification flottante</string>
+  <string name="heads_up_time_out_summary">Les notifications flottantes s\'afficheront pour <xliff:g id="number">%d</xliff:g> secondes</string>
   <string name="heads_up_time_out_2sec">2 secondes</string>
   <string name="heads_up_time_out_4sec">4 secondes</string>
   <string name="heads_up_time_out_5sec">5 secondes</string>
@@ -101,10 +101,10 @@
   <string name="heads_up_time_out_8sec">8 secondes</string>
   <string name="heads_up_time_out_10sec">10 secondes</string>
   <!-- Heads up snooze -->
-  <string name="heads_up_snooze_title">Heads up snooze</string>
-  <string name="heads_up_snooze_summary_one_minute">Swiping up on heads up notifications will snooze them for that application for 1 minute</string>
-  <string name="heads_up_snooze_summary">Swiping up on heads up notifications will snooze them for that application for <xliff:g id="number">%d</xliff:g> minutes</string>
-  <string name="heads_up_snooze_disabled_summary">Snooze is disabled</string>
+  <string name="heads_up_snooze_title">Désactiver les notifications flottantes</string>
+  <string name="heads_up_snooze_summary_one_minute">Glisser sur les notifications désactivera toutes les notifications flottantes de cette application pendant 1 minute</string>
+  <string name="heads_up_snooze_summary">Glisser sur les notifications désactivera toutes les notifications flottantes de cette application pendant <xliff:g id="number">%d</xliff:g> minutes</string>
+  <string name="heads_up_snooze_disabled_summary">Snooze est désactivé</string>
   <string name="heads_up_snooze_1min">1 minute</string>
   <string name="heads_up_snooze_3min">3 minutes</string>
   <string name="heads_up_snooze_5min">5 minutes</string>
@@ -124,11 +124,11 @@
   <string name="recents_clear_all_location_bottom_center">En bas au centre</string>
   <!-- Battery stats reset -->
   <string name="battery_stats_reset">Réinitialiser les statistiques</string>
-  <string name="battery_stats_message">Battery history will be removed</string>
+  <string name="battery_stats_message">L\'historique d\'utilisation de la batterie sera supprimé</string>
   <string name="ok_string">Ok</string>
   <!-- Fullscreen Keyboard -->
-  <string name="disable_fullscreen_keyboard_title">Disable fullscreen keyboard</string>
-  <string name="disable_fullscreen_keyboard_summary">Prevent keyboard from using the entire screen in landscape</string>
+  <string name="disable_fullscreen_keyboard_title">Désactiver le clavier plein écran</string>
+  <string name="disable_fullscreen_keyboard_summary">Empêcher le clavier d’utiliser la totalité de l’écran en mode paysage</string>
   <string name="tile_summary_title">Désactiver les résumés</string>
   <string name="tile_summary">Désactiver les résumés sur le tableau de bord</string>
   <string name="notification_light_zen_mode">Voyant de notification</string>
