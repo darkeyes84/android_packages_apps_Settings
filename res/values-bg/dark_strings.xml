@@ -143,7 +143,7 @@
   <string name="expanded_notifications_summary">Винаги показвай разширени известия когато се поддържат</string>
   <!-- Color engine -->
   <string name="theme_switch_palette">Превключване между фоновия и цвета за акцентиране</string>
-  <string name="theme_title">Color engine</string>
+  <string name="theme_title">Цветове</string>
   <string name="theme_summary">Изберете различни цветове за текущата тема</string>
   <string name="theme_accent_color">Цвят за акцентиране</string>
   <string name="theme_primary_color">Цвят на фона</string>
