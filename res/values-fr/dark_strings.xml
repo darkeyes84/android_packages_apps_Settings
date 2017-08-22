@@ -48,7 +48,7 @@
   <!-- Optional screenshot type -->
   <string name="screenshot_type_title">Type de capture d\'écran</string>
   <string name="screenshot_type_fullscreen">Prendre des captures d’écran en plein écran</string>
-  <string name="screenshot_type_partial">Drag selection to take a partial screenshot</string>
+  <string name="screenshot_type_partial">Faites glisser la sélection pour prendre une capture d’écran partielle</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Déverrouillage rapide</string>
   <string name="unlock_quick_unlock_control_summary_password">Déverrouiller automatiquement l\'appareil lorsque le mot de passe est correct</string>
