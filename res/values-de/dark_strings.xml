@@ -151,16 +151,16 @@
   <string name="oms_enabled">Erscheinungsbildänderungsmodus nicht verfügbar weil ein Substratum Erscheinungsbild aktiv ist</string>
   <string name="red">Rot</string>
   <string name="orange">Orange</string>
-  <string name="blue">Teal</string>
-  <string name="green">Green</string>
-  <string name="yellow">Yellow</string>
-  <string name="purple">Purple</string>
-  <string name="pink">Pink</string>
-  <string name="black">Black</string>
-  <string name="dark">Dark</string>
+  <string name="blue">Blaugrün</string>
+  <string name="green">Grün</string>
+  <string name="yellow">Gelb</string>
+  <string name="purple">Violett</string>
+  <string name="pink">Rosa</string>
+  <string name="black">Schwarz</string>
+  <string name="dark">Dunkel</string>
   <string name="pixel">Pixel</string>
-  <string name="teal">Blue</string>
-  <string name="cyan">Cyan</string>
-  <string name="grey">Grey</string>
-  <string name="white">White</string>
+  <string name="teal">Blau</string>
+  <string name="cyan">Türkis</string>
+  <string name="grey">Grau</string>
+  <string name="white">Weiß</string>
 </resources>
