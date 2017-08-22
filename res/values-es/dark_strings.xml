@@ -88,7 +88,7 @@
   <!-- Incall vibrate options -->
   <string name="incall_vibrate_connect_title">Vibrar al conectar la llamada</string>
   <string name="incall_vibrate_call_wait_title">Vibrar en llamada en espera</string>
-  <string name="incall_vibrate_disconnect_title">Vibrar al desconectar con la llamada</string>
+  <string name="incall_vibrate_disconnect_title">Vibrar al desconectar la llamada</string>
   <string name="doze_brightness_level_title">Brillo en pantalla ambiente</string>
   <string name="doze_brightness_level_summary">Ajustar el nivel de brillo para pantalla ambiente</string>
   <!-- Heads up timeout -->
@@ -130,9 +130,9 @@
   <string name="disable_fullscreen_keyboard_title">Desactivar el teclado a pantalla completa</string>
   <string name="disable_fullscreen_keyboard_summary">Evitar que el teclado use toda la pantalla en apaisado</string>
   <string name="tile_summary_title">Desactivar resúmenes</string>
-  <string name="tile_summary">Desactivar resúmenes en el dashboard</string>
+  <string name="tile_summary">Desactivar resúmenes en el tablero</string>
   <string name="notification_light_zen_mode">Luz de notificación</string>
-  <string name="battery_light_zen_mode">Indicador de batería</string>
+  <string name="battery_light_zen_mode">Luz indicadora de batería</string>
   <!-- Fingerprint unlock keystore -->
   <string name="fp_unlock_keystore_title">Desbloqueo con huella digital</string>
   <string name="fp_unlock_password_summary">Desbloquear el dispositivo con huella digital después de reiniciar sin contraseña</string>
