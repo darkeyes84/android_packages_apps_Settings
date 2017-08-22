@@ -145,9 +145,9 @@
   <string name="theme_switch_palette">Switch between background and accent colors</string>
   <string name="theme_title">Color engine</string>
   <string name="theme_summary">Select different colors for your current theme</string>
-  <string name="theme_accent_color">Accent color</string>
-  <string name="theme_primary_color">Background color</string>
-  <string name="theme">Theme</string>
+  <string name="theme_accent_color">Couleur d\'accentuation</string>
+  <string name="theme_primary_color">Couleur d\'arrière-plan</string>
+  <string name="theme">Thème</string>
   <string name="oms_enabled">Theme modes unavailable because a Substratum theme is currently applied</string>
   <string name="red">Rouge</string>
   <string name="orange">Orange</string>
@@ -161,6 +161,6 @@
   <string name="pixel">Pixel</string>
   <string name="teal">Bleu</string>
   <string name="cyan">Cyan</string>
-  <string name="grey">Grey</string>
-  <string name="white">White</string>
+  <string name="grey">Gris</string>
+  <string name="white">Blanc</string>
 </resources>
