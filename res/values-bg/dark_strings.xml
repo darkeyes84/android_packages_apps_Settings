@@ -141,4 +141,26 @@
   <!-- Force expanded notifications -->
   <string name="expanded_notifications_title">Налагане на разширени известия</string>
   <string name="expanded_notifications_summary">Винаги показвай разширени известия когато се поддържат</string>
+  <!-- Color engine -->
+  <string name="theme_switch_palette">Превключване между фоновия и цвета за акцентиране</string>
+  <string name="theme_title">Цветове</string>
+  <string name="theme_summary">Изберете различни цветове за текущата тема</string>
+  <string name="theme_accent_color">Цвят за акцентиране</string>
+  <string name="theme_primary_color">Цвят на фона</string>
+  <string name="theme">Тема (скин)</string>
+  <string name="oms_enabled">Темите са недостъпни, защото в момента е приложена Substratum тема</string>
+  <string name="red">Червено</string>
+  <string name="orange">Оранжево</string>
+  <string name="blue">Синьо-зелен</string>
+  <string name="green">Зелено</string>
+  <string name="yellow">Жълто</string>
+  <string name="purple">Лилаво</string>
+  <string name="pink">Розово</string>
+  <string name="black">Черно</string>
+  <string name="dark">Тъмен</string>
+  <string name="pixel">Пиксел</string>
+  <string name="teal">Синьо</string>
+  <string name="cyan">Циан</string>
+  <string name="grey">Сиво</string>
+  <string name="white">Бяло</string>
 </resources>

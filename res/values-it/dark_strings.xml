@@ -141,4 +141,26 @@
   <!-- Force expanded notifications -->
   <string name="expanded_notifications_title">Forza notifiche estese</string>
   <string name="expanded_notifications_summary">Espandi sempre le notifiche che lo supportano</string>
+  <!-- Color engine -->
+  <string name="theme_switch_palette">Passa tra colore di sfondo e colore dei particolari</string>
+  <string name="theme_title">Gestione colori</string>
+  <string name="theme_summary">Seleziona un colore diverso per il tuo tema attuale</string>
+  <string name="theme_accent_color">Colore dei particolari</string>
+  <string name="theme_primary_color">Colore di sfondo</string>
+  <string name="theme">Tema</string>
+  <string name="oms_enabled">Tema non applicabile perché è già stato applicato un tema Substratum</string>
+  <string name="red">Rosso</string>
+  <string name="orange">Arancione</string>
+  <string name="blue">Blu</string>
+  <string name="green">Verde</string>
+  <string name="yellow">Giallo</string>
+  <string name="purple">Viola</string>
+  <string name="pink">Rosa</string>
+  <string name="black">Nero</string>
+  <string name="dark">Scuro</string>
+  <string name="pixel">Pixel</string>
+  <string name="teal">Teal</string>
+  <string name="cyan">Azzurro</string>
+  <string name="grey">Grigio</string>
+  <string name="white">Bianco</string>
 </resources>

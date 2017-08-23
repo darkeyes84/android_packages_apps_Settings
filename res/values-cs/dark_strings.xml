@@ -141,4 +141,26 @@
   <!-- Force expanded notifications -->
   <string name="expanded_notifications_title">Vynutit rozšířené oznámení</string>
   <string name="expanded_notifications_summary">Vždy zobrazovat rozšířené oznámení, pokud je podporováno</string>
+  <!-- Color engine -->
+  <string name="theme_switch_palette">Přepínání mezi barvou pozadí a doplňkovými barvami</string>
+  <string name="theme_title">Nastavení barev</string>
+  <string name="theme_summary">Vybrat různé barvy pro aktuální motiv</string>
+  <string name="theme_accent_color">Doplňková barva</string>
+  <string name="theme_primary_color">Barva pozadí</string>
+  <string name="theme">Motiv</string>
+  <string name="oms_enabled">Režimy motivů nejsou k dispozici, protože je použit motiv Substratum</string>
+  <string name="red">Červená</string>
+  <string name="orange">Oranžová</string>
+  <string name="blue">Šedozelená</string>
+  <string name="green">Zelená</string>
+  <string name="yellow">Žlutá</string>
+  <string name="purple">Fialová</string>
+  <string name="pink">Růžová</string>
+  <string name="black">Černá</string>
+  <string name="dark">Tmavý</string>
+  <string name="pixel">Pixel</string>
+  <string name="teal">Modrá</string>
+  <string name="cyan">Tyrkysová</string>
+  <string name="grey">Šedá</string>
+  <string name="white">Bílá</string>
 </resources>

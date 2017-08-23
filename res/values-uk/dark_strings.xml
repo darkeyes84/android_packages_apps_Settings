@@ -23,7 +23,7 @@
   <string name="left_default_voice_summary_off">Телефон</string>
   <!-- Hide the next alarm on lockscreen -->
   <string name="show_next_alarm_lockscreen_title">Показати наступний будильник</string>
-  <string name="show_next_alarm_lockscreen_summary">Показувати на екрані блокування наступний будильник, коли встановлено</string>
+  <string name="show_next_alarm_lockscreen_summary">Показувати на екрані блокування наступний будильник, коли його встановлено</string>
   <!-- Disabling immersive mode messages -->
   <string name="disable_immersive_message_title">Вимкнути повідомлення розширеного екрану</string>
   <string name="disable_immersive_message_summary">Це дозволить приховати всі повідомлення режиму розширеного екрану</string>
@@ -131,7 +131,7 @@
   <string name="disable_fullscreen_keyboard_title">Вимкнути повноекранний режим клавіатури</string>
   <string name="disable_fullscreen_keyboard_summary">Попередити використання повноекранного режиму клавіатури в ландшафті</string>
   <string name="tile_summary_title">Вимкнути резюме</string>
-  <string name="tile_summary">Вимкнути резюме в налаштуваннях</string>
+  <string name="tile_summary">Вимкнути доп. інформацію пунктів меню в налаштуванях</string>
   <string name="notification_light_zen_mode">LED-сповіщеннь</string>
   <string name="battery_light_zen_mode">LED-батареї</string>
   <!-- Fingerprint unlock keystore -->
@@ -140,6 +140,28 @@
   <string name="fp_unlock_pattern_summary">Розблокувати пристрій за допомогою відбитка пальця після перезавантаження без ключа</string>
   <string name="fp_unlock_pin_summary">Розблокувати пристрій за допомогою відбитка пальця після перезавантаження без PIN-коду</string>
   <!-- Force expanded notifications -->
-  <string name="expanded_notifications_title">Розгорнуті сповіщення</string>
+  <string name="expanded_notifications_title">Примусово розгорнтати сповіщення</string>
   <string name="expanded_notifications_summary">Завжди показувати сповіщення повністю, якщо можна</string>
+  <!-- Color engine -->
+  <string name="theme_switch_palette">Перемкнутись між кольором фону та акценту</string>
+  <string name="theme_title">Палітра</string>
+  <string name="theme_summary">Оберіть різні кольори для поточної теми</string>
+  <string name="theme_accent_color">Колір акценту</string>
+  <string name="theme_primary_color">Колір фону</string>
+  <string name="theme">Тема</string>
+  <string name="oms_enabled">Теми недоступні, оскільки активна тема Substratum</string>
+  <string name="red">Червоний</string>
+  <string name="orange">Помаранчевий</string>
+  <string name="blue">Морський</string>
+  <string name="green">Зелений</string>
+  <string name="yellow">Жовтий</string>
+  <string name="purple">Фіолетовий</string>
+  <string name="pink">Рожевий</string>
+  <string name="black">Чорний</string>
+  <string name="dark">Темний</string>
+  <string name="pixel">Піксель</string>
+  <string name="teal">Синій</string>
+  <string name="cyan">Блакитний</string>
+  <string name="grey">Сірий</string>
+  <string name="white">Білий</string>
 </resources>

@@ -48,7 +48,7 @@
   <!-- Optional screenshot type -->
   <string name="screenshot_type_title">Tipo de captura de pantalla</string>
   <string name="screenshot_type_fullscreen">Tomar capturas de pantalla completa</string>
-  <string name="screenshot_type_partial">Arrastras selección para tomar una captura de pantalla parcial</string>
+  <string name="screenshot_type_partial">Seleccione arrastrando para tomar una captura de pantalla parcial</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Desbloqueo rápido</string>
   <string name="unlock_quick_unlock_control_summary_password">Desbloquear automáticamente cuando se introduce la contraseña correcta</string>
@@ -64,7 +64,7 @@
   <string name="lockscreen_enable_power_menu_summary">Prevenir acceso a ajustes rápidos y al menú de apagado</string>
   <!-- Settings suggestions  -->
   <string name="disable_settings_suggestions_title">Desactivar sugerencias</string>
-  <string name="disable_settings_suggestions_summary">Desactivar sugerencias en el dashboard</string>
+  <string name="disable_settings_suggestions_summary">Desactivar sugerencias en el tablero</string>
   <!-- Custom carrier label and position -->
   <string name="keyguard_show_carrier_title">Ocultar nombre de la operadora</string>
   <string name="keyguard_show_carrier_summary">Ocultar el nombre de la operadora en la pantalla de bloqueo</string>
@@ -86,9 +86,9 @@
   <string name="substratum_title">Substratum</string>
   <string name="substratum_summary">Personalizar el tema de dispositivo</string>
   <!-- Incall vibrate options -->
-  <string name="incall_vibrate_connect_title">Vibrar al conectar con la llamada</string>
+  <string name="incall_vibrate_connect_title">Vibrar al conectar la llamada</string>
   <string name="incall_vibrate_call_wait_title">Vibrar en llamada en espera</string>
-  <string name="incall_vibrate_disconnect_title">Vibrar al desconectar con la llamada</string>
+  <string name="incall_vibrate_disconnect_title">Vibrar al desconectar la llamada</string>
   <string name="doze_brightness_level_title">Brillo en pantalla ambiente</string>
   <string name="doze_brightness_level_summary">Ajustar el nivel de brillo para pantalla ambiente</string>
   <!-- Heads up timeout -->
@@ -130,9 +130,9 @@
   <string name="disable_fullscreen_keyboard_title">Desactivar el teclado a pantalla completa</string>
   <string name="disable_fullscreen_keyboard_summary">Evitar que el teclado use toda la pantalla en apaisado</string>
   <string name="tile_summary_title">Desactivar resúmenes</string>
-  <string name="tile_summary">Desactivar resúmenes en el dashboard</string>
+  <string name="tile_summary">Desactivar resúmenes en el tablero</string>
   <string name="notification_light_zen_mode">Luz de notificación</string>
-  <string name="battery_light_zen_mode">Indicador de batería</string>
+  <string name="battery_light_zen_mode">Luz indicadora de batería</string>
   <!-- Fingerprint unlock keystore -->
   <string name="fp_unlock_keystore_title">Desbloqueo con huella digital</string>
   <string name="fp_unlock_password_summary">Desbloquear el dispositivo con huella digital después de reiniciar sin contraseña</string>
@@ -141,4 +141,26 @@
   <!-- Force expanded notifications -->
   <string name="expanded_notifications_title">Forzar las notificaciones expandidas</string>
   <string name="expanded_notifications_summary">Mostrar siempre las notificaciones expandidas cuando sea posible</string>
+  <!-- Color engine -->
+  <string name="theme_switch_palette">Alternar colores de fondo y de acento</string>
+  <string name="theme_title">Editor de Colores</string>
+  <string name="theme_summary">Selecciona diferentes colores para tu tema actual</string>
+  <string name="theme_accent_color">Color de acento</string>
+  <string name="theme_primary_color">Color de fondo</string>
+  <string name="theme">Tema</string>
+  <string name="oms_enabled">Temas no disponibles porque un tema de Substratum está aplicado actualmente</string>
+  <string name="red">Rojo</string>
+  <string name="orange">Naranja</string>
+  <string name="blue">Verde Azulado</string>
+  <string name="green">Verde</string>
+  <string name="yellow">Amarillo</string>
+  <string name="purple">Violeta</string>
+  <string name="pink">Rosa</string>
+  <string name="black">Negro</string>
+  <string name="dark">Oscuro</string>
+  <string name="pixel">Píxel</string>
+  <string name="teal">Azul</string>
+  <string name="cyan">Cian</string>
+  <string name="grey">Gris</string>
+  <string name="white">Blanco</string>
 </resources>

@@ -173,7 +173,7 @@
     <string name="theme_accent_color">Accent color</string>
     <string name="theme_primary_color">Background color</string>
     <string name="theme">Theme</string>
-    <string name="oms_enabled">Theme modes unavailable because a Substratum theme is currently applied</string>
+    <string name="oms_enabled">Theme mode is unavailable because a Substratum theme is currently applied</string>
     <string name="red">Red</string>
     <string name="orange">Orange</string>
     <string name="blue">Teal</string>
