@@ -51,31 +51,31 @@
   <string name="screenshot_type_partial">Faça uma seleção para tirar uma captura de tela parcial</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Desbloqueio rápido</string>
-  <string name="unlock_quick_unlock_control_summary_password">Unlock automatically when the correct password is entered</string>
-  <string name="unlock_quick_unlock_control_summary_pin">Unlock automatically when the correct PIN is entered</string>
+  <string name="unlock_quick_unlock_control_summary_password">Desbloquear automaticamente quando a senha correta for inserido</string>
+  <string name="unlock_quick_unlock_control_summary_pin">Desbloquear automaticamente quando o PIN correto for inserido</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">Notification ticker</string>
-  <string name="ticker_summary">Enable the notification ticker in the status bar</string>
+  <string name="ticker_title">Notificação curta</string>
+  <string name="ticker_summary">Habilitar a notificação curta na barra de status</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Notification ticker music tracks</string>
-  <string name="ticker_track_summary">Show the metadata in the status bar when a new track plays</string>
+  <string name="ticker_track_title">A notificação curta rastreia músicas</string>
+  <string name="ticker_track_summary">Mostrar os metadados na barra de status quando uma nova musica tocar</string>
   <!-- Secure lockscreen -->
-  <string name="lockscreen_enable_power_menu_title">Secure lockscreen</string>
-  <string name="lockscreen_enable_power_menu_summary">Prevent access to quick settings and power menu</string>
+  <string name="lockscreen_enable_power_menu_title">Segurança da tela de bloqueio ligada</string>
+  <string name="lockscreen_enable_power_menu_summary">Impedir o acesso às configurações rápidas e ao menu de energia</string>
   <!-- Settings suggestions  -->
-  <string name="disable_settings_suggestions_title">Disable suggestions</string>
-  <string name="disable_settings_suggestions_summary">Disable suggestions on the dashboard</string>
+  <string name="disable_settings_suggestions_title">Desativar sugestões</string>
+  <string name="disable_settings_suggestions_summary">Desactivar as sugestões no painel de controle</string>
   <!-- Custom carrier label and position -->
-  <string name="keyguard_show_carrier_title">Hide carrier label</string>
-  <string name="keyguard_show_carrier_summary">Hide the carrier label on the keyguard</string>
-  <string name="custom_carrier_label_title">Custom carrier label</string>
-  <string name="custom_carrier_label_explain">Please enter a new label or leave blank to revert to stock label</string>
-  <string name="custom_carrier_label_notset">Custom label currently not set</string>
-  <string name="one_hand_mode_title">One hand mode</string>
-  <string name="one_hand_mode_summary">Swipe on the navigation bar to enable one hand mode</string>
+  <string name="keyguard_show_carrier_title">Ocultar nome da operadora de rede</string>
+  <string name="keyguard_show_carrier_summary">Ocultar a identificação da operadora de rede na tela de entrada de bloqueio</string>
+  <string name="custom_carrier_label_title">Personalizar nome de operadora de rede</string>
+  <string name="custom_carrier_label_explain">Por favor, insira um novo nome ou deixe em branco para reverter o nome padrão</string>
+  <string name="custom_carrier_label_notset">Nome personalizado atualmente não defenido</string>
+  <string name="one_hand_mode_title">Modo de uma mão</string>
+  <string name="one_hand_mode_summary">Deslize na barra de navegação para ativar o modo de uma mão</string>
   <!-- Advanced night mode brightness -->
-  <string name="night_brightness_category">Brightness</string>
-  <string name="night_brightness_value_title">Night Light brightness</string>
+  <string name="night_brightness_category">Brilho</string>
+  <string name="night_brightness_value_title">Brilho da luz noturna</string>
   <string name="night_brightness_text">When Night Light is enabled, automatically set the desired brightness.</string>
   <string name="night_bright_disabled">Disabled</string>
   <string name="night_bright_min">Minimum brightness</string>
