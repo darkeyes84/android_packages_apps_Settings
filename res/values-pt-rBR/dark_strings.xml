@@ -76,21 +76,21 @@
   <!-- Advanced night mode brightness -->
   <string name="night_brightness_category">Brilho</string>
   <string name="night_brightness_value_title">Brilho da luz noturna</string>
-  <string name="night_brightness_text">When Night Light is enabled, automatically set the desired brightness.</string>
-  <string name="night_bright_disabled">Disabled</string>
-  <string name="night_bright_min">Minimum brightness</string>
-  <string name="night_bright_low">Low brightness</string>
-  <string name="night_bright_medium">Medium brightness</string>
-  <string name="magisk_title">Magisk Manager</string>
-  <string name="magisk_summary">Control modules and settings</string>
+  <string name="night_brightness_text">Definir automaticamente o brilho desejado quando Luz Noturna for ativado.</string>
+  <string name="night_bright_disabled">Desativado</string>
+  <string name="night_bright_min">Brilho mínimo</string>
+  <string name="night_bright_low">Brilho baixo</string>
+  <string name="night_bright_medium">Brilho médio</string>
+  <string name="magisk_title">Gerenciador Magisk</string>
+  <string name="magisk_summary">Módulos de controle e configurações</string>
   <string name="substratum_title">Substratum</string>
-  <string name="substratum_summary">Customize device theme</string>
+  <string name="substratum_summary">Personalizar o seu Tema</string>
   <!-- Incall vibrate options -->
-  <string name="incall_vibrate_connect_title">Vibrate on call connect</string>
-  <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
-  <string name="incall_vibrate_disconnect_title">Vibrate on call disconnect</string>
-  <string name="doze_brightness_level_title">Ambient display brightness</string>
-  <string name="doze_brightness_level_summary">Adjust the brightness level for ambient display</string>
+  <string name="incall_vibrate_connect_title">Vibrar ao realizar chamada</string>
+  <string name="incall_vibrate_call_wait_title">Vibrar ao receber chamada em espera</string>
+  <string name="incall_vibrate_disconnect_title">Vibrar ao desligar chamada</string>
+  <string name="doze_brightness_level_title">Nível de brilho do Ambient Display</string>
+  <string name="doze_brightness_level_summary">Ajustar o nível do brilho para o Ambient Display</string>
   <!-- Heads up timeout -->
   <string name="heads_up_time_out_title">Heads up timeout</string>
   <string name="heads_up_time_out_summary">Heads up notifications will show for <xliff:g id="number">%d</xliff:g> seconds</string>
@@ -137,30 +137,30 @@
   <string name="fp_unlock_keystore_title">Fingerprint unlock</string>
   <string name="fp_unlock_password_summary">Unlock device with fingerprint after reboot without password</string>
   <string name="fp_unlock_pattern_summary">Unlock device with fingerprint after reboot without pattern</string>
-  <string name="fp_unlock_pin_summary">Unlock device with fingerprint after reboot without pin</string>
+  <string name="fp_unlock_pin_summary">Desbloquear o dispositivo com impressão digital após a reinicialização sem pin</string>
   <!-- Force expanded notifications -->
-  <string name="expanded_notifications_title">Force expanded notifications</string>
-  <string name="expanded_notifications_summary">Always show expanded notifications when supported</string>
+  <string name="expanded_notifications_title">Forçar as notificações expandidas</string>
+  <string name="expanded_notifications_summary">Sempre mostrar notificações expandidas quando suportado</string>
   <!-- Color engine -->
-  <string name="theme_switch_palette">Switch between background and accent colors</string>
-  <string name="theme_title">Color engine</string>
-  <string name="theme_summary">Select different colors for your current theme</string>
-  <string name="theme_accent_color">Accent color</string>
-  <string name="theme_primary_color">Background color</string>
-  <string name="theme">Theme</string>
-  <string name="oms_enabled">Theme modes unavailable because a Substratum theme is currently applied</string>
-  <string name="red">Red</string>
-  <string name="orange">Orange</string>
-  <string name="blue">Teal</string>
-  <string name="green">Green</string>
-  <string name="yellow">Yellow</string>
-  <string name="purple">Purple</string>
-  <string name="pink">Pink</string>
-  <string name="black">Black</string>
-  <string name="dark">Dark</string>
+  <string name="theme_switch_palette">Alternar entre cores primárias e secundárias</string>
+  <string name="theme_title">Gerenciamento de cores</string>
+  <string name="theme_summary">Selecione diferentes cores para o seu tema atual</string>
+  <string name="theme_accent_color">Cor de destaque</string>
+  <string name="theme_primary_color">Cor de fundo</string>
+  <string name="theme">Tema</string>
+  <string name="oms_enabled">Os modos de tema não estão disponíveis porque um tema Substratum está atualmente aplicado</string>
+  <string name="red">Vermelho</string>
+  <string name="orange">Laranja</string>
+  <string name="blue">Verde azulado</string>
+  <string name="green">Verde</string>
+  <string name="yellow">Amarelo</string>
+  <string name="purple">Violeta</string>
+  <string name="pink">Rosa</string>
+  <string name="black">Preto</string>
+  <string name="dark">Preto (100%)</string>
   <string name="pixel">Pixel</string>
-  <string name="teal">Blue</string>
-  <string name="cyan">Cyan</string>
-  <string name="grey">Grey</string>
-  <string name="white">White</string>
+  <string name="teal">Azul</string>
+  <string name="cyan">Ciano</string>
+  <string name="grey">Cinza</string>
+  <string name="white">Branco</string>
 </resources>
