@@ -142,13 +142,13 @@
   <string name="expanded_notifications_title">强制展开通知</string>
   <string name="expanded_notifications_summary">如通知支持则总是显示展开后通知</string>
   <!-- Color engine -->
-  <string name="theme_switch_palette">在主色调和强调色间切换</string>
+  <string name="theme_switch_palette">在背景色和强调色间切换</string>
   <string name="theme_title">色彩引擎</string>
   <string name="theme_summary">为你的当前主题选择不同的颜色</string>
   <string name="theme_accent_color">强调色</string>
   <string name="theme_primary_color">背景色</string>
   <string name="theme">主题</string>
-  <string name="oms_enabled">该模式不可用，因为有一个substratum主题已被应用</string>
+  <string name="oms_enabled">主题模式不可用，因为当前正在应用一个 Substratum 主题</string>
   <string name="red">红色</string>
   <string name="orange">橙色</string>
   <string name="blue">蓝绿色</string>
