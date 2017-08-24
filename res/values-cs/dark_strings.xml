@@ -148,7 +148,7 @@
   <string name="theme_accent_color">Doplňková barva</string>
   <string name="theme_primary_color">Barva pozadí</string>
   <string name="theme">Motiv</string>
-  <string name="oms_enabled">Theme mode is unavailable because a Substratum theme is currently applied</string>
+  <string name="oms_enabled">Režim motivů není k dispozici, protože je momentálně aplikován Substratum motiv</string>
   <string name="red">Červená</string>
   <string name="orange">Oranžová</string>
   <string name="blue">Šedozelená</string>
