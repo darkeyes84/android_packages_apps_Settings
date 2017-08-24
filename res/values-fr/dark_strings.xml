@@ -148,7 +148,7 @@
   <string name="theme_accent_color">Couleur d\'accentuation</string>
   <string name="theme_primary_color">Couleur d\'arrière-plan</string>
   <string name="theme">Thème</string>
-  <string name="oms_enabled">Les thèmes sont désactivé car un thème Substratum a été appliqué</string>
+  <string name="oms_enabled">Theme mode is unavailable because a Substratum theme is currently applied</string>
   <string name="red">Rouge</string>
   <string name="orange">Orange</string>
   <string name="blue">Turquoise</string>
