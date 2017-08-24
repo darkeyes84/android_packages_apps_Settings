@@ -148,7 +148,7 @@
   <string name="theme_accent_color">Colore dei particolari</string>
   <string name="theme_primary_color">Colore di sfondo</string>
   <string name="theme">Tema</string>
-  <string name="oms_enabled">Tema non applicabile perché è già stato applicato un tema Substratum</string>
+  <string name="oms_enabled">Theme mode is unavailable because a Substratum theme is currently applied</string>
   <string name="red">Rosso</string>
   <string name="orange">Arancione</string>
   <string name="blue">Blu</string>
