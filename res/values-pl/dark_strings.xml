@@ -148,7 +148,7 @@
   <string name="theme_accent_color">Kolor akcentu</string>
   <string name="theme_primary_color">Główny kolor</string>
   <string name="theme">Motyw</string>
-  <string name="oms_enabled">Theme mode is unavailable because a Substratum theme is currently applied</string>
+  <string name="oms_enabled">Motywy nie są dostępne, ponieważ aktualnie używany jest motyw z Substratum</string>
   <string name="red">Czerwony</string>
   <string name="orange">Pomarańczowy</string>
   <string name="blue">Morski</string>
