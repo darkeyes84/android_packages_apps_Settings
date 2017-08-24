@@ -148,7 +148,7 @@
   <string name="theme_accent_color">强调色</string>
   <string name="theme_primary_color">背景色</string>
   <string name="theme">主题</string>
-  <string name="oms_enabled">Theme mode is unavailable because a Substratum theme is currently applied</string>
+  <string name="oms_enabled">该模式不可用，因为有一个substratum主题已被应用</string>
   <string name="red">红色</string>
   <string name="orange">橙色</string>
   <string name="blue">蓝绿色</string>
