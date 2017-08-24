@@ -148,7 +148,7 @@
   <string name="theme_accent_color">Akzentfarbe</string>
   <string name="theme_primary_color">Hintergrundfarbe</string>
   <string name="theme">Erscheinungsbild</string>
-  <string name="oms_enabled">Erscheinungsbildänderungsmodus nicht verfügbar weil ein Substratum Erscheinungsbild aktiv ist</string>
+  <string name="oms_enabled">Theme mode is unavailable because a Substratum theme is currently applied</string>
   <string name="red">Rot</string>
   <string name="orange">Orange</string>
   <string name="blue">Blaugrün</string>
