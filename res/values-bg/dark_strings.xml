@@ -148,7 +148,7 @@
   <string name="theme_accent_color">Цвят за акцентиране</string>
   <string name="theme_primary_color">Цвят на фона</string>
   <string name="theme">Тема (скин)</string>
-  <string name="oms_enabled">Темите са недостъпни, защото в момента е приложена Substratum тема</string>
+  <string name="oms_enabled">Theme mode is unavailable because a Substratum theme is currently applied</string>
   <string name="red">Червено</string>
   <string name="orange">Оранжево</string>
   <string name="blue">Синьо-зелен</string>
