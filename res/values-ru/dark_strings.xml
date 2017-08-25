@@ -148,7 +148,7 @@
   <string name="theme_accent_color">Контрастный цвет</string>
   <string name="theme_primary_color">Цвет фона</string>
   <string name="theme">Темы</string>
-  <string name="oms_enabled">Theme mode is unavailable because a Substratum theme is currently applied</string>
+  <string name="oms_enabled">Режимы тем недоступны, потому что в настоящее время применяется тема Substratum</string>
   <string name="red">Красный</string>
   <string name="orange">Оранжевый</string>
   <string name="blue">Бирюзовый</string>
