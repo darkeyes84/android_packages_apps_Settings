@@ -82,7 +82,7 @@
   <string name="night_bright_low">Luminosité faible</string>
   <string name="night_bright_medium">Luminosité moyenne</string>
   <string name="magisk_title">Gestionnaire Magisk</string>
-  <string name="magisk_summary">Vérifiez les modules et les paramètres</string>
+  <string name="magisk_summary">Modules et paramètres</string>
   <string name="substratum_title">Substratum</string>
   <string name="substratum_summary">Personnaliser le thème de l\'appareil</string>
   <!-- Incall vibrate options -->
