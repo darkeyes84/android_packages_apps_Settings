@@ -99,6 +99,7 @@
     <ImageView
         android:id="@+id/protected_apps_fingerprint_icon"
         android:src="@drawable/ic_fingerprint_dark"
+        android:tint="@color/lock_pattern_view_regular_color"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"

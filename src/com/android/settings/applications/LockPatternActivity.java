@@ -17,10 +17,16 @@
 package com.android.settings.applications;
 
 import android.app.Activity;
+import android.app.IThemeCallback;
+import android.app.ThemeManager;
+import android.content.Context;
 import android.content.SharedPreferences;
 import android.hardware.fingerprint.FingerprintManager;
 import android.os.Bundle;
+import android.os.Handler;
+import android.os.Looper;
 import android.preference.PreferenceManager;
+import android.provider.Settings.Secure;
 import android.util.Base64;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -63,6 +69,9 @@ public class LockPatternActivity extends Activity implements OnNotifyAccountRese
     private static final long FAILED_ATTEMPT_RETRY = 30;
 
     private static final int MENU_RESET = 0;
+
+    private int mTheme;
+    private ThemeManager mThemeManager;
 
     LockPatternView mLockPatternView;
     ProtectedAccountView mAccountView;
@@ -243,6 +252,20 @@ public class LockPatternActivity extends Activity implements OnNotifyAccountRese
     }
 
     protected void onCreate(Bundle savedInstanceState) {
+        final int themeMode = Secure.getInt(getContentResolver(),
+                Secure.THEME_PRIMARY_COLOR, 1);
+        final int accentColor = Secure.getInt(getContentResolver(),
+                Secure.THEME_ACCENT_COLOR, 0);
+        mThemeManager = (ThemeManager) getSystemService(Context.THEME_SERVICE);
+        if (mThemeManager != null) {
+            mThemeManager.addCallback(mThemeCallback);
+        }
+        if (themeMode != 0 || accentColor != 0) {
+            getTheme().applyStyle(mTheme, true);
+        }
+        if (themeMode == 1) {
+            getTheme().applyStyle(R.style.status_bar, true);
+        }
         super.onCreate(savedInstanceState);
         setContentView(R.layout.patternlock);
 
@@ -465,4 +488,20 @@ public class LockPatternActivity extends Activity implements OnNotifyAccountRese
         SharedPreferences prefs = getSharedPreferences(getPackageName(), MODE_PRIVATE);
         prefs.edit().putLong(TIMEOUT_PREF_KEY, System.currentTimeMillis()).apply();
     }
+
+    private final IThemeCallback mThemeCallback = new IThemeCallback.Stub() {
+
+        @Override
+        public void onThemeChanged(int themeMode, int color) {
+            onCallbackAdded(themeMode, color);
+            LockPatternActivity.this.runOnUiThread(() -> {
+                LockPatternActivity.this.recreate();
+            });
+        }
+
+        @Override
+        public void onCallbackAdded(int themeMode, int color) {
+            mTheme = color;
+        }
+    };
 }

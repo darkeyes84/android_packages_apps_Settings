@@ -441,4 +441,9 @@
         <item name="android:lineSpacingMultiplier">1.2</item>
     </style>
 
+    <style name="status_bar">
+        <item name="android:colorPrimaryDark">@color/status_bar_color_dark</item>
+        <item name="android:statusBarColor">@color/status_bar_color_dark</item>
+    </style>
+
 </resources>

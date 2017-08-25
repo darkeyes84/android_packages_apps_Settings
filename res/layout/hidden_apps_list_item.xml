@@ -69,6 +69,7 @@
                 android:layout_width="30dp"
                 android:layout_height="30dp"
                 android:src="@drawable/ic_launch_app"
+                android:tint="?android:attr/colorAccent"
                 android:layout_gravity="center"
                 android:layout_marginRight="?android:attr/scrollbarSize"
                 android:paddingLeft="5dp" />

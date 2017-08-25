@@ -18,6 +18,8 @@ package com.android.settings.applications;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
+import android.app.IThemeCallback;
+import android.app.ThemeManager;
 import android.content.ComponentName;
 import android.content.ContentResolver;
 import android.content.Context;
@@ -29,7 +31,10 @@ import android.content.res.Configuration;
 import android.graphics.drawable.Drawable;
 import android.os.AsyncTask;
 import android.os.Bundle;
+import android.os.Handler;
+import android.os.Looper;
 import android.provider.Settings;
+import android.provider.Settings.Secure;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -74,10 +79,27 @@ public class ProtectedAppsActivity extends Activity {
     private Intent mTargetIntent;
     private int mOrientation;
 
+    private int mTheme;
+    private ThemeManager mThemeManager;
+
     private HashSet<ComponentName> mProtectedApps = new HashSet<ComponentName>();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        final int themeMode = Secure.getInt(getContentResolver(),
+                Secure.THEME_PRIMARY_COLOR, 1);
+        final int accentColor = Secure.getInt(getContentResolver(),
+                Secure.THEME_ACCENT_COLOR, 0);
+        mThemeManager = (ThemeManager) getSystemService(Context.THEME_SERVICE);
+        if (mThemeManager != null) {
+            mThemeManager.addCallback(mThemeCallback);
+        }
+        if (themeMode != 0 || accentColor != 0) {
+            getTheme().applyStyle(mTheme, true);
+        }
+        if (themeMode == 1) {
+            getTheme().applyStyle(R.style.status_bar, true);
+        }
         super.onCreate(savedInstanceState);
 
         // Handle incoming target activity
@@ -507,6 +529,22 @@ public class ProtectedAppsActivity extends Activity {
             StoreComponentProtectedStatus task =
                     new StoreComponentProtectedStatus(ProtectedAppsActivity.this);
             task.execute(list);
+        }
+    };
+
+    private final IThemeCallback mThemeCallback = new IThemeCallback.Stub() {
+
+        @Override
+        public void onThemeChanged(int themeMode, int color) {
+            onCallbackAdded(themeMode, color);
+            ProtectedAppsActivity.this.runOnUiThread(() -> {
+                ProtectedAppsActivity.this.recreate();
+            });
+        }
+
+        @Override
+        public void onCallbackAdded(int themeMode, int color) {
+            mTheme = color;
         }
     };
 }
