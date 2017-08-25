@@ -164,4 +164,7 @@
   <string name="cyan">Блакитний</string>
   <string name="grey">Сірий</string>
   <string name="white">Білий</string>
+  <!-- Force authorize substratum packages -->
+  <string name="force_authorize_substratum_packages_title">Force authorize every theme app</string>
+  <string name="force_authorize_substratum_packages_summary">Allow theme apps from unknown sources</string>
 </resources>
