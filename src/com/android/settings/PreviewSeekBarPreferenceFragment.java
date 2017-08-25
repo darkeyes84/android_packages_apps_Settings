@@ -19,6 +19,7 @@ package com.android.settings;
 import android.content.Context;
 import android.content.res.Configuration;
 import android.graphics.drawable.Drawable;
+import android.graphics.drawable.GradientDrawable;
 import android.graphics.PorterDuff;
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -140,12 +141,19 @@ public abstract class PreviewSeekBarPreferenceFragment extends SettingsPreferenc
             final int count = i;
             final boolean selected = colorValue == i;
             final ImageView view = new ImageView(getContext());
+            final GradientDrawable circle = (GradientDrawable) getContext().getDrawable(R.drawable.color_circle);
             final Drawable check = getContext().getDrawable(R.drawable.ic_check);
-            view.setImageDrawable(getContext().getDrawable(R.drawable.color_circle));
-            view.setColorFilter(color);
+            view.setImageDrawable(circle);
+            circle.setColor(color);
+            circle.setStroke(3, color);
             if (selected) {
-				if (!mAccentShowing && colorValue == 0) {
-					check.setColorFilter(colors[1], PorterDuff.Mode.SRC_ATOP);
+				if (!mAccentShowing) {
+					if (colorValue == 0) {
+					    check.setColorFilter(colors[1], PorterDuff.Mode.SRC_ATOP);
+					    circle.setStroke(3, colors[1]);
+					} else {
+						circle.setStroke(3, colors[0]);
+					}
 			    }
                 view.setForeground(check);
                 view.setForegroundGravity(Gravity.CENTER);
