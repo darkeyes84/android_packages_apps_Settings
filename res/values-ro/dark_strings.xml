@@ -148,7 +148,7 @@
   <string name="theme_accent_color">Culoare accent</string>
   <string name="theme_primary_color">Culoare de fundal</string>
   <string name="theme">Temă</string>
-  <string name="oms_enabled">Theme mode is unavailable because a Substratum theme is currently applied</string>
+  <string name="oms_enabled">Temele sunt indisponibile deoarece o temă Substratum este aplicată în prezent</string>
   <string name="red">Roșu</string>
   <string name="orange">Portocaliu</string>
   <string name="blue">Verde pin</string>
@@ -164,6 +164,6 @@
   <string name="grey">Gri</string>
   <string name="white">Alb</string>
   <!-- Force authorize substratum packages -->
-  <string name="force_authorize_substratum_packages_title">Force authorize every theme app</string>
-  <string name="force_authorize_substratum_packages_summary">Allow theme apps from unknown sources</string>
+  <string name="force_authorize_substratum_packages_title">Autorizare forţată a fiecărei aplicație de temă</string>
+  <string name="force_authorize_substratum_packages_summary">Permiteţi aplicații teme din surse necunoscute</string>
 </resources>
