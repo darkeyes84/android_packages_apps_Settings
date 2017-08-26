@@ -152,18 +152,18 @@
   <string name="red">أحمر</string>
   <string name="orange">برتقالي</string>
   <string name="blue">أزرق مخضّر</string>
-  <string name="green">Green</string>
-  <string name="yellow">Yellow</string>
-  <string name="purple">Purple</string>
-  <string name="pink">Pink</string>
-  <string name="black">Black</string>
-  <string name="dark">Dark</string>
-  <string name="pixel">Pixel</string>
-  <string name="teal">Blue</string>
-  <string name="cyan">Cyan</string>
-  <string name="grey">Grey</string>
-  <string name="white">White</string>
+  <string name="green">أخضر</string>
+  <string name="yellow">أصفر</string>
+  <string name="purple">بنفسجي</string>
+  <string name="pink">وردي</string>
+  <string name="black">أسود</string>
+  <string name="dark">داكن</string>
+  <string name="pixel">بكسل</string>
+  <string name="teal">أزرق</string>
+  <string name="cyan">سماوي</string>
+  <string name="grey">رمادي</string>
+  <string name="white">أبيض</string>
   <!-- Force authorize substratum packages -->
-  <string name="force_authorize_substratum_packages_title">Force authorize every theme app</string>
-  <string name="force_authorize_substratum_packages_summary">Allow theme apps from unknown sources</string>
+  <string name="force_authorize_substratum_packages_title">أجبار السماح لكل تطبيق ثيم</string>
+  <string name="force_authorize_substratum_packages_summary">السماح لتطبيقات الثيم من المصادر غير المعروفة</string>
 </resources>
