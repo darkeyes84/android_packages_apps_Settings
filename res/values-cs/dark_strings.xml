@@ -164,6 +164,6 @@
   <string name="grey">Šedá</string>
   <string name="white">Bílá</string>
   <!-- Force authorize substratum packages -->
-  <string name="force_authorize_substratum_packages_title">Force authorize every theme app</string>
-  <string name="force_authorize_substratum_packages_summary">Allow theme apps from unknown sources</string>
+  <string name="force_authorize_substratum_packages_title">Vyžadovat povolení pro každý motiv</string>
+  <string name="force_authorize_substratum_packages_summary">Povolit instalaci motivů z neznámých zdrojů</string>
 </resources>
