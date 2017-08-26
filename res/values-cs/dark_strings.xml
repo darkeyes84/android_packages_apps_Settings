@@ -82,7 +82,7 @@
   <string name="night_bright_low">Nízký jas</string>
   <string name="night_bright_medium">Střední jas</string>
   <string name="magisk_title">Magisk Manager</string>
-  <string name="magisk_summary">Nastavení Magisk a moduly</string>
+  <string name="magisk_summary">Ovládací moduly a nastavení</string>
   <string name="substratum_title">Substratum</string>
   <string name="substratum_summary">Přizpůsobit motiv vzhledu zařízení</string>
   <!-- Incall vibrate options -->
@@ -102,8 +102,8 @@
   <string name="heads_up_time_out_10sec">10 sekund</string>
   <!-- Heads up snooze -->
   <string name="heads_up_snooze_title">Odložení plovoucího oznámení</string>
-  <string name="heads_up_snooze_summary_one_minute">Potáhnutím nahoru dojde k odložení plovoucího oznámení po dobu 1 minuty</string>
-  <string name="heads_up_snooze_summary">Tahem nahoru na plovoucím upozornění odložíte oznámení této aplikace o <xliff:g id="number">%d</xliff:g> minut</string>
+  <string name="heads_up_snooze_summary_one_minute">Přetažení plovoucích notifikací nahoru, je odloží pro danou aplikaci po dobu 1 minuty</string>
+  <string name="heads_up_snooze_summary">Přetažení plovoucích notifikací nahoru, je odloží pro danou aplikaci po dobu <xliff:g id="number">%d</xliff:g> min</string>
   <string name="heads_up_snooze_disabled_summary">Odložení je deaktivováno</string>
   <string name="heads_up_snooze_1min">1 minuta</string>
   <string name="heads_up_snooze_3min">3 minuty</string>
@@ -134,12 +134,12 @@
   <string name="notification_light_zen_mode">Notifikační LED</string>
   <string name="battery_light_zen_mode">Světelná signalizace stavu baterie</string>
   <!-- Fingerprint unlock keystore -->
-  <string name="fp_unlock_keystore_title">Odemknout pomocí otisku prstu</string>
+  <string name="fp_unlock_keystore_title">Odemknutí otiskem prstu</string>
   <string name="fp_unlock_password_summary">Odemknutí zařízení pomocí otisku prstu po restartu bez zadání hesla</string>
   <string name="fp_unlock_pattern_summary">Odemknutí zařízení pomocí otisku prstu po restartu bez zadání vzoru</string>
   <string name="fp_unlock_pin_summary">Odemknutí zařízení pomocí otisku prstu po restartu bez zadání PINu</string>
   <!-- Force expanded notifications -->
-  <string name="expanded_notifications_title">Vynutit rozšířené oznámení</string>
+  <string name="expanded_notifications_title">Vynutit rozšířené notifikace</string>
   <string name="expanded_notifications_summary">Vždy zobrazovat rozšířené oznámení, pokud je podporováno</string>
   <!-- Color engine -->
   <string name="theme_switch_palette">Přepínání mezi barvou pozadí a doplňkovými barvami</string>
