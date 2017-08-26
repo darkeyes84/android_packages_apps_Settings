@@ -22,11 +22,11 @@
   <string name="left_default_voice_summary_on">Výchozí zkratka je hlasový asistent</string>
   <string name="left_default_voice_summary_off">Výchozí zkratka je telefon</string>
   <!-- Hide the next alarm on lockscreen -->
-  <string name="show_next_alarm_lockscreen_title">Zobrazit příští budík</string>
-  <string name="show_next_alarm_lockscreen_summary">Zobrazit oznámení na zamykací obrazovce, když je nastaven budík</string>
+  <string name="show_next_alarm_lockscreen_title">Zobrazit čas následujícího budíku</string>
+  <string name="show_next_alarm_lockscreen_summary">Zobrazit oznámení budíku na zamykací obrazovce, pokud je budík nastaven</string>
   <!-- Disabling immersive mode messages -->
-  <string name="disable_immersive_message_title">Zakázat zprávy pohlcujícího režimu (immersive mód))</string>
-  <string name="disable_immersive_message_summary">Toto skryje všechny zprávy pohlcujícího režimu</string>
+  <string name="disable_immersive_message_title">Zakázat rozšířený mód zpráv</string>
+  <string name="disable_immersive_message_summary">Toto skryje všechny zprávy rozšířeného režimu</string>
   <!-- Volume Steps -->
   <string name="volume_steps_title">Kroky hlasitosti</string>
   <string name="volume_steps_alarm_title">Kroky hlasitosti: Budík</string>
@@ -34,7 +34,7 @@
   <string name="volume_steps_music_title">Kroky hlasitosti: Hudba</string>
   <string name="volume_steps_notification_title">Kroky hlasitosti: Upozornění</string>
   <string name="volume_steps_ring_title">Kroky hlasitosti: Vyzvánění</string>
-  <string name="volume_steps_system_title">Kroky hlasitosti: Systém</string>
+  <string name="volume_steps_system_title">Kroky hlasitosti: Systémové zvuky</string>
   <string name="volume_steps_voice_call_title">Kroky hlasitosti: Hlasové hovory</string>
   <string name="volume_steps_reset">Resetovat</string>
   <string name="volume_steps_60">60</string>
@@ -47,7 +47,7 @@
   <string name="deltaupdate_settings_title">Aktualizace systému</string>
   <!-- Optional screenshot type -->
   <string name="screenshot_type_title">Typ snímku obrazovky</string>
-  <string name="screenshot_type_fullscreen">Snímek celé obrazovky</string>
+  <string name="screenshot_type_fullscreen">Zhotovit snímky celé obrazovky</string>
   <string name="screenshot_type_partial">Přetáhněte pro výběr a proveďte částečný snímek obrazovky</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Rychlé odemknutí</string>
@@ -58,7 +58,7 @@
   <string name="ticker_summary">Povolit oznámení ve stavové liště</string>
   <!-- Notification Ticker Track-->
   <string name="ticker_track_title">Oznámení hudebních skladeb</string>
-  <string name="ticker_track_summary">Zobrazí se metadata ve stavové liště při přehrávání nové skladby</string>
+  <string name="ticker_track_summary">Zobrazit metadata ve stavové liště při přehrávání nové skladby</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">Zabezpečená zamykací obrazovka</string>
   <string name="lockscreen_enable_power_menu_summary">Zakázat přístup k rychlým nastavením a nabídce tlačítka Vypnout</string>
@@ -86,9 +86,9 @@
   <string name="substratum_title">Substratum</string>
   <string name="substratum_summary">Přizpůsobit motiv vzhledu zařízení</string>
   <!-- Incall vibrate options -->
-  <string name="incall_vibrate_connect_title">Vibrovat při připojení</string>
-  <string name="incall_vibrate_call_wait_title">Vibrovat při čekání</string>
-  <string name="incall_vibrate_disconnect_title">Vibrovat při odpojení</string>
+  <string name="incall_vibrate_connect_title">Vibrovat při spojení hovoru</string>
+  <string name="incall_vibrate_call_wait_title">Vibrovat při čekajícím hovoru</string>
+  <string name="incall_vibrate_disconnect_title">Vibrovat při ukončení hovoru</string>
   <string name="doze_brightness_level_title">Jas ambientního displeje</string>
   <string name="doze_brightness_level_summary">Upravit úroveň jasu pro ambientní displej</string>
   <!-- Heads up timeout -->
@@ -128,11 +128,11 @@
   <string name="ok_string">Ok</string>
   <!-- Fullscreen Keyboard -->
   <string name="disable_fullscreen_keyboard_title">Zákazat klávesnici přes celou obrazovku</string>
-  <string name="disable_fullscreen_keyboard_summary">Zabránit použití klávesnice přes celou obrazovku v režimu na šířku</string>
+  <string name="disable_fullscreen_keyboard_summary">Zabránit klávesnici používat celou obrazovku v režimu na šířku</string>
   <string name="tile_summary_title">Zakázat souhrny</string>
   <string name="tile_summary">Zakázat souhrny na hlavním panelu</string>
-  <string name="notification_light_zen_mode">Světelná signalizace</string>
-  <string name="battery_light_zen_mode">Ukazatel baterie</string>
+  <string name="notification_light_zen_mode">Notifikační LED</string>
+  <string name="battery_light_zen_mode">Světelná signalizace stavu baterie</string>
   <!-- Fingerprint unlock keystore -->
   <string name="fp_unlock_keystore_title">Odemknout pomocí otisku prstu</string>
   <string name="fp_unlock_password_summary">Odemknutí zařízení pomocí otisku prstu po restartu bez zadání hesla</string>
