@@ -164,6 +164,6 @@
   <string name="grey">Серый</string>
   <string name="white">Белый</string>
   <!-- Force authorize substratum packages -->
-  <string name="force_authorize_substratum_packages_title">Force authorize every theme app</string>
-  <string name="force_authorize_substratum_packages_summary">Allow theme apps from unknown sources</string>
+  <string name="force_authorize_substratum_packages_title">Принудительно запрашивать разрешения для каждой темы</string>
+  <string name="force_authorize_substratum_packages_summary">Разрешить установку тем из неизвестных источников</string>
 </resources>
