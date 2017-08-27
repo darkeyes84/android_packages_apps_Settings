@@ -23,7 +23,7 @@
   <string name="left_default_voice_summary_off">默认快捷方式为拨打电话</string>
   <!-- Hide the next alarm on lockscreen -->
   <string name="show_next_alarm_lockscreen_title">显示下一个闹钟</string>
-  <string name="show_next_alarm_lockscreen_summary">当设置有闹钟时在锁屏界面上显示下一个闹钟的信息</string>
+  <string name="show_next_alarm_lockscreen_summary">当设有闹钟时在锁屏界面内显示下一个闹钟的信息</string>
   <!-- Disabling immersive mode messages -->
   <string name="disable_immersive_message_title">禁用沉浸模式消息</string>
   <string name="disable_immersive_message_summary">这将隐藏所有的沉浸模式消息</string>
