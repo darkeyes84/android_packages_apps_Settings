@@ -50,9 +50,9 @@
   <string name="screenshot_type_fullscreen">التقاط صورة كاملة للشاشة</string>
   <string name="screenshot_type_partial">قم بالتحديد لالتقاط صورة جزئية للشاشة</string>
   <!-- Quick unlock -->
-  <string name="unlock_quick_unlock_control_title">إلغاء قفل سريع</string>
+  <string name="unlock_quick_unlock_control_title">الفك السريع</string>
   <string name="unlock_quick_unlock_control_summary_password">فتح تلقائياً عندما يتم إدخال كلمة السر صحيحة</string>
-  <string name="unlock_quick_unlock_control_summary_pin">فُك تلقائياً عند إدخال رمز/كلمة المرور الصحيحة</string>
+  <string name="unlock_quick_unlock_control_summary_pin">فتح تلقائياً عندما يتم إدخال PIN صحيحة</string>
   <!-- Notification Ticker -->
   <string name="ticker_title">مؤشر الإشعارات</string>
   <string name="ticker_summary">تمكين مؤشر الإشعارات في شريط الحالة</string>
