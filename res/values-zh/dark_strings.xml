@@ -57,7 +57,7 @@
   <string name="ticker_title">通知预览</string>
   <string name="ticker_summary">在状态栏上显示通知预览</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">音乐曲目预览</string>
+  <string name="ticker_track_title">曲目预览</string>
   <string name="ticker_track_summary">当播放歌曲时在状态栏上显示曲目信息</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">安全锁屏</string>
@@ -89,8 +89,8 @@
   <string name="incall_vibrate_connect_title">接通时振动</string>
   <string name="incall_vibrate_call_wait_title">呼叫等待时振动</string>
   <string name="incall_vibrate_disconnect_title">挂断时振动</string>
-  <string name="doze_brightness_level_title">环境显示亮度</string>
-  <string name="doze_brightness_level_summary">调整环境显示的亮度级别</string>
+  <string name="doze_brightness_level_title">主动显示亮度</string>
+  <string name="doze_brightness_level_summary">调整主动显示的亮度级别</string>
   <!-- Heads up timeout -->
   <string name="heads_up_time_out_title">浮动通知超时</string>
   <string name="heads_up_time_out_summary">浮动通知将显示 <xliff:g id="number">%d</xliff:g> 秒</string>
@@ -157,7 +157,7 @@
   <string name="purple">紫色</string>
   <string name="pink">粉红色</string>
   <string name="black">黑色</string>
-  <string name="dark">暗黑</string>
+  <string name="dark">酷黑</string>
   <string name="pixel">Pixel</string>
   <string name="teal">蓝色</string>
   <string name="cyan">青色</string>
