@@ -82,7 +82,7 @@
   <string name="night_bright_low">Luminosité faible</string>
   <string name="night_bright_medium">Luminosité moyenne</string>
   <string name="magisk_title">Gestionnaire Magisk</string>
-  <string name="magisk_summary">Vérifiez les modules et les paramètres</string>
+  <string name="magisk_summary">Modules et paramètres</string>
   <string name="substratum_title">Substratum</string>
   <string name="substratum_summary">Personnaliser le thème de l\'appareil</string>
   <!-- Incall vibrate options -->
@@ -148,7 +148,7 @@
   <string name="theme_accent_color">Couleur d\'accentuation</string>
   <string name="theme_primary_color">Couleur d\'arrière-plan</string>
   <string name="theme">Thème</string>
-  <string name="oms_enabled">Les thèmes sont désactivé car un thème Substratum a été appliqué</string>
+  <string name="oms_enabled">Les thèmes sont désactivés car un thème Substratum est actuellement appliqué</string>
   <string name="red">Rouge</string>
   <string name="orange">Orange</string>
   <string name="blue">Turquoise</string>
@@ -163,4 +163,7 @@
   <string name="cyan">Cyan</string>
   <string name="grey">Gris</string>
   <string name="white">Blanc</string>
+  <!-- Force authorize substratum packages -->
+  <string name="force_authorize_substratum_packages_title">Forcer l’autorisation de chaque application de thème</string>
+  <string name="force_authorize_substratum_packages_summary">Autorise les applications de thème provenant de sources inconnues</string>
 </resources>

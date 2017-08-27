@@ -23,7 +23,7 @@
   <string name="left_default_voice_summary_off">默认快捷方式为拨打电话</string>
   <!-- Hide the next alarm on lockscreen -->
   <string name="show_next_alarm_lockscreen_title">显示下一个闹钟</string>
-  <string name="show_next_alarm_lockscreen_summary">当设置有闹钟时在锁屏界面上显示下一个闹钟的信息</string>
+  <string name="show_next_alarm_lockscreen_summary">当设有闹钟时在锁屏界面内显示下一个闹钟的信息</string>
   <!-- Disabling immersive mode messages -->
   <string name="disable_immersive_message_title">禁用沉浸模式消息</string>
   <string name="disable_immersive_message_summary">这将隐藏所有的沉浸模式消息</string>
@@ -48,7 +48,7 @@
   <!-- Optional screenshot type -->
   <string name="screenshot_type_title">屏幕截图类型</string>
   <string name="screenshot_type_fullscreen">全屏截图</string>
-  <string name="screenshot_type_partial">拖动选择的局部截图</string>
+  <string name="screenshot_type_partial">区域截图</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">快速解锁</string>
   <string name="unlock_quick_unlock_control_summary_password">当输入正确的密码时自动解锁</string>
@@ -57,7 +57,7 @@
   <string name="ticker_title">通知预览</string>
   <string name="ticker_summary">在状态栏上显示通知预览</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">音乐曲目预览</string>
+  <string name="ticker_track_title">曲目预览</string>
   <string name="ticker_track_summary">当播放歌曲时在状态栏上显示曲目信息</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">安全锁屏</string>
@@ -72,7 +72,7 @@
   <string name="custom_carrier_label_explain">请输入一个新名称，留空将恢复至默认的运营商名称</string>
   <string name="custom_carrier_label_notset">当前未设置自定义名称</string>
   <string name="one_hand_mode_title">单手模式</string>
-  <string name="one_hand_mode_summary">在导航栏上滑动以启动单手模式</string>
+  <string name="one_hand_mode_summary">在导航栏上滑动以启用单手模式</string>
   <!-- Advanced night mode brightness -->
   <string name="night_brightness_category">亮度</string>
   <string name="night_brightness_value_title">夜间模式亮度</string>
@@ -89,8 +89,8 @@
   <string name="incall_vibrate_connect_title">接通时振动</string>
   <string name="incall_vibrate_call_wait_title">呼叫等待时振动</string>
   <string name="incall_vibrate_disconnect_title">挂断时振动</string>
-  <string name="doze_brightness_level_title">环境显示亮度</string>
-  <string name="doze_brightness_level_summary">调整环境显示的亮度级别</string>
+  <string name="doze_brightness_level_title">主动显示亮度</string>
+  <string name="doze_brightness_level_summary">调整主动显示的亮度级别</string>
   <!-- Heads up timeout -->
   <string name="heads_up_time_out_title">浮动通知超时</string>
   <string name="heads_up_time_out_summary">浮动通知将显示 <xliff:g id="number">%d</xliff:g> 秒</string>
@@ -142,13 +142,13 @@
   <string name="expanded_notifications_title">强制展开通知</string>
   <string name="expanded_notifications_summary">如通知支持则总是显示展开后通知</string>
   <!-- Color engine -->
-  <string name="theme_switch_palette">在主色调和强调色间切换</string>
+  <string name="theme_switch_palette">在背景色和强调色间切换</string>
   <string name="theme_title">色彩引擎</string>
   <string name="theme_summary">为你的当前主题选择不同的颜色</string>
   <string name="theme_accent_color">强调色</string>
   <string name="theme_primary_color">背景色</string>
   <string name="theme">主题</string>
-  <string name="oms_enabled">主题模块不可用因为当前正在使用一个 Substratum 主题</string>
+  <string name="oms_enabled">主题模式不可用，因为当前正在应用一个 Substratum 主题</string>
   <string name="red">红色</string>
   <string name="orange">橙色</string>
   <string name="blue">蓝绿色</string>
@@ -157,10 +157,13 @@
   <string name="purple">紫色</string>
   <string name="pink">粉红色</string>
   <string name="black">黑色</string>
-  <string name="dark">暗黑</string>
+  <string name="dark">酷黑</string>
   <string name="pixel">Pixel</string>
   <string name="teal">蓝色</string>
   <string name="cyan">青色</string>
   <string name="grey">灰色</string>
   <string name="white">白色</string>
+  <!-- Force authorize substratum packages -->
+  <string name="force_authorize_substratum_packages_title">强制授权所有主题应用</string>
+  <string name="force_authorize_substratum_packages_summary">允许使用来自未知来源的主题应用</string>
 </resources>

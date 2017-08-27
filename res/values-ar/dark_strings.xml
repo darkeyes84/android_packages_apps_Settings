@@ -50,9 +50,9 @@
   <string name="screenshot_type_fullscreen">التقاط صورة كاملة للشاشة</string>
   <string name="screenshot_type_partial">قم بالتحديد لالتقاط صورة جزئية للشاشة</string>
   <!-- Quick unlock -->
-  <string name="unlock_quick_unlock_control_title">إلغاء قفل سريع</string>
+  <string name="unlock_quick_unlock_control_title">الفك السريع</string>
   <string name="unlock_quick_unlock_control_summary_password">فتح تلقائياً عندما يتم إدخال كلمة السر صحيحة</string>
-  <string name="unlock_quick_unlock_control_summary_pin">فُك تلقائياً عند إدخال رمز/كلمة المرور الصحيحة</string>
+  <string name="unlock_quick_unlock_control_summary_pin">فتح تلقائياً عندما يتم إدخال PIN صحيحة</string>
   <!-- Notification Ticker -->
   <string name="ticker_title">مؤشر الإشعارات</string>
   <string name="ticker_summary">تمكين مؤشر الإشعارات في شريط الحالة</string>
@@ -134,33 +134,36 @@
   <string name="notification_light_zen_mode">ضوء الإشعارات</string>
   <string name="battery_light_zen_mode">إضائة البطارية</string>
   <!-- Fingerprint unlock keystore -->
-  <string name="fp_unlock_keystore_title">Fingerprint unlock</string>
-  <string name="fp_unlock_password_summary">Unlock device with fingerprint after reboot without password</string>
-  <string name="fp_unlock_pattern_summary">Unlock device with fingerprint after reboot without pattern</string>
-  <string name="fp_unlock_pin_summary">Unlock device with fingerprint after reboot without pin</string>
+  <string name="fp_unlock_keystore_title">فك قفل البصمة</string>
+  <string name="fp_unlock_password_summary">فُك قِفل الجهاز بالبصمة بعد إعادة التشغيل بدون كلمة المرور</string>
+  <string name="fp_unlock_pattern_summary">فُك قِفل الجهاز بالبصمة بعد إعادة التشغيل بدون نمط</string>
+  <string name="fp_unlock_pin_summary">فُك قِفل الجهاز بالبصمة بعد إعادة التشغيل بدون pin</string>
   <!-- Force expanded notifications -->
-  <string name="expanded_notifications_title">Force expanded notifications</string>
-  <string name="expanded_notifications_summary">Always show expanded notifications when supported</string>
+  <string name="expanded_notifications_title">توسيع إجباري للتنبيهات</string>
+  <string name="expanded_notifications_summary">عرض الإشعارات الموسعة دائما عندما تكون مدعومة</string>
   <!-- Color engine -->
-  <string name="theme_switch_palette">Switch between background and accent colors</string>
-  <string name="theme_title">Color engine</string>
-  <string name="theme_summary">Select different colors for your current theme</string>
-  <string name="theme_accent_color">Accent color</string>
-  <string name="theme_primary_color">Background color</string>
-  <string name="theme">Theme</string>
-  <string name="oms_enabled">Theme modes unavailable because a Substratum theme is currently applied</string>
-  <string name="red">Red</string>
-  <string name="orange">Orange</string>
-  <string name="blue">Teal</string>
-  <string name="green">Green</string>
-  <string name="yellow">Yellow</string>
-  <string name="purple">Purple</string>
-  <string name="pink">Pink</string>
-  <string name="black">Black</string>
-  <string name="dark">Dark</string>
-  <string name="pixel">Pixel</string>
-  <string name="teal">Blue</string>
-  <string name="cyan">Cyan</string>
-  <string name="grey">Grey</string>
-  <string name="white">White</string>
+  <string name="theme_switch_palette">التبديل بين الألوان الأساسية و الخلفية</string>
+  <string name="theme_title">محرك اللون</string>
+  <string name="theme_summary">تحديد ألوان مختلفة للثيم الحالي الخاص بك</string>
+  <string name="theme_accent_color">لون التمييز</string>
+  <string name="theme_primary_color">لون الخلفية</string>
+  <string name="theme">الثيم</string>
+  <string name="oms_enabled">وضع الثيم غير متوفرة بسبب Substratum theme مفعل حالياً</string>
+  <string name="red">أحمر</string>
+  <string name="orange">برتقالي</string>
+  <string name="blue">أزرق مخضّر</string>
+  <string name="green">أخضر</string>
+  <string name="yellow">أصفر</string>
+  <string name="purple">بنفسجي</string>
+  <string name="pink">وردي</string>
+  <string name="black">أسود</string>
+  <string name="dark">داكن</string>
+  <string name="pixel">بكسل</string>
+  <string name="teal">أزرق</string>
+  <string name="cyan">سماوي</string>
+  <string name="grey">رمادي</string>
+  <string name="white">أبيض</string>
+  <!-- Force authorize substratum packages -->
+  <string name="force_authorize_substratum_packages_title">أجبار السماح لكل تطبيق ثيم</string>
+  <string name="force_authorize_substratum_packages_summary">السماح لتطبيقات الثيم من المصادر غير المعروفة</string>
 </resources>

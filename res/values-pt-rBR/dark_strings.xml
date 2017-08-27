@@ -148,7 +148,7 @@
   <string name="theme_accent_color">Cor de destaque</string>
   <string name="theme_primary_color">Cor de fundo</string>
   <string name="theme">Tema</string>
-  <string name="oms_enabled">Os modos de tema não estão disponíveis porque um tema Substratum está atualmente aplicado</string>
+  <string name="oms_enabled">O modo Tema está indisponível porque um tema Substratum está atualmente aplicado</string>
   <string name="red">Vermelho</string>
   <string name="orange">Laranja</string>
   <string name="blue">Verde azulado</string>
@@ -157,10 +157,13 @@
   <string name="purple">Violeta</string>
   <string name="pink">Rosa</string>
   <string name="black">Preto</string>
-  <string name="dark">Preto (100%)</string>
+  <string name="dark">Escuro</string>
   <string name="pixel">Pixel</string>
   <string name="teal">Azul</string>
   <string name="cyan">Ciano</string>
   <string name="grey">Cinza</string>
   <string name="white">Branco</string>
+  <!-- Force authorize substratum packages -->
+  <string name="force_authorize_substratum_packages_title">Forçar autorização a cada aplicativo de tema</string>
+  <string name="force_authorize_substratum_packages_summary">Permitir tematização de aplicativos de fontes desconhecidas</string>
 </resources>

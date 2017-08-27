@@ -163,4 +163,7 @@
   <string name="cyan">Циан</string>
   <string name="grey">Сиво</string>
   <string name="white">Бяло</string>
+  <!-- Force authorize substratum packages -->
+  <string name="force_authorize_substratum_packages_title">Карай всяко приложение за теми да се оторизира</string>
+  <string name="force_authorize_substratum_packages_summary">Позволи приложения за теми от непознати източници</string>
 </resources>

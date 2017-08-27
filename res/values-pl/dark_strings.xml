@@ -148,7 +148,7 @@
   <string name="theme_accent_color">Kolor akcentu</string>
   <string name="theme_primary_color">Główny kolor</string>
   <string name="theme">Motyw</string>
-  <string name="oms_enabled">Aplikacja Color Engine jest niedostępna, ponieważ aktualnie używany jest motyw Substratum</string>
+  <string name="oms_enabled">Motywy nie są dostępne, ponieważ aktualnie używany jest motyw z Substratum</string>
   <string name="red">Czerwony</string>
   <string name="orange">Pomarańczowy</string>
   <string name="blue">Morski</string>
@@ -163,4 +163,7 @@
   <string name="cyan">Turkusowy</string>
   <string name="grey">Szary</string>
   <string name="white">Biały</string>
+  <!-- Force authorize substratum packages -->
+  <string name="force_authorize_substratum_packages_title">Wymuś autoryzację każdego motywu</string>
+  <string name="force_authorize_substratum_packages_summary">Zezwalaj na instalowanie motywów z nieznanych źródeł</string>
 </resources>
