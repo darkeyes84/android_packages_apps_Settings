@@ -48,7 +48,7 @@
   <!-- Optional screenshot type -->
   <string name="screenshot_type_title">屏幕截图类型</string>
   <string name="screenshot_type_fullscreen">全屏截图</string>
-  <string name="screenshot_type_partial">拖动选择的局部截图</string>
+  <string name="screenshot_type_partial">区域截图</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">快速解锁</string>
   <string name="unlock_quick_unlock_control_summary_password">当输入正确的密码时自动解锁</string>
@@ -164,6 +164,6 @@
   <string name="grey">灰色</string>
   <string name="white">白色</string>
   <!-- Force authorize substratum packages -->
-  <string name="force_authorize_substratum_packages_title">Force authorize every theme app</string>
-  <string name="force_authorize_substratum_packages_summary">Allow theme apps from unknown sources</string>
+  <string name="force_authorize_substratum_packages_title">强制授权所有主题应用</string>
+  <string name="force_authorize_substratum_packages_summary">允许使用来自未知来源的主题应用</string>
 </resources>
