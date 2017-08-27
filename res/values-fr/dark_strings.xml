@@ -148,7 +148,7 @@
   <string name="theme_accent_color">Couleur d\'accentuation</string>
   <string name="theme_primary_color">Couleur d\'arrière-plan</string>
   <string name="theme">Thème</string>
-  <string name="oms_enabled">Theme mode is unavailable because a Substratum theme is currently applied</string>
+  <string name="oms_enabled">Les thèmes sont désactivés car un thème Substratum est actuellement appliqué</string>
   <string name="red">Rouge</string>
   <string name="orange">Orange</string>
   <string name="blue">Turquoise</string>
@@ -164,6 +164,6 @@
   <string name="grey">Gris</string>
   <string name="white">Blanc</string>
   <!-- Force authorize substratum packages -->
-  <string name="force_authorize_substratum_packages_title">Force authorize every theme app</string>
-  <string name="force_authorize_substratum_packages_summary">Allow theme apps from unknown sources</string>
+  <string name="force_authorize_substratum_packages_title">Forcer l’autorisation de chaque thème d\'application</string>
+  <string name="force_authorize_substratum_packages_summary">Autorise les applications de thème à partir de sources inconnues</string>
 </resources>
