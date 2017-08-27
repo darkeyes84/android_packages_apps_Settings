@@ -149,7 +149,7 @@
   <string name="theme_accent_color">Колір акценту</string>
   <string name="theme_primary_color">Колір фону</string>
   <string name="theme">Тема</string>
-  <string name="oms_enabled">Theme mode is unavailable because a Substratum theme is currently applied</string>
+  <string name="oms_enabled">Теми недоступні, оскільки активна тема Substratum</string>
   <string name="red">Червоний</string>
   <string name="orange">Помаранчевий</string>
   <string name="blue">Морський</string>
@@ -165,6 +165,6 @@
   <string name="grey">Сірий</string>
   <string name="white">Білий</string>
   <!-- Force authorize substratum packages -->
-  <string name="force_authorize_substratum_packages_title">Force authorize every theme app</string>
-  <string name="force_authorize_substratum_packages_summary">Allow theme apps from unknown sources</string>
+  <string name="force_authorize_substratum_packages_title">Примусово авторизовувати кожну тему</string>
+  <string name="force_authorize_substratum_packages_summary">Дозволити встановлення тем із невідомих джерел</string>
 </resources>
