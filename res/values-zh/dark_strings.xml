@@ -72,7 +72,7 @@
   <string name="custom_carrier_label_explain">请输入一个新名称，留空将恢复至默认的运营商名称</string>
   <string name="custom_carrier_label_notset">当前未设置自定义名称</string>
   <string name="one_hand_mode_title">单手模式</string>
-  <string name="one_hand_mode_summary">在导航栏上滑动以启动单手模式</string>
+  <string name="one_hand_mode_summary">在导航栏上滑动以启用单手模式</string>
   <!-- Advanced night mode brightness -->
   <string name="night_brightness_category">亮度</string>
   <string name="night_brightness_value_title">夜间模式亮度</string>
