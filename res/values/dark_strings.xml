@@ -224,4 +224,7 @@
     <!-- Settings conditions  -->
     <string name="disable_settings_conditions_title">Disable conditions</string>
 
+    <string name="theme_force_enabled_title">Force enable color engine</string>
+    <string name="theme_force_enabled_summary">Color engine will be forcibly enabled nonetheless OMS state</string>
+
 </resources>
