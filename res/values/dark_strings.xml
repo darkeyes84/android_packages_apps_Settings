@@ -73,7 +73,6 @@
 
     <!-- Settings suggestions  -->
     <string name="disable_settings_suggestions_title">Disable suggestions</string>
-    <string name="disable_settings_suggestions_summary">Disable suggestions on the dashboard</string>
 
     <!-- Custom carrier label and position -->
     <string name="keyguard_show_carrier_title">Hide carrier label</string>
@@ -151,7 +150,6 @@
     <string name="disable_fullscreen_keyboard_summary">Prevent keyboard from using the entire screen in landscape</string>
 
     <string name="tile_summary_title">Disable summaries</string>
-    <string name="tile_summary">Disable summaries on the dashboard</string>
 
     <string name="notification_light_zen_mode">Notification light</string>
     <string name="battery_light_zen_mode">Battery light</string>
@@ -192,5 +190,8 @@
    <!-- Force authorize substratum packages -->
    <string name="force_authorize_substratum_packages_title">Force authorize every theme app</string>
    <string name="force_authorize_substratum_packages_summary">Allow theme apps from unknown sources</string>
+
+   <string name="dashboard_title">Dashboard</string>
+   <string name="two_columns_title">Two columns</string>
 
 </resources>
