@@ -60,12 +60,12 @@
     <string name="unlock_quick_unlock_control_summary_pin">Unlock automatically when the correct PIN is entered</string>
 
     <!-- Notification Ticker -->
-    <string name="ticker_title">Notification ticker</string>
-    <string name="ticker_summary">Enable the notification ticker in the status bar</string>
+    <string name="ticker_title">Ticker</string>
+    <string name="ticker_summary">Display priority notifications in the status bar</string>
 
     <!-- Notification Ticker Track-->
-    <string name="ticker_track_title">Notification ticker music tracks</string>
-    <string name="ticker_track_summary">Show the metadata in the status bar when a new track plays</string>
+    <string name="ticker_track_title">Ticker music tracks</string>
+    <string name="ticker_track_summary">Show the metadata when a new track plays</string>
 
     <!-- Secure lockscreen -->
     <string name="lockscreen_enable_power_menu_title">Secure lockscreen</string>
@@ -191,7 +191,12 @@
    <string name="force_authorize_substratum_packages_title">Force authorize every theme app</string>
    <string name="force_authorize_substratum_packages_summary">Allow theme apps from unknown sources</string>
 
-   <string name="dashboard_title">Dashboard</string>
+   <string name="dashboard_label">Dashboard</string>
+   <string name="miscellaneous_label">Miscellaneous</string>
    <string name="two_columns_title">Two columns</string>
+   <string name="headsup_label">Heads up</string>
+   <string name="ticker_label">Ticker</string>
+   <string name="ticker_disabled">Ticker is disabled because heads up is enabled</string>
+   <string name="headsup_disabled">Heads up is disabled because ticker is enabled</string>
 
 </resources>

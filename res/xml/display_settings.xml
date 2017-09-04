@@ -21,15 +21,15 @@
         settings:keywords="@string/keywords_display">
 
     <PreferenceCategory
-        android:title="@string/theme_title">
+            android:title="@string/theme_title">
 
-         <com.android.settings.display.ThemePreference
+        <com.android.settings.display.ThemePreference
             android:key="theme"
             android:title="@string/theme" />
     </PreferenceCategory>
 
     <PreferenceCategory
-        android:title="@string/dashboard_title">
+            android:title="@string/dashboard_label">
 
         <com.android.settings.preference.SystemSettingSwitchPreference
                 android:key="two_columns"
@@ -88,8 +88,8 @@
                 settings:keywords="@string/keywords_display_wallpaper"
                 settings:useAdminDisabledSummary="true" >
                 <intent
-                        android:targetPackage="@string/config_wallpaper_picker_package"
-                        android:targetClass="@string/config_wallpaper_picker_class" />
+                    android:targetPackage="@string/config_wallpaper_picker_package"
+                    android:targetClass="@string/config_wallpaper_picker_class" />
         </com.android.settingslib.RestrictedPreference>
 
         <com.android.settings.TimeoutListPreference
@@ -119,10 +119,10 @@
                 android:summary="@string/doze_summary" />
 
         <Preference
-                 android:key="doze_brightness_level"
-                 android:title="@string/doze_brightness_level_title"
-                 android:summary="@string/doze_brightness_level_summary"
-                 android:persistent="false" />
+                android:key="doze_brightness_level"
+                android:title="@string/doze_brightness_level_title"
+                android:summary="@string/doze_brightness_level_summary"
+                android:persistent="false" />
 
         <cyanogenmod.preference.RemotePreference
                 android:key="doze_device_settings"
@@ -137,11 +137,6 @@
                 android:title="@string/wake_when_plugged_or_unplugged_title"
                 android:summary="@string/wake_when_plugged_or_unplugged_summary"
                 android:defaultValue="@*android:bool/config_unplugTurnsOnScreen" />
-
-        <com.android.settings.preference.SystemSettingSwitchPreference
-            android:key="disable_immersive_message"
-            android:title="@string/disable_immersive_message_title"
-            android:summary="@string/disable_immersive_message_summary" />
 
         <SwitchPreference
                 android:key="tap_to_wake"
@@ -161,30 +156,6 @@
                 android:summary="@string/high_touch_sensitivity_summary"
                 android:defaultValue="false"
                 cm:requiresFeature="cmhardware:FEATURE_HIGH_TOUCH_SENSITIVITY" />
-
-        <com.android.settings.preference.SystemSettingSwitchPreference
-                android:key="show_clear_all_recents"
-                android:title="@string/show_clear_all_recents_button_title"
-                android:summary="@string/show_clear_all_recents_button_summary"
-                android:defaultValue="true" />
-
-         <ListPreference
-                android:key="recents_clear_all_location"
-                android:title="@string/recents_clear_all_location_title"
-                android:entries="@array/recents_clear_all_location_entries"
-                android:entryValues="@array/recents_clear_all_location_values"
-                android:defaultValue="0"
-                android:dependency="show_clear_all_recents" />
-
-        <!-- Expanded desktop -->
-        <org.cyanogenmod.internal.cmparts.CMPartsPreference
-                android:key="expanded_desktop_settings" />
-
-        <ListPreference
-            android:entries="@array/screenshot_type_entries"
-            android:entryValues="@array/screenshot_type_values"
-            android:key="screenshot_type"
-            android:title="@string/screenshot_type_title" />
 
         <PreferenceScreen
                 android:key="font_size"
@@ -214,6 +185,40 @@
                 android:key="vr_display_pref"
                 android:summary="%s"
                 android:title="@string/display_vr_pref_title" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+            android:title="@string/miscellaneous_label">
+
+        <com.android.settings.preference.SystemSettingSwitchPreference
+                android:key="show_clear_all_recents"
+                android:title="@string/show_clear_all_recents_button_title"
+                android:summary="@string/show_clear_all_recents_button_summary"
+                android:defaultValue="true" />
+
+        <ListPreference
+                android:key="recents_clear_all_location"
+                android:title="@string/recents_clear_all_location_title"
+                android:entries="@array/recents_clear_all_location_entries"
+                android:entryValues="@array/recents_clear_all_location_values"
+                android:defaultValue="0"
+                android:dependency="show_clear_all_recents" />
+
+        <!-- Expanded desktop -->
+        <org.cyanogenmod.internal.cmparts.CMPartsPreference
+                android:key="expanded_desktop_settings" />
+
+        <com.android.settings.preference.SystemSettingSwitchPreference
+                android:key="disable_immersive_message"
+                android:title="@string/disable_immersive_message_title"
+                android:summary="@string/disable_immersive_message_summary" />
+
+        <ListPreference
+                android:entries="@array/screenshot_type_entries"
+                android:entryValues="@array/screenshot_type_values"
+                android:key="screenshot_type"
+                android:title="@string/screenshot_type_title" />
 
     </PreferenceCategory>
 

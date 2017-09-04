@@ -28,6 +28,7 @@ import android.os.Handler;
 import android.os.UserHandle;
 import android.os.UserManager;
 import android.provider.Settings;
+import android.support.v14.preference.SwitchPreference;
 import android.support.v7.preference.ListPreference;
 import android.support.v7.preference.Preference;
 import android.support.v7.preference.PreferenceCategory;
@@ -57,13 +58,18 @@ public class ConfigureNotificationSettings extends SettingsPreferenceFragment
     private static final String KEY_LOCK_SCREEN_NOTIFICATIONS = "lock_screen_notifications";
     private static final String KEY_LOCK_SCREEN_PROFILE_NOTIFICATIONS =
             "lock_screen_notifications_profile";
+    private static final String PREF_HEADS_UP = "heads_up_notifications_enabled";
     private static final String PREF_HEADS_UP_TIME_OUT = "heads_up_time_out";
     private static final String PREF_HEADS_UP_SNOOZE_TIME = "heads_up_snooze_time";
+    private static final String PREF_TICKER = "status_bar_show_ticker";
 
     private final SettingsObserver mSettingsObserver = new SettingsObserver();
 
+    private SwitchPreference mHeadsUp;
     private ListPreference mHeadsUpTimeOut;
     private ListPreference mHeadsUpSnoozeTime;
+    private SwitchPreference mTicker;
+    
     private Context mContext;
 
     private TwoStatePreference mNotificationPulse;
@@ -112,6 +118,9 @@ public class ConfigureNotificationSettings extends SettingsPreferenceFragment
             return;
         }
 
+        mHeadsUp = (SwitchPreference) findPreference(PREF_HEADS_UP);
+        mHeadsUp.setOnPreferenceChangeListener(this);
+
         int defaultTimeOut = systemUiResources.getInteger(systemUiResources.getIdentifier(
                     "com.android.systemui:integer/heads_up_notification_decay", null, null));
         mHeadsUpTimeOut = (ListPreference) findPreference(PREF_HEADS_UP_TIME_OUT);
@@ -129,6 +138,11 @@ public class ConfigureNotificationSettings extends SettingsPreferenceFragment
                 Settings.System.HEADS_UP_NOTIFICATION_SNOOZE, defaultSnooze);
         mHeadsUpSnoozeTime.setValue(String.valueOf(headsUpSnooze));
         updateHeadsUpSnoozeTimeSummary(headsUpSnooze);
+
+        mTicker = (SwitchPreference) findPreference(PREF_TICKER);
+        mTicker.setOnPreferenceChangeListener(this);
+        
+        updateNotifications();
     }
 
     @Override
@@ -141,6 +155,43 @@ public class ConfigureNotificationSettings extends SettingsPreferenceFragment
     public void onPause() {
         super.onPause();
         mSettingsObserver.register(false);
+    }
+
+    private void updateNotifications() {
+		boolean tickerChecked = Settings.System.getInt(getContentResolver(),
+                Settings.System.STATUS_BAR_SHOW_TICKER, 0) == 1;
+		boolean headsUpChecked = Settings.Global.getInt(getContentResolver(),
+                Settings.Global.HEADS_UP_NOTIFICATIONS_ENABLED, 1) == 1;
+
+        if (headsUpChecked) {
+			if (tickerChecked) {
+		        Settings.System.putInt(getContentResolver(),
+                    Settings.System.STATUS_BAR_SHOW_TICKER, 0);
+                tickerChecked = false;
+            }
+            mHeadsUp.setChecked(headsUpChecked);
+            mHeadsUp.setEnabled(!tickerChecked);
+            mHeadsUp.setSummary(R.string.heads_up_notifications_enabled_summary);
+            mTicker.setChecked(tickerChecked);
+            mTicker.setEnabled(!headsUpChecked);
+            mTicker.setSummary(R.string.ticker_disabled);
+            return;
+		} else if (tickerChecked) {
+            mTicker.setChecked(tickerChecked);
+            mTicker.setEnabled(!headsUpChecked);
+            mTicker.setSummary(R.string.ticker_summary);
+			mHeadsUp.setChecked(headsUpChecked);
+            mHeadsUp.setEnabled(!tickerChecked);
+            mHeadsUp.setSummary(R.string.headsup_disabled);
+            return;
+		} else {
+			mHeadsUp.setChecked(headsUpChecked);
+            mHeadsUp.setEnabled(!tickerChecked);
+            mHeadsUp.setSummary(R.string.heads_up_notifications_enabled_summary);
+            mTicker.setChecked(tickerChecked);
+            mTicker.setEnabled(!headsUpChecked);
+            mTicker.setSummary(R.string.ticker_summary);
+		}
     }
 
     // === Pulse notification light ===
@@ -376,7 +427,19 @@ public class ConfigureNotificationSettings extends SettingsPreferenceFragment
 
     @Override
     public boolean onPreferenceChange(Preference preference, Object newValue) {
-        if (preference == mHeadsUpTimeOut) {
+		if (preference == mHeadsUp) {
+			boolean headsUp = (Boolean) newValue;
+			Settings.Global.putInt(getContentResolver(),
+                    Settings.Global.HEADS_UP_NOTIFICATIONS_ENABLED, headsUp ? 1 : 0);
+			updateNotifications();
+			return true;
+	    } else if (preference == mTicker) {
+			boolean ticker = (Boolean) newValue;
+			Settings.System.putInt(getContentResolver(),
+                    Settings.System.STATUS_BAR_SHOW_TICKER, ticker ? 1 : 0);
+			updateNotifications();
+			return true;
+        } else if (preference == mHeadsUpTimeOut) {
             int headsUpTimeOut = Integer.valueOf((String) newValue);
             Settings.System.putInt(getContentResolver(),
                     Settings.System.HEADS_UP_TIMEOUT,

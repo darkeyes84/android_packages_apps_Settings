@@ -20,6 +20,13 @@
         android:title="@string/configure_notification_settings"
         android:key="configure_notification_settings" >
 
+    <!-- importance -->
+    <PreferenceScreen
+        android:key="power_notification_controls"
+        android:title="@string/tuner_full_importance_settings">
+        <intent android:action="com.android.settings.action.POWER_NOTIF_CONTROLS" />
+    </PreferenceScreen>
+
     <!-- When device is locked -->
     <com.android.settings.notification.RestrictedDropDownPreference
             android:key="lock_screen_notifications"
@@ -33,49 +40,52 @@
         android:summary="@string/expanded_notifications_summary"
         android:defaultValue="false" />
 
-    <!-- importance -->
-    <PreferenceScreen
-        android:key="power_notification_controls"
-        android:title="@string/tuner_full_importance_settings">
-        <intent android:action="com.android.settings.action.POWER_NOTIF_CONTROLS" />
-    </PreferenceScreen>
+    <PreferenceCategory
+            android:title="@string/headsup_label">
 
-    <!-- Heads up -->
-    <cyanogenmod.preference.GlobalSettingSwitchPreference
-        android:key="heads_up_notifications_enabled"
-        android:title="@string/heads_up_notifications_enabled_title"
-        android:summary="@string/heads_up_notifications_enabled_summary" />
+        <!-- Heads up -->
+        <SwitchPreference
+            android:key="heads_up_notifications_enabled"
+            android:title="@string/heads_up_notifications_enabled_title"
+            android:summary="@string/heads_up_notifications_enabled_summary" />
 
-    <ListPreference
-        android:key="heads_up_time_out"
-        android:title="@string/heads_up_time_out_title"
-        android:entries="@array/heads_up_time_out_entries"
-        android:entryValues="@array/heads_up_time_out_values"
-        android:persistent="false"
-        android:dependency="heads_up_notifications_enabled" />
+        <ListPreference
+            android:key="heads_up_time_out"
+            android:title="@string/heads_up_time_out_title"
+            android:entries="@array/heads_up_time_out_entries"
+            android:entryValues="@array/heads_up_time_out_values"
+            android:persistent="false"
+            android:dependency="heads_up_notifications_enabled" />
 
-    <ListPreference
-        android:key="heads_up_snooze_time"
-        android:title="@string/heads_up_snooze_title"
-        android:entries="@array/heads_up_snooze_entries"
-        android:entryValues="@array/heads_up_snooze_values"
-        android:persistent="false"
-        android:dependency="heads_up_notifications_enabled" />
+        <ListPreference
+            android:key="heads_up_snooze_time"
+            android:title="@string/heads_up_snooze_title"
+            android:entries="@array/heads_up_snooze_entries"
+            android:entryValues="@array/heads_up_snooze_values"
+            android:persistent="false"
+            android:dependency="heads_up_notifications_enabled" />
 
-    <!-- Notification ticker -->
-    <com.android.settings.preference.SystemSettingSwitchPreference
-        android:key="status_bar_show_ticker"
-        android:title="@string/ticker_title"
-        android:summary="@string/ticker_summary"
-        android:defaultValue="false" />
+    </PreferenceCategory>
 
-    <!-- Notification ticker track -->
-    <com.android.settings.preference.SystemSettingSwitchPreference
-        android:key="status_bar_show_ticker_track"
-        android:title="@string/ticker_track_title"
-        android:summary="@string/ticker_track_summary"
-        android:defaultValue="false" 
-        android:dependency="status_bar_show_ticker" />
+    <PreferenceCategory
+            android:title="@string/ticker_label">
+
+        <!-- Notification ticker -->
+        <SwitchPreference
+            android:key="status_bar_show_ticker"
+            android:title="@string/ticker_title"
+            android:summary="@string/ticker_summary"
+            android:defaultValue="false" />
+
+        <!-- Notification ticker track -->
+        <com.android.settings.preference.SystemSettingSwitchPreference
+            android:key="status_bar_show_ticker_track"
+            android:title="@string/ticker_track_title"
+            android:summary="@string/ticker_track_summary"
+            android:defaultValue="false"
+            android:dependency="status_bar_show_ticker" />
+
+    </PreferenceCategory>
 
     <!-- Lights -->
     <PreferenceCategory
