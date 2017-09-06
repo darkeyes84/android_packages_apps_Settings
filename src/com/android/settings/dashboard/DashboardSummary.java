@@ -143,6 +143,10 @@ public class DashboardSummary extends InstrumentedFragment
         }
         if (DEBUG_TIMING) Log.d(TAG, "onStart took " + (System.currentTimeMillis() - startTime)
                 + " ms");
+
+        boolean isLandscape = getResources().getConfiguration().orientation
+                == Configuration.ORIENTATION_LANDSCAPE;
+        mAdapter.setLandscape(isLandscape);
         updateSettings();
     }
 
@@ -299,12 +303,13 @@ public class DashboardSummary extends InstrumentedFragment
 
         mLayoutManager.setSpanCount(mNumColumns);
         mAdapter.setNumColumns(mNumColumns);
-        mAdapter.notifyDataSetChanged();
     }
 
     @Override
     public void onConfigurationChanged(Configuration newConfig) {
         super.onConfigurationChanged(newConfig);
-        updateSettings();
+        boolean isLandscape = newConfig.orientation
+                == Configuration.ORIENTATION_LANDSCAPE;
+        mAdapter.setLandscape(isLandscape);
     }
 }

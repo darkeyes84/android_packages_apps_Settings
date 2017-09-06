@@ -17,6 +17,7 @@ package com.android.settings.dashboard;
 
 import android.content.ContentResolver;
 import android.content.Context;
+import android.content.res.Resources;
 import android.content.res.TypedArray;
 import android.content.pm.PackageManager;
 import android.graphics.Color;
@@ -74,6 +75,7 @@ public class DashboardAdapter extends RecyclerView.Adapter<DashboardAdapter.Dash
     private final List<Object> mItems = new ArrayList<>();
     private final List<Integer> mTypes = new ArrayList<>();
     private final List<Integer> mIds = new ArrayList<>();
+    private final List<Integer> mCategoryPosition = new ArrayList<>();
     private final IconCache mCache;
 
     private final Context mContext;
@@ -98,6 +100,7 @@ public class DashboardAdapter extends RecyclerView.Adapter<DashboardAdapter.Dash
     private boolean mDarkThemeEnabled;
 
     private int mNumColumns = 1;
+    private boolean mIsLandscape;
 
     public DashboardAdapter(Context context, SuggestionParser parser, Bundle savedInstanceState,
                 List<Condition> conditions) {
@@ -236,6 +239,7 @@ public class DashboardAdapter extends RecyclerView.Adapter<DashboardAdapter.Dash
         mItems.clear();
         mTypes.clear();
         mIds.clear();
+        mCategoryPosition.clear();
         mId = 0;
     }
 
@@ -245,6 +249,9 @@ public class DashboardAdapter extends RecyclerView.Adapter<DashboardAdapter.Dash
             mTypes.add(type);
             // TODO: Counting namespaces for handling of suggestions/conds appearing/disappearing.
             mIds.add(mId + nameSpace);
+            if (type == R.layout.dashboard_category) {
+				mCategoryPosition.add(mTypes.size() - 1);
+			}
         }
         mId++;
     }
@@ -280,6 +287,29 @@ public class DashboardAdapter extends RecyclerView.Adapter<DashboardAdapter.Dash
                 if (mDarkThemeEnabled) {
                     holder.itemView.getBackground().setColorFilter(mPrimaryColor, Mode.SRC_ATOP);
                 }
+	       	    LinearLayout.LayoutParams lp = new LinearLayout.LayoutParams(
+	       	            mContext.getResources().getDimensionPixelSize(R.dimen.dashboard_tile_image_size),
+	       	            mContext.getResources().getDimensionPixelSize(R.dimen.dashboard_tile_image_size));
+	    	    if (mNumColumns == 1 || mIsLandscape) {
+					lp.setMargins(mContext.getResources().getDimensionPixelSize(R.dimen.dashboard_tile_image_margin_start), 0,
+	    		            mContext.getResources().getDimensionPixelSize(R.dimen.dashboard_tile_image_margin_end), 0);
+				} else {
+					int pos = 0;
+					for (int i = 0; i < mCategoryPosition.size(); i++) {
+						if (position - mCategoryPosition.get(i) > 0) {
+							pos = position - mCategoryPosition.get(i);
+						} else {
+							break;
+						}
+					}
+					if (pos % 2 == 1) {
+	    		        lp.setMargins(mContext.getResources().getDimensionPixelSize(R.dimen.dashboard_tile_image_margin_start), 0,
+	    		                mContext.getResources().getDimensionPixelSize(R.dimen.dashboard_tile_image_margin_start), 0);
+	    		    } else {
+						lp.setMargins(0, 0, mContext.getResources().getDimensionPixelSize(R.dimen.dashboard_tile_image_margin_start), 0);
+					}
+		        }
+		        holder.icon.setLayoutParams(lp);
                 break;
             case R.layout.suggestion_header:
                 onBindSuggestionHeader(holder);
@@ -548,5 +578,9 @@ public class DashboardAdapter extends RecyclerView.Adapter<DashboardAdapter.Dash
 
     public void setNumColumns(int numColumns) {
         mNumColumns = numColumns;
+    }
+
+    public void setLandscape(boolean isLandscape) {
+        mIsLandscape = isLandscape;
     }
 }

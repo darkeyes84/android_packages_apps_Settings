@@ -44,6 +44,7 @@
             android:singleLine="true"
             android:textAppearance="@style/TextAppearance.TileTitle"
             android:ellipsize="marquee"
+            android:paddingEnd="@dimen/dashboard_tile_image_margin_start"
             android:fadingEdge="horizontal" />
 
         <TextView android:id="@android:id/summary"
