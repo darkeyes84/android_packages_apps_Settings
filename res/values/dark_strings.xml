@@ -198,5 +198,7 @@
    <string name="ticker_label">Ticker</string>
    <string name="ticker_disabled">Ticker is disabled because heads up is enabled</string>
    <string name="headsup_disabled">Heads up is disabled because ticker is enabled</string>
+   <string name="ringtones_title">Ringtones</string>
+   <string name="call_options_title">Call options</string>
 
 </resources>

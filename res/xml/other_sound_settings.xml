@@ -20,6 +20,11 @@
         android:key="other_sound_settings"
         xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
 
+    <!-- Custom charging sounds -->
+    <org.cyanogenmod.internal.cmparts.CMPartsPreference
+            android:key="charging_sounds_settings"
+            lineage:replacesKey="charging_sounds" />
+
     <!-- Dial pad tones -->
     <SwitchPreference
             android:key="dial_pad_tones"
@@ -34,11 +39,6 @@
     <SwitchPreference
             android:key="charging_sounds"
             android:title="@string/charging_sounds_title" />
-
-    <!-- Custom charging sounds -->
-    <org.cyanogenmod.internal.cmparts.CMPartsPreference
-            android:key="charging_sounds_settings"
-            lineage:replacesKey="charging_sounds" />
 
     <!-- Docking sounds -->
     <SwitchPreference
@@ -61,18 +61,6 @@
             android:key="boot_sounds"
             android:title="@string/boot_sounds_title" />
 
-    <!-- Vibrate on touch -->
-    <SwitchPreference
-            android:key="vibrate_on_touch"
-            android:title="@string/vibrate_on_touch_title" />
-
-    <!-- Vibrator intensity -->
-    <com.android.settings.hardware.VibratorIntensity
-            android:key="vibrator_intensity"
-            android:title="@string/vibrator_intensity_title"
-            android:dialogTitle="@string/vibrator_intensity_title"
-            android:persistent="false" />
-
     <!-- Dock speaker plays -->
     <DropDownPreference
             android:key="dock_audio_media"
@@ -84,5 +72,17 @@
             android:key="emergency_tone"
             android:title="@string/emergency_tone_title"
             android:summary="%s" />
+
+    <!-- Vibrate on touch -->
+    <SwitchPreference
+            android:key="vibrate_on_touch"
+            android:title="@string/vibrate_on_touch_title" />
+
+    <!-- Vibrator intensity -->
+    <com.android.settings.hardware.VibratorIntensity
+            android:key="vibrator_intensity"
+            android:title="@string/vibrator_intensity_title"
+            android:dialogTitle="@string/vibrator_intensity_title"
+            android:persistent="false" />
 
 </PreferenceScreen>
