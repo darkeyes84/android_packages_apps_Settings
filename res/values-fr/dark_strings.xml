@@ -54,17 +54,16 @@
   <string name="unlock_quick_unlock_control_summary_password">Déverrouiller automatiquement l\'appareil lorsque le mot de passe est correct</string>
   <string name="unlock_quick_unlock_control_summary_pin">Déverrouiller automatiquement l\'appareil lorsque le code PIN est correct</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">Notifications dans la barre d\'état</string>
-  <string name="ticker_summary">Permet l\'affichage des notifications dans la barre d\'état</string>
+  <string name="ticker_title">Ticker</string>
+  <string name="ticker_summary">Display priority notifications in the status bar</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Notifications pour les pistes musicales</string>
-  <string name="ticker_track_summary">Afficher les métadonnées dans la barre d\'état quand une nouvelle piste musicale est jouée</string>
+  <string name="ticker_track_title">Ticker music tracks</string>
+  <string name="ticker_track_summary">Show the metadata when a new track plays</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">Écran de verrouillage protégé</string>
   <string name="lockscreen_enable_power_menu_summary">Empêche l’accès aux paramètres rapides et au menu d\'alimentation</string>
   <!-- Settings suggestions  -->
   <string name="disable_settings_suggestions_title">Désactiver les suggestions</string>
-  <string name="disable_settings_suggestions_summary">Désactiver les suggestions sur le tableau de bord</string>
   <!-- Custom carrier label and position -->
   <string name="keyguard_show_carrier_title">Masquer le nom de l\'opérateur</string>
   <string name="keyguard_show_carrier_summary">Masquer le nom de l\'opérateur sur l\'écran de verrouillage</string>
@@ -130,7 +129,6 @@
   <string name="disable_fullscreen_keyboard_title">Désactiver le clavier plein écran</string>
   <string name="disable_fullscreen_keyboard_summary">Empêcher le clavier d’utiliser la totalité de l’écran en mode paysage</string>
   <string name="tile_summary_title">Désactiver les résumés</string>
-  <string name="tile_summary">Désactiver les résumés sur le tableau de bord</string>
   <string name="notification_light_zen_mode">Voyant de notification</string>
   <string name="battery_light_zen_mode">Voyant batterie</string>
   <!-- Fingerprint unlock keystore -->
@@ -166,4 +164,13 @@
   <!-- Force authorize substratum packages -->
   <string name="force_authorize_substratum_packages_title">Forcer l’autorisation de chaque application de thème</string>
   <string name="force_authorize_substratum_packages_summary">Autorise les applications de thème provenant de sources inconnues</string>
+  <string name="dashboard_label">Dashboard</string>
+  <string name="miscellaneous_label">Miscellaneous</string>
+  <string name="two_columns_title">Two columns</string>
+  <string name="headsup_label">Heads up</string>
+  <string name="ticker_label">Ticker</string>
+  <string name="ticker_disabled">Ticker is disabled because heads up is enabled</string>
+  <string name="headsup_disabled">Heads up is disabled because ticker is enabled</string>
+  <string name="ringtones_title">Ringtones</string>
+  <string name="call_options_title">Call options</string>
 </resources>
