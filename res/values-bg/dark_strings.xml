@@ -54,17 +54,16 @@
   <string name="unlock_quick_unlock_control_summary_password">Автоматично отключване, когато е въведена правилната парола</string>
   <string name="unlock_quick_unlock_control_summary_pin">Автоматично отключване, когато е въведен правилният ПИН код</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">Избиране на няколко известия</string>
-  <string name="ticker_summary">Разрешаване на избиране на няколко известия в лентата на състоянието</string>
+  <string name="ticker_title">Ticker</string>
+  <string name="ticker_summary">Display priority notifications in the status bar</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Избиране на няколко известия за песни</string>
-  <string name="ticker_track_summary">Показване на мета-данните в лентата на състоянието, когато е пусната нова песен</string>
+  <string name="ticker_track_title">Ticker music tracks</string>
+  <string name="ticker_track_summary">Show the metadata when a new track plays</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">Защитен заключен екран</string>
   <string name="lockscreen_enable_power_menu_summary">Предотвратяване на достъпа до бързи настройки и меню за рестартиране</string>
   <!-- Settings suggestions  -->
   <string name="disable_settings_suggestions_title">Деактивиране на предложенията</string>
-  <string name="disable_settings_suggestions_summary">Деактивиране на предложенията на таблото</string>
   <!-- Custom carrier label and position -->
   <string name="keyguard_show_carrier_title">Скриване на името на мобилния оператор</string>
   <string name="keyguard_show_carrier_summary">Скриване на името на мобилния оператор на заключения екран</string>
@@ -130,7 +129,6 @@
   <string name="disable_fullscreen_keyboard_title">Изключване на клавиетурата на цял екран</string>
   <string name="disable_fullscreen_keyboard_summary">Предотвратяване на клавиатурата от използване на целия екран хоризонтално</string>
   <string name="tile_summary_title">Забраняване на резюмета</string>
-  <string name="tile_summary">Забраняване на резюмета на таблото</string>
   <string name="notification_light_zen_mode">Светлинна индикации на известия</string>
   <string name="battery_light_zen_mode">Светлинна индикации на батерия</string>
   <!-- Fingerprint unlock keystore -->
@@ -166,4 +164,13 @@
   <!-- Force authorize substratum packages -->
   <string name="force_authorize_substratum_packages_title">Карай всяко приложение за теми да се оторизира</string>
   <string name="force_authorize_substratum_packages_summary">Позволи приложения за теми от непознати източници</string>
+  <string name="dashboard_label">Dashboard</string>
+  <string name="miscellaneous_label">Miscellaneous</string>
+  <string name="two_columns_title">Two columns</string>
+  <string name="headsup_label">Heads up</string>
+  <string name="ticker_label">Ticker</string>
+  <string name="ticker_disabled">Ticker is disabled because heads up is enabled</string>
+  <string name="headsup_disabled">Heads up is disabled because ticker is enabled</string>
+  <string name="ringtones_title">Ringtones</string>
+  <string name="call_options_title">Call options</string>
 </resources>
