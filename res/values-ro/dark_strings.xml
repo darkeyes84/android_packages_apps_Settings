@@ -54,17 +54,16 @@
   <string name="unlock_quick_unlock_control_summary_password">Deblochează automat când se introduce parola corectă</string>
   <string name="unlock_quick_unlock_control_summary_pin">Deblochează automat când se introduce corect codul PIN</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">Notificare ticker</string>
-  <string name="ticker_summary">Permite notificare ticker în bara de stare</string>
+  <string name="ticker_title">Ticker</string>
+  <string name="ticker_summary">Display priority notifications in the status bar</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Notificare ticker pentru piese muzicale</string>
-  <string name="ticker_track_summary">Afişează metadate în bara de stare atunci când se redă o nouă melodie</string>
+  <string name="ticker_track_title">Ticker music tracks</string>
+  <string name="ticker_track_summary">Show the metadata when a new track plays</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">Ecran de blocare securizat</string>
   <string name="lockscreen_enable_power_menu_summary">Prevenirea accesului la setările rapide şi meniului de pornire</string>
   <!-- Settings suggestions  -->
   <string name="disable_settings_suggestions_title">Dezactivarea sugestiilor</string>
-  <string name="disable_settings_suggestions_summary">Dezactivarea sugestiilor pe tabloul de bord</string>
   <!-- Custom carrier label and position -->
   <string name="keyguard_show_carrier_title">Ascunde etichetă operator</string>
   <string name="keyguard_show_carrier_summary">Ascunde etichetă operator pe ecranul blocat</string>
@@ -130,7 +129,6 @@
   <string name="disable_fullscreen_keyboard_title">Dezactivare tastatură pe tot ecranul</string>
   <string name="disable_fullscreen_keyboard_summary">Împiedica tastatura să folosească întregul ecran în modul peisaj</string>
   <string name="tile_summary_title">Dezactivare rezumate</string>
-  <string name="tile_summary">Dezactivare rezumate pe tabloul de bord</string>
   <string name="notification_light_zen_mode">Lumină de notificare</string>
   <string name="battery_light_zen_mode">Lumină baterie</string>
   <!-- Fingerprint unlock keystore -->
@@ -166,4 +164,13 @@
   <!-- Force authorize substratum packages -->
   <string name="force_authorize_substratum_packages_title">Autorizare forţată a fiecărei aplicație de temă</string>
   <string name="force_authorize_substratum_packages_summary">Permiteţi aplicații teme din surse necunoscute</string>
+  <string name="dashboard_label">Dashboard</string>
+  <string name="miscellaneous_label">Miscellaneous</string>
+  <string name="two_columns_title">Two columns</string>
+  <string name="headsup_label">Heads up</string>
+  <string name="ticker_label">Ticker</string>
+  <string name="ticker_disabled">Ticker is disabled because heads up is enabled</string>
+  <string name="headsup_disabled">Heads up is disabled because ticker is enabled</string>
+  <string name="ringtones_title">Ringtones</string>
+  <string name="call_options_title">Call options</string>
 </resources>
