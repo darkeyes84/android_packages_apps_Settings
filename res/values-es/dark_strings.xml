@@ -54,17 +54,16 @@
   <string name="unlock_quick_unlock_control_summary_password">Desbloquear automáticamente cuando se introduce la contraseña correcta</string>
   <string name="unlock_quick_unlock_control_summary_pin">Desbloquear automáticamente cuando se introduce el PIN correcto</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">Texto de notificación en la barra de estado</string>
-  <string name="ticker_summary">Activar texto de notificación en la barra de estado</string>
+  <string name="ticker_title">Ticker</string>
+  <string name="ticker_summary">Display priority notifications in the status bar</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Texto de notificación en la barra de estado para pistas de música</string>
-  <string name="ticker_track_summary">Mostrar los metadatos en la barra de estado cuando suena una nueva canción</string>
+  <string name="ticker_track_title">Ticker music tracks</string>
+  <string name="ticker_track_summary">Show the metadata when a new track plays</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">Pantalla de bloqueo segura</string>
   <string name="lockscreen_enable_power_menu_summary">Prevenir acceso a ajustes rápidos y al menú de apagado</string>
   <!-- Settings suggestions  -->
   <string name="disable_settings_suggestions_title">Desactivar sugerencias</string>
-  <string name="disable_settings_suggestions_summary">Desactivar sugerencias en el tablero</string>
   <!-- Custom carrier label and position -->
   <string name="keyguard_show_carrier_title">Ocultar nombre de la operadora</string>
   <string name="keyguard_show_carrier_summary">Ocultar el nombre de la operadora en la pantalla de bloqueo</string>
@@ -130,7 +129,6 @@
   <string name="disable_fullscreen_keyboard_title">Desactivar el teclado a pantalla completa</string>
   <string name="disable_fullscreen_keyboard_summary">Evitar que el teclado use toda la pantalla en apaisado</string>
   <string name="tile_summary_title">Desactivar resúmenes</string>
-  <string name="tile_summary">Desactivar resúmenes en el tablero</string>
   <string name="notification_light_zen_mode">Luz de notificación</string>
   <string name="battery_light_zen_mode">Luz indicadora de batería</string>
   <!-- Fingerprint unlock keystore -->
@@ -166,4 +164,13 @@
   <!-- Force authorize substratum packages -->
   <string name="force_authorize_substratum_packages_title">Forzar autorización de cada aplicación de tema</string>
   <string name="force_authorize_substratum_packages_summary">Permitir aplicaciones de temas de fuentes desconocidas</string>
+  <string name="dashboard_label">Dashboard</string>
+  <string name="miscellaneous_label">Miscellaneous</string>
+  <string name="two_columns_title">Two columns</string>
+  <string name="headsup_label">Heads up</string>
+  <string name="ticker_label">Ticker</string>
+  <string name="ticker_disabled">Ticker is disabled because heads up is enabled</string>
+  <string name="headsup_disabled">Heads up is disabled because ticker is enabled</string>
+  <string name="ringtones_title">Ringtones</string>
+  <string name="call_options_title">Call options</string>
 </resources>
