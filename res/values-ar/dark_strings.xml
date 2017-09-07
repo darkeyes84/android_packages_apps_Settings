@@ -54,17 +54,16 @@
   <string name="unlock_quick_unlock_control_summary_password">فتح تلقائياً عندما يتم إدخال كلمة السر صحيحة</string>
   <string name="unlock_quick_unlock_control_summary_pin">فتح تلقائياً عندما يتم إدخال PIN صحيحة</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">مؤشر الإشعارات</string>
-  <string name="ticker_summary">تمكين مؤشر الإشعارات في شريط الحالة</string>
+  <string name="ticker_title">Ticker</string>
+  <string name="ticker_summary">Display priority notifications in the status bar</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">مؤشر الإشعارات للمقاطع الموسيقية</string>
-  <string name="ticker_track_summary">إظهار بيانات التعريف عند تشغيل مسار جديد في شريط الحالة</string>
+  <string name="ticker_track_title">Ticker music tracks</string>
+  <string name="ticker_track_summary">Show the metadata when a new track plays</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">شاشة قفل مؤمنة</string>
   <string name="lockscreen_enable_power_menu_summary">منع الوصول إلى الإعدادات السريعة و قائمة التشغيل</string>
   <!-- Settings suggestions  -->
   <string name="disable_settings_suggestions_title">تعطيل الاقتراحات</string>
-  <string name="disable_settings_suggestions_summary">تعطيل الاقتراحات على لوحة المعلومات</string>
   <!-- Custom carrier label and position -->
   <string name="keyguard_show_carrier_title">إخفاء إسم مشغّل الشبكة</string>
   <string name="keyguard_show_carrier_summary">إخفاء إسم مشغّل الشبكة على keyguard</string>
@@ -130,7 +129,6 @@
   <string name="disable_fullscreen_keyboard_title">تعطيل لوحة المفاتيح في وضع الشاشة الكاملة</string>
   <string name="disable_fullscreen_keyboard_summary">منع لوحة المفاتيح من استخدام كامل الشاشة في الوضع الافقي</string>
   <string name="tile_summary_title">تعطيل الملخصات</string>
-  <string name="tile_summary">تعطيل الملخصات في لوحة العرض</string>
   <string name="notification_light_zen_mode">ضوء الإشعارات</string>
   <string name="battery_light_zen_mode">إضائة البطارية</string>
   <!-- Fingerprint unlock keystore -->
@@ -166,4 +164,13 @@
   <!-- Force authorize substratum packages -->
   <string name="force_authorize_substratum_packages_title">أجبار السماح لكل تطبيق ثيم</string>
   <string name="force_authorize_substratum_packages_summary">السماح لتطبيقات الثيم من المصادر غير المعروفة</string>
+  <string name="dashboard_label">Dashboard</string>
+  <string name="miscellaneous_label">Miscellaneous</string>
+  <string name="two_columns_title">Two columns</string>
+  <string name="headsup_label">Heads up</string>
+  <string name="ticker_label">Ticker</string>
+  <string name="ticker_disabled">Ticker is disabled because heads up is enabled</string>
+  <string name="headsup_disabled">Heads up is disabled because ticker is enabled</string>
+  <string name="ringtones_title">Ringtones</string>
+  <string name="call_options_title">Call options</string>
 </resources>
