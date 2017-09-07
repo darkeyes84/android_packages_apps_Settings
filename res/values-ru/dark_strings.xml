@@ -54,17 +54,16 @@
   <string name="unlock_quick_unlock_control_summary_password">Автоматическая разблокировка при вводе правильного пароля или PIN-кода</string>
   <string name="unlock_quick_unlock_control_summary_pin">Разблокировать автоматически при вводе правильного ПИН-кода/пароля</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">Счётчик уведомлений</string>
-  <string name="ticker_summary">Включить счётчик уведомлений в статус-баре</string>
+  <string name="ticker_title">Ticker</string>
+  <string name="ticker_summary">Display priority notifications in the status bar</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Текст уведомлений и музыки</string>
-  <string name="ticker_track_summary">Показывать информацию о новом треке в статус-баре, когда он начнет играть</string>
+  <string name="ticker_track_title">Ticker music tracks</string>
+  <string name="ticker_track_summary">Show the metadata when a new track plays</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">Защищённый экран блокировки</string>
   <string name="lockscreen_enable_power_menu_summary">Запретить доступ к быстрым настройкам и меню управления питанием</string>
   <!-- Settings suggestions  -->
   <string name="disable_settings_suggestions_title">Подсказки в главном меню</string>
-  <string name="disable_settings_suggestions_summary">Отключить подсказки</string>
   <!-- Custom carrier label and position -->
   <string name="keyguard_show_carrier_title">Скрыть имя оператора</string>
   <string name="keyguard_show_carrier_summary">Скрыть имя оператора на экрана блокировки</string>
@@ -130,7 +129,6 @@
   <string name="disable_fullscreen_keyboard_title">Отключить клавиатуру в полноэкранном режиме</string>
   <string name="disable_fullscreen_keyboard_summary">В ландшафтном режиме клавиатура не займет весь экран</string>
   <string name="tile_summary_title">Отключить резюме</string>
-  <string name="tile_summary">Отключить резюме в настройках</string>
   <string name="notification_light_zen_mode">Индикация уведомлений</string>
   <string name="battery_light_zen_mode">Индикация батареи</string>
   <!-- Fingerprint unlock keystore -->
@@ -166,4 +164,13 @@
   <!-- Force authorize substratum packages -->
   <string name="force_authorize_substratum_packages_title">Принудительно запрашивать разрешения для каждой темы</string>
   <string name="force_authorize_substratum_packages_summary">Разрешить установку тем из неизвестных источников</string>
+  <string name="dashboard_label">Dashboard</string>
+  <string name="miscellaneous_label">Miscellaneous</string>
+  <string name="two_columns_title">Two columns</string>
+  <string name="headsup_label">Heads up</string>
+  <string name="ticker_label">Ticker</string>
+  <string name="ticker_disabled">Ticker is disabled because heads up is enabled</string>
+  <string name="headsup_disabled">Heads up is disabled because ticker is enabled</string>
+  <string name="ringtones_title">Ringtones</string>
+  <string name="call_options_title">Call options</string>
 </resources>
