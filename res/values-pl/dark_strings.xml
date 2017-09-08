@@ -55,7 +55,7 @@
   <string name="unlock_quick_unlock_control_summary_pin">Odblokuj automatycznie, gdy wprowadzony zostanie poprawny PIN</string>
   <!-- Notification Ticker -->
   <string name="ticker_title">Powiadomienia na pasku stanu</string>
-  <string name="ticker_summary">Wyświetl powiadomienia na pasku stanu</string>
+  <string name="ticker_summary">Wyświetla ważne powiadomienia na pasku stanu</string>
   <!-- Notification Ticker Track-->
   <string name="ticker_track_title">Odtwarzane utwory na pasku stanu</string>
   <string name="ticker_track_summary">Pokaż dodatkowe informacje, gdy odtwarzany jest nowy utwór</string>
