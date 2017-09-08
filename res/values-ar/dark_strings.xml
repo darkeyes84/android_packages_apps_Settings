@@ -57,8 +57,8 @@
   <string name="ticker_title">مؤشر الأسهم</string>
   <string name="ticker_summary">عرض التنبيهات المهمة بشريط التنبيهات</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Ticker music tracks</string>
-  <string name="ticker_track_summary">Show the metadata when a new track plays</string>
+  <string name="ticker_track_title">مؤشر الأسهم للمقطوعات الموسيقية</string>
+  <string name="ticker_track_summary">إظهار بيانات التعريف عندما يلعب مقطع جديد</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">شاشة قفل مؤمنة</string>
   <string name="lockscreen_enable_power_menu_summary">منع الوصول إلى الإعدادات السريعة و قائمة التشغيل</string>
@@ -164,12 +164,12 @@
   <!-- Force authorize substratum packages -->
   <string name="force_authorize_substratum_packages_title">أجبار السماح لكل تطبيق ثيم</string>
   <string name="force_authorize_substratum_packages_summary">السماح لتطبيقات الثيم من المصادر غير المعروفة</string>
-  <string name="dashboard_label">Dashboard</string>
-  <string name="miscellaneous_label">Miscellaneous</string>
-  <string name="two_columns_title">Two columns</string>
-  <string name="headsup_label">Heads up</string>
+  <string name="dashboard_label">لوحة المعلومات</string>
+  <string name="miscellaneous_label">خيارات متنوعة</string>
+  <string name="two_columns_title">عمودان</string>
+  <string name="headsup_label">الإشعارات العلوية العائمة</string>
   <string name="ticker_label">مؤشر الأسهم</string>
-  <string name="ticker_disabled">Ticker is disabled because heads up is enabled</string>
+  <string name="ticker_disabled">مؤشر الأسهم معطل بسبب الإشعارات العلوية العائمة مفعلة</string>
   <string name="headsup_disabled">Heads up is disabled because ticker is enabled</string>
   <string name="ringtones_title">Ringtones</string>
   <string name="call_options_title">Call options</string>
