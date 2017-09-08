@@ -54,11 +54,11 @@
   <string name="unlock_quick_unlock_control_summary_password">Odblokuj automatycznie, gdy wprowadzone zostanie poprawne hasło</string>
   <string name="unlock_quick_unlock_control_summary_pin">Odblokuj automatycznie, gdy wprowadzony zostanie poprawny PIN</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">Pasek powiadomień</string>
-  <string name="ticker_summary">Wyświetl priorytetowe powiadomienia na pasku stanu</string>
+  <string name="ticker_title">Powiadomienia na pasku stanu</string>
+  <string name="ticker_summary">Wyświetl powiadomienia na pasku stanu</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Odtwarzane utwory w pasku powiadomień</string>
-  <string name="ticker_track_summary">Show the metadata when a new track plays</string>
+  <string name="ticker_track_title">Odtwarzane utwory na pasku stanu</string>
+  <string name="ticker_track_summary">Pokaż dodatkowe informacje, gdy odtwarzany jest nowy utwór</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">Zabezpiecz ekran blokady</string>
   <string name="lockscreen_enable_power_menu_summary">Zablokuj dostęp do szybkich ustawień i menu zasilania</string>
@@ -168,9 +168,9 @@
   <string name="miscellaneous_label">Pozostałe</string>
   <string name="two_columns_title">Dwie kolumny</string>
   <string name="headsup_label">Wyskakujące powiadomienia</string>
-  <string name="ticker_label">Pasek powiadomień</string>
-  <string name="ticker_disabled">Pasek powiadomień jest wyłączony, ponieważ włączone są wyskakujące powiadomienia</string>
-  <string name="headsup_disabled">Wyskakujące powiadomienia są wyłączone, ponieważ włączony jest pasek powiadomień</string>
+  <string name="ticker_label">Powiadomienia na pasku stanu</string>
+  <string name="ticker_disabled">Powiadomienia na pasku stanu są wyłączone, ponieważ włączone są wyskakujące powiadomienia</string>
+  <string name="headsup_disabled">Wyskakujące powiadomienia są wyłączone, ponieważ włączone są powiadomienia na pasku stanu</string>
   <string name="ringtones_title">Dzwonki</string>
   <string name="call_options_title">Opcje połączeń</string>
 </resources>
