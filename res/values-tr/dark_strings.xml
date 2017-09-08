@@ -144,7 +144,7 @@
   <string name="theme_title">Renk motoru</string>
   <string name="theme_summary">Geçerli temanız için farklı renkler seçin</string>
   <string name="theme_accent_color">Vurgu rengi</string>
-  <string name="theme_primary_color">Background color</string>
+  <string name="theme_primary_color">Arka plan rengi</string>
   <string name="theme">Tema</string>
   <string name="oms_enabled">Bir Substratum teması halihazırda uygulandığından tema modları kullanılamıyor</string>
   <string name="red">Kırmızı</string>
