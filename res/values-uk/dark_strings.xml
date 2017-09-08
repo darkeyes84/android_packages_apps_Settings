@@ -57,7 +57,7 @@
   <string name="ticker_title">Біжучий рядок</string>
   <string name="ticker_summary">Відображати приорітетність сповіщення в рядку стану</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Ticker music tracks</string>
+  <string name="ticker_track_title">Інформація про композицію біжучим рядком</string>
   <string name="ticker_track_summary">Відображати інформацію про нову запущену композицію</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">Безпечний екран блокування</string>
