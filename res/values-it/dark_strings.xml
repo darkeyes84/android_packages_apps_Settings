@@ -166,11 +166,11 @@
   <string name="force_authorize_substratum_packages_summary">Consenti le applicazioni a tema provenienti da fonti sconosciute</string>
   <string name="dashboard_label">Dashboard</string>
   <string name="miscellaneous_label">Miscellaneous</string>
-  <string name="two_columns_title">Two columns</string>
+  <string name="two_columns_title">Due colonne</string>
   <string name="headsup_label">Heads up</string>
   <string name="ticker_label">Anteprima notifiche sulla barra di stato</string>
   <string name="ticker_disabled">Ticker is disabled because heads up is enabled</string>
   <string name="headsup_disabled">Heads up is disabled because ticker is enabled</string>
-  <string name="ringtones_title">Ringtones</string>
-  <string name="call_options_title">Call options</string>
+  <string name="ringtones_title">Suonerie</string>
+  <string name="call_options_title">Opzioni di chiamata</string>
 </resources>
