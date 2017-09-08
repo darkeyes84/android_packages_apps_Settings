@@ -54,10 +54,10 @@
   <string name="unlock_quick_unlock_control_summary_password">Odblokuj automatycznie, gdy wprowadzone zostanie poprawne hasło</string>
   <string name="unlock_quick_unlock_control_summary_pin">Odblokuj automatycznie, gdy wprowadzony zostanie poprawny PIN</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">Ticker</string>
-  <string name="ticker_summary">Display priority notifications in the status bar</string>
+  <string name="ticker_title">Pasek powiadomień</string>
+  <string name="ticker_summary">Wyświetl priorytetowe powiadomienia na pasku stanu</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Ticker music tracks</string>
+  <string name="ticker_track_title">Odtwarzane utwory w pasku powiadomień</string>
   <string name="ticker_track_summary">Show the metadata when a new track plays</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">Zabezpiecz ekran blokady</string>
@@ -165,12 +165,12 @@
   <string name="force_authorize_substratum_packages_title">Wymuś autoryzację każdego motywu</string>
   <string name="force_authorize_substratum_packages_summary">Zezwalaj na instalowanie motywów z nieznanych źródeł</string>
   <string name="dashboard_label">Pulpit</string>
-  <string name="miscellaneous_label">Miscellaneous</string>
+  <string name="miscellaneous_label">Pozostałe</string>
   <string name="two_columns_title">Dwie kolumny</string>
   <string name="headsup_label">Wyskakujące powiadomienia</string>
-  <string name="ticker_label">Ticker</string>
-  <string name="ticker_disabled">Ticker is disabled because heads up is enabled</string>
-  <string name="headsup_disabled">Heads up is disabled because ticker is enabled</string>
+  <string name="ticker_label">Pasek powiadomień</string>
+  <string name="ticker_disabled">Pasek powiadomień jest wyłączony, ponieważ włączone są wyskakujące powiadomienia</string>
+  <string name="headsup_disabled">Wyskakujące powiadomienia są wyłączone, ponieważ włączony jest pasek powiadomień</string>
   <string name="ringtones_title">Dzwonki</string>
   <string name="call_options_title">Opcje połączeń</string>
 </resources>
