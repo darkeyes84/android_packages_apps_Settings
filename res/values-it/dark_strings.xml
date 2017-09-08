@@ -57,8 +57,8 @@
   <string name="ticker_title">Anteprima notifiche sulla barra di stato</string>
   <string name="ticker_summary">Visualizza le notifiche prioritarie nella barra di stato</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Ticker music tracks</string>
-  <string name="ticker_track_summary">Show the metadata when a new track plays</string>
+  <string name="ticker_track_title">Mosrta tracce musicali nella barra di stato</string>
+  <string name="ticker_track_summary">Mostra i metadati quando viene avviata una nuova traccia</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">Lockscreen sicura</string>
   <string name="lockscreen_enable_power_menu_summary">Impedisce l\'accesso alle impostazioni rapide e al menu sul tasto power</string>
@@ -167,10 +167,10 @@
   <string name="dashboard_label">Dashboard</string>
   <string name="miscellaneous_label">Varie</string>
   <string name="two_columns_title">Due colonne</string>
-  <string name="headsup_label">Heads up</string>
+  <string name="headsup_label">Notifiche a comparsa</string>
   <string name="ticker_label">Anteprima notifiche sulla barra di stato</string>
-  <string name="ticker_disabled">Ticker is disabled because heads up is enabled</string>
-  <string name="headsup_disabled">Heads up is disabled because ticker is enabled</string>
+  <string name="ticker_disabled">Le notifiche nella barra di stato sono state disabilitate perché le notifiche a comparsa sono state abilitate</string>
+  <string name="headsup_disabled">Le notifiche a comparsa sono state disabilitate perché le notifiche nella barra di stato sono state abilitate</string>
   <string name="ringtones_title">Suonerie</string>
   <string name="call_options_title">Opzioni di chiamata</string>
 </resources>
