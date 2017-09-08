@@ -54,7 +54,7 @@
   <string name="unlock_quick_unlock_control_summary_password">Автоматичне розблокування при введенні правильного пароля</string>
   <string name="unlock_quick_unlock_control_summary_pin">Автоматичне розблокування при введенні правильного PIN-коду</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">Біжучий рядок</string>
+  <string name="ticker_title">Сповіщення біжучим рядком</string>
   <string name="ticker_summary">Відображати приорітетність сповіщення в рядку стану</string>
   <!-- Notification Ticker Track-->
   <string name="ticker_track_title">Інформація про композицію біжучим рядком</string>
@@ -169,9 +169,9 @@
   <string name="miscellaneous_label">Інші налаштування</string>
   <string name="two_columns_title">Дві колонки</string>
   <string name="headsup_label">Спливаючі сповіщення</string>
-  <string name="ticker_label">Біжучий рядок</string>
-  <string name="ticker_disabled">Ticker is disabled because heads up is enabled</string>
-  <string name="headsup_disabled">Heads up is disabled because ticker is enabled</string>
+  <string name="ticker_label">Сповіщення біжучим рядком</string>
+  <string name="ticker_disabled">Біжучий рядок вимкнено, оскільки увімкнено спливаючі сповіщення</string>
+  <string name="headsup_disabled">Спливаючі сповіщення вимкнено, оскільки активовано біжучий рядок</string>
   <string name="ringtones_title">Мелодії дзвінка</string>
   <string name="call_options_title">Опції дзвінків</string>
 </resources>
