@@ -164,13 +164,13 @@
   <!-- Force authorize substratum packages -->
   <string name="force_authorize_substratum_packages_title">Wymuś autoryzację każdego motywu</string>
   <string name="force_authorize_substratum_packages_summary">Zezwalaj na instalowanie motywów z nieznanych źródeł</string>
-  <string name="dashboard_label">Dashboard</string>
+  <string name="dashboard_label">Pulpit</string>
   <string name="miscellaneous_label">Miscellaneous</string>
-  <string name="two_columns_title">Two columns</string>
-  <string name="headsup_label">Heads up</string>
+  <string name="two_columns_title">Dwie kolumny</string>
+  <string name="headsup_label">Wyskakujące powiadomienia</string>
   <string name="ticker_label">Ticker</string>
   <string name="ticker_disabled">Ticker is disabled because heads up is enabled</string>
   <string name="headsup_disabled">Heads up is disabled because ticker is enabled</string>
-  <string name="ringtones_title">Ringtones</string>
-  <string name="call_options_title">Call options</string>
+  <string name="ringtones_title">Dzwonki</string>
+  <string name="call_options_title">Opcje połączeń</string>
 </resources>
