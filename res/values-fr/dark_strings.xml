@@ -54,10 +54,10 @@
   <string name="unlock_quick_unlock_control_summary_password">Déverrouiller automatiquement l\'appareil lorsque le mot de passe est correct</string>
   <string name="unlock_quick_unlock_control_summary_pin">Déverrouiller automatiquement l\'appareil lorsque le code PIN est correct</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">Ticker</string>
+  <string name="ticker_title">Notifications dans la barre d\'état</string>
   <string name="ticker_summary">Afficher les notifications prioritaires dans la barre de statut</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Ticker music tracks</string>
+  <string name="ticker_track_title">Notification dans la barre d\'état des pistes musicales</string>
   <string name="ticker_track_summary">Afficher les métadonnées lorsque une nouvelle piste commence</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">Écran de verrouillage protégé</string>
@@ -167,10 +167,10 @@
   <string name="dashboard_label">Tableau de Bord</string>
   <string name="miscellaneous_label">Autres</string>
   <string name="two_columns_title">Deux colonnes</string>
-  <string name="headsup_label">Heads up</string>
-  <string name="ticker_label">Ticker</string>
-  <string name="ticker_disabled">Ticker is disabled because heads up is enabled</string>
-  <string name="headsup_disabled">Heads up is disabled because ticker is enabled</string>
+  <string name="headsup_label">Notifications flottantes</string>
+  <string name="ticker_label">Notifications dans la barre d\'état</string>
+  <string name="ticker_disabled">Les notifications dans la barre d\'état sont désactivées car les notifications flottantes sont activées</string>
+  <string name="headsup_disabled">Les notifications flottantes sont désactivées car les notifications dans la barre d\'état sont activées</string>
   <string name="ringtones_title">Sonneries</string>
   <string name="call_options_title">Options d’appel</string>
 </resources>
