@@ -57,7 +57,7 @@
   <string name="ticker_title">Бегущая строка</string>
   <string name="ticker_summary">Отображение приоритетных уведомлений в строке состояния</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Ticker music tracks</string>
+  <string name="ticker_track_title">Название треков в бегущей строке</string>
   <string name="ticker_track_summary">Показывать метаданные при воспроизведении нового трека</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">Защищённый экран блокировки</string>
@@ -164,13 +164,13 @@
   <!-- Force authorize substratum packages -->
   <string name="force_authorize_substratum_packages_title">Принудительно запрашивать разрешения для каждой темы</string>
   <string name="force_authorize_substratum_packages_summary">Разрешить установку тем из неизвестных источников</string>
-  <string name="dashboard_label">Dashboard</string>
-  <string name="miscellaneous_label">Miscellaneous</string>
-  <string name="two_columns_title">Two columns</string>
-  <string name="headsup_label">Heads up</string>
+  <string name="dashboard_label">Подсказки</string>
+  <string name="miscellaneous_label">Прочее</string>
+  <string name="two_columns_title">Две колонки</string>
+  <string name="headsup_label">Всплывающие уведомления</string>
   <string name="ticker_label">Бегущая строка</string>
-  <string name="ticker_disabled">Ticker is disabled because heads up is enabled</string>
-  <string name="headsup_disabled">Heads up is disabled because ticker is enabled</string>
-  <string name="ringtones_title">Ringtones</string>
-  <string name="call_options_title">Call options</string>
+  <string name="ticker_disabled">Бегущая строка состояния отключена, т.к. включены всплывающие уведомления</string>
+  <string name="headsup_disabled">Всплывающие уведомления отключены, т.к. бегущая строка состояния включена</string>
+  <string name="ringtones_title">Рингтоны</string>
+  <string name="call_options_title">Параметры звонка</string>
 </resources>
