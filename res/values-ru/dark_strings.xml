@@ -55,10 +55,10 @@
   <string name="unlock_quick_unlock_control_summary_pin">Разблокировать автоматически при вводе правильного ПИН-кода/пароля</string>
   <!-- Notification Ticker -->
   <string name="ticker_title">Бегущая строка</string>
-  <string name="ticker_summary">Display priority notifications in the status bar</string>
+  <string name="ticker_summary">Отображение приоритетных уведомлений в строке состояния</string>
   <!-- Notification Ticker Track-->
   <string name="ticker_track_title">Ticker music tracks</string>
-  <string name="ticker_track_summary">Show the metadata when a new track plays</string>
+  <string name="ticker_track_summary">Показывать метаданные при воспроизведении нового трека</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">Защищённый экран блокировки</string>
   <string name="lockscreen_enable_power_menu_summary">Запретить доступ к быстрым настройкам и меню управления питанием</string>
