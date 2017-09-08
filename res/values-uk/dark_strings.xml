@@ -167,8 +167,8 @@
   <string name="force_authorize_substratum_packages_summary">Дозволити встановлення тем із невідомих джерел</string>
   <string name="dashboard_label">Dashboard</string>
   <string name="miscellaneous_label">Miscellaneous</string>
-  <string name="two_columns_title">Two columns</string>
-  <string name="headsup_label">Heads up</string>
+  <string name="two_columns_title">Дві колонки</string>
+  <string name="headsup_label">Спливаючі сповіщення</string>
   <string name="ticker_label">Ticker</string>
   <string name="ticker_disabled">Ticker is disabled because heads up is enabled</string>
   <string name="headsup_disabled">Heads up is disabled because ticker is enabled</string>
