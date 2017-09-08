@@ -55,7 +55,7 @@
   <string name="unlock_quick_unlock_control_summary_pin">Sblocca automaticamente quando il PIN inserito è corretto</string>
   <!-- Notification Ticker -->
   <string name="ticker_title">Anteprima notifiche sulla barra di stato</string>
-  <string name="ticker_summary">Display priority notifications in the status bar</string>
+  <string name="ticker_summary">Visualizza le notifiche prioritarie nella barra di stato</string>
   <!-- Notification Ticker Track-->
   <string name="ticker_track_title">Ticker music tracks</string>
   <string name="ticker_track_summary">Show the metadata when a new track plays</string>
