@@ -87,63 +87,63 @@
   <!-- Incall vibrate options -->
   <string name="incall_vibrate_connect_title">Çağrı bağlandığında titre</string>
   <string name="incall_vibrate_call_wait_title">Çağrı beklemede titre</string>
-  <string name="incall_vibrate_disconnect_title">Vibrate on call disconnect</string>
-  <string name="doze_brightness_level_title">Ambient display brightness</string>
-  <string name="doze_brightness_level_summary">Adjust the brightness level for ambient display</string>
+  <string name="incall_vibrate_disconnect_title">Çağrı bağlantısı kesildiğinde titre</string>
+  <string name="doze_brightness_level_title">Bildirim ekranı parlaklığı</string>
+  <string name="doze_brightness_level_summary">Bildirim ekranı parlaklığını ayarla</string>
   <!-- Heads up timeout -->
-  <string name="heads_up_time_out_title">Heads up timeout</string>
-  <string name="heads_up_time_out_summary">Heads up notifications will show for <xliff:g id="number">%d</xliff:g> seconds</string>
-  <string name="heads_up_time_out_2sec">2 seconds</string>
-  <string name="heads_up_time_out_4sec">4 seconds</string>
-  <string name="heads_up_time_out_5sec">5 seconds</string>
-  <string name="heads_up_time_out_6sec">6 seconds</string>
-  <string name="heads_up_time_out_8sec">8 seconds</string>
-  <string name="heads_up_time_out_10sec">10 seconds</string>
+  <string name="heads_up_time_out_title">Bildirim penceresi zaman aşımı</string>
+  <string name="heads_up_time_out_summary">Bildirim penceresi bildirimi <xliff:g id="number">%d</xliff:g> saniye gösterilecek</string>
+  <string name="heads_up_time_out_2sec">2 saniye</string>
+  <string name="heads_up_time_out_4sec">4 saniye</string>
+  <string name="heads_up_time_out_5sec">5 saniye</string>
+  <string name="heads_up_time_out_6sec">6 saniye</string>
+  <string name="heads_up_time_out_8sec">8 saniye</string>
+  <string name="heads_up_time_out_10sec">10 saniye</string>
   <!-- Heads up snooze -->
-  <string name="heads_up_snooze_title">Heads up snooze</string>
-  <string name="heads_up_snooze_summary_one_minute">Swiping up on heads up notifications will snooze them for that application for 1 minute</string>
-  <string name="heads_up_snooze_summary">Swiping up on heads up notifications will snooze them for that application for <xliff:g id="number">%d</xliff:g> minutes</string>
-  <string name="heads_up_snooze_disabled_summary">Snooze is disabled</string>
-  <string name="heads_up_snooze_1min">1 minute</string>
-  <string name="heads_up_snooze_3min">3 minutes</string>
-  <string name="heads_up_snooze_5min">5 minutes</string>
-  <string name="heads_up_snooze_10min">10 minutes</string>
-  <string name="heads_up_snooze_15min">15 minutes</string>
-  <string name="heads_up_snooze_20min">20 minutes</string>
+  <string name="heads_up_snooze_title">Bildirim penceresi erteleme</string>
+  <string name="heads_up_snooze_summary_one_minute">Bildirim pencereleri yukarı kaydırılarak 1 dakika boyunca o uygulamadan gelecek olan bildirimleri erteler</string>
+  <string name="heads_up_snooze_summary">Bildirim pencereleri yukarı kaydırılarak <xliff:g id="number">%d</xliff:g> dakika boyunca o uygulamadan gelecek olan bildirimleri erteler</string>
+  <string name="heads_up_snooze_disabled_summary">Erteleme devredışı</string>
+  <string name="heads_up_snooze_1min">1 dakika</string>
+  <string name="heads_up_snooze_3min">3 dakika</string>
+  <string name="heads_up_snooze_5min">5 dakika</string>
+  <string name="heads_up_snooze_10min">10 dakika</string>
+  <string name="heads_up_snooze_15min">15 dakika</string>
+  <string name="heads_up_snooze_20min">20 dakika</string>
   <!-- Recents panel settings -->
-  <string name="show_clear_all_recents_button_title">Enable clear all button</string>
-  <string name="show_clear_all_recents_button_summary">Show the clear all button when using recents</string>
-  <string name="recents_clear_all_location_title">Clear all button location</string>
-  <string name="recents_clear_all_location_stock">Top right (auto hide)</string>
-  <string name="recents_clear_all_location_top_right">Top right</string>
-  <string name="recents_clear_all_location_top_left">Top left</string>
-  <string name="recents_clear_all_location_top_center">Top center</string>
-  <string name="recents_clear_all_location_bottom_right">Bottom right</string>
-  <string name="recents_clear_all_location_bottom_left">Bottom left</string>
-  <string name="recents_clear_all_location_bottom_center">Bottom center</string>
+  <string name="show_clear_all_recents_button_title">Tümünü temizle düğmesini etkinleştir</string>
+  <string name="show_clear_all_recents_button_summary">Son uygulamalar kullanırken tümünü temizle düğmesini göster</string>
+  <string name="recents_clear_all_location_title">Tümünü temizle butonu konumu</string>
+  <string name="recents_clear_all_location_stock">Sağ üst (Otomatik Gizle)</string>
+  <string name="recents_clear_all_location_top_right">Sağ Üst</string>
+  <string name="recents_clear_all_location_top_left">Üst Sol</string>
+  <string name="recents_clear_all_location_top_center">Üst orta</string>
+  <string name="recents_clear_all_location_bottom_right">Alt Sağ</string>
+  <string name="recents_clear_all_location_bottom_left">Alt sol</string>
+  <string name="recents_clear_all_location_bottom_center">Alt orta</string>
   <!-- Battery stats reset -->
-  <string name="battery_stats_reset">Reset statistics</string>
-  <string name="battery_stats_message">Battery history will be removed</string>
-  <string name="ok_string">Ok</string>
+  <string name="battery_stats_reset">İstatistikleri Sıfırla</string>
+  <string name="battery_stats_message">Pil geçmişi temizlenecek</string>
+  <string name="ok_string">Tamam</string>
   <!-- Fullscreen Keyboard -->
-  <string name="disable_fullscreen_keyboard_title">Disable fullscreen keyboard</string>
-  <string name="disable_fullscreen_keyboard_summary">Prevent keyboard from using the entire screen in landscape</string>
-  <string name="tile_summary_title">Disable summaries</string>
-  <string name="notification_light_zen_mode">Notification light</string>
-  <string name="battery_light_zen_mode">Battery light</string>
+  <string name="disable_fullscreen_keyboard_title">Tam ekran klavyeyi kapat</string>
+  <string name="disable_fullscreen_keyboard_summary">Klavyeyi manzara modunda ekranın tamamını kullanmasını engelle</string>
+  <string name="tile_summary_title">Özetleri devre dışı bırak</string>
+  <string name="notification_light_zen_mode">Bildirim ışığı</string>
+  <string name="battery_light_zen_mode">Pil Işığı</string>
   <!-- Fingerprint unlock keystore -->
-  <string name="fp_unlock_keystore_title">Fingerprint unlock</string>
-  <string name="fp_unlock_password_summary">Unlock device with fingerprint after reboot without password</string>
-  <string name="fp_unlock_pattern_summary">Unlock device with fingerprint after reboot without pattern</string>
-  <string name="fp_unlock_pin_summary">Unlock device with fingerprint after reboot without pin</string>
+  <string name="fp_unlock_keystore_title">Parmak iziyle kilit açma</string>
+  <string name="fp_unlock_password_summary">Yeniden başlattıktan sonra şifre olmadan parmak iziyle cihazın kilidini aç</string>
+  <string name="fp_unlock_pattern_summary">Yeniden başlattıktan sonra desen olmadan parmak iziyle cihazın kilidini aç</string>
+  <string name="fp_unlock_pin_summary">Yeniden başlattıktan sonra pin olmadan parmak iziyle cihazın kilidini aç</string>
   <!-- Force expanded notifications -->
-  <string name="expanded_notifications_title">Force expanded notifications</string>
-  <string name="expanded_notifications_summary">Always show expanded notifications when supported</string>
+  <string name="expanded_notifications_title">Genişletilmiş bildirimleri zorla</string>
+  <string name="expanded_notifications_summary">Desteklendiğinde genişletilmiş bildirimleri her zaman göster</string>
   <!-- Color engine -->
-  <string name="theme_switch_palette">Switch between background and accent colors</string>
-  <string name="theme_title">Color engine</string>
-  <string name="theme_summary">Select different colors for your current theme</string>
-  <string name="theme_accent_color">Accent color</string>
+  <string name="theme_switch_palette">Ana ve vurgu renkleri arasında geçiş yap</string>
+  <string name="theme_title">Renk motoru</string>
+  <string name="theme_summary">Geçerli temanız için farklı renkler seçin</string>
+  <string name="theme_accent_color">Vurgu rengi</string>
   <string name="theme_primary_color">Background color</string>
   <string name="theme">Tema</string>
   <string name="oms_enabled">Bir Substratum teması halihazırda uygulandığından tema modları kullanılamıyor</string>
@@ -162,15 +162,15 @@
   <string name="grey">Gri</string>
   <string name="white">Beyaz</string>
   <!-- Force authorize substratum packages -->
-  <string name="force_authorize_substratum_packages_title">Force authorize every theme app</string>
-  <string name="force_authorize_substratum_packages_summary">Allow theme apps from unknown sources</string>
-  <string name="dashboard_label">Dashboard</string>
-  <string name="miscellaneous_label">Miscellaneous</string>
-  <string name="two_columns_title">Two columns</string>
-  <string name="headsup_label">Heads up</string>
+  <string name="force_authorize_substratum_packages_title">Her tema uygulamasının yetkisini zorla</string>
+  <string name="force_authorize_substratum_packages_summary">Bilinmeyen kaynaklardan tema uygulamalarına izin ver</string>
+  <string name="dashboard_label">Kontrol paneli</string>
+  <string name="miscellaneous_label">Çeşitli</string>
+  <string name="two_columns_title">İki sütun</string>
+  <string name="headsup_label">Bildirim pencereleri</string>
   <string name="ticker_label">Bildirim şeridi</string>
-  <string name="ticker_disabled">Ticker is disabled because heads up is enabled</string>
-  <string name="headsup_disabled">Heads up is disabled because ticker is enabled</string>
-  <string name="ringtones_title">Ringtones</string>
-  <string name="call_options_title">Call options</string>
+  <string name="ticker_disabled">Bildirim pencereleri etkin olduğundan bildirim çubuğu etkin değil</string>
+  <string name="headsup_disabled">Bildirim çubuğu etkin olduğundan bildirim penceresi kapalı</string>
+  <string name="ringtones_title">Zil sesleri</string>
+  <string name="call_options_title">Çağrı seçenekleri</string>
 </resources>
