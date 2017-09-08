@@ -164,7 +164,7 @@
   <!-- Force authorize substratum packages -->
   <string name="force_authorize_substratum_packages_title">Forzar autorización de cada aplicación de tema</string>
   <string name="force_authorize_substratum_packages_summary">Permitir aplicaciones de temas de fuentes desconocidas</string>
-  <string name="dashboard_label">Dashboard</string>
+  <string name="dashboard_label">Configuración</string>
   <string name="miscellaneous_label">Misceláneos</string>
   <string name="two_columns_title">Dos columnas</string>
   <string name="headsup_label">Notificaciones emergentes</string>
