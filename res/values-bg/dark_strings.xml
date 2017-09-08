@@ -55,10 +55,10 @@
   <string name="unlock_quick_unlock_control_summary_pin">Автоматично отключване, когато е въведен правилният ПИН код</string>
   <!-- Notification Ticker -->
   <string name="ticker_title">Ticker</string>
-  <string name="ticker_summary">Display priority notifications in the status bar</string>
+  <string name="ticker_summary">Показвай приоритизирани известия в лентата за състояние</string>
   <!-- Notification Ticker Track-->
   <string name="ticker_track_title">Ticker music tracks</string>
-  <string name="ticker_track_summary">Show the metadata when a new track plays</string>
+  <string name="ticker_track_summary">Показвай метаданни, когато е пусната нова песен</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">Защитен заключен екран</string>
   <string name="lockscreen_enable_power_menu_summary">Предотвратяване на достъпа до бързи настройки и меню за рестартиране</string>
@@ -164,13 +164,13 @@
   <!-- Force authorize substratum packages -->
   <string name="force_authorize_substratum_packages_title">Карай всяко приложение за теми да се оторизира</string>
   <string name="force_authorize_substratum_packages_summary">Позволи приложения за теми от непознати източници</string>
-  <string name="dashboard_label">Dashboard</string>
-  <string name="miscellaneous_label">Miscellaneous</string>
-  <string name="two_columns_title">Two columns</string>
-  <string name="headsup_label">Heads up</string>
+  <string name="dashboard_label">Табло</string>
+  <string name="miscellaneous_label">Разни</string>
+  <string name="two_columns_title">Две колони</string>
+  <string name="headsup_label">Изскачащи известия</string>
   <string name="ticker_label">Ticker</string>
   <string name="ticker_disabled">Ticker is disabled because heads up is enabled</string>
   <string name="headsup_disabled">Heads up is disabled because ticker is enabled</string>
-  <string name="ringtones_title">Ringtones</string>
-  <string name="call_options_title">Call options</string>
+  <string name="ringtones_title">Рингтонове</string>
+  <string name="call_options_title">Опции при повикване</string>
 </resources>
