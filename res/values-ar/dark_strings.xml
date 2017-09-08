@@ -54,8 +54,8 @@
   <string name="unlock_quick_unlock_control_summary_password">فتح تلقائياً عندما يتم إدخال كلمة السر صحيحة</string>
   <string name="unlock_quick_unlock_control_summary_pin">فتح تلقائياً عندما يتم إدخال PIN صحيحة</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">Ticker</string>
-  <string name="ticker_summary">Display priority notifications in the status bar</string>
+  <string name="ticker_title">مؤشر الأسهم</string>
+  <string name="ticker_summary">عرض التنبيهات المهمة بشريط التنبيهات</string>
   <!-- Notification Ticker Track-->
   <string name="ticker_track_title">Ticker music tracks</string>
   <string name="ticker_track_summary">Show the metadata when a new track plays</string>
@@ -168,7 +168,7 @@
   <string name="miscellaneous_label">Miscellaneous</string>
   <string name="two_columns_title">Two columns</string>
   <string name="headsup_label">Heads up</string>
-  <string name="ticker_label">Ticker</string>
+  <string name="ticker_label">مؤشر الأسهم</string>
   <string name="ticker_disabled">Ticker is disabled because heads up is enabled</string>
   <string name="headsup_disabled">Heads up is disabled because ticker is enabled</string>
   <string name="ringtones_title">Ringtones</string>
