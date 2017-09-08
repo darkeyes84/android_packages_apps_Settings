@@ -55,7 +55,7 @@
   <string name="unlock_quick_unlock_control_summary_pin">当输入正确的 PIN 时自动解锁</string>
   <!-- Notification Ticker -->
   <string name="ticker_title">Ticker</string>
-  <string name="ticker_summary">Display priority notifications in the status bar</string>
+  <string name="ticker_summary">在状态栏上显示优先通知</string>
   <!-- Notification Ticker Track-->
   <string name="ticker_track_title">Ticker music tracks</string>
   <string name="ticker_track_summary">Show the metadata when a new track plays</string>
@@ -166,11 +166,11 @@
   <string name="force_authorize_substratum_packages_summary">允许使用来自未知来源的主题应用</string>
   <string name="dashboard_label">Dashboard</string>
   <string name="miscellaneous_label">Miscellaneous</string>
-  <string name="two_columns_title">Two columns</string>
+  <string name="two_columns_title">双列</string>
   <string name="headsup_label">Heads up</string>
   <string name="ticker_label">Ticker</string>
   <string name="ticker_disabled">Ticker is disabled because heads up is enabled</string>
   <string name="headsup_disabled">Heads up is disabled because ticker is enabled</string>
-  <string name="ringtones_title">Ringtones</string>
-  <string name="call_options_title">Call options</string>
+  <string name="ringtones_title">铃声</string>
+  <string name="call_options_title">呼叫选项</string>
 </resources>
