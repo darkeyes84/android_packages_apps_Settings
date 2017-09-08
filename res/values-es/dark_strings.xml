@@ -54,10 +54,10 @@
   <string name="unlock_quick_unlock_control_summary_password">Desbloquear automáticamente cuando se introduce la contraseña correcta</string>
   <string name="unlock_quick_unlock_control_summary_pin">Desbloquear automáticamente cuando se introduce el PIN correcto</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">Ticker</string>
+  <string name="ticker_title">Texto de notificación en barra de estado</string>
   <string name="ticker_summary">Mostrar notificaciones de prioridad en la barra de estado</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Ticker music tracks</string>
+  <string name="ticker_track_title">Titulo de las pistas de música en la barra de estado</string>
   <string name="ticker_track_summary">Muestra los metadatos cuando se reproduce una nueva pista</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">Pantalla de bloqueo segura</string>
@@ -168,9 +168,9 @@
   <string name="miscellaneous_label">Misceláneos</string>
   <string name="two_columns_title">Dos columnas</string>
   <string name="headsup_label">Notificaciones emergentes</string>
-  <string name="ticker_label">Ticker</string>
-  <string name="ticker_disabled">Ticker is disabled because heads up is enabled</string>
-  <string name="headsup_disabled">Heads up is disabled because ticker is enabled</string>
+  <string name="ticker_label">Texto de notificación en barra de estado</string>
+  <string name="ticker_disabled">Texto de notificación en barra de estado desactivado porque las notificaciones emergentes estan activadas</string>
+  <string name="headsup_disabled">Notificaciones emergentes desactivadas porque el texto de notificación en barra de estado está activado</string>
   <string name="ringtones_title">Tonos de llamada</string>
   <string name="call_options_title">Opciones de llamada</string>
 </resources>
