@@ -55,7 +55,7 @@
   <string name="unlock_quick_unlock_control_summary_pin">Déverrouiller automatiquement l\'appareil lorsque le code PIN est correct</string>
   <!-- Notification Ticker -->
   <string name="ticker_title">Notifications dans la barre d\'état</string>
-  <string name="ticker_summary">Afficher les notifications prioritaires dans la barre de statut</string>
+  <string name="ticker_summary">Afficher les notifications prioritaires dans la barre d\'état</string>
   <!-- Notification Ticker Track-->
   <string name="ticker_track_title">Notification dans la barre d\'état des pistes musicales</string>
   <string name="ticker_track_summary">Afficher les métadonnées lorsque une nouvelle piste commence</string>
@@ -164,7 +164,7 @@
   <!-- Force authorize substratum packages -->
   <string name="force_authorize_substratum_packages_title">Forcer l’autorisation de chaque application de thème</string>
   <string name="force_authorize_substratum_packages_summary">Autorise les applications de thème provenant de sources inconnues</string>
-  <string name="dashboard_label">Tableau de Bord</string>
+  <string name="dashboard_label">Tableau de bord</string>
   <string name="miscellaneous_label">Autres</string>
   <string name="two_columns_title">Deux colonnes</string>
   <string name="headsup_label">Notifications flottantes</string>
