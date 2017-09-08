@@ -170,7 +170,7 @@
   <string name="headsup_label">الإشعارات العلوية العائمة</string>
   <string name="ticker_label">مؤشر الأسهم</string>
   <string name="ticker_disabled">مؤشر الأسهم معطل بسبب الإشعارات العلوية العائمة مفعلة</string>
-  <string name="headsup_disabled">Heads up is disabled because ticker is enabled</string>
-  <string name="ringtones_title">Ringtones</string>
-  <string name="call_options_title">Call options</string>
+  <string name="headsup_disabled">الإشعارات العلوية العائمة معطلة بسبب مؤشر الأسهم مفعل</string>
+  <string name="ringtones_title">النغمات</string>
+  <string name="call_options_title">خيارات الاتصال</string>
 </resources>
