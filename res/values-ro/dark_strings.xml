@@ -54,11 +54,11 @@
   <string name="unlock_quick_unlock_control_summary_password">Deblochează automat când se introduce parola corectă</string>
   <string name="unlock_quick_unlock_control_summary_pin">Deblochează automat când se introduce corect codul PIN</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">Selector</string>
-  <string name="ticker_summary">Afişează notificarile prioritare în bara de stare</string>
+  <string name="ticker_title">Comutator</string>
+  <string name="ticker_summary">Afişare notificari prioritare în bara de stare</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Ticker music tracks</string>
-  <string name="ticker_track_summary">Show the metadata when a new track plays</string>
+  <string name="ticker_track_title">Comutator piese muzicale</string>
+  <string name="ticker_track_summary">Afişare metadate atunci când se redă o piesă nouă</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">Ecran de blocare securizat</string>
   <string name="lockscreen_enable_power_menu_summary">Prevenirea accesului la setările rapide şi meniului de pornire</string>
@@ -168,9 +168,9 @@
   <string name="miscellaneous_label">Diverse</string>
   <string name="two_columns_title">Două coloane</string>
   <string name="headsup_label">Atenționări</string>
-  <string name="ticker_label">Selector</string>
-  <string name="ticker_disabled">Ticker is disabled because heads up is enabled</string>
-  <string name="headsup_disabled">Heads up is disabled because ticker is enabled</string>
+  <string name="ticker_label">Comutator</string>
+  <string name="ticker_disabled">Comutatorul este dezactivat deoarece atenţionările sunt activate</string>
+  <string name="headsup_disabled">Atenţionările sunt dezactivate deoarece comutatorul este pornit</string>
   <string name="ringtones_title">Tonuri de apel</string>
   <string name="call_options_title">Opţiuni apel</string>
 </resources>
