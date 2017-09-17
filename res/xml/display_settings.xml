@@ -66,7 +66,6 @@
                 android:summary="@string/recents_lock_icon_summary"
                 android:defaultValue="false" />
 
-
         <com.android.settings.preference.SystemSettingSwitchPreference
                  android:key="systemui_recents_mem_display"
                  android:title="@string/systemui_recents_mem_display_title"
@@ -240,6 +239,12 @@
                 android:key="disable_immersive_message"
                 android:title="@string/disable_immersive_message_title"
                 android:summary="@string/disable_immersive_message_summary" />
+
+        <com.android.settings.preference.SystemSettingSwitchPreference
+                android:key="toast_icon"
+                android:title="@string/toast_icon_title"
+                android:summary="@string/toast_icon_summary"
+                android:defaultValue="true" />
 
         <ListPreference
                 android:entries="@array/screenshot_type_entries"

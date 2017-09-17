@@ -217,4 +217,8 @@
     <string name="recents_dismiss_icon_title">Dismiss task</string>
     <string name="recents_dismiss_icon_summary">Show dismiss icon in the task header</string>
 
+    <!-- Toast icon -->
+    <string name="toast_icon_title">Toast icon</string>
+    <string name="toast_icon_summary">Display icon of activity that generates toast message</string>
+
 </resources>
