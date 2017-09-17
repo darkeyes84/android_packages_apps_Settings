@@ -111,9 +111,10 @@ public class DisplaySettings extends SettingsPreferenceFragment implements
     private static final String KEY_VR_DISPLAY_PREF = "vr_display_pref";
     private static final String SCREENSHOT_TYPE = "screenshot_type";
     private static final String RECENTS_CLEAR_ALL_LOCATION = "recents_clear_all_location";
+    private static final String IMMERSIVE_RECENTS = "immersive_recents";
 
+    private ListPreference mImmersiveRecents;
     private Preference mFontSizePref;
-
     private TimeoutListPreference mScreenTimeoutPreference;
     private ListPreference mNightModePreference;
     private Preference mScreenSaverPreference;
@@ -324,6 +325,12 @@ public class DisplaySettings extends SettingsPreferenceFragment implements
                 mThemePreference.setSummary(R.string.oms_enabled);
             }
         }
+
+        mImmersiveRecents = (ListPreference) findPreference(IMMERSIVE_RECENTS);
+        mImmersiveRecents.setValue(String.valueOf(Settings.System.getInt(
+                resolver, Settings.System.IMMERSIVE_RECENTS, 0)));
+        mImmersiveRecents.setSummary(mImmersiveRecents.getEntry());
+        mImmersiveRecents.setOnPreferenceChangeListener(this);
     }
 
     private static boolean allowAllRotations(Context context) {
@@ -538,11 +545,19 @@ public class DisplaySettings extends SettingsPreferenceFragment implements
             return true;
         }
         if (preference == mRecentsClearAllLocation) {
-            int location = Integer.valueOf((String) objValue);
+            int location = Integer.parseInt((String) objValue);
             int index = mRecentsClearAllLocation.findIndexOfValue((String) objValue);
             Settings.System.putIntForUser(getContentResolver(),
                     Settings.System.RECENTS_CLEAR_ALL_LOCATION, location, UserHandle.USER_CURRENT);
             mRecentsClearAllLocation.setSummary(mRecentsClearAllLocation.getEntries()[index]);
+            return true;
+        }
+        if (preference == mImmersiveRecents) {
+			int value = Integer.parseInt((String) objValue);
+			int index = mImmersiveRecents.findIndexOfValue((String) objValue);
+            Settings.System.putInt(getContentResolver(), 
+                    Settings.System.IMMERSIVE_RECENTS, value);
+            mImmersiveRecents.setSummary(mImmersiveRecents.getEntries()[index]);
             return true;
         }
 

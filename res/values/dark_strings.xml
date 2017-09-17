@@ -130,7 +130,7 @@
 
     <!-- Recents panel settings -->
     <string name="show_clear_all_recents_button_title">Enable clear all button</string>
-    <string name="show_clear_all_recents_button_summary">Show the clear all button when using recents</string>
+    <string name="show_clear_all_recents_button_summary">Show the clear all button in recents</string>
     <string name="recents_clear_all_location_title">Clear all button location</string>
     <string name="recents_clear_all_location_stock">Top right (auto hide)</string>
     <string name="recents_clear_all_location_top_right">Top right</string>
@@ -171,7 +171,7 @@
     <string name="theme_accent_color">Accent color</string>
     <string name="theme_primary_color">Background color</string>
     <string name="theme">Theme</string>
-    <string name="oms_enabled">Theme mode is unavailable because a Substratum theme is currently applied</string>
+    <string name="oms_enabled">Theme mode is unavailable because a Substratum overlay is currently applied</string>
     <string name="red">Red</string>
     <string name="orange">Orange</string>
     <string name="blue">Teal</string>
@@ -200,5 +200,21 @@
    <string name="headsup_disabled">Heads up is disabled because ticker is enabled</string>
    <string name="ringtones_title">Ringtones</string>
    <string name="call_options_title">Call options</string>
+
+    <!-- Recents -->
+    <string name="recents_label">Recents</string>
+    <string name="immersive_recents_title">Immersive mode</string>
+    <string name="immersive_recents_summary">Change the views in recents</string>
+    <string name="immersive_recents_dialog_title">Select recents views to hide</string>
+    <string name="immersive_recents_default">Hide nothing</string>
+    <string name="immersive_recents_fullscreen">Hide both</string>
+    <string name="immersive_recents_statusbar">Hide navigation bar</string>
+    <string name="immersive_recents_navbar">Hide status bar</string>
+    <string name="systemui_recents_mem_display_title">Memory bar</string>
+    <string name="systemui_recents_mem_display_summary">Display memory bar in recents</string>
+    <string name="recents_lock_icon_title">Lock task</string>
+    <string name="recents_lock_icon_summary">Show lock icon in the task header</string>
+    <string name="recents_dismiss_icon_title">Dismiss task</string>
+    <string name="recents_dismiss_icon_summary">Show dismiss icon in the task header</string>
 
 </resources>
