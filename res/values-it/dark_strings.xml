@@ -177,7 +177,7 @@
   <string name="recents_label">Recenti</string>
   <string name="immersive_recents_title">Modalità immersiva</string>
   <string name="immersive_recents_summary">Cambia la visualizzazione nel menu delle applicazioni recenti</string>
-  <string name="immersive_recents_dialog_title">Select recents views to hide</string>
+  <string name="immersive_recents_dialog_title">Seleziona le visualizzazioni recenti da nascondere</string>
   <string name="immersive_recents_default">Non nascondere nulla</string>
   <string name="immersive_recents_fullscreen">Nascondi entrambi</string>
   <string name="immersive_recents_statusbar">Nascondi la barra di navigazione</string>
