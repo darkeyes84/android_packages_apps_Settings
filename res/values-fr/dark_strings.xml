@@ -112,7 +112,7 @@
   <string name="heads_up_snooze_20min">20 minutes</string>
   <!-- Recents panel settings -->
   <string name="show_clear_all_recents_button_title">Activer le bouton \"Tout effacer\"</string>
-  <string name="show_clear_all_recents_button_summary">Afficher le bouton \"Tout effacer\" lorsque vous parcourez les applications récentes</string>
+  <string name="show_clear_all_recents_button_summary">Show the clear all button in recents</string>
   <string name="recents_clear_all_location_title">Position du bouton \"Tout effacer\"</string>
   <string name="recents_clear_all_location_stock">En haut à droite (masquage automatique)</string>
   <string name="recents_clear_all_location_top_right">En haut à droite</string>
@@ -146,7 +146,7 @@
   <string name="theme_accent_color">Couleur d\'accentuation</string>
   <string name="theme_primary_color">Couleur d\'arrière-plan</string>
   <string name="theme">Thème</string>
-  <string name="oms_enabled">Les thèmes sont désactivés car un thème Substratum est actuellement appliqué</string>
+  <string name="oms_enabled">Theme mode is unavailable because a Substratum overlay is currently applied</string>
   <string name="red">Rouge</string>
   <string name="orange">Orange</string>
   <string name="blue">Turquoise</string>
@@ -173,4 +173,22 @@
   <string name="headsup_disabled">Les notifications flottantes sont désactivées car les notifications dans la barre d\'état sont activées</string>
   <string name="ringtones_title">Sonneries</string>
   <string name="call_options_title">Options d’appel</string>
+  <!-- Recents -->
+  <string name="recents_label">Recents</string>
+  <string name="immersive_recents_title">Immersive mode</string>
+  <string name="immersive_recents_summary">Change the views in recents</string>
+  <string name="immersive_recents_dialog_title">Select recents views to hide</string>
+  <string name="immersive_recents_default">Hide nothing</string>
+  <string name="immersive_recents_fullscreen">Hide both</string>
+  <string name="immersive_recents_statusbar">Hide navigation bar</string>
+  <string name="immersive_recents_navbar">Hide status bar</string>
+  <string name="systemui_recents_mem_display_title">Memory bar</string>
+  <string name="systemui_recents_mem_display_summary">Display memory bar in recents</string>
+  <string name="recents_lock_icon_title">Lock task</string>
+  <string name="recents_lock_icon_summary">Show lock icon in the task header</string>
+  <string name="recents_dismiss_icon_title">Dismiss task</string>
+  <string name="recents_dismiss_icon_summary">Show dismiss icon in the task header</string>
+  <!-- Toast icon -->
+  <string name="toast_icon_title">Toast icon</string>
+  <string name="toast_icon_summary">Display icon of activity that generates toast message</string>
 </resources>
