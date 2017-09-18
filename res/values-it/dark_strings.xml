@@ -112,7 +112,7 @@
   <string name="heads_up_snooze_20min">20 minuti</string>
   <!-- Recents panel settings -->
   <string name="show_clear_all_recents_button_title">Abilita il pulsante cancella tutto</string>
-  <string name="show_clear_all_recents_button_summary">Show the clear all button in recents</string>
+  <string name="show_clear_all_recents_button_summary">Mostra il pulsante cancella tutto quando si visualizzano i recenti</string>
   <string name="recents_clear_all_location_title">Posizione del pulsante cancella tutto</string>
   <string name="recents_clear_all_location_stock">In alto a destra (Nascondi automaticamente)</string>
   <string name="recents_clear_all_location_top_right">In alto a destra</string>
@@ -146,7 +146,7 @@
   <string name="theme_accent_color">Colore dei particolari</string>
   <string name="theme_primary_color">Colore di sfondo</string>
   <string name="theme">Tema</string>
-  <string name="oms_enabled">Theme mode is unavailable because a Substratum overlay is currently applied</string>
+  <string name="oms_enabled">Tema non applicabile perché è già stato applicato un tema Substratum</string>
   <string name="red">Rosso</string>
   <string name="orange">Arancione</string>
   <string name="blue">Teal</string>
@@ -174,8 +174,8 @@
   <string name="ringtones_title">Suonerie</string>
   <string name="call_options_title">Opzioni di chiamata</string>
   <!-- Recents -->
-  <string name="recents_label">Recents</string>
-  <string name="immersive_recents_title">Immersive mode</string>
+  <string name="recents_label">Recenti</string>
+  <string name="immersive_recents_title">Modalità immersiva</string>
   <string name="immersive_recents_summary">Change the views in recents</string>
   <string name="immersive_recents_dialog_title">Select recents views to hide</string>
   <string name="immersive_recents_default">Hide nothing</string>
