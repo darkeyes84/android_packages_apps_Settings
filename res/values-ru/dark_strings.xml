@@ -186,9 +186,9 @@
   <string name="systemui_recents_mem_display_summary">Отображать панель использования RAM в недавних приложениях</string>
   <string name="recents_lock_icon_title">Lock task</string>
   <string name="recents_lock_icon_summary">Show lock icon in the task header</string>
-  <string name="recents_dismiss_icon_title">Dismiss task</string>
+  <string name="recents_dismiss_icon_title">Удалить все</string>
   <string name="recents_dismiss_icon_summary">Show dismiss icon in the task header</string>
   <!-- Toast icon -->
-  <string name="toast_icon_title">Toast icon</string>
-  <string name="toast_icon_summary">Display icon of activity that generates toast message</string>
+  <string name="toast_icon_title">Иконка всплывающего уведомления</string>
+  <string name="toast_icon_summary">Отображать значок приложения в тост-уведомлениях</string>
 </resources>
