@@ -176,14 +176,14 @@
   <!-- Recents -->
   <string name="recents_label">Nedávné</string>
   <string name="immersive_recents_title">Režim celé obrazovky</string>
-  <string name="immersive_recents_summary">Change the views in recents</string>
+  <string name="immersive_recents_summary">Změna zobrazení v seznamu historie</string>
   <string name="immersive_recents_dialog_title">Select recents views to hide</string>
   <string name="immersive_recents_default">Nic neskrývat</string>
-  <string name="immersive_recents_fullscreen">Hide both</string>
-  <string name="immersive_recents_statusbar">Hide navigation bar</string>
-  <string name="immersive_recents_navbar">Hide status bar</string>
-  <string name="systemui_recents_mem_display_title">Memory bar</string>
-  <string name="systemui_recents_mem_display_summary">Display memory bar in recents</string>
+  <string name="immersive_recents_fullscreen">Skrýt obojí</string>
+  <string name="immersive_recents_statusbar">Skrýt navigační panel</string>
+  <string name="immersive_recents_navbar">Skrýt stavovou lištu</string>
+  <string name="systemui_recents_mem_display_title">Ukazatel paměti</string>
+  <string name="systemui_recents_mem_display_summary">Zobrazit ukazatel paměti v nedávných</string>
   <string name="recents_lock_icon_title">Lock task</string>
   <string name="recents_lock_icon_summary">Show lock icon in the task header</string>
   <string name="recents_dismiss_icon_title">Dismiss task</string>
