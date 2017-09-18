@@ -52,7 +52,7 @@
     <!-- Optional screenshot type -->
     <string name="screenshot_type_title">Screenshot type</string>
     <string name="screenshot_type_fullscreen">Take fullscreen screenshots</string>
-    <string name="screenshot_type_partial">Drag selection to take a partial screenshot</string>
+    <string name="screenshot_type_partial">Drag selection to take partial screenshots</string>
 
     <!-- Quick unlock -->
     <string name="unlock_quick_unlock_control_title">Quick unlock</string>
