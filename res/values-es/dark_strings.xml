@@ -176,7 +176,7 @@
   <!-- Recents -->
   <string name="recents_label">Recientes</string>
   <string name="immersive_recents_title">Modo inmersivo</string>
-  <string name="immersive_recents_summary">Cambiar la vistas en recientes</string>
+  <string name="immersive_recents_summary">Cambiar las vistas en recientes</string>
   <string name="immersive_recents_dialog_title">Seleccione vistas recientes para ocultar</string>
   <string name="immersive_recents_default">No ocultar nada</string>
   <string name="immersive_recents_fullscreen">Ocultar ambos</string>
@@ -185,9 +185,9 @@
   <string name="systemui_recents_mem_display_title">Barra de memoria</string>
   <string name="systemui_recents_mem_display_summary">Mostrar barra de memoria en recientes</string>
   <string name="recents_lock_icon_title">Bloquear tarea</string>
-  <string name="recents_lock_icon_summary">Show lock icon in the task header</string>
+  <string name="recents_lock_icon_summary">Mostrar icono de bloqueo en el encabezado de la tarea</string>
   <string name="recents_dismiss_icon_title">Descartar tarea</string>
-  <string name="recents_dismiss_icon_summary">Show dismiss icon in the task header</string>
+  <string name="recents_dismiss_icon_summary">Mostrar icono de rechazar en el encabezado de la tarea</string>
   <!-- Toast icon -->
   <string name="toast_icon_title">Icono de mensaje emergente</string>
   <string name="toast_icon_summary">Mostrar icono de la aplicación que genera el mensaje emergente</string>
