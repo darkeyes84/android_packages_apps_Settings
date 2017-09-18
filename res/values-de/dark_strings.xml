@@ -190,5 +190,5 @@
   <string name="recents_dismiss_icon_summary">Verwerfen-Symbol im Anwendungskopf anzeigen</string>
   <!-- Toast icon -->
   <string name="toast_icon_title">Toast-Benachrichtigungs-Symbol</string>
-  <string name="toast_icon_summary">Display icon of activity that generates toast message</string>
+  <string name="toast_icon_summary">Aktivitätssymbolanzeige das die Toast-Benachrichtigung erzeugt</string>
 </resources>
