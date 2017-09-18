@@ -177,7 +177,7 @@
   <string name="recents_label">Ostatnio używane</string>
   <string name="immersive_recents_title">Rozszerzony Pulpit</string>
   <string name="immersive_recents_summary">Zmień widok w menu ostatnio używanych aplikacji</string>
-  <string name="immersive_recents_dialog_title">Select recents views to hide</string>
+  <string name="immersive_recents_dialog_title">Wybierz menu ostatnio używanych aplikacji, które chcesz ukryć</string>
   <string name="immersive_recents_default">Nic nie ukrywaj</string>
   <string name="immersive_recents_fullscreen">Ukryj oba</string>
   <string name="immersive_recents_statusbar">Ukryj pasek nawigacji</string>
@@ -185,9 +185,9 @@
   <string name="systemui_recents_mem_display_title">Pasek pamięci</string>
   <string name="systemui_recents_mem_display_summary">Pokaż pasek pamięci w menu ostatnio używanych aplikacji</string>
   <string name="recents_lock_icon_title">Ikona blokady</string>
-  <string name="recents_lock_icon_summary">Pokaż ikonę blokady</string>
+  <string name="recents_lock_icon_summary">Pokaż ikonę zablokuj w nagłówku aplikacji</string>
   <string name="recents_dismiss_icon_title">Ikona usuń</string>
-  <string name="recents_dismiss_icon_summary">Pokaż ikonę usuń</string>
+  <string name="recents_dismiss_icon_summary">Pokaż ikonę usuń w nagłówku aplikacji</string>
   <!-- Toast icon -->
   <string name="toast_icon_title">Ikona w dymku powiadomień</string>
   <string name="toast_icon_summary">Wyświetl ikonę aktywności, która generuje wiadomość w dymku</string>
