@@ -184,11 +184,11 @@
   <string name="immersive_recents_navbar">Ocultar a barra de estado</string>
   <string name="systemui_recents_mem_display_title">Barra de memória</string>
   <string name="systemui_recents_mem_display_summary">Mostrar a barra de memória nas aplicacações recentes</string>
-  <string name="recents_lock_icon_title">Lock task</string>
+  <string name="recents_lock_icon_title">Bloquear tarefa</string>
   <string name="recents_lock_icon_summary">Mostrar ícone de bloqueio no cabeçalho da tarefa</string>
-  <string name="recents_dismiss_icon_title">Dismiss task</string>
-  <string name="recents_dismiss_icon_summary">Show dismiss icon in the task header</string>
+  <string name="recents_dismiss_icon_title">Limpar tarefa</string>
+  <string name="recents_dismiss_icon_summary">Mostrar ícone de limpeza no cabeçalho da tarefa</string>
   <!-- Toast icon -->
-  <string name="toast_icon_title">Toast icon</string>
-  <string name="toast_icon_summary">Display icon of activity that generates toast message</string>
+  <string name="toast_icon_title">Ícone na mensagem toast</string>
+  <string name="toast_icon_summary">Mostrar o ícone da aplicação que gerou a mensagem toast</string>
 </resources>
