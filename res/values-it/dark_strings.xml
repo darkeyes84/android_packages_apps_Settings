@@ -187,7 +187,7 @@
   <string name="recents_lock_icon_title">Blocca task</string>
   <string name="recents_lock_icon_summary">Mostra l\'icona di blocco nell\'header del task</string>
   <string name="recents_dismiss_icon_title">Cancella attività</string>
-  <string name="recents_dismiss_icon_summary">Show dismiss icon in the task header</string>
+  <string name="recents_dismiss_icon_summary">Mostra l\'icona di chiusura nell\'header del task</string>
   <!-- Toast icon -->
   <string name="toast_icon_title">Icona Toast</string>
   <string name="toast_icon_summary">Visualizza l\'icona dell\'applicazione corrispondente al toast</string>
