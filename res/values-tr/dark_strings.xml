@@ -112,7 +112,7 @@
   <string name="heads_up_snooze_20min">20 dakika</string>
   <!-- Recents panel settings -->
   <string name="show_clear_all_recents_button_title">Tümünü temizle düğmesini etkinleştir</string>
-  <string name="show_clear_all_recents_button_summary">Son uygulamalar kullanırken tümünü temizle düğmesini göster</string>
+  <string name="show_clear_all_recents_button_summary">Show the clear all button in recents</string>
   <string name="recents_clear_all_location_title">Tümünü temizle butonu konumu</string>
   <string name="recents_clear_all_location_stock">Sağ üst (Otomatik Gizle)</string>
   <string name="recents_clear_all_location_top_right">Sağ Üst</string>
@@ -146,7 +146,7 @@
   <string name="theme_accent_color">Vurgu rengi</string>
   <string name="theme_primary_color">Arka plan rengi</string>
   <string name="theme">Tema</string>
-  <string name="oms_enabled">Bir Substratum teması halihazırda uygulandığından tema modları kullanılamıyor</string>
+  <string name="oms_enabled">Theme mode is unavailable because a Substratum overlay is currently applied</string>
   <string name="red">Kırmızı</string>
   <string name="orange">Turuncu</string>
   <string name="blue">Turkuaz</string>
@@ -173,4 +173,22 @@
   <string name="headsup_disabled">Bildirim çubuğu etkin olduğundan bildirim penceresi kapalı</string>
   <string name="ringtones_title">Zil sesleri</string>
   <string name="call_options_title">Çağrı seçenekleri</string>
+  <!-- Recents -->
+  <string name="recents_label">Recents</string>
+  <string name="immersive_recents_title">Immersive mode</string>
+  <string name="immersive_recents_summary">Change the views in recents</string>
+  <string name="immersive_recents_dialog_title">Select recents views to hide</string>
+  <string name="immersive_recents_default">Hide nothing</string>
+  <string name="immersive_recents_fullscreen">Hide both</string>
+  <string name="immersive_recents_statusbar">Hide navigation bar</string>
+  <string name="immersive_recents_navbar">Hide status bar</string>
+  <string name="systemui_recents_mem_display_title">Memory bar</string>
+  <string name="systemui_recents_mem_display_summary">Display memory bar in recents</string>
+  <string name="recents_lock_icon_title">Lock task</string>
+  <string name="recents_lock_icon_summary">Show lock icon in the task header</string>
+  <string name="recents_dismiss_icon_title">Dismiss task</string>
+  <string name="recents_dismiss_icon_summary">Show dismiss icon in the task header</string>
+  <!-- Toast icon -->
+  <string name="toast_icon_title">Toast icon</string>
+  <string name="toast_icon_summary">Display icon of activity that generates toast message</string>
 </resources>
