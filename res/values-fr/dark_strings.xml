@@ -176,18 +176,18 @@
   <!-- Recents -->
   <string name="recents_label">Vue des applications récentes</string>
   <string name="immersive_recents_title">Mode immersif</string>
-  <string name="immersive_recents_summary">Change the views in recents</string>
-  <string name="immersive_recents_dialog_title">Select recents views to hide</string>
+  <string name="immersive_recents_summary">Modifier les vues des tâches récentes</string>
+  <string name="immersive_recents_dialog_title">Sélectionnez les vues à masquer dans les tâches récentes</string>
   <string name="immersive_recents_default">Ne rien masquer</string>
   <string name="immersive_recents_fullscreen">Masquer les deux</string>
   <string name="immersive_recents_statusbar">Masquer la barre de navigation</string>
   <string name="immersive_recents_navbar">Masquer la barre d\'état</string>
   <string name="systemui_recents_mem_display_title">Barre de mémoire</string>
-  <string name="systemui_recents_mem_display_summary">Display memory bar in recents</string>
+  <string name="systemui_recents_mem_display_summary">Afficher la barre de mémoire dans les tâches récentes</string>
   <string name="recents_lock_icon_title">Icône de verrouillage</string>
-  <string name="recents_lock_icon_summary">Show lock icon in the task header</string>
-  <string name="recents_dismiss_icon_title">Dismiss task</string>
-  <string name="recents_dismiss_icon_summary">Show dismiss icon in the task header</string>
+  <string name="recents_lock_icon_summary">Afficher l’icône de verrouillage dans l’en-tête des tâches</string>
+  <string name="recents_dismiss_icon_title">Tâche rejetée</string>
+  <string name="recents_dismiss_icon_summary">Afficher l’icône de rejet dans l’en-tête des tâches</string>
   <!-- Toast icon -->
   <string name="toast_icon_title">Icône Toast</string>
   <string name="toast_icon_summary">Afficher l\'icône de l\'application correspondant à la notification contextuelle</string>
