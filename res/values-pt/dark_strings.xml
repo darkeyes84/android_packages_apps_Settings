@@ -112,7 +112,7 @@
   <string name="heads_up_snooze_20min">20 minutos</string>
   <!-- Recents panel settings -->
   <string name="show_clear_all_recents_button_title">Activar o botão de limpar tudo</string>
-  <string name="show_clear_all_recents_button_summary">Show the clear all button in recents</string>
+  <string name="show_clear_all_recents_button_summary">Mostrar o botão de limpar tudo nas aplicações recentes</string>
   <string name="recents_clear_all_location_title">Posição do botão de Limpar tudo</string>
   <string name="recents_clear_all_location_stock">Superior direito (escondido automaticamente)</string>
   <string name="recents_clear_all_location_top_right">Superior direito</string>
@@ -146,7 +146,7 @@
   <string name="theme_accent_color">Cor de destaque</string>
   <string name="theme_primary_color">Cor de fundo</string>
   <string name="theme">Tema</string>
-  <string name="oms_enabled">Theme mode is unavailable because a Substratum overlay is currently applied</string>
+  <string name="oms_enabled">O modo Tema não está disponível porque está aplicado actualmente um tema Substratum</string>
   <string name="red">Vermelho</string>
   <string name="orange">Cor de laranja</string>
   <string name="blue">Turquesa</string>
@@ -174,18 +174,18 @@
   <string name="ringtones_title">Tons de toque</string>
   <string name="call_options_title">Opções de chamada</string>
   <!-- Recents -->
-  <string name="recents_label">Recents</string>
-  <string name="immersive_recents_title">Immersive mode</string>
-  <string name="immersive_recents_summary">Change the views in recents</string>
-  <string name="immersive_recents_dialog_title">Select recents views to hide</string>
-  <string name="immersive_recents_default">Hide nothing</string>
-  <string name="immersive_recents_fullscreen">Hide both</string>
-  <string name="immersive_recents_statusbar">Hide navigation bar</string>
-  <string name="immersive_recents_navbar">Hide status bar</string>
-  <string name="systemui_recents_mem_display_title">Memory bar</string>
-  <string name="systemui_recents_mem_display_summary">Display memory bar in recents</string>
+  <string name="recents_label">Aplicações recentes</string>
+  <string name="immersive_recents_title">Modo imersivo</string>
+  <string name="immersive_recents_summary">Mudar os ecrãs nas aplicações recentes</string>
+  <string name="immersive_recents_dialog_title">Seleccionar ecrâs de aplicações recentes a ocultar</string>
+  <string name="immersive_recents_default">Não ocultar nada</string>
+  <string name="immersive_recents_fullscreen">Ocultar ambos</string>
+  <string name="immersive_recents_statusbar">Ocultar a barra de navegação</string>
+  <string name="immersive_recents_navbar">Ocultar a barra de estado</string>
+  <string name="systemui_recents_mem_display_title">Barra de memória</string>
+  <string name="systemui_recents_mem_display_summary">Mostrar a barra de memória nas aplicacações recentes</string>
   <string name="recents_lock_icon_title">Lock task</string>
-  <string name="recents_lock_icon_summary">Show lock icon in the task header</string>
+  <string name="recents_lock_icon_summary">Mostrar ícone de bloqueio no cabeçalho da tarefa</string>
   <string name="recents_dismiss_icon_title">Dismiss task</string>
   <string name="recents_dismiss_icon_summary">Show dismiss icon in the task header</string>
   <!-- Toast icon -->
