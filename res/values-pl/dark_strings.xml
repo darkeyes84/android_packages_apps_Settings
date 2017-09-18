@@ -183,12 +183,12 @@
   <string name="immersive_recents_statusbar">Ukryj pasek nawigacji</string>
   <string name="immersive_recents_navbar">Ukryj pasek stanu</string>
   <string name="systemui_recents_mem_display_title">Pasek pamięci</string>
-  <string name="systemui_recents_mem_display_summary">Display memory bar in recents</string>
-  <string name="recents_lock_icon_title">Lock task</string>
-  <string name="recents_lock_icon_summary">Show lock icon in the task header</string>
-  <string name="recents_dismiss_icon_title">Dismiss task</string>
+  <string name="systemui_recents_mem_display_summary">Pokaż pasek pamięci w menu ostatnio używanych aplikacji</string>
+  <string name="recents_lock_icon_title">Ikona blokady</string>
+  <string name="recents_lock_icon_summary">Pokaż ikonę blokady</string>
+  <string name="recents_dismiss_icon_title">Ikona usuń</string>
   <string name="recents_dismiss_icon_summary">Show dismiss icon in the task header</string>
   <!-- Toast icon -->
-  <string name="toast_icon_title">Toast icon</string>
+  <string name="toast_icon_title">Ikona powiadomień toast</string>
   <string name="toast_icon_summary">Display icon of activity that generates toast message</string>
 </resources>
