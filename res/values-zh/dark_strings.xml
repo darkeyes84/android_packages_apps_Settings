@@ -146,7 +146,7 @@
   <string name="theme_accent_color">强调色</string>
   <string name="theme_primary_color">背景色</string>
   <string name="theme">主题</string>
-  <string name="oms_enabled">Theme mode is unavailable because a Substratum overlay is currently applied</string>
+  <string name="oms_enabled">主题模式不可用，因当前已应用 Substratum 叠加层</string>
   <string name="red">红色</string>
   <string name="orange">橙色</string>
   <string name="blue">蓝绿色</string>
@@ -174,20 +174,20 @@
   <string name="ringtones_title">铃声</string>
   <string name="call_options_title">呼叫选项</string>
   <!-- Recents -->
-  <string name="recents_label">Recents</string>
+  <string name="recents_label">近期</string>
   <string name="immersive_recents_title">沉浸模式</string>
   <string name="immersive_recents_summary">更改近期任务视图</string>
-  <string name="immersive_recents_dialog_title">Select recents views to hide</string>
+  <string name="immersive_recents_dialog_title">选择要隐藏的近期任务视图</string>
   <string name="immersive_recents_default">不隐藏</string>
   <string name="immersive_recents_fullscreen">全部隐藏</string>
   <string name="immersive_recents_statusbar">隐藏导航栏</string>
   <string name="immersive_recents_navbar">隐藏状态栏</string>
   <string name="systemui_recents_mem_display_title">内存栏</string>
   <string name="systemui_recents_mem_display_summary">在近期任务视图内显示内存栏</string>
-  <string name="recents_lock_icon_title">Lock task</string>
-  <string name="recents_lock_icon_summary">Show lock icon in the task header</string>
-  <string name="recents_dismiss_icon_title">Dismiss task</string>
-  <string name="recents_dismiss_icon_summary">Show dismiss icon in the task header</string>
+  <string name="recents_lock_icon_title">锁定任务</string>
+  <string name="recents_lock_icon_summary">在任务标题上显示锁定图标</string>
+  <string name="recents_dismiss_icon_title">清除任务</string>
+  <string name="recents_dismiss_icon_summary">在任务标题上显示清除图标</string>
   <!-- Toast icon -->
   <string name="toast_icon_title">Toast 通知图标</string>
   <string name="toast_icon_summary">在 Toast 通知上显示对应应用的图标</string>
