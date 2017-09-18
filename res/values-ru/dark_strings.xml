@@ -182,8 +182,8 @@
   <string name="immersive_recents_fullscreen">Скрывать строку состояния и панель навигации</string>
   <string name="immersive_recents_statusbar">Скрывать панель навигации</string>
   <string name="immersive_recents_navbar">Скрывать строку состояния</string>
-  <string name="systemui_recents_mem_display_title">Memory bar</string>
-  <string name="systemui_recents_mem_display_summary">Display memory bar in recents</string>
+  <string name="systemui_recents_mem_display_title">Панель использования RAM</string>
+  <string name="systemui_recents_mem_display_summary">Отображать панель использования RAM в недавних приложениях</string>
   <string name="recents_lock_icon_title">Lock task</string>
   <string name="recents_lock_icon_summary">Show lock icon in the task header</string>
   <string name="recents_dismiss_icon_title">Dismiss task</string>
