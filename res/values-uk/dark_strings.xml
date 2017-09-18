@@ -178,18 +178,18 @@
   <string name="recents_label">Нещодавно запущені додатки</string>
   <string name="immersive_recents_title">Повноекранний режим</string>
   <string name="immersive_recents_summary">Змінити вигляд екрану запущених додатків</string>
-  <string name="immersive_recents_dialog_title">Select recents views to hide</string>
-  <string name="immersive_recents_default">Нічого не ховати</string>
-  <string name="immersive_recents_fullscreen">Hide both</string>
+  <string name="immersive_recents_dialog_title">Вибрати що приховувати в меню запущених додатків</string>
+  <string name="immersive_recents_default">Нічого не приховувати</string>
+  <string name="immersive_recents_fullscreen">Повноекраний режим меню запущених додатків</string>
   <string name="immersive_recents_statusbar">Приховувати панель навігації</string>
   <string name="immersive_recents_navbar">Приховувати рядок стану</string>
-  <string name="systemui_recents_mem_display_title">Memory bar</string>
+  <string name="systemui_recents_mem_display_title">Рядок використання пам\'яті</string>
   <string name="systemui_recents_mem_display_summary">Відображати панель Озу в меню запущених додатків</string>
   <string name="recents_lock_icon_title">Піктограма блокування</string>
-  <string name="recents_lock_icon_summary">Show lock icon in the task header</string>
+  <string name="recents_lock_icon_summary">Показувати піктограму блокування в заголовку програми</string>
   <string name="recents_dismiss_icon_title">Dismiss task</string>
   <string name="recents_dismiss_icon_summary">Show dismiss icon in the task header</string>
   <!-- Toast icon -->
-  <string name="toast_icon_title">Toast icon</string>
+  <string name="toast_icon_title">Значок спливаючого повідомлення</string>
   <string name="toast_icon_summary">Display icon of activity that generates toast message</string>
 </resources>
