@@ -112,7 +112,7 @@
   <string name="heads_up_snooze_20min">20 分钟</string>
   <!-- Recents panel settings -->
   <string name="show_clear_all_recents_button_title">启用全部清除按钮</string>
-  <string name="show_clear_all_recents_button_summary">Show the clear all button in recents</string>
+  <string name="show_clear_all_recents_button_summary">在近期任务视图内显示全部清除按钮</string>
   <string name="recents_clear_all_location_title">全部清除按钮位置</string>
   <string name="recents_clear_all_location_stock">右上角 (自动隐藏)</string>
   <string name="recents_clear_all_location_top_right">右上角</string>
@@ -175,20 +175,20 @@
   <string name="call_options_title">呼叫选项</string>
   <!-- Recents -->
   <string name="recents_label">Recents</string>
-  <string name="immersive_recents_title">Immersive mode</string>
-  <string name="immersive_recents_summary">Change the views in recents</string>
+  <string name="immersive_recents_title">沉浸模式</string>
+  <string name="immersive_recents_summary">更改近期任务视图</string>
   <string name="immersive_recents_dialog_title">Select recents views to hide</string>
-  <string name="immersive_recents_default">Hide nothing</string>
-  <string name="immersive_recents_fullscreen">Hide both</string>
-  <string name="immersive_recents_statusbar">Hide navigation bar</string>
-  <string name="immersive_recents_navbar">Hide status bar</string>
-  <string name="systemui_recents_mem_display_title">Memory bar</string>
-  <string name="systemui_recents_mem_display_summary">Display memory bar in recents</string>
+  <string name="immersive_recents_default">不隐藏</string>
+  <string name="immersive_recents_fullscreen">全部隐藏</string>
+  <string name="immersive_recents_statusbar">隐藏导航栏</string>
+  <string name="immersive_recents_navbar">隐藏状态栏</string>
+  <string name="systemui_recents_mem_display_title">内存栏</string>
+  <string name="systemui_recents_mem_display_summary">在近期任务视图内显示内存栏</string>
   <string name="recents_lock_icon_title">Lock task</string>
   <string name="recents_lock_icon_summary">Show lock icon in the task header</string>
   <string name="recents_dismiss_icon_title">Dismiss task</string>
   <string name="recents_dismiss_icon_summary">Show dismiss icon in the task header</string>
   <!-- Toast icon -->
-  <string name="toast_icon_title">Toast icon</string>
-  <string name="toast_icon_summary">Display icon of activity that generates toast message</string>
+  <string name="toast_icon_title">Toast 通知图标</string>
+  <string name="toast_icon_summary">在 Toast 通知上显示对应应用的图标</string>
 </resources>
