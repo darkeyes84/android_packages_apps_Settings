@@ -112,7 +112,7 @@
   <string name="heads_up_snooze_20min">20 minut</string>
   <!-- Recents panel settings -->
   <string name="show_clear_all_recents_button_title">Povolit tlačítko \"Vyčistit vše\"</string>
-  <string name="show_clear_all_recents_button_summary">Show the clear all button in recents</string>
+  <string name="show_clear_all_recents_button_summary">Zobrazit tlačítko \"Vyčistit vše\" v zobrazení nedávných aplikací</string>
   <string name="recents_clear_all_location_title">Pozice tlačítka \"Vyčistit vše\"</string>
   <string name="recents_clear_all_location_stock">Vpravo nahoře (automaticky skrývat)</string>
   <string name="recents_clear_all_location_top_right">Vpravo nahoře</string>
@@ -146,7 +146,7 @@
   <string name="theme_accent_color">Doplňková barva</string>
   <string name="theme_primary_color">Barva pozadí</string>
   <string name="theme">Motiv</string>
-  <string name="oms_enabled">Theme mode is unavailable because a Substratum overlay is currently applied</string>
+  <string name="oms_enabled">Režim motivů není k dispozici, protože je momentálně aplikován Substratum motiv</string>
   <string name="red">Červená</string>
   <string name="orange">Oranžová</string>
   <string name="blue">Šedozelená</string>
@@ -174,11 +174,11 @@
   <string name="ringtones_title">Vyzváněcí tóny</string>
   <string name="call_options_title">Možnosti volání</string>
   <!-- Recents -->
-  <string name="recents_label">Recents</string>
-  <string name="immersive_recents_title">Immersive mode</string>
+  <string name="recents_label">Nedávné</string>
+  <string name="immersive_recents_title">Režim celé obrazovky</string>
   <string name="immersive_recents_summary">Change the views in recents</string>
   <string name="immersive_recents_dialog_title">Select recents views to hide</string>
-  <string name="immersive_recents_default">Hide nothing</string>
+  <string name="immersive_recents_default">Nic neskrývat</string>
   <string name="immersive_recents_fullscreen">Hide both</string>
   <string name="immersive_recents_statusbar">Hide navigation bar</string>
   <string name="immersive_recents_navbar">Hide status bar</string>
