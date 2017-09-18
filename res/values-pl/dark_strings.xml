@@ -187,8 +187,8 @@
   <string name="recents_lock_icon_title">Ikona blokady</string>
   <string name="recents_lock_icon_summary">Pokaż ikonę blokady</string>
   <string name="recents_dismiss_icon_title">Ikona usuń</string>
-  <string name="recents_dismiss_icon_summary">Show dismiss icon in the task header</string>
+  <string name="recents_dismiss_icon_summary">Pokaż ikonę usuń</string>
   <!-- Toast icon -->
-  <string name="toast_icon_title">Ikona powiadomień toast</string>
-  <string name="toast_icon_summary">Display icon of activity that generates toast message</string>
+  <string name="toast_icon_title">Ikona w dymku powiadomień</string>
+  <string name="toast_icon_summary">Wyświetl ikonę aktywności, która generuje wiadomość w dymku</string>
 </resources>
