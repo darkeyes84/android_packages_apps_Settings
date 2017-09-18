@@ -176,15 +176,15 @@
   <!-- Recents -->
   <string name="recents_label">Меню недавних приложений</string>
   <string name="immersive_recents_title">Полноэкранный режим</string>
-  <string name="immersive_recents_summary">Change the views in recents</string>
-  <string name="immersive_recents_dialog_title">Select recents views to hide</string>
+  <string name="immersive_recents_summary">Изменить вид \"Меню недавних приложений\"</string>
+  <string name="immersive_recents_dialog_title">Выберите \"Меню недавних приложений\", чтобы скрыть</string>
   <string name="immersive_recents_default">Ничего не скрывать</string>
   <string name="immersive_recents_fullscreen">Скрывать строку состояния и панель навигации</string>
   <string name="immersive_recents_statusbar">Скрывать панель навигации</string>
   <string name="immersive_recents_navbar">Скрывать строку состояния</string>
   <string name="systemui_recents_mem_display_title">Панель использования RAM</string>
   <string name="systemui_recents_mem_display_summary">Отображать панель использования RAM в недавних приложениях</string>
-  <string name="recents_lock_icon_title">Lock task</string>
+  <string name="recents_lock_icon_title">Значек замка в \"Меню недавних приложений\"</string>
   <string name="recents_lock_icon_summary">Отображать значек замка в панели уведомлений</string>
   <string name="recents_dismiss_icon_title">Удалить все</string>
   <string name="recents_dismiss_icon_summary">Отображать кнопку \"Очистить все\" в панели уведомлений</string>
