@@ -189,6 +189,6 @@
   <string name="recents_dismiss_icon_title">Descartar tarea</string>
   <string name="recents_dismiss_icon_summary">Mostrar icono de rechazar en el encabezado de la tarea</string>
   <!-- Toast icon -->
-  <string name="toast_icon_title">Icono de mensaje emergente</string>
+  <string name="toast_icon_title">Icono de notificación flotante</string>
   <string name="toast_icon_summary">Mostrar icono de la aplicación que genera el mensaje emergente</string>
 </resources>
