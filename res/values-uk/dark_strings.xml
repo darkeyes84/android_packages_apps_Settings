@@ -113,7 +113,7 @@
   <string name="heads_up_snooze_20min">20 хвилин</string>
   <!-- Recents panel settings -->
   <string name="show_clear_all_recents_button_title">Показати кнопку \"Очистити все\"</string>
-  <string name="show_clear_all_recents_button_summary">Показувати кнопку \"Очистити все\" на екрані запущених додатків</string>
+  <string name="show_clear_all_recents_button_summary">Show the clear all button in recents</string>
   <string name="recents_clear_all_location_title">Розташування кнопки \"Очистити все\"</string>
   <string name="recents_clear_all_location_stock">Зверху справа (ховати автоматично)</string>
   <string name="recents_clear_all_location_top_right">Зверху справа</string>
@@ -147,7 +147,7 @@
   <string name="theme_accent_color">Колір акценту</string>
   <string name="theme_primary_color">Колір фону</string>
   <string name="theme">Тема</string>
-  <string name="oms_enabled">Теми недоступні, оскільки активна тема Substratum</string>
+  <string name="oms_enabled">Theme mode is unavailable because a Substratum overlay is currently applied</string>
   <string name="red">Червоний</string>
   <string name="orange">Помаранчевий</string>
   <string name="blue">Морський</string>
@@ -174,4 +174,22 @@
   <string name="headsup_disabled">Спливаючі сповіщення вимкнено, оскільки активовано біжучий рядок</string>
   <string name="ringtones_title">Мелодії дзвінка</string>
   <string name="call_options_title">Опції дзвінків</string>
+  <!-- Recents -->
+  <string name="recents_label">Recents</string>
+  <string name="immersive_recents_title">Immersive mode</string>
+  <string name="immersive_recents_summary">Change the views in recents</string>
+  <string name="immersive_recents_dialog_title">Select recents views to hide</string>
+  <string name="immersive_recents_default">Hide nothing</string>
+  <string name="immersive_recents_fullscreen">Hide both</string>
+  <string name="immersive_recents_statusbar">Hide navigation bar</string>
+  <string name="immersive_recents_navbar">Hide status bar</string>
+  <string name="systemui_recents_mem_display_title">Memory bar</string>
+  <string name="systemui_recents_mem_display_summary">Display memory bar in recents</string>
+  <string name="recents_lock_icon_title">Lock task</string>
+  <string name="recents_lock_icon_summary">Show lock icon in the task header</string>
+  <string name="recents_dismiss_icon_title">Dismiss task</string>
+  <string name="recents_dismiss_icon_summary">Show dismiss icon in the task header</string>
+  <!-- Toast icon -->
+  <string name="toast_icon_title">Toast icon</string>
+  <string name="toast_icon_summary">Display icon of activity that generates toast message</string>
 </resources>
