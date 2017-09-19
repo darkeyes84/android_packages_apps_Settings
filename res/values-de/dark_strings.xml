@@ -18,7 +18,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Default left shortcut on lockscreen -->
-  <string name="left_default_voice_title">Linke Taste auf Keyboard</string>
+  <string name="left_default_voice_title">Linke Verknüpfung auf Sperrbildschirm</string>
   <string name="left_default_voice_summary_on">Standardtastenkombination für Sprachassistent</string>
   <string name="left_default_voice_summary_off">Standardtastenkombination für Telefon</string>
   <!-- Hide the next alarm on lockscreen -->
