@@ -177,13 +177,13 @@
   <string name="recents_label">Скорошни</string>
   <string name="immersive_recents_title">Режим \"Цял екран\"</string>
   <string name="immersive_recents_summary">Промяна на изгледите в Скорошни</string>
-  <string name="immersive_recents_dialog_title">Select recents views to hide</string>
+  <string name="immersive_recents_dialog_title">Изберете скорошни задачи за да бъдат скрити</string>
   <string name="immersive_recents_default">Не скривай нищо</string>
   <string name="immersive_recents_fullscreen">Скрий и двете</string>
   <string name="immersive_recents_statusbar">Скриване на лентата за навигация</string>
   <string name="immersive_recents_navbar">Скриване на лентата на състоянието</string>
-  <string name="systemui_recents_mem_display_title">Memory bar</string>
-  <string name="systemui_recents_mem_display_summary">Display memory bar in recents</string>
+  <string name="systemui_recents_mem_display_title">Мемори бар</string>
+  <string name="systemui_recents_mem_display_summary">Показвай мемори барът в Скорошни</string>
   <string name="recents_lock_icon_title">Заключване на задачата</string>
   <string name="recents_lock_icon_summary">Показване на икона за заключване на задачата</string>
   <string name="recents_dismiss_icon_title">Прекрати задачата</string>
