@@ -112,7 +112,7 @@
   <string name="heads_up_snooze_20min">20 минути</string>
   <!-- Recents panel settings -->
   <string name="show_clear_all_recents_button_title">Разрешаване на бутона за изчистване на всички активни приложени</string>
-  <string name="show_clear_all_recents_button_summary">Show the clear all button in recents</string>
+  <string name="show_clear_all_recents_button_summary">Показване на бутона за изчистване на всички активни приложения</string>
   <string name="recents_clear_all_location_title">Изчистване на всички настройки за разположението на бутоните</string>
   <string name="recents_clear_all_location_stock">Горе в дясно (автоматично скриване)</string>
   <string name="recents_clear_all_location_top_right">Горе вдясно</string>
@@ -146,7 +146,7 @@
   <string name="theme_accent_color">Цвят за акцентиране</string>
   <string name="theme_primary_color">Цвят на фона</string>
   <string name="theme">Тема (скин)</string>
-  <string name="oms_enabled">Theme mode is unavailable because a Substratum overlay is currently applied</string>
+  <string name="oms_enabled">Темите са недостъпни, защото в момента е приложена Substratum тема</string>
   <string name="red">Червено</string>
   <string name="orange">Оранжево</string>
   <string name="blue">Синьо-зелен</string>
@@ -174,14 +174,14 @@
   <string name="ringtones_title">Рингтонове</string>
   <string name="call_options_title">Опции при повикване</string>
   <!-- Recents -->
-  <string name="recents_label">Recents</string>
-  <string name="immersive_recents_title">Immersive mode</string>
-  <string name="immersive_recents_summary">Change the views in recents</string>
+  <string name="recents_label">Скорошни</string>
+  <string name="immersive_recents_title">Режим \"Цял екран\"</string>
+  <string name="immersive_recents_summary">Промяна на изгледите в Скорошни</string>
   <string name="immersive_recents_dialog_title">Select recents views to hide</string>
-  <string name="immersive_recents_default">Hide nothing</string>
-  <string name="immersive_recents_fullscreen">Hide both</string>
-  <string name="immersive_recents_statusbar">Hide navigation bar</string>
-  <string name="immersive_recents_navbar">Hide status bar</string>
+  <string name="immersive_recents_default">Не скривай нищо</string>
+  <string name="immersive_recents_fullscreen">Скрий и двете</string>
+  <string name="immersive_recents_statusbar">Скриване на лентата за навигация</string>
+  <string name="immersive_recents_navbar">Скриване на лентата на състоянието</string>
   <string name="systemui_recents_mem_display_title">Memory bar</string>
   <string name="systemui_recents_mem_display_summary">Display memory bar in recents</string>
   <string name="recents_lock_icon_title">Lock task</string>
