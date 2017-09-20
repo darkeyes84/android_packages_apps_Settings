@@ -177,18 +177,18 @@
   <string name="recents_label">Recentes</string>
   <string name="immersive_recents_title">Modo imersivo</string>
   <string name="immersive_recents_summary">Mudar os modos de visualização do menu Recentes</string>
-  <string name="immersive_recents_dialog_title">Select recents views to hide</string>
-  <string name="immersive_recents_default">Hide nothing</string>
-  <string name="immersive_recents_fullscreen">Hide both</string>
-  <string name="immersive_recents_statusbar">Hide navigation bar</string>
-  <string name="immersive_recents_navbar">Hide status bar</string>
-  <string name="systemui_recents_mem_display_title">Memory bar</string>
-  <string name="systemui_recents_mem_display_summary">Display memory bar in recents</string>
-  <string name="recents_lock_icon_title">Lock task</string>
-  <string name="recents_lock_icon_summary">Show lock icon in the task header</string>
-  <string name="recents_dismiss_icon_title">Dismiss task</string>
-  <string name="recents_dismiss_icon_summary">Show dismiss icon in the task header</string>
+  <string name="immersive_recents_dialog_title">Selecione o modo Recentes para ocultar</string>
+  <string name="immersive_recents_default">Não ocultar nada</string>
+  <string name="immersive_recents_fullscreen">Ocultar ambos</string>
+  <string name="immersive_recents_statusbar">Ocultar a barra de navegação</string>
+  <string name="immersive_recents_navbar">Ocultar barra de status</string>
+  <string name="systemui_recents_mem_display_title">Barra de memória</string>
+  <string name="systemui_recents_mem_display_summary">Mostrar a barra de memória no menu Recentes</string>
+  <string name="recents_lock_icon_title">Bloquear aplicativo</string>
+  <string name="recents_lock_icon_summary">Mostrar ícone de bloqueio no cabeçalho do aplicativo</string>
+  <string name="recents_dismiss_icon_title">Limpar aplicativo</string>
+  <string name="recents_dismiss_icon_summary">Mostrar ícone de limpar no cabeçalho do aplicativo</string>
   <!-- Toast icon -->
-  <string name="toast_icon_title">Toast icon</string>
+  <string name="toast_icon_title">Ícone na mensagem toast</string>
   <string name="toast_icon_summary">Display icon of activity that generates toast message</string>
 </resources>
