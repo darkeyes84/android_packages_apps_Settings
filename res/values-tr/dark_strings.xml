@@ -177,18 +177,18 @@
   <string name="recents_label">Son uygulamalar</string>
   <string name="immersive_recents_title">Tam ekran modu</string>
   <string name="immersive_recents_summary">Son uygulamalar görünümünü değiştir</string>
-  <string name="immersive_recents_dialog_title">Select recents views to hide</string>
-  <string name="immersive_recents_default">Hide nothing</string>
-  <string name="immersive_recents_fullscreen">Hide both</string>
-  <string name="immersive_recents_statusbar">Hide navigation bar</string>
-  <string name="immersive_recents_navbar">Hide status bar</string>
-  <string name="systemui_recents_mem_display_title">Memory bar</string>
-  <string name="systemui_recents_mem_display_summary">Display memory bar in recents</string>
-  <string name="recents_lock_icon_title">Lock task</string>
-  <string name="recents_lock_icon_summary">Show lock icon in the task header</string>
-  <string name="recents_dismiss_icon_title">Dismiss task</string>
-  <string name="recents_dismiss_icon_summary">Show dismiss icon in the task header</string>
+  <string name="immersive_recents_dialog_title">Gizlenecek son uygulamaları seçin</string>
+  <string name="immersive_recents_default">Hiçbirşey gizleme</string>
+  <string name="immersive_recents_fullscreen">İkisini de gizle</string>
+  <string name="immersive_recents_statusbar">Gezinme çubuğunu gizle</string>
+  <string name="immersive_recents_navbar">Durum çubuğunu gizle</string>
+  <string name="systemui_recents_mem_display_title">Bellek Çubuğu</string>
+  <string name="systemui_recents_mem_display_summary">Son uygulamalarda hafıza çubuğunu göster</string>
+  <string name="recents_lock_icon_title">Görevi kilitle</string>
+  <string name="recents_lock_icon_summary">Görev başlığında kilitleme düğmesini göster</string>
+  <string name="recents_dismiss_icon_title">Görevi reddet</string>
+  <string name="recents_dismiss_icon_summary">Görev başlığında reddet düğmesini göster</string>
   <!-- Toast icon -->
-  <string name="toast_icon_title">Toast icon</string>
-  <string name="toast_icon_summary">Display icon of activity that generates toast message</string>
+  <string name="toast_icon_title">Bildirim simgesi</string>
+  <string name="toast_icon_summary">Bildirimle uyumlu uygulama simgesini görüntüler</string>
 </resources>
