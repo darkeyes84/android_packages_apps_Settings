@@ -22,7 +22,7 @@
   <string name="left_default_voice_summary_on">Default shortcut is voice assistant</string>
   <string name="left_default_voice_summary_off">Default shortcut is phone</string>
   <!-- Hide the next alarm on lockscreen -->
-  <string name="show_next_alarm_lockscreen_title">Show next alarm</string>
+  <string name="show_next_alarm_lockscreen_title">다음 알람 표시</string>
   <string name="show_next_alarm_lockscreen_summary">Show the next alarm on the lockscreen when an alarm is set</string>
   <!-- Disabling immersive mode messages -->
   <string name="disable_immersive_message_title">Disable immersive mode messages</string>
