@@ -81,15 +81,15 @@
   <string name="night_bright_low">낮은 밝기</string>
   <string name="night_bright_medium">중간 밝기</string>
   <string name="magisk_title">Magisk 관리자</string>
-  <string name="magisk_summary">Control modules and settings</string>
+  <string name="magisk_summary">모듈 제어 및 설정</string>
   <string name="substratum_title">Substratum</string>
-  <string name="substratum_summary">Customize device theme</string>
+  <string name="substratum_summary">기기 테마 정의</string>
   <!-- Incall vibrate options -->
   <string name="incall_vibrate_connect_title">통화 연결 시 진동</string>
   <string name="incall_vibrate_call_wait_title">통화 대기 시 진동</string>
   <string name="incall_vibrate_disconnect_title">통화 종료 시 진동</string>
-  <string name="doze_brightness_level_title">Ambient display brightness</string>
-  <string name="doze_brightness_level_summary">Adjust the brightness level for ambient display</string>
+  <string name="doze_brightness_level_title">절전 모드 자동 해제 밝기</string>
+  <string name="doze_brightness_level_summary">절전 모드 자동 해제의 밝기를 조절합니다</string>
   <!-- Heads up timeout -->
   <string name="heads_up_time_out_title">Heads up timeout</string>
   <string name="heads_up_time_out_summary">헤드업 알림은 <xliff:g id="number">%d</xliff:g>초 동안 표시됩니다</string>
@@ -123,12 +123,12 @@
   <string name="recents_clear_all_location_bottom_center">아래쪽 가운데</string>
   <!-- Battery stats reset -->
   <string name="battery_stats_reset">통계 초기화</string>
-  <string name="battery_stats_message">Battery history will be removed</string>
+  <string name="battery_stats_message">배터리 사용기록이 제거 됩니다</string>
   <string name="ok_string">OK</string>
   <!-- Fullscreen Keyboard -->
   <string name="disable_fullscreen_keyboard_title">전체화면 키보드 비활성화</string>
   <string name="disable_fullscreen_keyboard_summary">Prevent keyboard from using the entire screen in landscape</string>
-  <string name="tile_summary_title">Disable summaries</string>
+  <string name="tile_summary_title">요약 비 활성화</string>
   <string name="notification_light_zen_mode">알림 표시등</string>
   <string name="battery_light_zen_mode">배터리 표시등</string>
   <!-- Fingerprint unlock keystore -->
