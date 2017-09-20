@@ -18,7 +18,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Default left shortcut on lockscreen -->
-  <string name="left_default_voice_title">Left shortcut on keyguard</string>
+  <string name="left_default_voice_title">Keyguard의 왼쪽 바로가기</string>
   <string name="left_default_voice_summary_on">기본 바로가기는 음성 제어 입니다</string>
   <string name="left_default_voice_summary_off">기본 바로가기는 전화 입니다</string>
   <!-- Hide the next alarm on lockscreen -->
@@ -91,7 +91,7 @@
   <string name="doze_brightness_level_title">절전 모드 자동 해제 밝기</string>
   <string name="doze_brightness_level_summary">절전 모드 자동 해제의 밝기를 조절합니다</string>
   <!-- Heads up timeout -->
-  <string name="heads_up_time_out_title">Heads up timeout</string>
+  <string name="heads_up_time_out_title">헤드 업 알림 시간</string>
   <string name="heads_up_time_out_summary">헤드업 알림은 <xliff:g id="number">%d</xliff:g>초 동안 표시됩니다</string>
   <string name="heads_up_time_out_2sec">2 초</string>
   <string name="heads_up_time_out_4sec">4 초</string>
@@ -127,7 +127,7 @@
   <string name="ok_string">OK</string>
   <!-- Fullscreen Keyboard -->
   <string name="disable_fullscreen_keyboard_title">전체화면 키보드 비활성화</string>
-  <string name="disable_fullscreen_keyboard_summary">Prevent keyboard from using the entire screen in landscape</string>
+  <string name="disable_fullscreen_keyboard_summary">가로화면에서 키보드가 화면 전체를 사용하는걸 방지합니다</string>
   <string name="tile_summary_title">요약 비 활성화</string>
   <string name="notification_light_zen_mode">알림 표시등</string>
   <string name="battery_light_zen_mode">배터리 표시등</string>
@@ -146,7 +146,7 @@
   <string name="theme_accent_color">강조 색</string>
   <string name="theme_primary_color">배경 색상</string>
   <string name="theme">테마</string>
-  <string name="oms_enabled">Theme mode is unavailable because a Substratum overlay is currently applied</string>
+  <string name="oms_enabled">Substratum 오버레이가 현재 적용되어 있어 테마 모드가 불가능 합니다</string>
   <string name="red">빨강</string>
   <string name="orange">주황</string>
   <string name="blue">청록</string>
@@ -169,25 +169,25 @@
   <string name="two_columns_title">2열</string>
   <string name="headsup_label">헤드업 알림</string>
   <string name="ticker_label">글자 흐르기</string>
-  <string name="ticker_disabled">Ticker is disabled because heads up is enabled</string>
-  <string name="headsup_disabled">Heads up is disabled because ticker is enabled</string>
+  <string name="ticker_disabled">헤드 업 알림이 활성화 되어있기 때문에 글자 흐르기가 비활성화 됨</string>
+  <string name="headsup_disabled">글자 흐르기가 활성화 되어있어 헤드 업이 비활성화 됨</string>
   <string name="ringtones_title">벨소리</string>
   <string name="call_options_title">통화 옵션</string>
   <!-- Recents -->
   <string name="recents_label">최근 실행 목록</string>
   <string name="immersive_recents_title">몰입 모드</string>
-  <string name="immersive_recents_summary">Change the views in recents</string>
-  <string name="immersive_recents_dialog_title">Select recents views to hide</string>
+  <string name="immersive_recents_summary">최근 실행 목록 보기를 변경합니다</string>
+  <string name="immersive_recents_dialog_title">숨길 최근 실행 목록 선택</string>
   <string name="immersive_recents_default">숨기지 않음</string>
   <string name="immersive_recents_fullscreen">모두 숨기기</string>
   <string name="immersive_recents_statusbar">네비게이션 바 숨기기</string>
   <string name="immersive_recents_navbar">상태 표시줄 숨기기</string>
   <string name="systemui_recents_mem_display_title">메모리 바</string>
-  <string name="systemui_recents_mem_display_summary">Display memory bar in recents</string>
-  <string name="recents_lock_icon_title">Lock task</string>
-  <string name="recents_lock_icon_summary">Show lock icon in the task header</string>
-  <string name="recents_dismiss_icon_title">Dismiss task</string>
-  <string name="recents_dismiss_icon_summary">Show dismiss icon in the task header</string>
+  <string name="systemui_recents_mem_display_summary">최근 실행 목록에서 메모리 바를 표시합니다</string>
+  <string name="recents_lock_icon_title">작업 고정</string>
+  <string name="recents_lock_icon_summary">작업 헤더에 고정 아이콘을 표시합니다</string>
+  <string name="recents_dismiss_icon_title">작업 지우기</string>
+  <string name="recents_dismiss_icon_summary">작업 헤더에 지우기 아이콘을 표시합니다</string>
   <!-- Toast icon -->
   <string name="toast_icon_title">토스트 알림 아이콘</string>
   <string name="toast_icon_summary">토스트 알림을 보낸 앱의 아이콘을 같이 표시합니다</string>
