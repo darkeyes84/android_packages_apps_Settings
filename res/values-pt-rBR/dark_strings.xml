@@ -190,5 +190,5 @@
   <string name="recents_dismiss_icon_summary">Mostrar ícone de limpar no cabeçalho do aplicativo</string>
   <!-- Toast icon -->
   <string name="toast_icon_title">Ícone na mensagem toast</string>
-  <string name="toast_icon_summary">Display icon of activity that generates toast message</string>
+  <string name="toast_icon_summary">Mostrar o ícone da aplicação que gerou a mensagem toast</string>
 </resources>
