@@ -25,18 +25,18 @@
   <string name="show_next_alarm_lockscreen_title">다음 알람 표시</string>
   <string name="show_next_alarm_lockscreen_summary">Show the next alarm on the lockscreen when an alarm is set</string>
   <!-- Disabling immersive mode messages -->
-  <string name="disable_immersive_message_title">Disable immersive mode messages</string>
-  <string name="disable_immersive_message_summary">This will hide all immersive mode messages</string>
+  <string name="disable_immersive_message_title">전체 화면 모드 메시지 사용 안 함</string>
+  <string name="disable_immersive_message_summary">모든 전체 화면 모드 메시지를 표시하지 않습니다</string>
   <!-- Volume Steps -->
-  <string name="volume_steps_title">Volume steps</string>
-  <string name="volume_steps_alarm_title">Volume steps: Alarm</string>
-  <string name="volume_steps_dtmf_title">Volume steps: DTMF</string>
-  <string name="volume_steps_music_title">Volume steps: Music</string>
-  <string name="volume_steps_notification_title">Volume steps: Notification</string>
-  <string name="volume_steps_ring_title">Volume steps: Ringer</string>
-  <string name="volume_steps_system_title">Volume steps: System</string>
-  <string name="volume_steps_voice_call_title">Volume steps: Voice Call</string>
-  <string name="volume_steps_reset">Reset</string>
+  <string name="volume_steps_title">불륨 단계</string>
+  <string name="volume_steps_alarm_title">볼륨 단계: 알람</string>
+  <string name="volume_steps_dtmf_title">볼륨 단계: DTMF</string>
+  <string name="volume_steps_music_title">음량 단계: 음악</string>
+  <string name="volume_steps_notification_title">볼륨 단계: 알림</string>
+  <string name="volume_steps_ring_title">볼륨 단계: 벨소리</string>
+  <string name="volume_steps_system_title">볼륨 단계: 시스템</string>
+  <string name="volume_steps_voice_call_title">볼륨 단계: 전화</string>
+  <string name="volume_steps_reset">재설정</string>
   <string name="volume_steps_60">60</string>
   <string name="volume_steps_45">45</string>
   <string name="volume_steps_30">30</string>
@@ -44,17 +44,17 @@
   <string name="volume_steps_7">7</string>
   <string name="volume_steps_5">5</string>
   <!-- OpenDelta updates -->
-  <string name="deltaupdate_settings_title">System updates</string>
+  <string name="deltaupdate_settings_title">시스템 업데이트</string>
   <!-- Optional screenshot type -->
-  <string name="screenshot_type_title">Screenshot type</string>
-  <string name="screenshot_type_fullscreen">Take fullscreen screenshots</string>
+  <string name="screenshot_type_title">스크린샷 유형</string>
+  <string name="screenshot_type_fullscreen">전체 화면 스크린샷</string>
   <string name="screenshot_type_partial">Drag selection to take a partial screenshot</string>
   <!-- Quick unlock -->
-  <string name="unlock_quick_unlock_control_title">Quick unlock</string>
-  <string name="unlock_quick_unlock_control_summary_password">Unlock automatically when the correct password is entered</string>
-  <string name="unlock_quick_unlock_control_summary_pin">Unlock automatically when the correct PIN is entered</string>
+  <string name="unlock_quick_unlock_control_title">빠른 잠금 해제</string>
+  <string name="unlock_quick_unlock_control_summary_password">올바른 암호가 입력되면 자동으로 잠금 해제</string>
+  <string name="unlock_quick_unlock_control_summary_pin">올바른 PIN 넘버가 입력되면 자동으로 잠금 해제</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">Ticker</string>
+  <string name="ticker_title">글자 흐르기</string>
   <string name="ticker_summary">Display priority notifications in the status bar</string>
   <!-- Notification Ticker Track-->
   <string name="ticker_track_title">Ticker music tracks</string>
@@ -168,7 +168,7 @@
   <string name="miscellaneous_label">Miscellaneous</string>
   <string name="two_columns_title">Two columns</string>
   <string name="headsup_label">Heads up</string>
-  <string name="ticker_label">Ticker</string>
+  <string name="ticker_label">글자 흐르기</string>
   <string name="ticker_disabled">Ticker is disabled because heads up is enabled</string>
   <string name="headsup_disabled">Heads up is disabled because ticker is enabled</string>
   <string name="ringtones_title">Ringtones</string>
