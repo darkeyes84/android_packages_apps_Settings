@@ -19,11 +19,11 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Default left shortcut on lockscreen -->
   <string name="left_default_voice_title">Left shortcut on keyguard</string>
-  <string name="left_default_voice_summary_on">Default shortcut is voice assistant</string>
-  <string name="left_default_voice_summary_off">Default shortcut is phone</string>
+  <string name="left_default_voice_summary_on">기본 바로가기는 음성 제어 입니다</string>
+  <string name="left_default_voice_summary_off">기본 바로가기는 전화 입니다</string>
   <!-- Hide the next alarm on lockscreen -->
   <string name="show_next_alarm_lockscreen_title">다음 알람 표시</string>
-  <string name="show_next_alarm_lockscreen_summary">Show the next alarm on the lockscreen when an alarm is set</string>
+  <string name="show_next_alarm_lockscreen_summary">알람이 설정 되어있을때 잠금화면에 다음 알람을 표시합니다</string>
   <!-- Disabling immersive mode messages -->
   <string name="disable_immersive_message_title">전체 화면 모드 메시지 사용 안 함</string>
   <string name="disable_immersive_message_summary">모든 전체 화면 모드 메시지를 표시하지 않습니다</string>
@@ -48,17 +48,17 @@
   <!-- Optional screenshot type -->
   <string name="screenshot_type_title">스크린샷 유형</string>
   <string name="screenshot_type_fullscreen">전체 화면 스크린샷</string>
-  <string name="screenshot_type_partial">Drag selection to take a partial screenshot</string>
+  <string name="screenshot_type_partial">부분 스크린 샷을 찍기위해 드래그 합니다</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">빠른 잠금 해제</string>
   <string name="unlock_quick_unlock_control_summary_password">올바른 암호가 입력되면 자동으로 잠금 해제</string>
   <string name="unlock_quick_unlock_control_summary_pin">올바른 PIN 넘버가 입력되면 자동으로 잠금 해제</string>
   <!-- Notification Ticker -->
   <string name="ticker_title">글자 흐르기</string>
-  <string name="ticker_summary">Display priority notifications in the status bar</string>
+  <string name="ticker_summary">상태 표시줄에 알림 우선순위를 표시합니다</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Ticker music tracks</string>
-  <string name="ticker_track_summary">Show the metadata when a new track plays</string>
+  <string name="ticker_track_title">음악 트랙 흐르기</string>
+  <string name="ticker_track_summary">새 트랙이 재생될때 메타데이터를 표시합니다</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">보안 잠금 화면</string>
   <string name="lockscreen_enable_power_menu_summary">빠른 설정과 전원 메뉴 접근을 막습니다</string>
@@ -138,9 +138,9 @@
   <string name="fp_unlock_pin_summary">기기를 재시작 한 이후 PIN을 입력하지 않고 지문으로 잠금을 해제합니다.</string>
   <!-- Force expanded notifications -->
   <string name="expanded_notifications_title">알림 강제 확장</string>
-  <string name="expanded_notifications_summary">Always show expanded notifications when supported</string>
+  <string name="expanded_notifications_summary">항상 확장된 알림을 표시합니다</string>
   <!-- Color engine -->
-  <string name="theme_switch_palette">Switch between background and accent colors</string>
+  <string name="theme_switch_palette">배경 색상과 강조 색상을 전환</string>
   <string name="theme_title">색 엔진</string>
   <string name="theme_summary">현재 테마에 대한 다양한 색상을 선택하세요</string>
   <string name="theme_accent_color">강조 색</string>
