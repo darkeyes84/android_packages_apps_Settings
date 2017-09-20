@@ -60,13 +60,13 @@
   <string name="ticker_track_title">Ticker music tracks</string>
   <string name="ticker_track_summary">Show the metadata when a new track plays</string>
   <!-- Secure lockscreen -->
-  <string name="lockscreen_enable_power_menu_title">Secure lockscreen</string>
-  <string name="lockscreen_enable_power_menu_summary">Prevent access to quick settings and power menu</string>
+  <string name="lockscreen_enable_power_menu_title">보안 잠금 화면</string>
+  <string name="lockscreen_enable_power_menu_summary">빠른 설정과 전원 메뉴 접근을 막습니다</string>
   <!-- Settings suggestions  -->
-  <string name="disable_settings_suggestions_title">Disable suggestions</string>
+  <string name="disable_settings_suggestions_title">제안 비활성화</string>
   <!-- Custom carrier label and position -->
   <string name="keyguard_show_carrier_title">캐리어 레이블 숨기기</string>
-  <string name="keyguard_show_carrier_summary">Hide the carrier label on the keyguard</string>
+  <string name="keyguard_show_carrier_summary">Keyguard에서 통신사 라벨을 숨깁니다.</string>
   <string name="custom_carrier_label_title">사용자 정의 캐리어 라벨</string>
   <string name="custom_carrier_label_explain">새 라벨을 입력 하시거나 기존 라벨으로 되돌리려면 비워 두십시오.</string>
   <string name="custom_carrier_label_notset">사용자 지정 라벨을 현재 설정 하지않습니다</string>
