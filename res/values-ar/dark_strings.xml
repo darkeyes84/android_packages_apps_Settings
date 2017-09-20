@@ -112,7 +112,7 @@
   <string name="heads_up_snooze_20min">20 دقيقة</string>
   <!-- Recents panel settings -->
   <string name="show_clear_all_recents_button_title">زر \'مسح التطبيقات الاخيرة\'</string>
-  <string name="show_clear_all_recents_button_summary">Show the clear all button in recents</string>
+  <string name="show_clear_all_recents_button_summary">اظهار زر مسح كل شيء عند عرض التطبيقات الاخيرة</string>
   <string name="recents_clear_all_location_title">موقع زر مسح كل شيء</string>
   <string name="recents_clear_all_location_stock">أعلى اليمين (إخفاء تلقائي)</string>
   <string name="recents_clear_all_location_top_right">اعلي اليمين</string>
@@ -146,7 +146,7 @@
   <string name="theme_accent_color">لون التمييز</string>
   <string name="theme_primary_color">لون الخلفية</string>
   <string name="theme">الثيم</string>
-  <string name="oms_enabled">Theme mode is unavailable because a Substratum overlay is currently applied</string>
+  <string name="oms_enabled">وضع الثيم غير متوفرة بسبب Substratum theme مفعل حالياً</string>
   <string name="red">أحمر</string>
   <string name="orange">برتقالي</string>
   <string name="blue">أزرق مخضّر</string>
@@ -174,9 +174,9 @@
   <string name="ringtones_title">النغمات</string>
   <string name="call_options_title">خيارات الاتصال</string>
   <!-- Recents -->
-  <string name="recents_label">Recents</string>
-  <string name="immersive_recents_title">Immersive mode</string>
-  <string name="immersive_recents_summary">Change the views in recents</string>
+  <string name="recents_label">التطبيقات الأخيرة</string>
+  <string name="immersive_recents_title">وضع ملء الشاشه</string>
+  <string name="immersive_recents_summary">تغيير طرق العرض في التطبيقات الاخيرة</string>
   <string name="immersive_recents_dialog_title">Select recents views to hide</string>
   <string name="immersive_recents_default">Hide nothing</string>
   <string name="immersive_recents_fullscreen">Hide both</string>
