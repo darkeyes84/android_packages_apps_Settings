@@ -118,26 +118,26 @@
   <string name="recents_clear_all_location_top_right">오른쪽 상단</string>
   <string name="recents_clear_all_location_top_left">왼쪽 상단</string>
   <string name="recents_clear_all_location_top_center">위쪽 가운데</string>
-  <string name="recents_clear_all_location_bottom_right">Bottom right</string>
-  <string name="recents_clear_all_location_bottom_left">Bottom left</string>
-  <string name="recents_clear_all_location_bottom_center">Bottom center</string>
+  <string name="recents_clear_all_location_bottom_right">오른쪽 하단</string>
+  <string name="recents_clear_all_location_bottom_left">왼쪽 하단</string>
+  <string name="recents_clear_all_location_bottom_center">아래쪽 가운데</string>
   <!-- Battery stats reset -->
-  <string name="battery_stats_reset">Reset statistics</string>
+  <string name="battery_stats_reset">통계 초기화</string>
   <string name="battery_stats_message">Battery history will be removed</string>
-  <string name="ok_string">Ok</string>
+  <string name="ok_string">OK</string>
   <!-- Fullscreen Keyboard -->
-  <string name="disable_fullscreen_keyboard_title">Disable fullscreen keyboard</string>
+  <string name="disable_fullscreen_keyboard_title">전체화면 키보드 비활성화</string>
   <string name="disable_fullscreen_keyboard_summary">Prevent keyboard from using the entire screen in landscape</string>
   <string name="tile_summary_title">Disable summaries</string>
-  <string name="notification_light_zen_mode">Notification light</string>
-  <string name="battery_light_zen_mode">Battery light</string>
+  <string name="notification_light_zen_mode">알림 표시등</string>
+  <string name="battery_light_zen_mode">배터리 표시등</string>
   <!-- Fingerprint unlock keystore -->
-  <string name="fp_unlock_keystore_title">Fingerprint unlock</string>
-  <string name="fp_unlock_password_summary">Unlock device with fingerprint after reboot without password</string>
-  <string name="fp_unlock_pattern_summary">Unlock device with fingerprint after reboot without pattern</string>
-  <string name="fp_unlock_pin_summary">Unlock device with fingerprint after reboot without pin</string>
+  <string name="fp_unlock_keystore_title">지문 잠금 해제</string>
+  <string name="fp_unlock_password_summary">기기를 재시작 한 이후 비밀번호를 입력하지 않고 지문으로 잠금을 해제합니다.</string>
+  <string name="fp_unlock_pattern_summary">기기를 재시작 한 이후 패턴을 입력하지 않고 지문으로 잠금을 해제합니다.</string>
+  <string name="fp_unlock_pin_summary">기기를 재시작 한 이후 PIN을 입력하지 않고 지문으로 잠금을 해제합니다.</string>
   <!-- Force expanded notifications -->
-  <string name="expanded_notifications_title">Force expanded notifications</string>
+  <string name="expanded_notifications_title">알림 강제 확장</string>
   <string name="expanded_notifications_summary">Always show expanded notifications when supported</string>
   <!-- Color engine -->
   <string name="theme_switch_palette">Switch between background and accent colors</string>
@@ -189,6 +189,6 @@
   <string name="recents_dismiss_icon_title">Dismiss task</string>
   <string name="recents_dismiss_icon_summary">Show dismiss icon in the task header</string>
   <!-- Toast icon -->
-  <string name="toast_icon_title">Toast icon</string>
-  <string name="toast_icon_summary">Display icon of activity that generates toast message</string>
+  <string name="toast_icon_title">토스트 알림 아이콘</string>
+  <string name="toast_icon_summary">토스트 알림을 보낸 앱의 아이콘을 같이 표시합니다</string>
 </resources>
