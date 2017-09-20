@@ -85,39 +85,39 @@
   <string name="substratum_title">Substratum</string>
   <string name="substratum_summary">Customize device theme</string>
   <!-- Incall vibrate options -->
-  <string name="incall_vibrate_connect_title">Vibrate on call connect</string>
-  <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
-  <string name="incall_vibrate_disconnect_title">Vibrate on call disconnect</string>
+  <string name="incall_vibrate_connect_title">통화 연결 시 진동</string>
+  <string name="incall_vibrate_call_wait_title">통화 대기 시 진동</string>
+  <string name="incall_vibrate_disconnect_title">통화 종료 시 진동</string>
   <string name="doze_brightness_level_title">Ambient display brightness</string>
   <string name="doze_brightness_level_summary">Adjust the brightness level for ambient display</string>
   <!-- Heads up timeout -->
   <string name="heads_up_time_out_title">Heads up timeout</string>
-  <string name="heads_up_time_out_summary">Heads up notifications will show for <xliff:g id="number">%d</xliff:g> seconds</string>
-  <string name="heads_up_time_out_2sec">2 seconds</string>
-  <string name="heads_up_time_out_4sec">4 seconds</string>
-  <string name="heads_up_time_out_5sec">5 seconds</string>
-  <string name="heads_up_time_out_6sec">6 seconds</string>
-  <string name="heads_up_time_out_8sec">8 seconds</string>
-  <string name="heads_up_time_out_10sec">10 seconds</string>
+  <string name="heads_up_time_out_summary">헤드업 알림은 <xliff:g id="number">%d</xliff:g>초 동안 표시됩니다</string>
+  <string name="heads_up_time_out_2sec">2 초</string>
+  <string name="heads_up_time_out_4sec">4 초</string>
+  <string name="heads_up_time_out_5sec">5 초</string>
+  <string name="heads_up_time_out_6sec">6 초</string>
+  <string name="heads_up_time_out_8sec">8 초</string>
+  <string name="heads_up_time_out_10sec">10 초</string>
   <!-- Heads up snooze -->
-  <string name="heads_up_snooze_title">Heads up snooze</string>
-  <string name="heads_up_snooze_summary_one_minute">Swiping up on heads up notifications will snooze them for that application for 1 minute</string>
-  <string name="heads_up_snooze_summary">Swiping up on heads up notifications will snooze them for that application for <xliff:g id="number">%d</xliff:g> minutes</string>
-  <string name="heads_up_snooze_disabled_summary">Snooze is disabled</string>
-  <string name="heads_up_snooze_1min">1 minute</string>
-  <string name="heads_up_snooze_3min">3 minutes</string>
-  <string name="heads_up_snooze_5min">5 minutes</string>
-  <string name="heads_up_snooze_10min">10 minutes</string>
-  <string name="heads_up_snooze_15min">15 minutes</string>
-  <string name="heads_up_snooze_20min">20 minutes</string>
+  <string name="heads_up_snooze_title">헤드 업 중지</string>
+  <string name="heads_up_snooze_summary_one_minute">헤드업 알림을 쓸어올리면 1분동안 알림을 표시한 앱의 알림을 일시 중지합니다</string>
+  <string name="heads_up_snooze_summary">헤드업 알림을 쓸어올리면 <xliff:g id="number">%d</xliff:g>분동안 알림을 표시한 앱의 알림을 일시 중지합니다</string>
+  <string name="heads_up_snooze_disabled_summary">일시 중지가 비활성화됨</string>
+  <string name="heads_up_snooze_1min">1 분</string>
+  <string name="heads_up_snooze_3min">3 분</string>
+  <string name="heads_up_snooze_5min">5 분</string>
+  <string name="heads_up_snooze_10min">10 분</string>
+  <string name="heads_up_snooze_15min">15 분</string>
+  <string name="heads_up_snooze_20min">20 분</string>
   <!-- Recents panel settings -->
-  <string name="show_clear_all_recents_button_title">Enable clear all button</string>
-  <string name="show_clear_all_recents_button_summary">Show the clear all button in recents</string>
-  <string name="recents_clear_all_location_title">Clear all button location</string>
-  <string name="recents_clear_all_location_stock">Top right (auto hide)</string>
-  <string name="recents_clear_all_location_top_right">Top right</string>
-  <string name="recents_clear_all_location_top_left">Top left</string>
-  <string name="recents_clear_all_location_top_center">Top center</string>
+  <string name="show_clear_all_recents_button_title">모두 지우기 버튼 활성화</string>
+  <string name="show_clear_all_recents_button_summary">최근 패널에서 모두 지우기 표시</string>
+  <string name="recents_clear_all_location_title">모두 지우기 버튼 위치</string>
+  <string name="recents_clear_all_location_stock">오른쪽 상단 (자동 숨기기)</string>
+  <string name="recents_clear_all_location_top_right">오른쪽 상단</string>
+  <string name="recents_clear_all_location_top_left">왼쪽 상단</string>
+  <string name="recents_clear_all_location_top_center">위쪽 가운데</string>
   <string name="recents_clear_all_location_bottom_right">Bottom right</string>
   <string name="recents_clear_all_location_bottom_left">Bottom left</string>
   <string name="recents_clear_all_location_bottom_center">Bottom center</string>
