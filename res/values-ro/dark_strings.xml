@@ -112,7 +112,7 @@
   <string name="heads_up_snooze_20min">20 minute</string>
   <!-- Recents panel settings -->
   <string name="show_clear_all_recents_button_title">Activaţi buton şterge tot</string>
-  <string name="show_clear_all_recents_button_summary">Show the clear all button in recents</string>
+  <string name="show_clear_all_recents_button_summary">Afişează butonul şterge tot în aplicațiile recente</string>
   <string name="recents_clear_all_location_title">Poziția butonului şterge tot</string>
   <string name="recents_clear_all_location_stock">Dreapta sus (ascundeţi automat)</string>
   <string name="recents_clear_all_location_top_right">Dreapta sus</string>
