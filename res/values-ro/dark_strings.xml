@@ -146,7 +146,7 @@
   <string name="theme_accent_color">Culoare accent</string>
   <string name="theme_primary_color">Culoare de fundal</string>
   <string name="theme">Temă</string>
-  <string name="oms_enabled">Theme mode is unavailable because a Substratum overlay is currently applied</string>
+  <string name="oms_enabled">Modul temă este indisponibil deoarece un strat Substratum este aplicat în prezent</string>
   <string name="red">Roșu</string>
   <string name="orange">Portocaliu</string>
   <string name="blue">Verde pin</string>
@@ -174,15 +174,15 @@
   <string name="ringtones_title">Tonuri de apel</string>
   <string name="call_options_title">Opţiuni apel</string>
   <!-- Recents -->
-  <string name="recents_label">Recents</string>
-  <string name="immersive_recents_title">Immersive mode</string>
-  <string name="immersive_recents_summary">Change the views in recents</string>
+  <string name="recents_label">Recente</string>
+  <string name="immersive_recents_title">Mod imersiv</string>
+  <string name="immersive_recents_summary">Schimbă afișajul în aplicațiile recente</string>
   <string name="immersive_recents_dialog_title">Select recents views to hide</string>
-  <string name="immersive_recents_default">Hide nothing</string>
-  <string name="immersive_recents_fullscreen">Hide both</string>
-  <string name="immersive_recents_statusbar">Hide navigation bar</string>
-  <string name="immersive_recents_navbar">Hide status bar</string>
-  <string name="systemui_recents_mem_display_title">Memory bar</string>
+  <string name="immersive_recents_default">Nu ascunde nimic</string>
+  <string name="immersive_recents_fullscreen">Ascunde ambele</string>
+  <string name="immersive_recents_statusbar">Ascunde bara de navigare</string>
+  <string name="immersive_recents_navbar">Ascunde bara de stare</string>
+  <string name="systemui_recents_mem_display_title">Bară memorie</string>
   <string name="systemui_recents_mem_display_summary">Display memory bar in recents</string>
   <string name="recents_lock_icon_title">Lock task</string>
   <string name="recents_lock_icon_summary">Show lock icon in the task header</string>
