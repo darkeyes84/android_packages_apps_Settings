@@ -34,9 +34,9 @@
   <string name="volume_steps_music_title">वॉल्यूम चरणों: संगीत</string>
   <string name="volume_steps_notification_title">वॉल्यूम चरणों: सूचना</string>
   <string name="volume_steps_ring_title">वॉल्यूम चरणों: रिंगर</string>
-  <string name="volume_steps_system_title">Volume steps: System</string>
-  <string name="volume_steps_voice_call_title">Volume steps: Voice Call</string>
-  <string name="volume_steps_reset">Reset</string>
+  <string name="volume_steps_system_title">वॉल्यूम चरणों: सिस्टम</string>
+  <string name="volume_steps_voice_call_title">वॉल्यूम चरणों: वॉयस कॉल</string>
+  <string name="volume_steps_reset">रीसेट</string>
   <string name="volume_steps_60">60</string>
   <string name="volume_steps_45">45</string>
   <string name="volume_steps_30">30</string>
@@ -44,17 +44,17 @@
   <string name="volume_steps_7">7</string>
   <string name="volume_steps_5">5</string>
   <!-- OpenDelta updates -->
-  <string name="deltaupdate_settings_title">System updates</string>
+  <string name="deltaupdate_settings_title">सिस्टम अपडेट</string>
   <!-- Optional screenshot type -->
-  <string name="screenshot_type_title">Screenshot type</string>
-  <string name="screenshot_type_fullscreen">Take fullscreen screenshots</string>
-  <string name="screenshot_type_partial">Drag selection to take a partial screenshot</string>
+  <string name="screenshot_type_title">स्क्रीनशॉट प्रकार</string>
+  <string name="screenshot_type_fullscreen">फुल स्क्रीन स्क्रीनशॉट ले लो</string>
+  <string name="screenshot_type_partial">एक आंशिक स्क्रीनशॉट लेने के लिए चयन खींचें</string>
   <!-- Quick unlock -->
-  <string name="unlock_quick_unlock_control_title">Quick unlock</string>
-  <string name="unlock_quick_unlock_control_summary_password">Unlock automatically when the correct password is entered</string>
-  <string name="unlock_quick_unlock_control_summary_pin">Unlock automatically when the correct PIN is entered</string>
+  <string name="unlock_quick_unlock_control_title">त्वरित अनलॉक</string>
+  <string name="unlock_quick_unlock_control_summary_password">स्वचालित रूप से अनलॉक जब सही पिन/पासवर्ड दर्ज किया गया है</string>
+  <string name="unlock_quick_unlock_control_summary_pin">स्वचालित रूप से अनलॉक जब सही पिन दर्ज किया गया है</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">Ticker</string>
+  <string name="ticker_title">टिकर</string>
   <string name="ticker_summary">Display priority notifications in the status bar</string>
   <!-- Notification Ticker Track-->
   <string name="ticker_track_title">Ticker music tracks</string>
@@ -168,7 +168,7 @@
   <string name="miscellaneous_label">Miscellaneous</string>
   <string name="two_columns_title">Two columns</string>
   <string name="headsup_label">Heads up</string>
-  <string name="ticker_label">Ticker</string>
+  <string name="ticker_label">टिकर</string>
   <string name="ticker_disabled">Ticker is disabled because heads up is enabled</string>
   <string name="headsup_disabled">Heads up is disabled because ticker is enabled</string>
   <string name="ringtones_title">Ringtones</string>
