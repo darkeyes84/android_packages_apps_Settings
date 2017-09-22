@@ -122,22 +122,22 @@
   <string name="recents_clear_all_location_bottom_left">नीचे बाएँ</string>
   <string name="recents_clear_all_location_bottom_center">नीचे मध्य</string>
   <!-- Battery stats reset -->
-  <string name="battery_stats_reset">Reset statistics</string>
-  <string name="battery_stats_message">Battery history will be removed</string>
-  <string name="ok_string">Ok</string>
+  <string name="battery_stats_reset">आँकड़े रीसेट करें</string>
+  <string name="battery_stats_message">बैटरी इतिहास हटा दिया जाएगा</string>
+  <string name="ok_string">ठीक है</string>
   <!-- Fullscreen Keyboard -->
-  <string name="disable_fullscreen_keyboard_title">Disable fullscreen keyboard</string>
-  <string name="disable_fullscreen_keyboard_summary">Prevent keyboard from using the entire screen in landscape</string>
-  <string name="tile_summary_title">Disable summaries</string>
-  <string name="notification_light_zen_mode">Notification light</string>
-  <string name="battery_light_zen_mode">Battery light</string>
+  <string name="disable_fullscreen_keyboard_title">फुल स्क्रीन कुंजीपटल अक्षम करें</string>
+  <string name="disable_fullscreen_keyboard_summary">कीबोर्ड में लैंडस्केप पूरे स्क्रीन का उपयोग करने से रोकने</string>
+  <string name="tile_summary_title">सारांश को अक्षम करें</string>
+  <string name="notification_light_zen_mode">सूचना प्रकाश</string>
+  <string name="battery_light_zen_mode">बैटरी प्रकाश</string>
   <!-- Fingerprint unlock keystore -->
-  <string name="fp_unlock_keystore_title">Fingerprint unlock</string>
-  <string name="fp_unlock_password_summary">Unlock device with fingerprint after reboot without password</string>
-  <string name="fp_unlock_pattern_summary">Unlock device with fingerprint after reboot without pattern</string>
-  <string name="fp_unlock_pin_summary">Unlock device with fingerprint after reboot without pin</string>
+  <string name="fp_unlock_keystore_title">फ़िंगरप्रिंट अनवरोधित</string>
+  <string name="fp_unlock_password_summary">डिवाइस के साथ फिंगरप्रिंट पासवर्ड के बिना रिबूट के बाद अनलॉक</string>
+  <string name="fp_unlock_pattern_summary">डिवाइस के साथ फिंगरप्रिंट पैटर्न के बिना रिबूट के बाद अनलॉक</string>
+  <string name="fp_unlock_pin_summary">पिन के बिना रिबूट के बाद अंगुली की छाप के साथ डिवाइस को अनलॉक</string>
   <!-- Force expanded notifications -->
-  <string name="expanded_notifications_title">Force expanded notifications</string>
+  <string name="expanded_notifications_title">विस्तृत सूचना के लिए बाध्य</string>
   <string name="expanded_notifications_summary">हमेशा जब समर्थित विस्तारित सूचनाएँ दिखाएँ</string>
   <!-- Color engine -->
   <string name="theme_switch_palette">प्राथमिक और उच्चारण रंगों के बीच स्विच करें</string>
