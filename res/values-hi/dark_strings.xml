@@ -80,47 +80,47 @@
   <string name="night_bright_min">कम से कम चमक</string>
   <string name="night_bright_low">कम चमक</string>
   <string name="night_bright_medium">मध्यम चमक</string>
-  <string name="magisk_title">Magisk Manager</string>
-  <string name="magisk_summary">Control modules and settings</string>
+  <string name="magisk_title">Magisk प्रबंधक</string>
+  <string name="magisk_summary">नियंत्रण मॉड्यूल और सेटिंग्स</string>
   <string name="substratum_title">Substratum</string>
-  <string name="substratum_summary">Customize device theme</string>
+  <string name="substratum_summary">डिवाइस थीम को अनुकूलित करें</string>
   <!-- Incall vibrate options -->
-  <string name="incall_vibrate_connect_title">Vibrate on call connect</string>
-  <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
-  <string name="incall_vibrate_disconnect_title">Vibrate on call disconnect</string>
-  <string name="doze_brightness_level_title">Ambient display brightness</string>
-  <string name="doze_brightness_level_summary">Adjust the brightness level for ambient display</string>
+  <string name="incall_vibrate_connect_title">कंपन पर कॉल कनेक्ट</string>
+  <string name="incall_vibrate_call_wait_title">कॉल प्रतीक्षा पर कंपन</string>
+  <string name="incall_vibrate_disconnect_title">कंपन पर कॉल डिस्कनेक्ट करें</string>
+  <string name="doze_brightness_level_title">परिवेशी प्रदर्शन चमक</string>
+  <string name="doze_brightness_level_summary">परिवेशी प्रदर्शन के लिए चमक स्तर समायोजित करें</string>
   <!-- Heads up timeout -->
-  <string name="heads_up_time_out_title">Heads up timeout</string>
-  <string name="heads_up_time_out_summary">Heads up notifications will show for <xliff:g id="number">%d</xliff:g> seconds</string>
-  <string name="heads_up_time_out_2sec">2 seconds</string>
-  <string name="heads_up_time_out_4sec">4 seconds</string>
-  <string name="heads_up_time_out_5sec">5 seconds</string>
-  <string name="heads_up_time_out_6sec">6 seconds</string>
-  <string name="heads_up_time_out_8sec">8 seconds</string>
-  <string name="heads_up_time_out_10sec">10 seconds</string>
+  <string name="heads_up_time_out_title">मध्यांतर तक सिर</string>
+  <string name="heads_up_time_out_summary">सूचनाएँ ऊपर सिर के लिए <xliff:g id="number">%d </xliff:g> सेकंड दिखाई देगा</string>
+  <string name="heads_up_time_out_2sec">2 सेकंड</string>
+  <string name="heads_up_time_out_4sec">4 सेकंड</string>
+  <string name="heads_up_time_out_5sec">5 सेकंड</string>
+  <string name="heads_up_time_out_6sec">6 सेकंड</string>
+  <string name="heads_up_time_out_8sec">8 सेकंड</string>
+  <string name="heads_up_time_out_10sec">10 सेकंड</string>
   <!-- Heads up snooze -->
-  <string name="heads_up_snooze_title">Heads up snooze</string>
-  <string name="heads_up_snooze_summary_one_minute">Swiping up on heads up notifications will snooze them for that application for 1 minute</string>
-  <string name="heads_up_snooze_summary">Swiping up on heads up notifications will snooze them for that application for <xliff:g id="number">%d</xliff:g> minutes</string>
-  <string name="heads_up_snooze_disabled_summary">Snooze is disabled</string>
-  <string name="heads_up_snooze_1min">1 minute</string>
-  <string name="heads_up_snooze_3min">3 minutes</string>
-  <string name="heads_up_snooze_5min">5 minutes</string>
-  <string name="heads_up_snooze_10min">10 minutes</string>
-  <string name="heads_up_snooze_15min">15 minutes</string>
-  <string name="heads_up_snooze_20min">20 minutes</string>
+  <string name="heads_up_snooze_title">सिर ऊपर झपकी लेना</string>
+  <string name="heads_up_snooze_summary_one_minute">सूचनाएँ ऊपर सिर पर ऊपर स्वाइप करके उन्हें 1 मिनट के लिए उस अनुप्रयोग के लिए दिन में झपकी लेना होगा</string>
+  <string name="heads_up_snooze_summary">सूचनाएँ ऊपर सिर पर ऊपर स्वाइप करके उन्हें <xliff:g id="number">%d </xliff:g> मिनट के लिए उस अनुप्रयोग के लिए दिन में झपकी लेना होगा</string>
+  <string name="heads_up_snooze_disabled_summary">दिन में झपकी लेना अक्षम किया गया है</string>
+  <string name="heads_up_snooze_1min">1 मिनट</string>
+  <string name="heads_up_snooze_3min">3 मिनट</string>
+  <string name="heads_up_snooze_5min">5 मिनट</string>
+  <string name="heads_up_snooze_10min">10 मिनट</string>
+  <string name="heads_up_snooze_15min">15 मिनट</string>
+  <string name="heads_up_snooze_20min">20 मिनट</string>
   <!-- Recents panel settings -->
-  <string name="show_clear_all_recents_button_title">Enable clear all button</string>
-  <string name="show_clear_all_recents_button_summary">Show the clear all button in recents</string>
-  <string name="recents_clear_all_location_title">Clear all button location</string>
-  <string name="recents_clear_all_location_stock">Top right (auto hide)</string>
-  <string name="recents_clear_all_location_top_right">Top right</string>
-  <string name="recents_clear_all_location_top_left">Top left</string>
-  <string name="recents_clear_all_location_top_center">Top center</string>
-  <string name="recents_clear_all_location_bottom_right">Bottom right</string>
-  <string name="recents_clear_all_location_bottom_left">Bottom left</string>
-  <string name="recents_clear_all_location_bottom_center">Bottom center</string>
+  <string name="show_clear_all_recents_button_title">स्पष्ट सभी बटन को सक्षम</string>
+  <string name="show_clear_all_recents_button_summary">हाल ही में स्पष्ट सभी बटन दिखाएँ</string>
+  <string name="recents_clear_all_location_title">सभी बटन स्थान रिक्त करें</string>
+  <string name="recents_clear_all_location_stock">ऊपरी दाईं ओर (स्वत: छुपाएँ)</string>
+  <string name="recents_clear_all_location_top_right">ऊपरी दाईं ओर स्थित</string>
+  <string name="recents_clear_all_location_top_left">शीर्ष बाएँ</string>
+  <string name="recents_clear_all_location_top_center">ऊपर मध्य</string>
+  <string name="recents_clear_all_location_bottom_right">नीचे-दाएँ</string>
+  <string name="recents_clear_all_location_bottom_left">नीचे बाएँ</string>
+  <string name="recents_clear_all_location_bottom_center">नीचे मध्य</string>
   <!-- Battery stats reset -->
   <string name="battery_stats_reset">Reset statistics</string>
   <string name="battery_stats_message">Battery history will be removed</string>
@@ -162,33 +162,33 @@
   <string name="grey">ग्रे</string>
   <string name="white">सफ़ेद</string>
   <!-- Force authorize substratum packages -->
-  <string name="force_authorize_substratum_packages_title">Force authorize every theme app</string>
-  <string name="force_authorize_substratum_packages_summary">Allow theme apps from unknown sources</string>
-  <string name="dashboard_label">Dashboard</string>
-  <string name="miscellaneous_label">Miscellaneous</string>
-  <string name="two_columns_title">Two columns</string>
-  <string name="headsup_label">Heads up</string>
+  <string name="force_authorize_substratum_packages_title">हर थीम ऐप को प्रबलता से अधिकृत करे</string>
+  <string name="force_authorize_substratum_packages_summary">अज्ञात स्रोतों से थीम ऐप की अनुमति दें</string>
+  <string name="dashboard_label">डैशबोर्ड</string>
+  <string name="miscellaneous_label">विविध</string>
+  <string name="two_columns_title">दो कॉलम</string>
+  <string name="headsup_label">हैड्स अप</string>
   <string name="ticker_label">टिकर</string>
-  <string name="ticker_disabled">Ticker is disabled because heads up is enabled</string>
-  <string name="headsup_disabled">Heads up is disabled because ticker is enabled</string>
-  <string name="ringtones_title">Ringtones</string>
-  <string name="call_options_title">Call options</string>
+  <string name="ticker_disabled">टिकर अक्षम है क्योंकि सिर सक्षम किया गया है</string>
+  <string name="headsup_disabled">टिकर सक्षम किया गया है, क्योंकि सिर को अक्षम किया गया है</string>
+  <string name="ringtones_title">रिंगटोन</string>
+  <string name="call_options_title">कॉल करने के विकल्प</string>
   <!-- Recents -->
-  <string name="recents_label">Recents</string>
-  <string name="immersive_recents_title">Immersive mode</string>
-  <string name="immersive_recents_summary">Change the views in recents</string>
-  <string name="immersive_recents_dialog_title">Select recents views to hide</string>
-  <string name="immersive_recents_default">Hide nothing</string>
-  <string name="immersive_recents_fullscreen">Hide both</string>
-  <string name="immersive_recents_statusbar">Hide navigation bar</string>
-  <string name="immersive_recents_navbar">Hide status bar</string>
-  <string name="systemui_recents_mem_display_title">Memory bar</string>
-  <string name="systemui_recents_mem_display_summary">Display memory bar in recents</string>
-  <string name="recents_lock_icon_title">Lock task</string>
-  <string name="recents_lock_icon_summary">Show lock icon in the task header</string>
-  <string name="recents_dismiss_icon_title">Dismiss task</string>
-  <string name="recents_dismiss_icon_summary">Show dismiss icon in the task header</string>
+  <string name="recents_label">हाल ही के</string>
+  <string name="immersive_recents_title">इमर्सिव मोड</string>
+  <string name="immersive_recents_summary">हाल ही में दृश्यों को बदलने</string>
+  <string name="immersive_recents_dialog_title">हाल ही विचारों को छिपाने के लिए का चयन करें</string>
+  <string name="immersive_recents_default">कुछ ना छिपाए</string>
+  <string name="immersive_recents_fullscreen">दोनों छुपाएँ</string>
+  <string name="immersive_recents_statusbar">नेविगेशन बार छुपाएँ</string>
+  <string name="immersive_recents_navbar">स्टेटस बार को छुपाएँ</string>
+  <string name="systemui_recents_mem_display_title">स्मृति पट्टी</string>
+  <string name="systemui_recents_mem_display_summary">हाल ही में प्रदर्शन स्मृति पट्टी</string>
+  <string name="recents_lock_icon_title">अवरोधित कार्य</string>
+  <string name="recents_lock_icon_summary">कार्य शीर्षक में ताला आइकन दिखाएँ</string>
+  <string name="recents_dismiss_icon_title">कार्य को ख़ारिज करें</string>
+  <string name="recents_dismiss_icon_summary">शो को खारिज कार्य शीर्षक में चिह्न</string>
   <!-- Toast icon -->
-  <string name="toast_icon_title">Toast icon</string>
-  <string name="toast_icon_summary">Display icon of activity that generates toast message</string>
+  <string name="toast_icon_title">टोस्ट चिह्न</string>
+  <string name="toast_icon_summary">टोस्ट संदेश जनरेट करता है गतिविधि के चिह्न प्रदर्शित करें</string>
 </resources>
