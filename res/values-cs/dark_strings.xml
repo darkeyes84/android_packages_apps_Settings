@@ -54,17 +54,16 @@
   <string name="unlock_quick_unlock_control_summary_password">Automatické odemknutí, pokud je zadáno správné heslo</string>
   <string name="unlock_quick_unlock_control_summary_pin">Automatické odemknutí, pokud je zadán správný PIN</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">Notifikační oznámení</string>
-  <string name="ticker_summary">Povolit oznámení ve stavové liště</string>
+  <string name="ticker_title">Text oznámení</string>
+  <string name="ticker_summary">Zobrazit prioritní oznámení ve stavové liště</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Oznámení hudebních skladeb</string>
-  <string name="ticker_track_summary">Zobrazit metadata ve stavové liště při přehrávání nové skladby</string>
+  <string name="ticker_track_title">Názvy hudebních skladeb ve stavové liště</string>
+  <string name="ticker_track_summary">Zobrazí metadata při přehrávání nové skladby</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">Zabezpečená zamykací obrazovka</string>
   <string name="lockscreen_enable_power_menu_summary">Zakázat přístup k rychlým nastavením a nabídce tlačítka Vypnout</string>
   <!-- Settings suggestions  -->
   <string name="disable_settings_suggestions_title">Zakázat návrhy</string>
-  <string name="disable_settings_suggestions_summary">Zakázat návrhy na hlavním panelu</string>
   <!-- Custom carrier label and position -->
   <string name="keyguard_show_carrier_title">Skrýt název operátora</string>
   <string name="keyguard_show_carrier_summary">Skrýt název operátora na zamykací obrazovce</string>
@@ -130,7 +129,6 @@
   <string name="disable_fullscreen_keyboard_title">Zákazat klávesnici přes celou obrazovku</string>
   <string name="disable_fullscreen_keyboard_summary">Zabránit klávesnici používat celou obrazovku v režimu na šířku</string>
   <string name="tile_summary_title">Zakázat souhrny</string>
-  <string name="tile_summary">Zakázat souhrny na hlavním panelu</string>
   <string name="notification_light_zen_mode">Notifikační LED</string>
   <string name="battery_light_zen_mode">Světelná signalizace stavu baterie</string>
   <!-- Fingerprint unlock keystore -->
@@ -166,4 +164,31 @@
   <!-- Force authorize substratum packages -->
   <string name="force_authorize_substratum_packages_title">Vyžadovat povolení pro každý motiv</string>
   <string name="force_authorize_substratum_packages_summary">Povolit instalaci motivů z neznámých zdrojů</string>
+  <string name="dashboard_label">Hlavní panel</string>
+  <string name="miscellaneous_label">Různé</string>
+  <string name="two_columns_title">Dva sloupce</string>
+  <string name="headsup_label">Plovoucí upozornění</string>
+  <string name="ticker_label">Text oznámení</string>
+  <string name="ticker_disabled">Text oznámení je zakázán, je povoleno plovoucí upozornění</string>
+  <string name="headsup_disabled">Plovoucí upozornění je zakázáno, je povolen text oznámení</string>
+  <string name="ringtones_title">Vyzváněcí tóny</string>
+  <string name="call_options_title">Možnosti volání</string>
+  <!-- Recents -->
+  <string name="recents_label">Nedávné</string>
+  <string name="immersive_recents_title">Režim celé obrazovky</string>
+  <string name="immersive_recents_summary">Změna zobrazení v seznamu historie</string>
+  <string name="immersive_recents_dialog_title">Vyberte skrýt zobrazení nedávné historie</string>
+  <string name="immersive_recents_default">Nic neskrývat</string>
+  <string name="immersive_recents_fullscreen">Skrýt obojí</string>
+  <string name="immersive_recents_statusbar">Skrýt navigační panel</string>
+  <string name="immersive_recents_navbar">Skrýt stavovou lištu</string>
+  <string name="systemui_recents_mem_display_title">Ukazatel paměti</string>
+  <string name="systemui_recents_mem_display_summary">Zobrazit ukazatel paměti v seznamu historie</string>
+  <string name="recents_lock_icon_title">Uzamknout</string>
+  <string name="recents_lock_icon_summary">Zobrazit ikonu zámku v záhlaví úloh</string>
+  <string name="recents_dismiss_icon_title">Odstranit úlohu</string>
+  <string name="recents_dismiss_icon_summary">Zobrazit ikonu \"odstranit\" v záhlaví úloh</string>
+  <!-- Toast icon -->
+  <string name="toast_icon_title">Ikona oznámení</string>
+  <string name="toast_icon_summary">Zobrazit ikonu aktivit generující zprávu oznámení</string>
 </resources>

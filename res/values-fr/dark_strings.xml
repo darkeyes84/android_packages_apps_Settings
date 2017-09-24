@@ -55,16 +55,15 @@
   <string name="unlock_quick_unlock_control_summary_pin">Déverrouiller automatiquement l\'appareil lorsque le code PIN est correct</string>
   <!-- Notification Ticker -->
   <string name="ticker_title">Notifications dans la barre d\'état</string>
-  <string name="ticker_summary">Permet l\'affichage des notifications dans la barre d\'état</string>
+  <string name="ticker_summary">Afficher les notifications prioritaires dans la barre d\'état</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Notifications pour les pistes musicales</string>
-  <string name="ticker_track_summary">Afficher les métadonnées dans la barre d\'état quand une nouvelle piste musicale est jouée</string>
+  <string name="ticker_track_title">Notification dans la barre d\'état des pistes musicales</string>
+  <string name="ticker_track_summary">Afficher les métadonnées lorsque une nouvelle piste commence</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">Écran de verrouillage protégé</string>
   <string name="lockscreen_enable_power_menu_summary">Empêche l’accès aux paramètres rapides et au menu d\'alimentation</string>
   <!-- Settings suggestions  -->
   <string name="disable_settings_suggestions_title">Désactiver les suggestions</string>
-  <string name="disable_settings_suggestions_summary">Désactiver les suggestions sur le tableau de bord</string>
   <!-- Custom carrier label and position -->
   <string name="keyguard_show_carrier_title">Masquer le nom de l\'opérateur</string>
   <string name="keyguard_show_carrier_summary">Masquer le nom de l\'opérateur sur l\'écran de verrouillage</string>
@@ -130,7 +129,6 @@
   <string name="disable_fullscreen_keyboard_title">Désactiver le clavier plein écran</string>
   <string name="disable_fullscreen_keyboard_summary">Empêcher le clavier d’utiliser la totalité de l’écran en mode paysage</string>
   <string name="tile_summary_title">Désactiver les résumés</string>
-  <string name="tile_summary">Désactiver les résumés sur le tableau de bord</string>
   <string name="notification_light_zen_mode">Voyant de notification</string>
   <string name="battery_light_zen_mode">Voyant batterie</string>
   <!-- Fingerprint unlock keystore -->
@@ -148,7 +146,7 @@
   <string name="theme_accent_color">Couleur d\'accentuation</string>
   <string name="theme_primary_color">Couleur d\'arrière-plan</string>
   <string name="theme">Thème</string>
-  <string name="oms_enabled">Les thèmes sont désactivés car un thème Substratum est actuellement appliqué</string>
+  <string name="oms_enabled">Les thèmes sont désactivés car une surcouche Substratum est actuellement appliquée</string>
   <string name="red">Rouge</string>
   <string name="orange">Orange</string>
   <string name="blue">Turquoise</string>
@@ -166,4 +164,31 @@
   <!-- Force authorize substratum packages -->
   <string name="force_authorize_substratum_packages_title">Forcer l’autorisation de chaque application de thème</string>
   <string name="force_authorize_substratum_packages_summary">Autorise les applications de thème provenant de sources inconnues</string>
+  <string name="dashboard_label">Tableau de bord</string>
+  <string name="miscellaneous_label">Autres</string>
+  <string name="two_columns_title">Deux colonnes</string>
+  <string name="headsup_label">Notifications flottantes</string>
+  <string name="ticker_label">Notifications dans la barre d\'état</string>
+  <string name="ticker_disabled">Les notifications dans la barre d\'état sont désactivées car les notifications flottantes sont activées</string>
+  <string name="headsup_disabled">Les notifications flottantes sont désactivées car les notifications dans la barre d\'état sont activées</string>
+  <string name="ringtones_title">Sonneries</string>
+  <string name="call_options_title">Options d’appel</string>
+  <!-- Recents -->
+  <string name="recents_label">Vue des applications récentes</string>
+  <string name="immersive_recents_title">Mode immersif</string>
+  <string name="immersive_recents_summary">Modifier les vues des tâches récentes</string>
+  <string name="immersive_recents_dialog_title">Sélectionnez les vues à masquer dans les tâches récentes</string>
+  <string name="immersive_recents_default">Ne rien masquer</string>
+  <string name="immersive_recents_fullscreen">Masquer les deux</string>
+  <string name="immersive_recents_statusbar">Masquer la barre de navigation</string>
+  <string name="immersive_recents_navbar">Masquer la barre d\'état</string>
+  <string name="systemui_recents_mem_display_title">Barre de mémoire</string>
+  <string name="systemui_recents_mem_display_summary">Afficher la barre de mémoire dans les tâches récentes</string>
+  <string name="recents_lock_icon_title">Icône de verrouillage</string>
+  <string name="recents_lock_icon_summary">Afficher l’icône de verrouillage dans l’en-tête des tâches</string>
+  <string name="recents_dismiss_icon_title">Tâche rejetée</string>
+  <string name="recents_dismiss_icon_summary">Afficher l’icône de rejet dans l’en-tête des tâches</string>
+  <!-- Toast icon -->
+  <string name="toast_icon_title">Icône Toast</string>
+  <string name="toast_icon_summary">Afficher l\'icône de l\'application correspondant à la notification contextuelle</string>
 </resources>

@@ -54,17 +54,16 @@
   <string name="unlock_quick_unlock_control_summary_password">Автоматично отключване, когато е въведена правилната парола</string>
   <string name="unlock_quick_unlock_control_summary_pin">Автоматично отключване, когато е въведен правилният ПИН код</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">Избиране на няколко известия</string>
-  <string name="ticker_summary">Разрешаване на избиране на няколко известия в лентата на състоянието</string>
+  <string name="ticker_title">Извастия в лентата за състояние</string>
+  <string name="ticker_summary">Показвай приоритизирани известия в лентата за състояние</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Избиране на няколко известия за песни</string>
-  <string name="ticker_track_summary">Показване на мета-данните в лентата на състоянието, когато е пусната нова песен</string>
+  <string name="ticker_track_title">Извастия в лентата за състояние за музика</string>
+  <string name="ticker_track_summary">Показвай метаданни, когато е пусната нова песен</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">Защитен заключен екран</string>
   <string name="lockscreen_enable_power_menu_summary">Предотвратяване на достъпа до бързи настройки и меню за рестартиране</string>
   <!-- Settings suggestions  -->
   <string name="disable_settings_suggestions_title">Деактивиране на предложенията</string>
-  <string name="disable_settings_suggestions_summary">Деактивиране на предложенията на таблото</string>
   <!-- Custom carrier label and position -->
   <string name="keyguard_show_carrier_title">Скриване на името на мобилния оператор</string>
   <string name="keyguard_show_carrier_summary">Скриване на името на мобилния оператор на заключения екран</string>
@@ -130,7 +129,6 @@
   <string name="disable_fullscreen_keyboard_title">Изключване на клавиетурата на цял екран</string>
   <string name="disable_fullscreen_keyboard_summary">Предотвратяване на клавиатурата от използване на целия екран хоризонтално</string>
   <string name="tile_summary_title">Забраняване на резюмета</string>
-  <string name="tile_summary">Забраняване на резюмета на таблото</string>
   <string name="notification_light_zen_mode">Светлинна индикации на известия</string>
   <string name="battery_light_zen_mode">Светлинна индикации на батерия</string>
   <!-- Fingerprint unlock keystore -->
@@ -166,4 +164,31 @@
   <!-- Force authorize substratum packages -->
   <string name="force_authorize_substratum_packages_title">Карай всяко приложение за теми да се оторизира</string>
   <string name="force_authorize_substratum_packages_summary">Позволи приложения за теми от непознати източници</string>
+  <string name="dashboard_label">Табло</string>
+  <string name="miscellaneous_label">Разни</string>
+  <string name="two_columns_title">Две колони</string>
+  <string name="headsup_label">Изскачащи известия</string>
+  <string name="ticker_label">Извастия в лентата за състояние</string>
+  <string name="ticker_disabled">Извастията в лентата за състояние са изключени, защото изкачащите известия са включени</string>
+  <string name="headsup_disabled">Изкачащите известия са изключени, защото извастията в лентата за състояни са включени</string>
+  <string name="ringtones_title">Рингтонове</string>
+  <string name="call_options_title">Опции при повикване</string>
+  <!-- Recents -->
+  <string name="recents_label">Скорошни</string>
+  <string name="immersive_recents_title">Режим \"Цял екран\"</string>
+  <string name="immersive_recents_summary">Промяна на изгледите в Скорошни</string>
+  <string name="immersive_recents_dialog_title">Изберете скорошни задачи за да бъдат скрити</string>
+  <string name="immersive_recents_default">Не скривай нищо</string>
+  <string name="immersive_recents_fullscreen">Скрий и двете</string>
+  <string name="immersive_recents_statusbar">Скриване на лентата за навигация</string>
+  <string name="immersive_recents_navbar">Скриване на лентата на състоянието</string>
+  <string name="systemui_recents_mem_display_title">Мемори бар</string>
+  <string name="systemui_recents_mem_display_summary">Показвай мемори барът в Скорошни</string>
+  <string name="recents_lock_icon_title">Заключване на задачата</string>
+  <string name="recents_lock_icon_summary">Показване на икона за заключване на задачата</string>
+  <string name="recents_dismiss_icon_title">Прекрати задачата</string>
+  <string name="recents_dismiss_icon_summary">Показване на икона за прекратяване на задачата</string>
+  <!-- Toast icon -->
+  <string name="toast_icon_title">Икона на известията в лентата за състояние</string>
+  <string name="toast_icon_summary">Показвай икона на дейността, която генерира известията в лентата за състояние</string>
 </resources>

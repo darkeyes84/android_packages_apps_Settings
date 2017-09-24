@@ -54,17 +54,16 @@
   <string name="unlock_quick_unlock_control_summary_password">Deblochează automat când se introduce parola corectă</string>
   <string name="unlock_quick_unlock_control_summary_pin">Deblochează automat când se introduce corect codul PIN</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">Notificare ticker</string>
-  <string name="ticker_summary">Permite notificare ticker în bara de stare</string>
+  <string name="ticker_title">Comutator</string>
+  <string name="ticker_summary">Afişare notificari prioritare în bara de stare</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Notificare ticker pentru piese muzicale</string>
-  <string name="ticker_track_summary">Afişează metadate în bara de stare atunci când se redă o nouă melodie</string>
+  <string name="ticker_track_title">Comutator piese muzicale</string>
+  <string name="ticker_track_summary">Afişare metadate atunci când se redă o piesă nouă</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">Ecran de blocare securizat</string>
   <string name="lockscreen_enable_power_menu_summary">Prevenirea accesului la setările rapide şi meniului de pornire</string>
   <!-- Settings suggestions  -->
   <string name="disable_settings_suggestions_title">Dezactivarea sugestiilor</string>
-  <string name="disable_settings_suggestions_summary">Dezactivarea sugestiilor pe tabloul de bord</string>
   <!-- Custom carrier label and position -->
   <string name="keyguard_show_carrier_title">Ascunde etichetă operator</string>
   <string name="keyguard_show_carrier_summary">Ascunde etichetă operator pe ecranul blocat</string>
@@ -113,7 +112,7 @@
   <string name="heads_up_snooze_20min">20 minute</string>
   <!-- Recents panel settings -->
   <string name="show_clear_all_recents_button_title">Activaţi buton şterge tot</string>
-  <string name="show_clear_all_recents_button_summary">Afişează butonul şterge tot când folosiţi recentele</string>
+  <string name="show_clear_all_recents_button_summary">Afişează butonul şterge tot în aplicațiile recente</string>
   <string name="recents_clear_all_location_title">Poziția butonului şterge tot</string>
   <string name="recents_clear_all_location_stock">Dreapta sus (ascundeţi automat)</string>
   <string name="recents_clear_all_location_top_right">Dreapta sus</string>
@@ -130,7 +129,6 @@
   <string name="disable_fullscreen_keyboard_title">Dezactivare tastatură pe tot ecranul</string>
   <string name="disable_fullscreen_keyboard_summary">Împiedica tastatura să folosească întregul ecran în modul peisaj</string>
   <string name="tile_summary_title">Dezactivare rezumate</string>
-  <string name="tile_summary">Dezactivare rezumate pe tabloul de bord</string>
   <string name="notification_light_zen_mode">Lumină de notificare</string>
   <string name="battery_light_zen_mode">Lumină baterie</string>
   <!-- Fingerprint unlock keystore -->
@@ -148,7 +146,7 @@
   <string name="theme_accent_color">Culoare accent</string>
   <string name="theme_primary_color">Culoare de fundal</string>
   <string name="theme">Temă</string>
-  <string name="oms_enabled">Temele sunt indisponibile deoarece o temă Substratum este aplicată în prezent</string>
+  <string name="oms_enabled">Modul temă este indisponibil deoarece un strat Substratum este aplicat în prezent</string>
   <string name="red">Roșu</string>
   <string name="orange">Portocaliu</string>
   <string name="blue">Verde pin</string>
@@ -166,4 +164,31 @@
   <!-- Force authorize substratum packages -->
   <string name="force_authorize_substratum_packages_title">Autorizare forţată a fiecărei aplicație de temă</string>
   <string name="force_authorize_substratum_packages_summary">Permiteţi aplicații teme din surse necunoscute</string>
+  <string name="dashboard_label">Panou de control</string>
+  <string name="miscellaneous_label">Diverse</string>
+  <string name="two_columns_title">Două coloane</string>
+  <string name="headsup_label">Atenționări</string>
+  <string name="ticker_label">Comutator</string>
+  <string name="ticker_disabled">Comutatorul este dezactivat deoarece atenţionările sunt activate</string>
+  <string name="headsup_disabled">Atenţionările sunt dezactivate deoarece comutatorul este pornit</string>
+  <string name="ringtones_title">Tonuri de apel</string>
+  <string name="call_options_title">Opţiuni apel</string>
+  <!-- Recents -->
+  <string name="recents_label">Recente</string>
+  <string name="immersive_recents_title">Mod imersiv</string>
+  <string name="immersive_recents_summary">Schimbă afișajul în aplicațiile recente</string>
+  <string name="immersive_recents_dialog_title">Selectează aplicațiile recente pentru ascundere</string>
+  <string name="immersive_recents_default">Nu ascunde nimic</string>
+  <string name="immersive_recents_fullscreen">Ascunde ambele</string>
+  <string name="immersive_recents_statusbar">Ascunde bara de navigare</string>
+  <string name="immersive_recents_navbar">Ascunde bara de stare</string>
+  <string name="systemui_recents_mem_display_title">Bară memorie</string>
+  <string name="systemui_recents_mem_display_summary">Afișează bara de memorie în aplicațiile recente</string>
+  <string name="recents_lock_icon_title">Sarcina de blocare</string>
+  <string name="recents_lock_icon_summary">Afișează iconiță blocare în antetul sarcinii</string>
+  <string name="recents_dismiss_icon_title">Respingere sarcină</string>
+  <string name="recents_dismiss_icon_summary">Afișează iconiță respingere în antetul sarcinii</string>
+  <!-- Toast icon -->
+  <string name="toast_icon_title">Iconiță toast</string>
+  <string name="toast_icon_summary">Afișează iconița activității care generează mesaje toast</string>
 </resources>

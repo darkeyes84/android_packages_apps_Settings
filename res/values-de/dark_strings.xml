@@ -18,7 +18,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Default left shortcut on lockscreen -->
-  <string name="left_default_voice_title">Linke Taste auf Keyboard</string>
+  <string name="left_default_voice_title">Linke Verknüpfung auf Sperrbildschirm</string>
   <string name="left_default_voice_summary_on">Standardtastenkombination für Sprachassistent</string>
   <string name="left_default_voice_summary_off">Standardtastenkombination für Telefon</string>
   <!-- Hide the next alarm on lockscreen -->
@@ -54,17 +54,16 @@
   <string name="unlock_quick_unlock_control_summary_password">Entsperren durch korrekte Pin- oder Passworteingabe</string>
   <string name="unlock_quick_unlock_control_summary_pin">Automatisch entsperren, wenn die korrekte PIN/Passwort eingegeben wird</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">Benachrichtigungsticker</string>
-  <string name="ticker_summary">Aktiviert Benachrichtigungsanzeige in der Statusleiste</string>
+  <string name="ticker_title">Ticker</string>
+  <string name="ticker_summary">Benachrichtigungen mit Priorität in der Statusleiste anzeigen</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Benachrichtigungsanzeige für Musiktitel</string>
-  <string name="ticker_track_summary">Zeigt Metadaten in der Statusleiste, wenn ein neuer Track spielt</string>
+  <string name="ticker_track_title">Ticker-Musik-Titel</string>
+  <string name="ticker_track_summary">Zeige die Metadaten an, wenn ein neuer Titel läuft</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">Auf dem Sperrbildschirm werden keine Schnelleinstellungen angezeigt</string>
   <string name="lockscreen_enable_power_menu_summary">Verhinderung des Zugriffs auf Schnelleinstellungen und Power-Menü</string>
   <!-- Settings suggestions  -->
   <string name="disable_settings_suggestions_title">Vorschläge deaktivieren</string>
-  <string name="disable_settings_suggestions_summary">Vorschläge auf dem Dashboard deaktivieren</string>
   <!-- Custom carrier label and position -->
   <string name="keyguard_show_carrier_title">Netzbetreiber ausblenden</string>
   <string name="keyguard_show_carrier_summary">Netzanbieter auf dem Tastenschutz verstecken</string>
@@ -113,7 +112,7 @@
   <string name="heads_up_snooze_20min">20 Minuten</string>
   <!-- Recents panel settings -->
   <string name="show_clear_all_recents_button_title">Alle-Beenden Taste aktivieren</string>
-  <string name="show_clear_all_recents_button_summary">Alle-Beenden Taste im Taskmanager anzeigen</string>
+  <string name="show_clear_all_recents_button_summary">Alle-Beenden Taste im Anwendungsverlauf anzeigen</string>
   <string name="recents_clear_all_location_title">Position der Alle-Schließen Taste</string>
   <string name="recents_clear_all_location_stock">Oben rechts (automatische Ausblenden)</string>
   <string name="recents_clear_all_location_top_right">Oben rechts</string>
@@ -130,7 +129,6 @@
   <string name="disable_fullscreen_keyboard_title">Vollbild-Tastatur deaktivieren</string>
   <string name="disable_fullscreen_keyboard_summary">Verhindert, dass die Tastatur im Querformat über den gesamten Bildschirm verläuft</string>
   <string name="tile_summary_title">Zusammenfassungen deaktivieren</string>
-  <string name="tile_summary">Vorschläge auf dem Dashboard deaktivieren</string>
   <string name="notification_light_zen_mode">Benachrichtigungs-LED</string>
   <string name="battery_light_zen_mode">Akku-LED</string>
   <!-- Fingerprint unlock keystore -->
@@ -148,7 +146,7 @@
   <string name="theme_accent_color">Akzentfarbe</string>
   <string name="theme_primary_color">Hintergrundfarbe</string>
   <string name="theme">Erscheinungsbild</string>
-  <string name="oms_enabled">Erscheinungsbildänderung nicht verfügbar weil ein Substratum Erscheinungsbild aktiv ist</string>
+  <string name="oms_enabled">Erscheinungsbildänderungsmodus nicht verfügbar weil eine Substratum Maske aktiv ist</string>
   <string name="red">Rot</string>
   <string name="orange">Orange</string>
   <string name="blue">Blaugrün</string>
@@ -166,4 +164,31 @@
   <!-- Force authorize substratum packages -->
   <string name="force_authorize_substratum_packages_title">Erzwinge Autorisierung jeder Erscheinungsbildänderungs App</string>
   <string name="force_authorize_substratum_packages_summary">Erlaube Erscheinungsbildänderungs-Apps von unbekannten Quellen</string>
+  <string name="dashboard_label">Übersicht</string>
+  <string name="miscellaneous_label">Verschiedenes</string>
+  <string name="two_columns_title">Zwei Spalten</string>
+  <string name="headsup_label">Heads-Up</string>
+  <string name="ticker_label">Ticker</string>
+  <string name="ticker_disabled">Ticker ist deaktiviert, weil Heads-up aktiviert ist</string>
+  <string name="headsup_disabled">Heads-up ist deaktiviert, weil Ticker aktiviert ist</string>
+  <string name="ringtones_title">Klingeltöne</string>
+  <string name="call_options_title">Anruf Optionen</string>
+  <!-- Recents -->
+  <string name="recents_label">Anwendungsverlauf</string>
+  <string name="immersive_recents_title">Immersiver Modus</string>
+  <string name="immersive_recents_summary">Ändern der Ansichten im Anwendungsverlauf</string>
+  <string name="immersive_recents_dialog_title">Aktiviere ausblenden vom Anwendungsverlauf</string>
+  <string name="immersive_recents_default">Nichts ausblenden</string>
+  <string name="immersive_recents_fullscreen">Beides ausblenden</string>
+  <string name="immersive_recents_statusbar">Navigationsleiste ausblenden</string>
+  <string name="immersive_recents_navbar">Statusleiste ausblenden</string>
+  <string name="systemui_recents_mem_display_title">Speicher-Leiste</string>
+  <string name="systemui_recents_mem_display_summary">Einblenden der Speicher-Leiste im Anwendungsverlauf</string>
+  <string name="recents_lock_icon_title">Anwendung sperren</string>
+  <string name="recents_lock_icon_summary">Schloss-Symbol im Anwendungskopf anzeigen</string>
+  <string name="recents_dismiss_icon_title">Anwendung verwerfen</string>
+  <string name="recents_dismiss_icon_summary">Verwerfen-Symbol im Anwendungskopf anzeigen</string>
+  <!-- Toast icon -->
+  <string name="toast_icon_title">Toast-Benachrichtigungs-Symbol</string>
+  <string name="toast_icon_summary">Aktivitätssymbolanzeige das die Toast-Benachrichtigung erzeugt</string>
 </resources>

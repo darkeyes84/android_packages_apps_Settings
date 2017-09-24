@@ -54,17 +54,16 @@
   <string name="unlock_quick_unlock_control_summary_password">Desbloquear automáticamente cuando se introduce la contraseña correcta</string>
   <string name="unlock_quick_unlock_control_summary_pin">Desbloquear automáticamente cuando se introduce el PIN correcto</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">Texto de notificación en la barra de estado</string>
-  <string name="ticker_summary">Activar texto de notificación en la barra de estado</string>
+  <string name="ticker_title">Texto de notificación en barra de estado</string>
+  <string name="ticker_summary">Mostrar notificaciones de prioridad en la barra de estado</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Texto de notificación en la barra de estado para pistas de música</string>
-  <string name="ticker_track_summary">Mostrar los metadatos en la barra de estado cuando suena una nueva canción</string>
+  <string name="ticker_track_title">Titulo de las pistas de música en la barra de estado</string>
+  <string name="ticker_track_summary">Muestra los metadatos cuando se reproduce una nueva pista</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">Pantalla de bloqueo segura</string>
   <string name="lockscreen_enable_power_menu_summary">Prevenir acceso a ajustes rápidos y al menú de apagado</string>
   <!-- Settings suggestions  -->
   <string name="disable_settings_suggestions_title">Desactivar sugerencias</string>
-  <string name="disable_settings_suggestions_summary">Desactivar sugerencias en el tablero</string>
   <!-- Custom carrier label and position -->
   <string name="keyguard_show_carrier_title">Ocultar nombre de la operadora</string>
   <string name="keyguard_show_carrier_summary">Ocultar el nombre de la operadora en la pantalla de bloqueo</string>
@@ -113,7 +112,7 @@
   <string name="heads_up_snooze_20min">20 minutos</string>
   <!-- Recents panel settings -->
   <string name="show_clear_all_recents_button_title">Activar el botón de limpiar todo</string>
-  <string name="show_clear_all_recents_button_summary">Mostrar el botón de limpiar todo cuando se usa la multitarea</string>
+  <string name="show_clear_all_recents_button_summary">Mostrar el botón de borrar todo en recientes</string>
   <string name="recents_clear_all_location_title">Posición del botón de limpiar todo</string>
   <string name="recents_clear_all_location_stock">Arriba a la derecha (se oculta automáticamente)</string>
   <string name="recents_clear_all_location_top_right">Arriba a la derecha</string>
@@ -130,7 +129,6 @@
   <string name="disable_fullscreen_keyboard_title">Desactivar el teclado a pantalla completa</string>
   <string name="disable_fullscreen_keyboard_summary">Evitar que el teclado use toda la pantalla en apaisado</string>
   <string name="tile_summary_title">Desactivar resúmenes</string>
-  <string name="tile_summary">Desactivar resúmenes en el tablero</string>
   <string name="notification_light_zen_mode">Luz de notificación</string>
   <string name="battery_light_zen_mode">Luz indicadora de batería</string>
   <!-- Fingerprint unlock keystore -->
@@ -166,4 +164,31 @@
   <!-- Force authorize substratum packages -->
   <string name="force_authorize_substratum_packages_title">Forzar autorización de cada aplicación de tema</string>
   <string name="force_authorize_substratum_packages_summary">Permitir aplicaciones de temas de fuentes desconocidas</string>
+  <string name="dashboard_label">Configuración</string>
+  <string name="miscellaneous_label">Misceláneos</string>
+  <string name="two_columns_title">Dos columnas</string>
+  <string name="headsup_label">Notificaciones emergentes</string>
+  <string name="ticker_label">Texto de notificación en barra de estado</string>
+  <string name="ticker_disabled">Texto de notificación en barra de estado desactivado porque las notificaciones emergentes estan activadas</string>
+  <string name="headsup_disabled">Notificaciones emergentes desactivadas porque el texto de notificación en barra de estado está activado</string>
+  <string name="ringtones_title">Tonos de llamada</string>
+  <string name="call_options_title">Opciones de llamada</string>
+  <!-- Recents -->
+  <string name="recents_label">Recientes</string>
+  <string name="immersive_recents_title">Modo inmersivo</string>
+  <string name="immersive_recents_summary">Cambiar las vistas en recientes</string>
+  <string name="immersive_recents_dialog_title">Seleccione vistas recientes para ocultar</string>
+  <string name="immersive_recents_default">No ocultar nada</string>
+  <string name="immersive_recents_fullscreen">Ocultar ambos</string>
+  <string name="immersive_recents_statusbar">Ocultar la barra de navegación</string>
+  <string name="immersive_recents_navbar">Ocultar la barra de estado</string>
+  <string name="systemui_recents_mem_display_title">Barra de memoria</string>
+  <string name="systemui_recents_mem_display_summary">Mostrar barra de memoria en recientes</string>
+  <string name="recents_lock_icon_title">Bloquear tarea</string>
+  <string name="recents_lock_icon_summary">Mostrar icono de bloqueo en el encabezado de la tarea</string>
+  <string name="recents_dismiss_icon_title">Descartar tarea</string>
+  <string name="recents_dismiss_icon_summary">Mostrar icono de rechazar en el encabezado de la tarea</string>
+  <!-- Toast icon -->
+  <string name="toast_icon_title">Icono de notificación flotante</string>
+  <string name="toast_icon_summary">Mostrar icono de la aplicación que genera la notificación flotante</string>
 </resources>

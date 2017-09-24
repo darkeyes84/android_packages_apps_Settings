@@ -54,17 +54,16 @@
   <string name="unlock_quick_unlock_control_summary_password">Sblocca automaticamente quando la password inserita è corretta</string>
   <string name="unlock_quick_unlock_control_summary_pin">Sblocca automaticamente quando il PIN inserito è corretto</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">Notifiche nella status bar</string>
-  <string name="ticker_summary">Abilita la visualizzazione delle notifiche nella status bar</string>
+  <string name="ticker_title">Anteprima notifiche nella barra di stato</string>
+  <string name="ticker_summary">Visualizza le notifiche prioritarie nella barra di stato</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Notifica del Ticker della musica</string>
-  <string name="ticker_track_summary">Mostra il metadata nella status bar quando una nuova canzone è in esecuzione</string>
+  <string name="ticker_track_title">Mosrta tracce musicali nella barra di stato</string>
+  <string name="ticker_track_summary">Mostra i metadati quando viene avviata una nuova traccia</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">Lockscreen sicura</string>
   <string name="lockscreen_enable_power_menu_summary">Impedisce l\'accesso alle impostazioni rapide e al menu sul tasto power</string>
   <!-- Settings suggestions  -->
   <string name="disable_settings_suggestions_title">Disabilita suggerimenti</string>
-  <string name="disable_settings_suggestions_summary">Disabilita i suggerimenti sulla dashboard</string>
   <!-- Custom carrier label and position -->
   <string name="keyguard_show_carrier_title">Nascondi il nome dell\'operatore</string>
   <string name="keyguard_show_carrier_summary">Nascondi il nome dell\'operatore mobile nella lockscreen</string>
@@ -113,7 +112,7 @@
   <string name="heads_up_snooze_20min">20 minuti</string>
   <!-- Recents panel settings -->
   <string name="show_clear_all_recents_button_title">Abilita il pulsante cancella tutto</string>
-  <string name="show_clear_all_recents_button_summary">Visualizza il pulsante cancella tutto quando si utilizzano i recenti</string>
+  <string name="show_clear_all_recents_button_summary">Mostra il pulsante cancella tutto quando si visualizzano i recenti</string>
   <string name="recents_clear_all_location_title">Posizione del pulsante cancella tutto</string>
   <string name="recents_clear_all_location_stock">In alto a destra (Nascondi automaticamente)</string>
   <string name="recents_clear_all_location_top_right">In alto a destra</string>
@@ -130,7 +129,6 @@
   <string name="disable_fullscreen_keyboard_title">Disabilita tastiera a schermo intero</string>
   <string name="disable_fullscreen_keyboard_summary">Impedire alla tastiera di usare lo schermo intero in modalità landscape</string>
   <string name="tile_summary_title">Disabilita i suggerimenti</string>
-  <string name="tile_summary">Disabilita i suggerimenti sulla dashboard</string>
   <string name="notification_light_zen_mode">Luce di notifica</string>
   <string name="battery_light_zen_mode">Indicatore batteria</string>
   <!-- Fingerprint unlock keystore -->
@@ -151,7 +149,7 @@
   <string name="oms_enabled">Tema non applicabile perché è già stato applicato un tema Substratum</string>
   <string name="red">Rosso</string>
   <string name="orange">Arancione</string>
-  <string name="blue">Blu</string>
+  <string name="blue">Teal</string>
   <string name="green">Verde</string>
   <string name="yellow">Giallo</string>
   <string name="purple">Viola</string>
@@ -159,11 +157,38 @@
   <string name="black">Nero</string>
   <string name="dark">Scuro</string>
   <string name="pixel">Pixel</string>
-  <string name="teal">Teal</string>
+  <string name="teal">Blu</string>
   <string name="cyan">Azzurro</string>
   <string name="grey">Grigio</string>
   <string name="white">Bianco</string>
   <!-- Force authorize substratum packages -->
   <string name="force_authorize_substratum_packages_title">Forza l\'autorizzazione ad ogni applicazione del tema</string>
   <string name="force_authorize_substratum_packages_summary">Consenti le applicazioni a tema provenienti da fonti sconosciute</string>
+  <string name="dashboard_label">Pannello principale</string>
+  <string name="miscellaneous_label">Varie</string>
+  <string name="two_columns_title">Due colonne</string>
+  <string name="headsup_label">Notifiche a comparsa</string>
+  <string name="ticker_label">Anteprima notifiche nella barra di stato</string>
+  <string name="ticker_disabled">Le notifiche nella barra di stato sono state disabilitate perché le notifiche a comparsa sono state abilitate</string>
+  <string name="headsup_disabled">Le notifiche a comparsa sono state disabilitate perché le notifiche nella barra di stato sono state abilitate</string>
+  <string name="ringtones_title">Suonerie</string>
+  <string name="call_options_title">Opzioni di chiamata</string>
+  <!-- Recents -->
+  <string name="recents_label">Recenti</string>
+  <string name="immersive_recents_title">Modalità immersiva</string>
+  <string name="immersive_recents_summary">Cambia la visualizzazione nel menu delle applicazioni recenti</string>
+  <string name="immersive_recents_dialog_title">Seleziona le visualizzazioni recenti da nascondere</string>
+  <string name="immersive_recents_default">Non nascondere nulla</string>
+  <string name="immersive_recents_fullscreen">Nascondi entrambi</string>
+  <string name="immersive_recents_statusbar">Nascondi la barra di navigazione</string>
+  <string name="immersive_recents_navbar">Nascondi la barra di stato</string>
+  <string name="systemui_recents_mem_display_title">Barra della memoria</string>
+  <string name="systemui_recents_mem_display_summary">Mostra la barra della memoria nel menu delle app recenti</string>
+  <string name="recents_lock_icon_title">Blocca task</string>
+  <string name="recents_lock_icon_summary">Mostra l\'icona di blocco nell\'header del task</string>
+  <string name="recents_dismiss_icon_title">Cancella attività</string>
+  <string name="recents_dismiss_icon_summary">Mostra l\'icona di chiusura nell\'header del task</string>
+  <!-- Toast icon -->
+  <string name="toast_icon_title">Icona Toast</string>
+  <string name="toast_icon_summary">Visualizza l\'icona dell\'applicazione corrispondente al toast</string>
 </resources>

@@ -54,17 +54,16 @@
   <string name="unlock_quick_unlock_control_summary_password">当输入正确的密码时自动解锁</string>
   <string name="unlock_quick_unlock_control_summary_pin">当输入正确的 PIN 时自动解锁</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">通知预览</string>
-  <string name="ticker_summary">在状态栏上显示通知预览</string>
+  <string name="ticker_title">预览</string>
+  <string name="ticker_summary">在状态栏上显示优先通知</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">曲目预览</string>
-  <string name="ticker_track_summary">当播放歌曲时在状态栏上显示曲目信息</string>
+  <string name="ticker_track_title">音乐曲目预览</string>
+  <string name="ticker_track_summary">当播放歌曲时显示曲目信息</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">安全锁屏</string>
   <string name="lockscreen_enable_power_menu_summary">防止访问快速设置和电源菜单</string>
   <!-- Settings suggestions  -->
   <string name="disable_settings_suggestions_title">禁用建议</string>
-  <string name="disable_settings_suggestions_summary">在设置内禁用建议</string>
   <!-- Custom carrier label and position -->
   <string name="keyguard_show_carrier_title">隐藏运营商名称</string>
   <string name="keyguard_show_carrier_summary">在锁屏内隐藏运营商名称</string>
@@ -113,7 +112,7 @@
   <string name="heads_up_snooze_20min">20 分钟</string>
   <!-- Recents panel settings -->
   <string name="show_clear_all_recents_button_title">启用全部清除按钮</string>
-  <string name="show_clear_all_recents_button_summary">在任务切换窗口中显示全部清除按钮</string>
+  <string name="show_clear_all_recents_button_summary">在近期任务视图内显示全部清除按钮</string>
   <string name="recents_clear_all_location_title">全部清除按钮位置</string>
   <string name="recents_clear_all_location_stock">右上角 (自动隐藏)</string>
   <string name="recents_clear_all_location_top_right">右上角</string>
@@ -130,7 +129,6 @@
   <string name="disable_fullscreen_keyboard_title">禁用全屏键盘</string>
   <string name="disable_fullscreen_keyboard_summary">阻止键盘在横屏时占用整块屏幕</string>
   <string name="tile_summary_title">禁用概要</string>
-  <string name="tile_summary">在设置内禁用设置项概要</string>
   <string name="notification_light_zen_mode">通知指示灯</string>
   <string name="battery_light_zen_mode">电量指示灯</string>
   <!-- Fingerprint unlock keystore -->
@@ -148,7 +146,7 @@
   <string name="theme_accent_color">强调色</string>
   <string name="theme_primary_color">背景色</string>
   <string name="theme">主题</string>
-  <string name="oms_enabled">主题模式不可用，因为当前正在应用一个 Substratum 主题</string>
+  <string name="oms_enabled">主题模式不可用，因当前已应用 Substratum 叠加层</string>
   <string name="red">红色</string>
   <string name="orange">橙色</string>
   <string name="blue">蓝绿色</string>
@@ -166,4 +164,31 @@
   <!-- Force authorize substratum packages -->
   <string name="force_authorize_substratum_packages_title">强制授权所有主题应用</string>
   <string name="force_authorize_substratum_packages_summary">允许使用来自未知来源的主题应用</string>
+  <string name="dashboard_label">控制面板</string>
+  <string name="miscellaneous_label">其他</string>
+  <string name="two_columns_title">双列</string>
+  <string name="headsup_label">浮动通知</string>
+  <string name="ticker_label">预览</string>
+  <string name="ticker_disabled">因启用过浮动通知功能，通知预览已禁用</string>
+  <string name="headsup_disabled">因启用过通知预览功能，浮动通知已禁用</string>
+  <string name="ringtones_title">铃声</string>
+  <string name="call_options_title">呼叫选项</string>
+  <!-- Recents -->
+  <string name="recents_label">近期</string>
+  <string name="immersive_recents_title">沉浸模式</string>
+  <string name="immersive_recents_summary">更改近期任务视图</string>
+  <string name="immersive_recents_dialog_title">选择要隐藏的近期任务视图</string>
+  <string name="immersive_recents_default">不隐藏</string>
+  <string name="immersive_recents_fullscreen">全部隐藏</string>
+  <string name="immersive_recents_statusbar">隐藏导航栏</string>
+  <string name="immersive_recents_navbar">隐藏状态栏</string>
+  <string name="systemui_recents_mem_display_title">内存栏</string>
+  <string name="systemui_recents_mem_display_summary">在近期任务视图内显示内存栏</string>
+  <string name="recents_lock_icon_title">锁定任务</string>
+  <string name="recents_lock_icon_summary">在任务标题上显示锁定图标</string>
+  <string name="recents_dismiss_icon_title">清除任务</string>
+  <string name="recents_dismiss_icon_summary">在任务标题上显示清除图标</string>
+  <!-- Toast icon -->
+  <string name="toast_icon_title">Toast 通知图标</string>
+  <string name="toast_icon_summary">在 Toast 通知上显示对应应用的图标</string>
 </resources>
