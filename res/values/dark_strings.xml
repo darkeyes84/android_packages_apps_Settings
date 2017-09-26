@@ -221,4 +221,7 @@
     <string name="toast_icon_title">Toast icon</string>
     <string name="toast_icon_summary">Display icon of activity that generates toast message</string>
 
+    <!-- Settings conditions  -->
+    <string name="disable_settings_conditions_title">Disable conditions</string>
+
 </resources>

@@ -46,6 +46,11 @@
 				android:title="@string/disable_settings_suggestions_title"
 				android:defaultValue="false" />
 
+        <com.android.settings.preference.SystemSettingSwitchPreference
+				android:key="disable_settings_conditions"
+				android:title="@string/disable_settings_conditions_title"
+				android:defaultValue="false" />
+
     </PreferenceCategory>
 
     <PreferenceCategory
