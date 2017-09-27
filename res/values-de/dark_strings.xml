@@ -164,7 +164,7 @@
   <!-- Force authorize substratum packages -->
   <string name="force_authorize_substratum_packages_title">Erzwinge Autorisierung jeder Erscheinungsbildänderungs App</string>
   <string name="force_authorize_substratum_packages_summary">Erlaube Erscheinungsbildänderungs-Apps von unbekannten Quellen</string>
-  <string name="dashboard_label">Übersicht</string>
+  <string name="dashboard_label">Einstellungen</string>
   <string name="miscellaneous_label">Verschiedenes</string>
   <string name="two_columns_title">Zwei Spalten</string>
   <string name="headsup_label">Heads-Up</string>
@@ -182,7 +182,7 @@
   <string name="immersive_recents_fullscreen">Beides ausblenden</string>
   <string name="immersive_recents_statusbar">Navigationsleiste ausblenden</string>
   <string name="immersive_recents_navbar">Statusleiste ausblenden</string>
-  <string name="systemui_recents_mem_display_title">Speicher-Leiste</string>
+  <string name="systemui_recents_mem_display_title">RAM-Speicher-Leiste</string>
   <string name="systemui_recents_mem_display_summary">Einblenden der Speicher-Leiste im Anwendungsverlauf</string>
   <string name="recents_lock_icon_title">Anwendung sperren</string>
   <string name="recents_lock_icon_summary">Schloss-Symbol im Anwendungskopf anzeigen</string>
