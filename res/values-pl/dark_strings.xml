@@ -177,7 +177,7 @@
   <string name="recents_label">Ostatnio używane</string>
   <string name="immersive_recents_title">Rozszerzony Pulpit</string>
   <string name="immersive_recents_summary">Zmień widok w menu ostatnio używanych aplikacji</string>
-  <string name="immersive_recents_dialog_title">Wybierz menu ostatnio używanych aplikacji, które chcesz ukryć</string>
+  <string name="immersive_recents_dialog_title">Wybierz co chcesz ukryć w menu ostatnio używanych aplikacji</string>
   <string name="immersive_recents_default">Nic nie ukrywaj</string>
   <string name="immersive_recents_fullscreen">Ukryj oba</string>
   <string name="immersive_recents_statusbar">Ukryj pasek nawigacji</string>
