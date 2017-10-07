@@ -48,7 +48,7 @@
   <!-- Optional screenshot type -->
   <string name="screenshot_type_title">Tipo de captura de ecrã</string>
   <string name="screenshot_type_fullscreen">Tirar captura de todo o ecrã</string>
-  <string name="screenshot_type_partial">Drag selection to take partial screenshots</string>
+  <string name="screenshot_type_partial">Arraste a selecção para tirar uma captura de ecrã parcial</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Desbloqueio rápido</string>
   <string name="unlock_quick_unlock_control_summary_password">Desbloquear automaticamente quando o Pin/senha correto é inserido</string>
@@ -192,26 +192,26 @@
   <string name="toast_icon_title">Ícone na mensagem toast</string>
   <string name="toast_icon_summary">Mostrar o ícone da aplicação que gerou a mensagem toast</string>
   <!-- Settings conditions  -->
-  <string name="disable_settings_conditions_title">Disable conditions</string>
-  <string name="theme_force_enabled_title">Force enable color engine</string>
-  <string name="theme_force_enabled_summary">Color engine will be forcibly enabled nonetheless OMS state</string>
+  <string name="disable_settings_conditions_title">Desativar condições</string>
+  <string name="theme_force_enabled_title">Forçar a ativação do mecanismo de cores</string>
+  <string name="theme_force_enabled_summary">O mecanismo de cores será ativado forçosamente, independentemente do estado OMS</string>
   <!-- Pie -->
   <string name="pie_settings">Controlos Pie</string>
   <string name="pie_gravity_title">Localização</string>
-  <string name="pie_gravity_bottom">Bottom</string>
-  <string name="pie_gravity_right">Direita</string>
-  <string name="pie_gravity_left">Esquerda</string>
+  <string name="pie_gravity_bottom">Em baixo</string>
+  <string name="pie_gravity_right">À direita</string>
+  <string name="pie_gravity_left">À esquerda</string>
   <string name="pie_theme_mode_title">Tema</string>
   <string name="pie_auto">Automático</string>
   <string name="pie_white">Branco</string>
   <string name="pie_dark">Escuro</string>
   <string name="pie_battery_title">Indicador do nível da bateria</string>
-  <string name="pie_battery_text">Text only</string>
+  <string name="pie_battery_text">Apenas texto</string>
   <string name="pie_battery_circle">Apenas o círculo</string>
-  <string name="pie_battery_both">Both</string>
-  <string name="pie_status_indicator">Network indicator</string>
-  <string name="pie_status_wifi">WiFi only</string>
-  <string name="pie_status_mobile">Mobile network only</string>
-  <string name="pie_status_none">None</string>
-  <string name="pie_status_both">Both</string>
+  <string name="pie_battery_both">Ambos</string>
+  <string name="pie_status_indicator">Indicador de rede</string>
+  <string name="pie_status_wifi">Apenas WiFi</string>
+  <string name="pie_status_mobile">Apenas rede móvel</string>
+  <string name="pie_status_none">Nenhum</string>
+  <string name="pie_status_both">Ambos</string>
 </resources>
