@@ -48,7 +48,7 @@
   <!-- Optional screenshot type -->
   <string name="screenshot_type_title">屏幕截图类型</string>
   <string name="screenshot_type_fullscreen">全屏截图</string>
-  <string name="screenshot_type_partial">拖动选择区域进行部分截图</string>
+  <string name="screenshot_type_partial">拖动选择区域进行局部截图</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">快速解锁</string>
   <string name="unlock_quick_unlock_control_summary_password">当输入正确的密码时自动解锁</string>
@@ -194,7 +194,7 @@
   <!-- Settings conditions  -->
   <string name="disable_settings_conditions_title">禁用条件</string>
   <string name="theme_force_enabled_title">强制启用色彩引擎</string>
-  <string name="theme_force_enabled_summary">色彩引擎将会忽视OMS状态并强制启用</string>
+  <string name="theme_force_enabled_summary">色彩引擎将忽略 OMS 的状态并强制启用</string>
   <!-- Pie -->
   <string name="pie_settings">Pie 控制</string>
   <string name="pie_gravity_title">位置</string>
@@ -210,8 +210,8 @@
   <string name="pie_battery_circle">只显示环形</string>
   <string name="pie_battery_both">同时显示</string>
   <string name="pie_status_indicator">网络指示器</string>
-  <string name="pie_status_wifi">只显示 Wifi</string>
+  <string name="pie_status_wifi">只显示 WiFi</string>
   <string name="pie_status_mobile">只显示移动网络</string>
-  <string name="pie_status_none">无</string>
+  <string name="pie_status_none">不显示</string>
   <string name="pie_status_both">同时显示</string>
 </resources>
