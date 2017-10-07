@@ -48,7 +48,7 @@
   <!-- Optional screenshot type -->
   <string name="screenshot_type_title">Screenshot</string>
   <string name="screenshot_type_fullscreen">Vollbild Screenshot</string>
-  <string name="screenshot_type_partial">Drag selection to take partial screenshots</string>
+  <string name="screenshot_type_partial">Ziehen zur Auswahl eines partiellen Screenshots</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Schnelles Entsperren</string>
   <string name="unlock_quick_unlock_control_summary_password">Entsperren durch korrekte Pin- oder Passworteingabe</string>
