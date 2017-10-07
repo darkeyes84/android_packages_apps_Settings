@@ -192,22 +192,22 @@
   <string name="toast_icon_title">Toast-Benachrichtigungs-Symbol</string>
   <string name="toast_icon_summary">Aktivitätssymbolanzeige das die Toast-Benachrichtigung erzeugt</string>
   <!-- Settings conditions  -->
-  <string name="disable_settings_conditions_title">Disable conditions</string>
-  <string name="theme_force_enabled_title">Force enable color engine</string>
-  <string name="theme_force_enabled_summary">Color engine will be forcibly enabled nonetheless OMS state</string>
+  <string name="disable_settings_conditions_title">Bedienung deaktivieren</string>
+  <string name="theme_force_enabled_title">Farbanpassungen aktivieren (Zwang)</string>
+  <string name="theme_force_enabled_summary">Farbanpassungen werden zwangsaktiviert unabhängig vom OMS Status</string>
   <!-- Pie -->
-  <string name="pie_settings">PIE controls</string>
-  <string name="pie_gravity_title">Location</string>
-  <string name="pie_gravity_bottom">Bottom</string>
-  <string name="pie_gravity_right">Right</string>
-  <string name="pie_gravity_left">Left</string>
+  <string name="pie_settings">PIE-Steuerungen</string>
+  <string name="pie_gravity_title">Position</string>
+  <string name="pie_gravity_bottom">Unten</string>
+  <string name="pie_gravity_right">Rechts</string>
+  <string name="pie_gravity_left">Links</string>
   <string name="pie_theme_mode_title">Erscheinungsbild</string>
-  <string name="pie_auto">Automatic</string>
+  <string name="pie_auto">Automatisch</string>
   <string name="pie_white">Weiß</string>
   <string name="pie_dark">Dunkel</string>
-  <string name="pie_battery_title">Battery indicator</string>
-  <string name="pie_battery_text">Text only</string>
-  <string name="pie_battery_circle">Circle only</string>
+  <string name="pie_battery_title">Akkuanzeige</string>
+  <string name="pie_battery_text">Nur Text</string>
+  <string name="pie_battery_circle">Nur Kreis</string>
   <string name="pie_battery_both">Both</string>
   <string name="pie_status_indicator">Network indicator</string>
   <string name="pie_status_wifi">WiFi only</string>
