@@ -193,8 +193,8 @@
   <string name="toast_icon_summary">Mostrar icono de la aplicación que genera la notificación flotante</string>
   <!-- Settings conditions  -->
   <string name="disable_settings_conditions_title">Deshabilitar condiciones</string>
-  <string name="theme_force_enabled_title">Force enable color engine</string>
-  <string name="theme_force_enabled_summary">Color engine will be forcibly enabled nonetheless OMS state</string>
+  <string name="theme_force_enabled_title">Forzar activado del motor de color</string>
+  <string name="theme_force_enabled_summary">El motor de color sera activado forzosamente, independientemente del estado OMS</string>
   <!-- Pie -->
   <string name="pie_settings">Controles PIE</string>
   <string name="pie_gravity_title">Ubicación</string>
@@ -209,9 +209,9 @@
   <string name="pie_battery_text">Sólo texto</string>
   <string name="pie_battery_circle">Solo circulo</string>
   <string name="pie_battery_both">Ambos</string>
-  <string name="pie_status_indicator">Network indicator</string>
+  <string name="pie_status_indicator">Indicador de red</string>
   <string name="pie_status_wifi">Sólo WIFI</string>
-  <string name="pie_status_mobile">Mobile network only</string>
+  <string name="pie_status_mobile">Sólo red móvil</string>
   <string name="pie_status_none">Ninguno</string>
   <string name="pie_status_both">Ambos</string>
 </resources>
