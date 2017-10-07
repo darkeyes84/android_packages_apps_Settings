@@ -25,8 +25,8 @@
   <string name="show_next_alarm_lockscreen_title">Покзване на следващата аларма</string>
   <string name="show_next_alarm_lockscreen_summary">Покзване на следващата аларма на заключения екран, когато алармата е настроена</string>
   <!-- Disabling immersive mode messages -->
-  <string name="disable_immersive_message_title">Забраняване на съобщения за \"режим на потапяне\"</string>
-  <string name="disable_immersive_message_summary">Това ще скриете всички съобщения за \"режим на потапяне\"</string>
+  <string name="disable_immersive_message_title">Забраняване на съобщения за режим \"Цял екран\"</string>
+  <string name="disable_immersive_message_summary">Това ще скриете всички съобщения за режим \"Цял екран\"</string>
   <!-- Volume Steps -->
   <string name="volume_steps_title">Стъпки на звука</string>
   <string name="volume_steps_alarm_title">Стъпки на звукът: Аларма</string>
@@ -48,7 +48,7 @@
   <!-- Optional screenshot type -->
   <string name="screenshot_type_title">Тип на екранната снимка</string>
   <string name="screenshot_type_fullscreen">Екранна снимка на целия екран</string>
-  <string name="screenshot_type_partial">Drag selection to take partial screenshots</string>
+  <string name="screenshot_type_partial">Плъзнете рамката за частична екранна снимка</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Бързо отключване</string>
   <string name="unlock_quick_unlock_control_summary_password">Автоматично отключване, когато е въведена правилната парола</string>
@@ -197,21 +197,21 @@
   <string name="theme_force_enabled_summary">Color engine will be forcibly enabled nonetheless OMS state</string>
   <!-- Pie -->
   <string name="pie_settings">PIE controls</string>
-  <string name="pie_gravity_title">Location</string>
-  <string name="pie_gravity_bottom">Bottom</string>
-  <string name="pie_gravity_right">Right</string>
-  <string name="pie_gravity_left">Left</string>
+  <string name="pie_gravity_title">Местоположение</string>
+  <string name="pie_gravity_bottom">Отдолу</string>
+  <string name="pie_gravity_right">Вдясно</string>
+  <string name="pie_gravity_left">Вляво</string>
   <string name="pie_theme_mode_title">Тема (скин)</string>
-  <string name="pie_auto">Automatic</string>
+  <string name="pie_auto">Автоматично</string>
   <string name="pie_white">Бяло</string>
   <string name="pie_dark">Тъмен</string>
-  <string name="pie_battery_title">Battery indicator</string>
-  <string name="pie_battery_text">Text only</string>
-  <string name="pie_battery_circle">Circle only</string>
-  <string name="pie_battery_both">Both</string>
-  <string name="pie_status_indicator">Network indicator</string>
-  <string name="pie_status_wifi">WiFi only</string>
-  <string name="pie_status_mobile">Mobile network only</string>
-  <string name="pie_status_none">None</string>
-  <string name="pie_status_both">Both</string>
+  <string name="pie_battery_title">Индикатор за батерията</string>
+  <string name="pie_battery_text">Само текст</string>
+  <string name="pie_battery_circle">Само кръг</string>
+  <string name="pie_battery_both">И двете</string>
+  <string name="pie_status_indicator">Мрежов индикатор</string>
+  <string name="pie_status_wifi">Само WiFi</string>
+  <string name="pie_status_mobile">Само мобилни мрежи</string>
+  <string name="pie_status_none">Никакви</string>
+  <string name="pie_status_both">И двете</string>
 </resources>
