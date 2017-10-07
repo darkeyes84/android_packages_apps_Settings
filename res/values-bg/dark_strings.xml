@@ -192,11 +192,11 @@
   <string name="toast_icon_title">Икона на известията в лентата за състояние</string>
   <string name="toast_icon_summary">Показвай икона на дейността, която генерира известията в лентата за състояние</string>
   <!-- Settings conditions  -->
-  <string name="disable_settings_conditions_title">Disable conditions</string>
-  <string name="theme_force_enabled_title">Force enable color engine</string>
-  <string name="theme_force_enabled_summary">Color engine will be forcibly enabled nonetheless OMS state</string>
+  <string name="disable_settings_conditions_title">Забрани условията</string>
+  <string name="theme_force_enabled_title">Използвай цветове насила</string>
+  <string name="theme_force_enabled_summary">Цветовете ще бъдат използвани насила въпреки OMS състоянието</string>
   <!-- Pie -->
-  <string name="pie_settings">PIE controls</string>
+  <string name="pie_settings">PIE контролни бутони</string>
   <string name="pie_gravity_title">Местоположение</string>
   <string name="pie_gravity_bottom">Отдолу</string>
   <string name="pie_gravity_right">Вдясно</string>
