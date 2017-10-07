@@ -48,7 +48,7 @@
   <!-- Optional screenshot type -->
   <string name="screenshot_type_title">스크린샷 유형</string>
   <string name="screenshot_type_fullscreen">전체 화면 스크린샷</string>
-  <string name="screenshot_type_partial">부분 스크린 샷을 찍기위해 드래그 합니다</string>
+  <string name="screenshot_type_partial">Drag selection to take partial screenshots</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">빠른 잠금 해제</string>
   <string name="unlock_quick_unlock_control_summary_password">올바른 암호가 입력되면 자동으로 잠금 해제</string>
@@ -191,4 +191,27 @@
   <!-- Toast icon -->
   <string name="toast_icon_title">토스트 알림 아이콘</string>
   <string name="toast_icon_summary">토스트 알림을 보낸 앱의 아이콘을 같이 표시합니다</string>
+  <!-- Settings conditions  -->
+  <string name="disable_settings_conditions_title">Disable conditions</string>
+  <string name="theme_force_enabled_title">Force enable color engine</string>
+  <string name="theme_force_enabled_summary">Color engine will be forcibly enabled nonetheless OMS state</string>
+  <!-- Pie -->
+  <string name="pie_settings">PIE controls</string>
+  <string name="pie_gravity_title">Location</string>
+  <string name="pie_gravity_bottom">Bottom</string>
+  <string name="pie_gravity_right">Right</string>
+  <string name="pie_gravity_left">Left</string>
+  <string name="pie_theme_mode_title">테마</string>
+  <string name="pie_auto">Automatic</string>
+  <string name="pie_white">흰색</string>
+  <string name="pie_dark">어둡게</string>
+  <string name="pie_battery_title">Battery indicator</string>
+  <string name="pie_battery_text">Text only</string>
+  <string name="pie_battery_circle">Circle only</string>
+  <string name="pie_battery_both">Both</string>
+  <string name="pie_status_indicator">Network indicator</string>
+  <string name="pie_status_wifi">WiFi only</string>
+  <string name="pie_status_mobile">Mobile network only</string>
+  <string name="pie_status_none">None</string>
+  <string name="pie_status_both">Both</string>
 </resources>
