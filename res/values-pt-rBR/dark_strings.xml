@@ -48,7 +48,7 @@
   <!-- Optional screenshot type -->
   <string name="screenshot_type_title">Tipo de captura de tela</string>
   <string name="screenshot_type_fullscreen">Captura em tela cheia</string>
-  <string name="screenshot_type_partial">Drag selection to take partial screenshots</string>
+  <string name="screenshot_type_partial">Faça uma seleção para tirar uma captura parcial de tela</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Desbloqueio rápido</string>
   <string name="unlock_quick_unlock_control_summary_password">Desbloquear automaticamente quando a senha correta for inserido</string>
@@ -192,9 +192,9 @@
   <string name="toast_icon_title">Ícone na mensagem toast</string>
   <string name="toast_icon_summary">Mostrar o ícone da aplicação que gerou a mensagem toast</string>
   <!-- Settings conditions  -->
-  <string name="disable_settings_conditions_title">Disable conditions</string>
-  <string name="theme_force_enabled_title">Force enable color engine</string>
-  <string name="theme_force_enabled_summary">Color engine will be forcibly enabled nonetheless OMS state</string>
+  <string name="disable_settings_conditions_title">Desativar condições</string>
+  <string name="theme_force_enabled_title">Forçar a ativação do mecanismo de cores</string>
+  <string name="theme_force_enabled_summary">O mecanismo de cores será ativado à força, independentemente do estado OMS</string>
   <!-- Pie -->
   <string name="pie_settings">Controles PIE</string>
   <string name="pie_gravity_title">Localização</string>
@@ -211,7 +211,7 @@
   <string name="pie_battery_both">Ambos</string>
   <string name="pie_status_indicator">Indicador de rede</string>
   <string name="pie_status_wifi">Apenas WiFi</string>
-  <string name="pie_status_mobile">Mobile network only</string>
-  <string name="pie_status_none">None</string>
+  <string name="pie_status_mobile">Apenas rede móvel</string>
+  <string name="pie_status_none">Nenhum</string>
   <string name="pie_status_both">Ambos</string>
 </resources>
