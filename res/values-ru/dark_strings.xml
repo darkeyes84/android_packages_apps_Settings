@@ -48,7 +48,7 @@
   <!-- Optional screenshot type -->
   <string name="screenshot_type_title">Тип скриншота</string>
   <string name="screenshot_type_fullscreen">Полноэкранный скриншот</string>
-  <string name="screenshot_type_partial">Drag selection to take partial screenshots</string>
+  <string name="screenshot_type_partial">Скриншот выбранной области</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Быстрая разблокировка</string>
   <string name="unlock_quick_unlock_control_summary_password">Автоматическая разблокировка при вводе правильного пароля или PIN-кода</string>
@@ -192,9 +192,9 @@
   <string name="toast_icon_title">Иконка всплывающего уведомления</string>
   <string name="toast_icon_summary">Отображать значок приложения в тост-уведомлениях</string>
   <!-- Settings conditions  -->
-  <string name="disable_settings_conditions_title">Disable conditions</string>
+  <string name="disable_settings_conditions_title">Отключить условия</string>
   <string name="theme_force_enabled_title">Force enable color engine</string>
-  <string name="theme_force_enabled_summary">Color engine will be forcibly enabled nonetheless OMS state</string>
+  <string name="theme_force_enabled_summary">Тема будет включена принудительно, независимо от состояния OMS</string>
   <!-- Pie -->
   <string name="pie_settings">PIE controls</string>
   <string name="pie_gravity_title">Location</string>
