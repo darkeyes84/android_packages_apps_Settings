@@ -48,7 +48,7 @@
   <!-- Optional screenshot type -->
   <string name="screenshot_type_title">स्क्रीनशॉट प्रकार</string>
   <string name="screenshot_type_fullscreen">फुल स्क्रीन स्क्रीनशॉट ले लो</string>
-  <string name="screenshot_type_partial">Drag selection to take partial screenshots</string>
+  <string name="screenshot_type_partial">एक आंशिक स्क्रीनशॉट लेने के लिए चयन खींचें</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">त्वरित अनलॉक</string>
   <string name="unlock_quick_unlock_control_summary_password">स्वचालित रूप से अनलॉक जब सही पिन/पासवर्ड दर्ज किया गया है</string>
@@ -192,17 +192,17 @@
   <string name="toast_icon_title">टोस्ट चिह्न</string>
   <string name="toast_icon_summary">टोस्ट संदेश जनरेट करता है गतिविधि के चिह्न प्रदर्शित करें</string>
   <!-- Settings conditions  -->
-  <string name="disable_settings_conditions_title">Disable conditions</string>
-  <string name="theme_force_enabled_title">Force enable color engine</string>
-  <string name="theme_force_enabled_summary">Color engine will be forcibly enabled nonetheless OMS state</string>
+  <string name="disable_settings_conditions_title">शर्तें अक्षम करें</string>
+  <string name="theme_force_enabled_title">बल सक्षम रंग इंजन</string>
+  <string name="theme_force_enabled_summary">OMS के होने के बाद भी थीम जबरन सछम हो जाएगा</string>
   <!-- Pie -->
-  <string name="pie_settings">PIE controls</string>
-  <string name="pie_gravity_title">Location</string>
-  <string name="pie_gravity_bottom">Bottom</string>
-  <string name="pie_gravity_right">Right</string>
-  <string name="pie_gravity_left">Left</string>
+  <string name="pie_settings">पाइ नियंत्रण</string>
+  <string name="pie_gravity_title">स्थान</string>
+  <string name="pie_gravity_bottom">नीचे</string>
+  <string name="pie_gravity_right">दाईं ओर</string>
+  <string name="pie_gravity_left">बाएँ</string>
   <string name="pie_theme_mode_title">थीम</string>
-  <string name="pie_auto">Automatic</string>
+  <string name="pie_auto">आटोमेटिक</string>
   <string name="pie_white">सफ़ेद</string>
   <string name="pie_dark">डार्क</string>
   <string name="pie_battery_title">Battery indicator</string>
