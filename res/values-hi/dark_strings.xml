@@ -205,13 +205,13 @@
   <string name="pie_auto">आटोमेटिक</string>
   <string name="pie_white">सफ़ेद</string>
   <string name="pie_dark">डार्क</string>
-  <string name="pie_battery_title">Battery indicator</string>
-  <string name="pie_battery_text">Text only</string>
-  <string name="pie_battery_circle">Circle only</string>
-  <string name="pie_battery_both">Both</string>
-  <string name="pie_status_indicator">Network indicator</string>
-  <string name="pie_status_wifi">WiFi only</string>
-  <string name="pie_status_mobile">Mobile network only</string>
-  <string name="pie_status_none">None</string>
-  <string name="pie_status_both">Both</string>
+  <string name="pie_battery_title">बैटरी सूचक</string>
+  <string name="pie_battery_text">केवल टेक्स्ट</string>
+  <string name="pie_battery_circle">केवल वृत्त</string>
+  <string name="pie_battery_both">दोनों</string>
+  <string name="pie_status_indicator">नेटवर्क सूचक</string>
+  <string name="pie_status_wifi">केवल वाईफाई</string>
+  <string name="pie_status_mobile">केवल मोबाइल नेटवर्क</string>
+  <string name="pie_status_none">कोई नहीं</string>
+  <string name="pie_status_both">दोनों</string>
 </resources>
