@@ -193,7 +193,7 @@
   <string name="toast_icon_summary">Отображать значок приложения в тост-уведомлениях</string>
   <!-- Settings conditions  -->
   <string name="disable_settings_conditions_title">Отключить условия</string>
-  <string name="theme_force_enabled_title">Force enable color engine</string>
+  <string name="theme_force_enabled_title">Принудительное включение двигателя цвета</string>
   <string name="theme_force_enabled_summary">Тема будет включена принудительно, независимо от состояния OMS</string>
   <!-- Pie -->
   <string name="pie_settings">Панель PIE</string>
