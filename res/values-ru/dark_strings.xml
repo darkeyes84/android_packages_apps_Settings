@@ -196,7 +196,7 @@
   <string name="theme_force_enabled_title">Force enable color engine</string>
   <string name="theme_force_enabled_summary">Тема будет включена принудительно, независимо от состояния OMS</string>
   <!-- Pie -->
-  <string name="pie_settings">PIE controls</string>
+  <string name="pie_settings">Панель PIE</string>
   <string name="pie_gravity_title">Местоположение</string>
   <string name="pie_gravity_bottom">Внизу</string>
   <string name="pie_gravity_right">Справа</string>
