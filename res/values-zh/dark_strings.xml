@@ -212,7 +212,7 @@
   <string name="pie_battery_both">同时显示</string>
   <string name="pie_status_indicator">网络指示器</string>
   <string name="pie_status_wifi">只显示 WiFi</string>
-  <string name="pie_status_mobile">只显示移动网络</string>
+  <string name="pie_status_mobile">Mobile only</string>
   <string name="pie_status_none">不显示</string>
   <string name="pie_status_both">同时显示</string>
 </resources>
