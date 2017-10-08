@@ -38,12 +38,14 @@ public class PieSettings extends SettingsPreferenceFragment implements
     private static final String KEY_PIE_THEME = "pie_theme_mode";
     private static final String KEY_PIE_STATUS = "pie_status_indicator";
     private static final String KEY_PIE_GRAVITY = "pie_gravity";
+    private static final String KEY_PIE_GRAVITY_LANDSCAPE = "pie_gravity_landscape";
 
     private SwitchBar mSwitchBar;
     private ListPreference mTheme;
     private ListPreference mBattery;
     private ListPreference mStatus;
     private ListPreference mPieGravity;
+    private ListPreference mPieGravityLandscape;
     private boolean mIsEnabled;
 
     @Override
@@ -91,6 +93,15 @@ public class PieSettings extends SettingsPreferenceFragment implements
             mPieGravity.setOnPreferenceChangeListener(this);
             mPieGravity.setEnabled(mIsEnabled);
         }
+
+        mPieGravityLandscape = (ListPreference) findPreference(KEY_PIE_GRAVITY_LANDSCAPE);
+        if (mPieGravityLandscape != null) {
+            int value = Settings.Secure.getIntForUser(getContentResolver(),
+                    Settings.Secure.PIE_LEFT_HANDED, 0, UserHandle.USER_CURRENT);
+            mPieGravityLandscape.setValue(String.valueOf(value));
+            mPieGravityLandscape.setOnPreferenceChangeListener(this);
+            mPieGravityLandscape.setEnabled(mIsEnabled);
+        }
     }
 
     @Override
@@ -128,6 +139,7 @@ public class PieSettings extends SettingsPreferenceFragment implements
         Settings.Global.putString(getContentResolver(), 
                 Settings.Global.POLICY_CONTROL, isChecked ? "immersive.full=*" : "");
         mPieGravity.setEnabled(isChecked);
+        mPieGravityLandscape.setEnabled(isChecked);
         mTheme.setEnabled(isChecked);
         mBattery.setEnabled(isChecked);
         mStatus.setEnabled(isChecked);
@@ -156,6 +168,10 @@ public class PieSettings extends SettingsPreferenceFragment implements
 			int value = Integer.parseInt((String) newValue);
             Settings.Secure.putIntForUser(getContentResolver(),
                     Settings.Secure.PIE_GRAVITY, value, UserHandle.USER_CURRENT);
+        } else if (preference == mPieGravityLandscape) {
+			int value = Integer.parseInt((String) newValue);
+            Settings.Secure.putIntForUser(getContentResolver(),
+                    Settings.Secure.PIE_LEFT_HANDED, value, UserHandle.USER_CURRENT);
         }
         return true;
     }

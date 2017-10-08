@@ -26,6 +26,13 @@
         android:entryValues="@array/pie_gravity_values" />
 
     <ListPreference
+        android:key="pie_gravity_landscape"
+        android:title="@string/pie_gravity_landscape_title"
+        android:summary="%s"
+        android:entries="@array/pie_gravity_landscape_entries"
+        android:entryValues="@array/pie_gravity_landscape_values" />
+
+    <ListPreference
         android:key="pie_theme_mode"
         android:title="@string/pie_theme_mode_title"
         android:summary="%s"
