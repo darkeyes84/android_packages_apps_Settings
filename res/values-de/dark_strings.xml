@@ -212,7 +212,7 @@
   <string name="pie_battery_both">Beides</string>
   <string name="pie_status_indicator">Netzwerkanzeige</string>
   <string name="pie_status_wifi">Nur WLAN</string>
-  <string name="pie_status_mobile">Nur Mobilfunknetz</string>
+  <string name="pie_status_mobile">Mobile only</string>
   <string name="pie_status_none">Keine</string>
   <string name="pie_status_both">Beides</string>
 </resources>
