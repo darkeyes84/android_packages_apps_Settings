@@ -197,7 +197,8 @@
   <string name="theme_force_enabled_summary">Color engine will be forcibly enabled nonetheless OMS state</string>
   <!-- Pie -->
   <string name="pie_settings">PIE controls</string>
-  <string name="pie_gravity_title">Location</string>
+  <string name="pie_gravity_title">Portrait location</string>
+  <string name="pie_gravity_landscape_title">Landscape location</string>
   <string name="pie_gravity_bottom">Bottom</string>
   <string name="pie_gravity_right">Right</string>
   <string name="pie_gravity_left">Left</string>
