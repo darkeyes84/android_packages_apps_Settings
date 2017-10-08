@@ -212,7 +212,7 @@
   <string name="pie_battery_both">И двете</string>
   <string name="pie_status_indicator">Мрежов индикатор</string>
   <string name="pie_status_wifi">Само WiFi</string>
-  <string name="pie_status_mobile">Само мобилни мрежи</string>
+  <string name="pie_status_mobile">Mobile only</string>
   <string name="pie_status_none">Никакви</string>
   <string name="pie_status_both">И двете</string>
 </resources>
