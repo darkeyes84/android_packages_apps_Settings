@@ -197,7 +197,8 @@
   <string name="theme_force_enabled_summary">色彩引擎将忽略 OMS 的状态并强制启用</string>
   <!-- Pie -->
   <string name="pie_settings">Pie 控制</string>
-  <string name="pie_gravity_title">位置</string>
+  <string name="pie_gravity_title">Portrait location</string>
+  <string name="pie_gravity_landscape_title">Landscape location</string>
   <string name="pie_gravity_bottom">底部</string>
   <string name="pie_gravity_right">右侧</string>
   <string name="pie_gravity_left">左侧</string>
