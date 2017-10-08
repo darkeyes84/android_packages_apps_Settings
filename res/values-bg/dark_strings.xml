@@ -197,7 +197,8 @@
   <string name="theme_force_enabled_summary">Цветовете ще бъдат използвани насила въпреки OMS състоянието</string>
   <!-- Pie -->
   <string name="pie_settings">PIE контролни бутони</string>
-  <string name="pie_gravity_title">Местоположение</string>
+  <string name="pie_gravity_title">Portrait location</string>
+  <string name="pie_gravity_landscape_title">Landscape location</string>
   <string name="pie_gravity_bottom">Отдолу</string>
   <string name="pie_gravity_right">Вдясно</string>
   <string name="pie_gravity_left">Вляво</string>
