@@ -197,7 +197,8 @@
   <string name="theme_force_enabled_summary">O gerenciamento de cores será ativado à força, independentemente do estado OMS</string>
   <!-- Pie -->
   <string name="pie_settings">Controles PIE</string>
-  <string name="pie_gravity_title">Localização</string>
+  <string name="pie_gravity_title">Portrait location</string>
+  <string name="pie_gravity_landscape_title">Landscape location</string>
   <string name="pie_gravity_bottom">Em baixo</string>
   <string name="pie_gravity_right">Direita</string>
   <string name="pie_gravity_left">Esquerda</string>
