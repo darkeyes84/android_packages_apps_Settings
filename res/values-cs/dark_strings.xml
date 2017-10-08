@@ -212,7 +212,7 @@
   <string name="pie_battery_both">Obojí</string>
   <string name="pie_status_indicator">Indikátor sítě</string>
   <string name="pie_status_wifi">Pouze WiFi</string>
-  <string name="pie_status_mobile">Pouze mobilní sítě</string>
+  <string name="pie_status_mobile">Mobile only</string>
   <string name="pie_status_none">Žádné</string>
   <string name="pie_status_both">Obojí</string>
 </resources>
