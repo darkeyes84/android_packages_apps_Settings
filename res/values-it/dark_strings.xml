@@ -199,7 +199,7 @@
   <string name="pie_settings">PIE controls</string>
   <string name="pie_gravity_title">Portrait location</string>
   <string name="pie_gravity_landscape_title">Landscape location</string>
-  <string name="pie_gravity_bottom">In fondo</string>
+  <string name="pie_gravity_bottom">In basso</string>
   <string name="pie_gravity_right">Destra</string>
   <string name="pie_gravity_left">Sinistra</string>
   <string name="pie_theme_mode_title">Tema</string>
@@ -208,11 +208,11 @@
   <string name="pie_dark">Scuro</string>
   <string name="pie_battery_title">Indicatore della batteria</string>
   <string name="pie_battery_text">Solo testo</string>
-  <string name="pie_battery_circle">Circle only</string>
-  <string name="pie_battery_both">Both</string>
-  <string name="pie_status_indicator">Network indicator</string>
-  <string name="pie_status_wifi">WiFi only</string>
+  <string name="pie_battery_circle">Solo cerchio</string>
+  <string name="pie_battery_both">Entrambi</string>
+  <string name="pie_status_indicator">Indicatore di rete</string>
+  <string name="pie_status_wifi">Solo WiFi</string>
   <string name="pie_status_mobile">Mobile only</string>
-  <string name="pie_status_none">None</string>
-  <string name="pie_status_both">Both</string>
+  <string name="pie_status_none">Nessuno</string>
+  <string name="pie_status_both">Entrambi</string>
 </resources>
