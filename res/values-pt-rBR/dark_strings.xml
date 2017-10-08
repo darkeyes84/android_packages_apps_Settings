@@ -193,8 +193,8 @@
   <string name="toast_icon_summary">Mostrar o ícone da aplicação que gerou a mensagem toast</string>
   <!-- Settings conditions  -->
   <string name="disable_settings_conditions_title">Desativar condições</string>
-  <string name="theme_force_enabled_title">Forçar a ativação do mecanismo de cores</string>
-  <string name="theme_force_enabled_summary">O mecanismo de cores será ativado à força, independentemente do estado OMS</string>
+  <string name="theme_force_enabled_title">Forçar a ativação do gerenciamento de cores</string>
+  <string name="theme_force_enabled_summary">O gerenciamento de cores será ativado à força, independentemente do estado OMS</string>
   <!-- Pie -->
   <string name="pie_settings">Controles PIE</string>
   <string name="pie_gravity_title">Localização</string>
