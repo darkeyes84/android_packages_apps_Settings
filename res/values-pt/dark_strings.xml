@@ -197,7 +197,8 @@
   <string name="theme_force_enabled_summary">O mecanismo de cores será ativado forçosamente, independentemente do estado OMS</string>
   <!-- Pie -->
   <string name="pie_settings">Controlos Pie</string>
-  <string name="pie_gravity_title">Localização</string>
+  <string name="pie_gravity_title">Portrait location</string>
+  <string name="pie_gravity_landscape_title">Landscape location</string>
   <string name="pie_gravity_bottom">Em baixo</string>
   <string name="pie_gravity_right">À direita</string>
   <string name="pie_gravity_left">À esquerda</string>
