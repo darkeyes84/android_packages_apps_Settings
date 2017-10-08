@@ -197,7 +197,8 @@
   <string name="theme_force_enabled_summary">El motor de color sera activado forzosamente, independientemente del estado OMS</string>
   <!-- Pie -->
   <string name="pie_settings">Controles PIE</string>
-  <string name="pie_gravity_title">Ubicación</string>
+  <string name="pie_gravity_title">Portrait location</string>
+  <string name="pie_gravity_landscape_title">Landscape location</string>
   <string name="pie_gravity_bottom">Fondo</string>
   <string name="pie_gravity_right">Derecha</string>
   <string name="pie_gravity_left">Izquierda</string>
