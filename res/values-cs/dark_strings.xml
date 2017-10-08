@@ -48,7 +48,7 @@
   <!-- Optional screenshot type -->
   <string name="screenshot_type_title">Typ snímku obrazovky</string>
   <string name="screenshot_type_fullscreen">Zhotovit snímky celé obrazovky</string>
-  <string name="screenshot_type_partial">Drag selection to take partial screenshots</string>
+  <string name="screenshot_type_partial">Přetáhněte pro výběr a proveďte částečný snímek obrazovky</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Rychlé odemknutí</string>
   <string name="unlock_quick_unlock_control_summary_password">Automatické odemknutí, pokud je zadáno správné heslo</string>
@@ -192,26 +192,26 @@
   <string name="toast_icon_title">Ikona oznámení</string>
   <string name="toast_icon_summary">Zobrazit ikonu aktivit generující zprávu oznámení</string>
   <!-- Settings conditions  -->
-  <string name="disable_settings_conditions_title">Disable conditions</string>
-  <string name="theme_force_enabled_title">Force enable color engine</string>
-  <string name="theme_force_enabled_summary">Color engine will be forcibly enabled nonetheless OMS state</string>
+  <string name="disable_settings_conditions_title">Zakázat podmínky</string>
+  <string name="theme_force_enabled_title">Vynuceně povolit správce motivů</string>
+  <string name="theme_force_enabled_summary">Správce motivů bude vynuceně povolen bez ohledu na stav OMS</string>
   <!-- Pie -->
-  <string name="pie_settings">PIE controls</string>
-  <string name="pie_gravity_title">Location</string>
-  <string name="pie_gravity_bottom">Bottom</string>
-  <string name="pie_gravity_right">Right</string>
-  <string name="pie_gravity_left">Left</string>
+  <string name="pie_settings">Ovládání PIE</string>
+  <string name="pie_gravity_title">Umístění</string>
+  <string name="pie_gravity_bottom">Dole</string>
+  <string name="pie_gravity_right">Vpravo</string>
+  <string name="pie_gravity_left">Vlevo</string>
   <string name="pie_theme_mode_title">Motiv</string>
-  <string name="pie_auto">Automatic</string>
+  <string name="pie_auto">Automaticky</string>
   <string name="pie_white">Bílá</string>
   <string name="pie_dark">Tmavý</string>
-  <string name="pie_battery_title">Battery indicator</string>
-  <string name="pie_battery_text">Text only</string>
-  <string name="pie_battery_circle">Circle only</string>
-  <string name="pie_battery_both">Both</string>
-  <string name="pie_status_indicator">Network indicator</string>
-  <string name="pie_status_wifi">WiFi only</string>
-  <string name="pie_status_mobile">Mobile network only</string>
-  <string name="pie_status_none">None</string>
-  <string name="pie_status_both">Both</string>
+  <string name="pie_battery_title">Indikátor baterie</string>
+  <string name="pie_battery_text">Pouze text</string>
+  <string name="pie_battery_circle">Pouze kruh</string>
+  <string name="pie_battery_both">Obojí</string>
+  <string name="pie_status_indicator">Indikátor sítě</string>
+  <string name="pie_status_wifi">Pouze WiFi</string>
+  <string name="pie_status_mobile">Pouze mobilní sítě</string>
+  <string name="pie_status_none">Žádné</string>
+  <string name="pie_status_both">Obojí</string>
 </resources>
