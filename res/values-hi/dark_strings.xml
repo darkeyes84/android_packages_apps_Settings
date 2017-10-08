@@ -197,7 +197,8 @@
   <string name="theme_force_enabled_summary">OMS के होने के बाद भी थीम जबरन सछम हो जाएगा</string>
   <!-- Pie -->
   <string name="pie_settings">पाइ नियंत्रण</string>
-  <string name="pie_gravity_title">स्थान</string>
+  <string name="pie_gravity_title">Portrait location</string>
+  <string name="pie_gravity_landscape_title">Landscape location</string>
   <string name="pie_gravity_bottom">नीचे</string>
   <string name="pie_gravity_right">दाईं ओर</string>
   <string name="pie_gravity_left">बाएँ</string>
