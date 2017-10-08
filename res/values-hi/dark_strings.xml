@@ -212,7 +212,7 @@
   <string name="pie_battery_both">दोनों</string>
   <string name="pie_status_indicator">नेटवर्क सूचक</string>
   <string name="pie_status_wifi">केवल वाईफाई</string>
-  <string name="pie_status_mobile">केवल मोबाइल नेटवर्क</string>
+  <string name="pie_status_mobile">Mobile only</string>
   <string name="pie_status_none">कोई नहीं</string>
   <string name="pie_status_both">दोनों</string>
 </resources>
