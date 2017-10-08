@@ -197,8 +197,8 @@
   <string name="theme_force_enabled_summary">Цветовете ще бъдат използвани насила въпреки OMS състоянието</string>
   <!-- Pie -->
   <string name="pie_settings">PIE контролни бутони</string>
-  <string name="pie_gravity_title">Portrait location</string>
-  <string name="pie_gravity_landscape_title">Landscape location</string>
+  <string name="pie_gravity_title">Местоположение при портрет</string>
+  <string name="pie_gravity_landscape_title">Местоположение при пейзаж</string>
   <string name="pie_gravity_bottom">Отдолу</string>
   <string name="pie_gravity_right">Вдясно</string>
   <string name="pie_gravity_left">Вляво</string>
@@ -212,7 +212,7 @@
   <string name="pie_battery_both">И двете</string>
   <string name="pie_status_indicator">Мрежов индикатор</string>
   <string name="pie_status_wifi">Само WiFi</string>
-  <string name="pie_status_mobile">Mobile only</string>
+  <string name="pie_status_mobile">Само мобилен</string>
   <string name="pie_status_none">Никакви</string>
   <string name="pie_status_both">И двете</string>
 </resources>
