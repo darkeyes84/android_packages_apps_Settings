@@ -195,7 +195,7 @@
   <!-- Settings conditions  -->
   <string name="disable_settings_conditions_title">Умови виникнення</string>
   <string name="theme_force_enabled_title">Примусово увімкнути теми</string>
-  <string name="theme_force_enabled_summary">Палітра буде примусово увімкнена незважаючи на стан OMS</string>
+  <string name="theme_force_enabled_summary">Тема буде примусово увімкнена незважаючи на стан OMS</string>
   <!-- Pie -->
   <string name="pie_settings">Розширена панель навігації</string>
   <string name="pie_gravity_title">Портретне розташування</string>
