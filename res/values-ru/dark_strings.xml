@@ -212,7 +212,7 @@
   <string name="pie_battery_both">Оба</string>
   <string name="pie_status_indicator">Индикатор сети</string>
   <string name="pie_status_wifi">Только Wi-Fi</string>
-  <string name="pie_status_mobile">Только мобильный оператор</string>
+  <string name="pie_status_mobile">Только мобильное устройство</string>
   <string name="pie_status_none">Нет</string>
   <string name="pie_status_both">Оба</string>
 </resources>
