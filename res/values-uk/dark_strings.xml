@@ -48,7 +48,7 @@
   <!-- Optional screenshot type -->
   <string name="screenshot_type_title">Тип знімка екрану</string>
   <string name="screenshot_type_fullscreen">Повноекранний знімок</string>
-  <string name="screenshot_type_partial">Drag selection to take partial screenshots</string>
+  <string name="screenshot_type_partial">Оберіть частину екрану для часткового скріншоту</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Швидке розблокування</string>
   <string name="unlock_quick_unlock_control_summary_password">Автоматичне розблокування при введенні правильного пароля</string>
@@ -193,7 +193,7 @@
   <string name="toast_icon_title">Значок спливаючого повідомлення</string>
   <string name="toast_icon_summary">Відображати значок додатка в спливаючих сповіщеннях</string>
   <!-- Settings conditions  -->
-  <string name="disable_settings_conditions_title">Disable conditions</string>
+  <string name="disable_settings_conditions_title">Умови виникнення</string>
   <string name="theme_force_enabled_title">Force enable color engine</string>
   <string name="theme_force_enabled_summary">Color engine will be forcibly enabled nonetheless OMS state</string>
   <!-- Pie -->
@@ -214,6 +214,6 @@
   <string name="pie_status_indicator">Network indicator</string>
   <string name="pie_status_wifi">WiFi only</string>
   <string name="pie_status_mobile">Mobile only</string>
-  <string name="pie_status_none">None</string>
+  <string name="pie_status_none">Нічого</string>
   <string name="pie_status_both">Both</string>
 </resources>
