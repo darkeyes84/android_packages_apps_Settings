@@ -48,7 +48,7 @@
   <!-- Optional screenshot type -->
   <string name="screenshot_type_title">Typ zrzutu ekranu</string>
   <string name="screenshot_type_fullscreen">Zrzut pełnego ekranu</string>
-  <string name="screenshot_type_partial">Drag selection to take partial screenshots</string>
+  <string name="screenshot_type_partial">Zaznacz obszar częściowego zrzutu ekranu</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Szybkie odblokowanie</string>
   <string name="unlock_quick_unlock_control_summary_password">Odblokuj automatycznie, gdy wprowadzone zostanie poprawne hasło</string>
