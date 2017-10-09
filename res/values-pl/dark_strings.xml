@@ -196,23 +196,23 @@
   <string name="theme_force_enabled_title">Force enable color engine</string>
   <string name="theme_force_enabled_summary">Color engine will be forcibly enabled nonetheless OMS state</string>
   <!-- Pie -->
-  <string name="pie_settings">PIE controls</string>
+  <string name="pie_settings">Pie</string>
   <string name="pie_gravity_title">Portrait location</string>
   <string name="pie_gravity_landscape_title">Landscape location</string>
-  <string name="pie_gravity_bottom">Bottom</string>
-  <string name="pie_gravity_right">Right</string>
-  <string name="pie_gravity_left">Left</string>
+  <string name="pie_gravity_bottom">Na dole</string>
+  <string name="pie_gravity_right">Po prawej</string>
+  <string name="pie_gravity_left">Po lewej</string>
   <string name="pie_theme_mode_title">Motyw</string>
-  <string name="pie_auto">Automatic</string>
+  <string name="pie_auto">Automatycznie</string>
   <string name="pie_white">Biały</string>
   <string name="pie_dark">Ciemny</string>
-  <string name="pie_battery_title">Battery indicator</string>
-  <string name="pie_battery_text">Text only</string>
-  <string name="pie_battery_circle">Circle only</string>
-  <string name="pie_battery_both">Both</string>
-  <string name="pie_status_indicator">Network indicator</string>
-  <string name="pie_status_wifi">WiFi only</string>
-  <string name="pie_status_mobile">Mobile only</string>
-  <string name="pie_status_none">None</string>
-  <string name="pie_status_both">Both</string>
+  <string name="pie_battery_title">Wskaźnik baterii</string>
+  <string name="pie_battery_text">Tylko tekst</string>
+  <string name="pie_battery_circle">Tylko okrąg</string>
+  <string name="pie_battery_both">Oba</string>
+  <string name="pie_status_indicator">Wskaźnik prędkości sieci</string>
+  <string name="pie_status_wifi">Tylko WiFi</string>
+  <string name="pie_status_mobile">Tylko dane komórkowe</string>
+  <string name="pie_status_none">Brak</string>
+  <string name="pie_status_both">Oba</string>
 </resources>
