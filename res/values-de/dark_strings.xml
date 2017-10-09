@@ -48,7 +48,7 @@
   <!-- Optional screenshot type -->
   <string name="screenshot_type_title">Screenshot</string>
   <string name="screenshot_type_fullscreen">Vollbild Screenshot</string>
-  <string name="screenshot_type_partial">Ziehen zur Auswahl eines partiellen Screenshots</string>
+  <string name="screenshot_type_partial">Ziehen der Auswahl für einen partiellen Screenshot</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Schnelles Entsperren</string>
   <string name="unlock_quick_unlock_control_summary_password">Entsperren durch korrekte Pin- oder Passworteingabe</string>
@@ -212,7 +212,7 @@
   <string name="pie_battery_both">Beides</string>
   <string name="pie_status_indicator">Netzwerkanzeige</string>
   <string name="pie_status_wifi">Nur WLAN</string>
-  <string name="pie_status_mobile">Mobile only</string>
+  <string name="pie_status_mobile">Nur Mobildaten</string>
   <string name="pie_status_none">Keine</string>
   <string name="pie_status_both">Beides</string>
 </resources>
