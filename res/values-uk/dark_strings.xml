@@ -142,7 +142,7 @@
   <string name="expanded_notifications_summary">Завжди показувати сповіщення повністю, якщо можна</string>
   <!-- Color engine -->
   <string name="theme_switch_palette">Перемкнутись між кольором фону та акценту</string>
-  <string name="theme_title">Палітра</string>
+  <string name="theme_title">Тема</string>
   <string name="theme_summary">Оберіть різні кольори для поточної теми</string>
   <string name="theme_accent_color">Колір акценту</string>
   <string name="theme_primary_color">Колір фону</string>
