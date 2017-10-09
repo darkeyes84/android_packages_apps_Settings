@@ -197,8 +197,8 @@
   <string name="theme_force_enabled_summary">OMS के होने के बाद भी थीम जबरन सछम हो जाएगा</string>
   <!-- Pie -->
   <string name="pie_settings">पाइ नियंत्रण</string>
-  <string name="pie_gravity_title">Portrait location</string>
-  <string name="pie_gravity_landscape_title">Landscape location</string>
+  <string name="pie_gravity_title">पोर्ट्रेट स्थान</string>
+  <string name="pie_gravity_landscape_title">लैंडस्केप स्थान</string>
   <string name="pie_gravity_bottom">नीचे</string>
   <string name="pie_gravity_right">दाईं ओर</string>
   <string name="pie_gravity_left">बाएँ</string>
@@ -212,7 +212,7 @@
   <string name="pie_battery_both">दोनों</string>
   <string name="pie_status_indicator">नेटवर्क सूचक</string>
   <string name="pie_status_wifi">केवल वाईफाई</string>
-  <string name="pie_status_mobile">Mobile only</string>
+  <string name="pie_status_mobile">केवल मोबाइल</string>
   <string name="pie_status_none">कोई नहीं</string>
   <string name="pie_status_both">दोनों</string>
 </resources>
