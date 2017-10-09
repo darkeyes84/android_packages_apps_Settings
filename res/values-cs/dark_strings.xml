@@ -197,8 +197,8 @@
   <string name="theme_force_enabled_summary">Správce motivů bude vynuceně povolen bez ohledu na stav OMS</string>
   <!-- Pie -->
   <string name="pie_settings">Ovládání PIE</string>
-  <string name="pie_gravity_title">Portrait location</string>
-  <string name="pie_gravity_landscape_title">Landscape location</string>
+  <string name="pie_gravity_title">Umístění v režimu na výšku</string>
+  <string name="pie_gravity_landscape_title">Umístění v režimu na šířku</string>
   <string name="pie_gravity_bottom">Dole</string>
   <string name="pie_gravity_right">Vpravo</string>
   <string name="pie_gravity_left">Vlevo</string>
@@ -212,7 +212,7 @@
   <string name="pie_battery_both">Obojí</string>
   <string name="pie_status_indicator">Indikátor sítě</string>
   <string name="pie_status_wifi">Pouze WiFi</string>
-  <string name="pie_status_mobile">Mobile only</string>
+  <string name="pie_status_mobile">Pouze mobilní data</string>
   <string name="pie_status_none">Žádné</string>
   <string name="pie_status_both">Obojí</string>
 </resources>
