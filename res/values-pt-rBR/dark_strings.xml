@@ -197,8 +197,8 @@
   <string name="theme_force_enabled_summary">O gerenciamento de cores será ativado à força, independentemente do estado OMS</string>
   <!-- Pie -->
   <string name="pie_settings">Controles PIE</string>
-  <string name="pie_gravity_title">Portrait location</string>
-  <string name="pie_gravity_landscape_title">Landscape location</string>
+  <string name="pie_gravity_title">Localização no modo retrato</string>
+  <string name="pie_gravity_landscape_title">Localização no modo paisagem</string>
   <string name="pie_gravity_bottom">Em baixo</string>
   <string name="pie_gravity_right">Direita</string>
   <string name="pie_gravity_left">Esquerda</string>
@@ -212,7 +212,7 @@
   <string name="pie_battery_both">Ambos</string>
   <string name="pie_status_indicator">Indicador de rede</string>
   <string name="pie_status_wifi">Apenas WiFi</string>
-  <string name="pie_status_mobile">Mobile only</string>
+  <string name="pie_status_mobile">Apenas rede móvel</string>
   <string name="pie_status_none">Nenhum</string>
   <string name="pie_status_both">Ambos</string>
 </resources>
