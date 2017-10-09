@@ -197,8 +197,8 @@
   <string name="theme_force_enabled_summary">Farbanpassungen werden zwangsaktiviert unabhängig vom OMS Status</string>
   <!-- Pie -->
   <string name="pie_settings">PIE-Steuerungen</string>
-  <string name="pie_gravity_title">Portrait location</string>
-  <string name="pie_gravity_landscape_title">Landscape location</string>
+  <string name="pie_gravity_title">Position im Hochformat</string>
+  <string name="pie_gravity_landscape_title">Position im Querformat</string>
   <string name="pie_gravity_bottom">Unten</string>
   <string name="pie_gravity_right">Rechts</string>
   <string name="pie_gravity_left">Links</string>
