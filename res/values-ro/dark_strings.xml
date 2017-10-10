@@ -48,7 +48,7 @@
   <!-- Optional screenshot type -->
   <string name="screenshot_type_title">Tip captură de ecran</string>
   <string name="screenshot_type_fullscreen">Captează tot ecranul</string>
-  <string name="screenshot_type_partial">Drag selection to take partial screenshots</string>
+  <string name="screenshot_type_partial">Trageţi de selecţie ca să captaţi ecranul parţial</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Deblocare rapidă</string>
   <string name="unlock_quick_unlock_control_summary_password">Deblochează automat când se introduce parola corectă</string>
