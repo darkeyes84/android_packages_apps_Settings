@@ -192,8 +192,8 @@
   <string name="toast_icon_title">Icona Toast</string>
   <string name="toast_icon_summary">Visualizza l\'icona dell\'applicazione corrispondente al toast</string>
   <!-- Settings conditions  -->
-  <string name="disable_settings_conditions_title">Disable conditions</string>
-  <string name="theme_force_enabled_title">Force enable color engine</string>
+  <string name="disable_settings_conditions_title">Disabilita i condizioni</string>
+  <string name="theme_force_enabled_title">Forza attiva gestione colori</string>
   <string name="theme_force_enabled_summary">Il tema sarà attivato forzatamente anche con OMS applicato</string>
   <!-- Pie -->
   <string name="pie_settings">Controlli Pie</string>
@@ -212,7 +212,7 @@
   <string name="pie_battery_both">Entrambi</string>
   <string name="pie_status_indicator">Indicatore di rete</string>
   <string name="pie_status_wifi">Solo WiFi</string>
-  <string name="pie_status_mobile">Mobile only</string>
+  <string name="pie_status_mobile">Solo rete dati</string>
   <string name="pie_status_none">Nessuno</string>
   <string name="pie_status_both">Entrambi</string>
 </resources>
