@@ -191,4 +191,28 @@
   <!-- Toast icon -->
   <string name="toast_icon_title">ايقونة النخب</string>
   <string name="toast_icon_summary">عرض رمز للنشاط الذي ينشئ رسالة نخب</string>
+  <!-- Settings conditions  -->
+  <string name="disable_settings_conditions_title">تعطيل الشروط</string>
+  <string name="theme_force_enabled_title">تمكين محرك اللون بالقوة</string>
+  <string name="theme_force_enabled_summary">محرك اللون سوف يمكن قسرا رفم ذلك حالة OMS</string>
+  <!-- Pie -->
+  <string name="pie_settings">التحكم الدائري</string>
+  <string name="pie_gravity_title">الموقع العمودي</string>
+  <string name="pie_gravity_landscape_title">الوضع اﻷفقي</string>
+  <string name="pie_gravity_bottom">أسفل</string>
+  <string name="pie_gravity_right">يمين</string>
+  <string name="pie_gravity_left">يسار</string>
+  <string name="pie_theme_mode_title">الثيم</string>
+  <string name="pie_auto">أوتوماتيكي</string>
+  <string name="pie_white">أبيض</string>
+  <string name="pie_dark">داكن</string>
+  <string name="pie_battery_title">مؤشر البطارية</string>
+  <string name="pie_battery_text">نص فقط</string>
+  <string name="pie_battery_circle">دائرة فقط</string>
+  <string name="pie_battery_both">كلاهما</string>
+  <string name="pie_status_indicator">مؤشر الشبكة</string>
+  <string name="pie_status_wifi">واي فاي فقط</string>
+  <string name="pie_status_mobile">موبايل فقط</string>
+  <string name="pie_status_none">لا شيء</string>
+  <string name="pie_status_both">كلاهما</string>
 </resources>

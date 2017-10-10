@@ -191,4 +191,28 @@
   <!-- Toast icon -->
   <string name="toast_icon_title">Icona Toast</string>
   <string name="toast_icon_summary">Visualizza l\'icona dell\'applicazione corrispondente al toast</string>
+  <!-- Settings conditions  -->
+  <string name="disable_settings_conditions_title">Disabilita condizioni</string>
+  <string name="theme_force_enabled_title">Forza l\'attivazione del Color Engine</string>
+  <string name="theme_force_enabled_summary">Il Color Engine sarà attivato anche con un tema OMS applicato</string>
+  <!-- Pie -->
+  <string name="pie_settings">Controlli Pie</string>
+  <string name="pie_gravity_title">Verticale</string>
+  <string name="pie_gravity_landscape_title">Orizzontale</string>
+  <string name="pie_gravity_bottom">In basso</string>
+  <string name="pie_gravity_right">Destra</string>
+  <string name="pie_gravity_left">Sinistra</string>
+  <string name="pie_theme_mode_title">Tema</string>
+  <string name="pie_auto">Automatico</string>
+  <string name="pie_white">Bianco</string>
+  <string name="pie_dark">Scuro</string>
+  <string name="pie_battery_title">Indicatore della batteria</string>
+  <string name="pie_battery_text">Solo testo</string>
+  <string name="pie_battery_circle">Solo cerchio</string>
+  <string name="pie_battery_both">Entrambi</string>
+  <string name="pie_status_indicator">Indicatore di rete</string>
+  <string name="pie_status_wifi">Solo WiFi</string>
+  <string name="pie_status_mobile">Solo rete dati</string>
+  <string name="pie_status_none">Nessuno</string>
+  <string name="pie_status_both">Entrambi</string>
 </resources>

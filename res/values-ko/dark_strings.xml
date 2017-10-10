@@ -191,4 +191,28 @@
   <!-- Toast icon -->
   <string name="toast_icon_title">토스트 알림 아이콘</string>
   <string name="toast_icon_summary">토스트 알림을 보낸 앱의 아이콘을 같이 표시합니다</string>
+  <!-- Settings conditions  -->
+  <string name="disable_settings_conditions_title">비활성화 조건</string>
+  <string name="theme_force_enabled_title">색 엔진 강제 활성화</string>
+  <string name="theme_force_enabled_summary">OMS 상태와는 상관 없이 색 엔진을 강제로 적용합니다.</string>
+  <!-- Pie -->
+  <string name="pie_settings">파이 컨트롤</string>
+  <string name="pie_gravity_title">세로 위치</string>
+  <string name="pie_gravity_landscape_title">가로 위치</string>
+  <string name="pie_gravity_bottom">하단</string>
+  <string name="pie_gravity_right">오른쪽</string>
+  <string name="pie_gravity_left">왼쪽</string>
+  <string name="pie_theme_mode_title">테마</string>
+  <string name="pie_auto">자동</string>
+  <string name="pie_white">흰색</string>
+  <string name="pie_dark">어둡게</string>
+  <string name="pie_battery_title">배터리 표시</string>
+  <string name="pie_battery_text">텍스트만</string>
+  <string name="pie_battery_circle">원만</string>
+  <string name="pie_battery_both">양쪽 모두</string>
+  <string name="pie_status_indicator">네트워크 표시</string>
+  <string name="pie_status_wifi">WiFi만</string>
+  <string name="pie_status_mobile">모바일만</string>
+  <string name="pie_status_none">없음</string>
+  <string name="pie_status_both">양쪽 모두</string>
 </resources>

@@ -48,7 +48,7 @@
   <!-- Optional screenshot type -->
   <string name="screenshot_type_title">屏幕截图类型</string>
   <string name="screenshot_type_fullscreen">全屏截图</string>
-  <string name="screenshot_type_partial">区域截图</string>
+  <string name="screenshot_type_partial">拖动选择区域进行局部截图</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">快速解锁</string>
   <string name="unlock_quick_unlock_control_summary_password">当输入正确的密码时自动解锁</string>
@@ -191,4 +191,28 @@
   <!-- Toast icon -->
   <string name="toast_icon_title">Toast 通知图标</string>
   <string name="toast_icon_summary">在 Toast 通知上显示对应应用的图标</string>
+  <!-- Settings conditions  -->
+  <string name="disable_settings_conditions_title">禁用条件</string>
+  <string name="theme_force_enabled_title">强制启用色彩引擎</string>
+  <string name="theme_force_enabled_summary">色彩引擎将忽略 OMS 的状态并强制启用</string>
+  <!-- Pie -->
+  <string name="pie_settings">Pie 控制</string>
+  <string name="pie_gravity_title">竖屏位置</string>
+  <string name="pie_gravity_landscape_title">横屏位置</string>
+  <string name="pie_gravity_bottom">底部</string>
+  <string name="pie_gravity_right">右侧</string>
+  <string name="pie_gravity_left">左侧</string>
+  <string name="pie_theme_mode_title">主题</string>
+  <string name="pie_auto">自动</string>
+  <string name="pie_white">白色</string>
+  <string name="pie_dark">酷黑</string>
+  <string name="pie_battery_title">电量指示器</string>
+  <string name="pie_battery_text">只显示文字</string>
+  <string name="pie_battery_circle">只显示环形</string>
+  <string name="pie_battery_both">同时显示</string>
+  <string name="pie_status_indicator">网络指示器</string>
+  <string name="pie_status_wifi">只显示 WiFi</string>
+  <string name="pie_status_mobile">只显示移动网络</string>
+  <string name="pie_status_none">不显示</string>
+  <string name="pie_status_both">同时显示</string>
 </resources>

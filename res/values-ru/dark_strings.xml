@@ -48,7 +48,7 @@
   <!-- Optional screenshot type -->
   <string name="screenshot_type_title">Тип скриншота</string>
   <string name="screenshot_type_fullscreen">Полноэкранный скриншот</string>
-  <string name="screenshot_type_partial">Брать скриншот выбранной области</string>
+  <string name="screenshot_type_partial">Скриншот выбранной области</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Быстрая разблокировка</string>
   <string name="unlock_quick_unlock_control_summary_password">Автоматическая разблокировка при вводе правильного пароля или PIN-кода</string>
@@ -191,4 +191,28 @@
   <!-- Toast icon -->
   <string name="toast_icon_title">Иконка всплывающего уведомления</string>
   <string name="toast_icon_summary">Отображать значок приложения в тост-уведомлениях</string>
+  <!-- Settings conditions  -->
+  <string name="disable_settings_conditions_title">Отключить условия</string>
+  <string name="theme_force_enabled_title">Принудительное включение двигателя цвета</string>
+  <string name="theme_force_enabled_summary">Тема будет включена принудительно, независимо от состояния OMS</string>
+  <!-- Pie -->
+  <string name="pie_settings">Панель PIE</string>
+  <string name="pie_gravity_title">Портретный режим</string>
+  <string name="pie_gravity_landscape_title">Альбомный режим</string>
+  <string name="pie_gravity_bottom">Внизу</string>
+  <string name="pie_gravity_right">Справа</string>
+  <string name="pie_gravity_left">Слева</string>
+  <string name="pie_theme_mode_title">Темы</string>
+  <string name="pie_auto">Автоматически</string>
+  <string name="pie_white">Белый</string>
+  <string name="pie_dark">Темный</string>
+  <string name="pie_battery_title">Индикатор батареи</string>
+  <string name="pie_battery_text">Только текст</string>
+  <string name="pie_battery_circle">Только круг</string>
+  <string name="pie_battery_both">Оба</string>
+  <string name="pie_status_indicator">Индикатор сети</string>
+  <string name="pie_status_wifi">Только Wi-Fi</string>
+  <string name="pie_status_mobile">Только мобильное устройство</string>
+  <string name="pie_status_none">Нет</string>
+  <string name="pie_status_both">Оба</string>
 </resources>

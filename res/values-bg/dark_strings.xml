@@ -25,8 +25,8 @@
   <string name="show_next_alarm_lockscreen_title">Покзване на следващата аларма</string>
   <string name="show_next_alarm_lockscreen_summary">Покзване на следващата аларма на заключения екран, когато алармата е настроена</string>
   <!-- Disabling immersive mode messages -->
-  <string name="disable_immersive_message_title">Забраняване на съобщения за \"режим на потапяне\"</string>
-  <string name="disable_immersive_message_summary">Това ще скриете всички съобщения за \"режим на потапяне\"</string>
+  <string name="disable_immersive_message_title">Забраняване на съобщения за режим \"Цял екран\"</string>
+  <string name="disable_immersive_message_summary">Това ще скриете всички съобщения за режим \"Цял екран\"</string>
   <!-- Volume Steps -->
   <string name="volume_steps_title">Стъпки на звука</string>
   <string name="volume_steps_alarm_title">Стъпки на звукът: Аларма</string>
@@ -191,4 +191,28 @@
   <!-- Toast icon -->
   <string name="toast_icon_title">Икона на известията в лентата за състояние</string>
   <string name="toast_icon_summary">Показвай икона на дейността, която генерира известията в лентата за състояние</string>
+  <!-- Settings conditions  -->
+  <string name="disable_settings_conditions_title">Забрани условията</string>
+  <string name="theme_force_enabled_title">Използвай цветове насила</string>
+  <string name="theme_force_enabled_summary">Цветовете ще бъдат използвани насила въпреки OMS състоянието</string>
+  <!-- Pie -->
+  <string name="pie_settings">PIE контролни бутони</string>
+  <string name="pie_gravity_title">Местоположение при портрет</string>
+  <string name="pie_gravity_landscape_title">Местоположение при пейзаж</string>
+  <string name="pie_gravity_bottom">Отдолу</string>
+  <string name="pie_gravity_right">Вдясно</string>
+  <string name="pie_gravity_left">Вляво</string>
+  <string name="pie_theme_mode_title">Тема (скин)</string>
+  <string name="pie_auto">Автоматично</string>
+  <string name="pie_white">Бяло</string>
+  <string name="pie_dark">Тъмен</string>
+  <string name="pie_battery_title">Индикатор за батерията</string>
+  <string name="pie_battery_text">Само текст</string>
+  <string name="pie_battery_circle">Само кръг</string>
+  <string name="pie_battery_both">И двете</string>
+  <string name="pie_status_indicator">Мрежов индикатор</string>
+  <string name="pie_status_wifi">Само WiFi</string>
+  <string name="pie_status_mobile">Само мобилен</string>
+  <string name="pie_status_none">Никакви</string>
+  <string name="pie_status_both">И двете</string>
 </resources>

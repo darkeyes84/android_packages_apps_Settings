@@ -191,4 +191,28 @@
   <!-- Toast icon -->
   <string name="toast_icon_title">Ícone na mensagem toast</string>
   <string name="toast_icon_summary">Mostrar o ícone da aplicação que gerou a mensagem toast</string>
+  <!-- Settings conditions  -->
+  <string name="disable_settings_conditions_title">Desativar condições</string>
+  <string name="theme_force_enabled_title">Forçar a ativação do mecanismo de cores</string>
+  <string name="theme_force_enabled_summary">O mecanismo de cores será ativado forçosamente, independentemente do estado OMS</string>
+  <!-- Pie -->
+  <string name="pie_settings">Controlos Pie</string>
+  <string name="pie_gravity_title">Localização no modo retrato</string>
+  <string name="pie_gravity_landscape_title">Localização no modo paisagem</string>
+  <string name="pie_gravity_bottom">Em baixo</string>
+  <string name="pie_gravity_right">À direita</string>
+  <string name="pie_gravity_left">À esquerda</string>
+  <string name="pie_theme_mode_title">Tema</string>
+  <string name="pie_auto">Automático</string>
+  <string name="pie_white">Branco</string>
+  <string name="pie_dark">Escuro</string>
+  <string name="pie_battery_title">Indicador do nível da bateria</string>
+  <string name="pie_battery_text">Apenas texto</string>
+  <string name="pie_battery_circle">Apenas o círculo</string>
+  <string name="pie_battery_both">Ambos</string>
+  <string name="pie_status_indicator">Indicador de rede</string>
+  <string name="pie_status_wifi">Apenas WiFi</string>
+  <string name="pie_status_mobile">Apenas rede móvel</string>
+  <string name="pie_status_none">Nenhum</string>
+  <string name="pie_status_both">Ambos</string>
 </resources>

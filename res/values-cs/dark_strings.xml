@@ -191,4 +191,28 @@
   <!-- Toast icon -->
   <string name="toast_icon_title">Ikona oznámení</string>
   <string name="toast_icon_summary">Zobrazit ikonu aktivit generující zprávu oznámení</string>
+  <!-- Settings conditions  -->
+  <string name="disable_settings_conditions_title">Zakázat podmínky</string>
+  <string name="theme_force_enabled_title">Vynuceně povolit správce motivů</string>
+  <string name="theme_force_enabled_summary">Správce motivů bude vynuceně povolen bez ohledu na stav OMS</string>
+  <!-- Pie -->
+  <string name="pie_settings">Ovládání PIE</string>
+  <string name="pie_gravity_title">Umístění v režimu na výšku</string>
+  <string name="pie_gravity_landscape_title">Umístění v režimu na šířku</string>
+  <string name="pie_gravity_bottom">Dole</string>
+  <string name="pie_gravity_right">Vpravo</string>
+  <string name="pie_gravity_left">Vlevo</string>
+  <string name="pie_theme_mode_title">Motiv</string>
+  <string name="pie_auto">Automaticky</string>
+  <string name="pie_white">Bílá</string>
+  <string name="pie_dark">Tmavý</string>
+  <string name="pie_battery_title">Indikátor baterie</string>
+  <string name="pie_battery_text">Pouze text</string>
+  <string name="pie_battery_circle">Pouze kruh</string>
+  <string name="pie_battery_both">Obojí</string>
+  <string name="pie_status_indicator">Indikátor sítě</string>
+  <string name="pie_status_wifi">Pouze WiFi</string>
+  <string name="pie_status_mobile">Pouze mobilní data</string>
+  <string name="pie_status_none">Žádné</string>
+  <string name="pie_status_both">Obojí</string>
 </resources>

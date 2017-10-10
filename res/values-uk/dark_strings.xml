@@ -48,7 +48,7 @@
   <!-- Optional screenshot type -->
   <string name="screenshot_type_title">Тип знімка екрану</string>
   <string name="screenshot_type_fullscreen">Повноекранний знімок</string>
-  <string name="screenshot_type_partial">Частковий знімок</string>
+  <string name="screenshot_type_partial">Оберіть частину екрану для часткового скріншоту</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Швидке розблокування</string>
   <string name="unlock_quick_unlock_control_summary_password">Автоматичне розблокування при введенні правильного пароля</string>
@@ -142,7 +142,7 @@
   <string name="expanded_notifications_summary">Завжди показувати сповіщення повністю, якщо можна</string>
   <!-- Color engine -->
   <string name="theme_switch_palette">Перемкнутись між кольором фону та акценту</string>
-  <string name="theme_title">Палітра</string>
+  <string name="theme_title">Тема</string>
   <string name="theme_summary">Оберіть різні кольори для поточної теми</string>
   <string name="theme_accent_color">Колір акценту</string>
   <string name="theme_primary_color">Колір фону</string>
@@ -184,7 +184,7 @@
   <string name="immersive_recents_statusbar">Приховувати панель навігації</string>
   <string name="immersive_recents_navbar">Приховувати рядок стану</string>
   <string name="systemui_recents_mem_display_title">Рядок використання пам\'яті</string>
-  <string name="systemui_recents_mem_display_summary">Відображати панель Озу в меню запущених додатків</string>
+  <string name="systemui_recents_mem_display_summary">Відображати панель ОЗП в меню запущених додатків</string>
   <string name="recents_lock_icon_title">Піктограма блокування</string>
   <string name="recents_lock_icon_summary">Показувати піктограму блокування в заголовку програми</string>
   <string name="recents_dismiss_icon_title">Відхилити завдання</string>
@@ -192,4 +192,28 @@
   <!-- Toast icon -->
   <string name="toast_icon_title">Значок спливаючого повідомлення</string>
   <string name="toast_icon_summary">Відображати значок додатка в спливаючих сповіщеннях</string>
+  <!-- Settings conditions  -->
+  <string name="disable_settings_conditions_title">Умови виникнення</string>
+  <string name="theme_force_enabled_title">Примусово увімкнути теми</string>
+  <string name="theme_force_enabled_summary">Тема буде примусово увімкнена незважаючи на стан OMS</string>
+  <!-- Pie -->
+  <string name="pie_settings">Розширена панель навігації</string>
+  <string name="pie_gravity_title">Портретне розташування</string>
+  <string name="pie_gravity_landscape_title">Ландшафтне розташування</string>
+  <string name="pie_gravity_bottom">Внизу</string>
+  <string name="pie_gravity_right">Праворуч</string>
+  <string name="pie_gravity_left">Ліворуч</string>
+  <string name="pie_theme_mode_title">Тема</string>
+  <string name="pie_auto">Автоматично</string>
+  <string name="pie_white">Білий</string>
+  <string name="pie_dark">Темний</string>
+  <string name="pie_battery_title">Індикатор заряду акумулятора</string>
+  <string name="pie_battery_text">Тільки текст</string>
+  <string name="pie_battery_circle">Тільки коло</string>
+  <string name="pie_battery_both">Обидва</string>
+  <string name="pie_status_indicator">Індикатор мережі</string>
+  <string name="pie_status_wifi">Тільки WiFi</string>
+  <string name="pie_status_mobile">Тільки мобільні данні</string>
+  <string name="pie_status_none">Нічого</string>
+  <string name="pie_status_both">Обидва</string>
 </resources>

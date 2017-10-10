@@ -48,7 +48,7 @@
   <!-- Optional screenshot type -->
   <string name="screenshot_type_title">Screenshot</string>
   <string name="screenshot_type_fullscreen">Vollbild Screenshot</string>
-  <string name="screenshot_type_partial">Ziehe die Auswahl für einen partiellen Screenshot</string>
+  <string name="screenshot_type_partial">Ziehen der Auswahl für einen partiellen Screenshot</string>
   <!-- Quick unlock -->
   <string name="unlock_quick_unlock_control_title">Schnelles Entsperren</string>
   <string name="unlock_quick_unlock_control_summary_password">Entsperren durch korrekte Pin- oder Passworteingabe</string>
@@ -164,7 +164,7 @@
   <!-- Force authorize substratum packages -->
   <string name="force_authorize_substratum_packages_title">Erzwinge Autorisierung jeder Erscheinungsbildänderungs App</string>
   <string name="force_authorize_substratum_packages_summary">Erlaube Erscheinungsbildänderungs-Apps von unbekannten Quellen</string>
-  <string name="dashboard_label">Übersicht</string>
+  <string name="dashboard_label">Einstellungen</string>
   <string name="miscellaneous_label">Verschiedenes</string>
   <string name="two_columns_title">Zwei Spalten</string>
   <string name="headsup_label">Heads-Up</string>
@@ -182,7 +182,7 @@
   <string name="immersive_recents_fullscreen">Beides ausblenden</string>
   <string name="immersive_recents_statusbar">Navigationsleiste ausblenden</string>
   <string name="immersive_recents_navbar">Statusleiste ausblenden</string>
-  <string name="systemui_recents_mem_display_title">Speicher-Leiste</string>
+  <string name="systemui_recents_mem_display_title">RAM-Speicher-Leiste</string>
   <string name="systemui_recents_mem_display_summary">Einblenden der Speicher-Leiste im Anwendungsverlauf</string>
   <string name="recents_lock_icon_title">Anwendung sperren</string>
   <string name="recents_lock_icon_summary">Schloss-Symbol im Anwendungskopf anzeigen</string>
@@ -191,4 +191,28 @@
   <!-- Toast icon -->
   <string name="toast_icon_title">Toast-Benachrichtigungs-Symbol</string>
   <string name="toast_icon_summary">Aktivitätssymbolanzeige das die Toast-Benachrichtigung erzeugt</string>
+  <!-- Settings conditions  -->
+  <string name="disable_settings_conditions_title">Bedienung deaktivieren</string>
+  <string name="theme_force_enabled_title">Farbanpassungen aktivieren (Zwang)</string>
+  <string name="theme_force_enabled_summary">Farbanpassungen werden zwangsaktiviert unabhängig vom OMS Status</string>
+  <!-- Pie -->
+  <string name="pie_settings">PIE-Steuerungen</string>
+  <string name="pie_gravity_title">Position im Hochformat</string>
+  <string name="pie_gravity_landscape_title">Position im Querformat</string>
+  <string name="pie_gravity_bottom">Unten</string>
+  <string name="pie_gravity_right">Rechts</string>
+  <string name="pie_gravity_left">Links</string>
+  <string name="pie_theme_mode_title">Erscheinungsbild</string>
+  <string name="pie_auto">Automatisch</string>
+  <string name="pie_white">Weiß</string>
+  <string name="pie_dark">Dunkel</string>
+  <string name="pie_battery_title">Akkuanzeige</string>
+  <string name="pie_battery_text">Nur Text</string>
+  <string name="pie_battery_circle">Nur Kreis</string>
+  <string name="pie_battery_both">Beides</string>
+  <string name="pie_status_indicator">Netzwerkanzeige</string>
+  <string name="pie_status_wifi">Nur WLAN</string>
+  <string name="pie_status_mobile">Nur Mobildaten</string>
+  <string name="pie_status_none">Keine</string>
+  <string name="pie_status_both">Beides</string>
 </resources>

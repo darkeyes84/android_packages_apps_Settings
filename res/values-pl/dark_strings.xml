@@ -177,7 +177,7 @@
   <string name="recents_label">Ostatnio używane</string>
   <string name="immersive_recents_title">Rozszerzony Pulpit</string>
   <string name="immersive_recents_summary">Zmień widok w menu ostatnio używanych aplikacji</string>
-  <string name="immersive_recents_dialog_title">Wybierz menu ostatnio używanych aplikacji, które chcesz ukryć</string>
+  <string name="immersive_recents_dialog_title">Wybierz co chcesz ukryć w menu ostatnio używanych aplikacji</string>
   <string name="immersive_recents_default">Nic nie ukrywaj</string>
   <string name="immersive_recents_fullscreen">Ukryj oba</string>
   <string name="immersive_recents_statusbar">Ukryj pasek nawigacji</string>
@@ -191,4 +191,28 @@
   <!-- Toast icon -->
   <string name="toast_icon_title">Ikona w dymku powiadomień</string>
   <string name="toast_icon_summary">Wyświetl ikonę aktywności, która generuje wiadomość w dymku</string>
+  <!-- Settings conditions  -->
+  <string name="disable_settings_conditions_title">Wyłącz warunki</string>
+  <string name="theme_force_enabled_title">Wymuś motyw z Color Engine</string>
+  <string name="theme_force_enabled_summary">Motyw z Color Engine będzie włączony, niezależnie od OMS</string>
+  <!-- Pie -->
+  <string name="pie_settings">Pie</string>
+  <string name="pie_gravity_title">Położenie w pionie</string>
+  <string name="pie_gravity_landscape_title">Położenie w poziomie</string>
+  <string name="pie_gravity_bottom">Na dole</string>
+  <string name="pie_gravity_right">Po prawej</string>
+  <string name="pie_gravity_left">Po lewej</string>
+  <string name="pie_theme_mode_title">Motyw</string>
+  <string name="pie_auto">Automatycznie</string>
+  <string name="pie_white">Biały</string>
+  <string name="pie_dark">Ciemny</string>
+  <string name="pie_battery_title">Wskaźnik baterii</string>
+  <string name="pie_battery_text">Tylko tekst</string>
+  <string name="pie_battery_circle">Tylko okrąg</string>
+  <string name="pie_battery_both">Oba</string>
+  <string name="pie_status_indicator">Wskaźnik prędkości sieci</string>
+  <string name="pie_status_wifi">Tylko WiFi</string>
+  <string name="pie_status_mobile">Tylko dane komórkowe</string>
+  <string name="pie_status_none">Brak</string>
+  <string name="pie_status_both">Oba</string>
 </resources>
