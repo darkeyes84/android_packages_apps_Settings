@@ -192,13 +192,13 @@
   <string name="toast_icon_title">Iconiță toast</string>
   <string name="toast_icon_summary">Afișează iconița activității care generează mesaje toast</string>
   <!-- Settings conditions  -->
-  <string name="disable_settings_conditions_title">Disable conditions</string>
-  <string name="theme_force_enabled_title">Force enable color engine</string>
-  <string name="theme_force_enabled_summary">Color engine will be forcibly enabled nonetheless OMS state</string>
+  <string name="disable_settings_conditions_title">Dezactivează condiţiile</string>
+  <string name="theme_force_enabled_title">Activare forțată instrument de culoare</string>
+  <string name="theme_force_enabled_summary">Instrumentul de culoare va fi activat forțat în ciuda statutului OMS</string>
   <!-- Pie -->
   <string name="pie_settings">Control evantai</string>
-  <string name="pie_gravity_title">Portrait location</string>
-  <string name="pie_gravity_landscape_title">Landscape location</string>
+  <string name="pie_gravity_title">Locație portret</string>
+  <string name="pie_gravity_landscape_title">Locație panoramică</string>
   <string name="pie_gravity_bottom">Jos</string>
   <string name="pie_gravity_right">Dreapta</string>
   <string name="pie_gravity_left">Stânga</string>
