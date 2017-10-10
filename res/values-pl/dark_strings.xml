@@ -192,7 +192,7 @@
   <string name="toast_icon_title">Ikona w dymku powiadomień</string>
   <string name="toast_icon_summary">Wyświetl ikonę aktywności, która generuje wiadomość w dymku</string>
   <!-- Settings conditions  -->
-  <string name="disable_settings_conditions_title">Disable conditions</string>
+  <string name="disable_settings_conditions_title">Wyłącz warunki</string>
   <string name="theme_force_enabled_title">Wymuś motyw z Color Engine</string>
   <string name="theme_force_enabled_summary">Motyw z Color Engine będzie włączony, niezależnie od OMS</string>
   <!-- Pie -->
