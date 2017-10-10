@@ -199,7 +199,7 @@
   <string name="pie_settings">Pie kontrolleri</string>
   <string name="pie_gravity_title">Portrait location</string>
   <string name="pie_gravity_landscape_title">Landscape location</string>
-  <string name="pie_gravity_bottom">Bottom</string>
+  <string name="pie_gravity_bottom">Alt</string>
   <string name="pie_gravity_right">Sağ</string>
   <string name="pie_gravity_left">Sol</string>
   <string name="pie_theme_mode_title">Tema</string>
@@ -212,7 +212,7 @@
   <string name="pie_battery_both">Her ikisi</string>
   <string name="pie_status_indicator">Ağ göstergesi</string>
   <string name="pie_status_wifi">Yalnızca WiFi</string>
-  <string name="pie_status_mobile">Mobile only</string>
+  <string name="pie_status_mobile">Yalnızca mobil ağ</string>
   <string name="pie_status_none">Hiçbiri</string>
   <string name="pie_status_both">Her ikisi</string>
 </resources>
