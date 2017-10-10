@@ -192,13 +192,13 @@
   <string name="toast_icon_title">Bildirim simgesi</string>
   <string name="toast_icon_summary">Bildirimle uyumlu uygulama simgesini görüntüler</string>
   <!-- Settings conditions  -->
-  <string name="disable_settings_conditions_title">Disable conditions</string>
-  <string name="theme_force_enabled_title">Force enable color engine</string>
+  <string name="disable_settings_conditions_title">Koşulları devre dışı bırak</string>
+  <string name="theme_force_enabled_title">Kuvvet etkinleştirmek renk motoru</string>
   <string name="theme_force_enabled_summary">Tema OMS durumuna rağmen yine de zorla etkinleştirilecek</string>
   <!-- Pie -->
   <string name="pie_settings">Pie kontrolleri</string>
-  <string name="pie_gravity_title">Portrait location</string>
-  <string name="pie_gravity_landscape_title">Landscape location</string>
+  <string name="pie_gravity_title">Dikey konumu</string>
+  <string name="pie_gravity_landscape_title">Yatay konumu</string>
   <string name="pie_gravity_bottom">Alt</string>
   <string name="pie_gravity_right">Sağ</string>
   <string name="pie_gravity_left">Sol</string>
