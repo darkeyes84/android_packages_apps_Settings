@@ -193,12 +193,12 @@
   <string name="toast_icon_summary">Visualizza l\'icona dell\'applicazione corrispondente al toast</string>
   <!-- Settings conditions  -->
   <string name="disable_settings_conditions_title">Disabilita condizioni</string>
-  <string name="theme_force_enabled_title">Forza attiva gestione colori</string>
-  <string name="theme_force_enabled_summary">Il tema sarà attivato forzatamente anche con OMS applicato</string>
+  <string name="theme_force_enabled_title">Forza l\'attivazione del Color Engine</string>
+  <string name="theme_force_enabled_summary">Il Color Engine sarà attivato anche con un tema OMS applicato</string>
   <!-- Pie -->
   <string name="pie_settings">Controlli Pie</string>
-  <string name="pie_gravity_title">Posizione ritratta</string>
-  <string name="pie_gravity_landscape_title">Posizione del paesaggio</string>
+  <string name="pie_gravity_title">Verticale</string>
+  <string name="pie_gravity_landscape_title">Orizzontale</string>
   <string name="pie_gravity_bottom">In basso</string>
   <string name="pie_gravity_right">Destra</string>
   <string name="pie_gravity_left">Sinistra</string>
