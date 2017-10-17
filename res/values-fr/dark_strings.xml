@@ -23,7 +23,7 @@
   <string name="left_default_voice_summary_off">Le raccourci par défaut est le téléphone</string>
   <!-- Hide the next alarm on lockscreen -->
   <string name="show_next_alarm_lockscreen_title">Afficher la prochaine alarme</string>
-  <string name="show_next_alarm_lockscreen_summary">Afficher la prochaine alarme sur l\'écran de verrouillage</string>
+  <string name="show_next_alarm_lockscreen_summary">Afficher la prochaine alarme sur l\'écran de verrouillage lorsqu\'une nouvelle alarme est créée</string>
   <!-- Disabling immersive mode messages -->
   <string name="disable_immersive_message_title">Désactiver les messages du mode immersif</string>
   <string name="disable_immersive_message_summary">Ceci masquera tous les messages du mode immersif</string>
