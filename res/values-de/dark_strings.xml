@@ -54,7 +54,7 @@
   <string name="unlock_quick_unlock_control_summary_password">Entsperren durch korrekte Pin- oder Passworteingabe</string>
   <string name="unlock_quick_unlock_control_summary_pin">Automatisch entsperren, wenn die korrekte PIN/Passwort eingegeben wird</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">Ticker</string>
+  <string name="ticker_title">Benachrichtigungsticker</string>
   <string name="ticker_summary">Benachrichtigungen mit Priorität in der Statusleiste anzeigen</string>
   <!-- Notification Ticker Track-->
   <string name="ticker_track_title">Ticker-Musik-Titel</string>
@@ -168,7 +168,7 @@
   <string name="miscellaneous_label">Verschiedenes</string>
   <string name="two_columns_title">Zwei Spalten</string>
   <string name="headsup_label">Heads-Up</string>
-  <string name="ticker_label">Ticker</string>
+  <string name="ticker_label">Benachrichtigungsticker</string>
   <string name="ticker_disabled">Ticker ist deaktiviert, weil Heads-up aktiviert ist</string>
   <string name="headsup_disabled">Heads-up ist deaktiviert, weil Ticker aktiviert ist</string>
   <string name="ringtones_title">Klingeltöne</string>
