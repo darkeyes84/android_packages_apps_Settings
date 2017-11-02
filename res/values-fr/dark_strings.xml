@@ -212,7 +212,7 @@
   <string name="pie_battery_both">Tous</string>
   <string name="pie_status_indicator">Indicateur de réseau</string>
   <string name="pie_status_wifi">WiFi seulement</string>
-  <string name="pie_status_mobile">Mobile seulement</string>
+  <string name="pie_status_mobile">Mobile uniquement</string>
   <string name="pie_status_none">Aucun</string>
   <string name="pie_status_both">Tous</string>
 </resources>
