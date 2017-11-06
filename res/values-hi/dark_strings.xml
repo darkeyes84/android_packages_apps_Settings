@@ -34,8 +34,8 @@
   <string name="volume_steps_music_title">वॉल्यूम स्टेप्स: संगीत</string>
   <string name="volume_steps_notification_title">वॉल्यूम स्टेप्स: सूचना</string>
   <string name="volume_steps_ring_title">वॉल्यूम स्टेप्स: रिंगर</string>
-  <string name="volume_steps_system_title">वॉल्यूम चरणों: सिस्टम</string>
-  <string name="volume_steps_voice_call_title">वॉल्यूम चरणों: वॉयस कॉल</string>
+  <string name="volume_steps_system_title">वॉल्यूम स्टेप्स: सिस्टम</string>
+  <string name="volume_steps_voice_call_title">वॉल्यूम स्टेप्स: वॉयस कॉल</string>
   <string name="volume_steps_reset">रीसेट</string>
   <string name="volume_steps_60">60</string>
   <string name="volume_steps_45">45</string>
@@ -47,14 +47,14 @@
   <string name="deltaupdate_settings_title">सिस्टम अपडेट</string>
   <!-- Optional screenshot type -->
   <string name="screenshot_type_title">स्क्रीनशॉट प्रकार</string>
-  <string name="screenshot_type_fullscreen">फुल स्क्रीन स्क्रीनशॉट ले लो</string>
+  <string name="screenshot_type_fullscreen">पूरी स्क्रीन का स्क्रीनशॉट लें</string>
   <string name="screenshot_type_partial">एक आंशिक स्क्रीनशॉट लेने के लिए चयन खींचें</string>
   <!-- Quick unlock -->
-  <string name="unlock_quick_unlock_control_title">त्वरित अनलॉक</string>
+  <string name="unlock_quick_unlock_control_title">तुरन्त अनलॉक</string>
   <string name="unlock_quick_unlock_control_summary_password">स्वचालित रूप से अनलॉक जब सही पिन/पासवर्ड दर्ज किया गया है</string>
   <string name="unlock_quick_unlock_control_summary_pin">स्वचालित रूप से अनलॉक जब सही पिन दर्ज किया गया है</string>
   <!-- Notification Ticker -->
-  <string name="ticker_title">टिकर</string>
+  <string name="ticker_title">टिककर</string>
   <string name="ticker_summary">प्राथमिकता वाली सूचनाएं प्रदर्शित स्थिति पट्टी में</string>
   <!-- Notification Ticker Track-->
   <string name="ticker_track_title">टिकर संगीत पटरियों</string>
@@ -168,7 +168,7 @@
   <string name="miscellaneous_label">विविध</string>
   <string name="two_columns_title">दो कॉलम</string>
   <string name="headsup_label">हैड्स अप</string>
-  <string name="ticker_label">टिकर</string>
+  <string name="ticker_label">टिककर</string>
   <string name="ticker_disabled">टिकर अक्षम है क्योंकि सिर सक्षम किया गया है</string>
   <string name="headsup_disabled">टिकर सक्षम किया गया है, क्योंकि सिर को अक्षम किया गया है</string>
   <string name="ringtones_title">रिंगटोन</string>
