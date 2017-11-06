@@ -22,18 +22,18 @@
   <string name="left_default_voice_summary_on">डिफ़ॉल्ट शॉर्टकट आवाज सहायक है</string>
   <string name="left_default_voice_summary_off">फोन डिफ़ॉल्ट शॉर्टकट है</string>
   <!-- Hide the next alarm on lockscreen -->
-  <string name="show_next_alarm_lockscreen_title">शो अगले अलार्म</string>
-  <string name="show_next_alarm_lockscreen_summary">लॉक स्क्रीन पर अगला अलार्म दिखाएं जब एक अलार्म है</string>
+  <string name="show_next_alarm_lockscreen_title">अगला अलार्म दिखाएँ</string>
+  <string name="show_next_alarm_lockscreen_summary">लॉक स्क्रीन पर अगला अलार्म दिखाएं जब एक अलार्म सेट किया हुआ हो</string>
   <!-- Disabling immersive mode messages -->
-  <string name="disable_immersive_message_title">इमर्सिव मोड संदेशों को अक्षम करें</string>
-  <string name="disable_immersive_message_summary">यह सभी इमर्सिव मोड संदेश छिपा होगा</string>
+  <string name="disable_immersive_message_title">इमर्सिव मोड संदेशों को बंद करें</string>
+  <string name="disable_immersive_message_summary">यह सभी इमर्सिव मोड संदेश छिपा देगा</string>
   <!-- Volume Steps -->
-  <string name="volume_steps_title">वॉल्यूम चरणों</string>
-  <string name="volume_steps_alarm_title">वॉल्यूम चरणों: अलार्म</string>
-  <string name="volume_steps_dtmf_title">वॉल्यूम चरणों: DTMF</string>
-  <string name="volume_steps_music_title">वॉल्यूम चरणों: संगीत</string>
-  <string name="volume_steps_notification_title">वॉल्यूम चरणों: सूचना</string>
-  <string name="volume_steps_ring_title">वॉल्यूम चरणों: रिंगर</string>
+  <string name="volume_steps_title">वॉल्यूम स्टेप्स</string>
+  <string name="volume_steps_alarm_title">वॉल्यूम स्टेप्स: अलार्म</string>
+  <string name="volume_steps_dtmf_title">वॉल्यूम स्टेप्स: DTMF</string>
+  <string name="volume_steps_music_title">वॉल्यूम स्टेप्स: संगीत</string>
+  <string name="volume_steps_notification_title">वॉल्यूम स्टेप्स: सूचना</string>
+  <string name="volume_steps_ring_title">वॉल्यूम स्टेप्स: रिंगर</string>
   <string name="volume_steps_system_title">वॉल्यूम चरणों: सिस्टम</string>
   <string name="volume_steps_voice_call_title">वॉल्यूम चरणों: वॉयस कॉल</string>
   <string name="volume_steps_reset">रीसेट</string>
@@ -82,7 +82,7 @@
   <string name="night_bright_medium">मध्यम चमक</string>
   <string name="magisk_title">Magisk प्रबंधक</string>
   <string name="magisk_summary">नियंत्रण मॉड्यूल और सेटिंग्स</string>
-  <string name="substratum_title">Substratum</string>
+  <string name="substratum_title">सब्स्त्राटम</string>
   <string name="substratum_summary">डिवाइस थीम को अनुकूलित करें</string>
   <!-- Incall vibrate options -->
   <string name="incall_vibrate_connect_title">कंपन पर कॉल कनेक्ट</string>
