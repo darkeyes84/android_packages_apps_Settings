@@ -75,7 +75,7 @@
   <!-- Advanced night mode brightness -->
   <string name="night_brightness_category">Luminosità</string>
   <string name="night_brightness_value_title">Luminosità notturna</string>
-  <string name="night_brightness_text">Attivando la funzione luce notturna, si imposta automaticamente la luminosità desiderata.</string>
+  <string name="night_brightness_text">Quando la luminosità notturna è attiva, verrà impostata automaticamente la luminosità desiderata.</string>
   <string name="night_bright_disabled">Disattivato</string>
   <string name="night_bright_min">Luminosità minima</string>
   <string name="night_bright_low">Bassa luminosità</string>
