@@ -26,7 +26,7 @@
   <string name="show_next_alarm_lockscreen_summary">Visualizza l\'allarme successivo sulla lockscreen quando un allarme è impostato</string>
   <!-- Disabling immersive mode messages -->
   <string name="disable_immersive_message_title">Disabilita i messaggi nella modalità immersiva</string>
-  <string name="disable_immersive_message_summary">Questo nasconderà tutti i messaggi nella modalità Immersiva</string>
+  <string name="disable_immersive_message_summary">Questo nasconderà tutti i messaggi nella modalità immersiva</string>
   <!-- Volume Steps -->
   <string name="volume_steps_title">Livelli del volume</string>
   <string name="volume_steps_alarm_title">Livello volume: Sveglia</string>
@@ -57,7 +57,7 @@
   <string name="ticker_title">Anteprima notifiche nella barra di stato</string>
   <string name="ticker_summary">Visualizza le notifiche prioritarie nella barra di stato</string>
   <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Mosrta tracce musicali nella barra di stato</string>
+  <string name="ticker_track_title">Mostra tracce musicali nella barra di stato</string>
   <string name="ticker_track_summary">Mostra i metadati quando viene avviata una nuova traccia</string>
   <!-- Secure lockscreen -->
   <string name="lockscreen_enable_power_menu_title">Lockscreen sicura</string>
@@ -70,11 +70,11 @@
   <string name="custom_carrier_label_title">Nome operatore personalizzato</string>
   <string name="custom_carrier_label_explain">Inserisci una nuova etichetta. Lasciare vuoto per ritornare all\'etichetta base</string>
   <string name="custom_carrier_label_notset">Etichetta personalizzata attualmente non impostata</string>
-  <string name="one_hand_mode_title">Modalità una mano</string>
+  <string name="one_hand_mode_title">Modalità con una sola mano</string>
   <string name="one_hand_mode_summary">Consente di attivare la modalità ad una mano strisciando sulla barra di navigazione</string>
   <!-- Advanced night mode brightness -->
   <string name="night_brightness_category">Luminosità</string>
-  <string name="night_brightness_value_title">Luminosità luce notturna</string>
+  <string name="night_brightness_value_title">Luminosità notturna</string>
   <string name="night_brightness_text">Attivando la funzione luce notturna, si imposta automaticamente la luminosità desiderata.</string>
   <string name="night_bright_disabled">Disattivato</string>
   <string name="night_bright_min">Luminosità minima</string>
