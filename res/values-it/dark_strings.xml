@@ -83,15 +83,15 @@
   <string name="magisk_title">Magisk Manager</string>
   <string name="magisk_summary">Controlla i moduli e le impostazioni</string>
   <string name="substratum_title">Substratum</string>
-  <string name="substratum_summary">Personalizza tema dispositivo</string>
+  <string name="substratum_summary">Personalizza il tema del dispositivo</string>
   <!-- Incall vibrate options -->
-  <string name="incall_vibrate_connect_title">Vibra quando arriva la chiamata è risposta</string>
+  <string name="incall_vibrate_connect_title">Vibra alla risposta della chiamata</string>
   <string name="incall_vibrate_call_wait_title">Vibra quando la chiamata è in attesa</string>
   <string name="incall_vibrate_disconnect_title">Vibra quando la chiamata è disconessa</string>
   <string name="doze_brightness_level_title">Luminosità Ambient Display</string>
-  <string name="doze_brightness_level_summary">Regolare il livello di luminosità per l\'ambient display</string>
+  <string name="doze_brightness_level_summary">Regola il livello di luminosità dell\'ambient display</string>
   <!-- Heads up timeout -->
-  <string name="heads_up_time_out_title">Durata della notifica HeadsUp</string>
+  <string name="heads_up_time_out_title">Durata notifica Heads Up</string>
   <string name="heads_up_time_out_summary">Le notifiche heads up verranno visualizzate per <xliff:g id="number">%d</xliff:g> secondi</string>
   <string name="heads_up_time_out_2sec">2 secondi</string>
   <string name="heads_up_time_out_4sec">4 secondi</string>
@@ -101,7 +101,7 @@
   <string name="heads_up_time_out_10sec">10 secondi</string>
   <!-- Heads up snooze -->
   <string name="heads_up_snooze_title">Silenzia le notifiche Heads up</string>
-  <string name="heads_up_snooze_summary_one_minute">Scorri verso l\'alto sulle notifiche Heads up per silenziare l\'applicazione per 1 minuto</string>
+  <string name="heads_up_snooze_summary_one_minute">Scorri verso l\'alto sulle notifiche Heads Up per silenziare l\'applicazione per 1 minuto</string>
   <string name="heads_up_snooze_summary">Scorri verso l\'alto sulle notifiche Heads up le silenziarà per quella l\'applicazione per <xliff:g id="number">%d</xliff:g> minuti</string>
   <string name="heads_up_snooze_disabled_summary">Il timer dello snooze è disattivato</string>
   <string name="heads_up_snooze_1min">1 minuto</string>
