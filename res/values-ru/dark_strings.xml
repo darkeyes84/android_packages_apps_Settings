@@ -23,7 +23,7 @@
   <string name="left_default_voice_summary_off">Использовать телефон</string>
   <!-- Hide the next alarm on lockscreen -->
   <string name="show_next_alarm_lockscreen_title">Показать время следующего будильника</string>
-  <string name="show_next_alarm_lockscreen_summary">Показывать следующий будильник на экране блокировки, когда он установлен</string>
+  <string name="show_next_alarm_lockscreen_summary">Показывать след. будильник на экране блокировки, когда он установлен</string>
   <!-- Disabling immersive mode messages -->
   <string name="disable_immersive_message_title">Отключить сообщения о режиме погружения</string>
   <string name="disable_immersive_message_summary">Это отключит все сообщения о режиме погружения</string>
