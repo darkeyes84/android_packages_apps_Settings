@@ -28,7 +28,7 @@
   <string name="disable_immersive_message_title">Отключить сообщения о режиме погружения</string>
   <string name="disable_immersive_message_summary">Это отключит все сообщения о режиме погружения</string>
   <!-- Volume Steps -->
-  <string name="volume_steps_title">Уровни громкости</string>
+  <string name="volume_steps_title">Шаги громкости</string>
   <string name="volume_steps_alarm_title">Шаг громкости: будильник</string>
   <string name="volume_steps_dtmf_title">Шаг громкости: тональный набор</string>
   <string name="volume_steps_music_title">Шаг громкости: музыка</string>
