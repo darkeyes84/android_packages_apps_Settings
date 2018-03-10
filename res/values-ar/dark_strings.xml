@@ -23,7 +23,7 @@
   <string name="left_default_voice_summary_off">الاختصار الافتراضي هو الهاتف</string>
   <!-- Hide the next alarm on lockscreen -->
   <string name="show_next_alarm_lockscreen_title">عرض التنبيه التالي</string>
-  <string name="show_next_alarm_lockscreen_summary">إظهار التنبيه المقبل عند تعيينه على شاشة القفل</string>
+  <string name="show_next_alarm_lockscreen_summary">عرض التنبيه التالي على شاشة القفل عند تعيينه</string>
   <!-- Disabling immersive mode messages -->
   <string name="disable_immersive_message_title">تعطيل رسائل الوضع الغامر</string>
   <string name="disable_immersive_message_summary">هذا سيخفي كل رسائل الوضع المغمور</string>
