@@ -18,11 +18,11 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Default left shortcut on lockscreen -->
-  <string name="left_default_voice_title">الاختصار الأيسر على keyguard</string>
-  <string name="left_default_voice_summary_on">الاختصار الافتراضي هو المساعد الصوتي</string>
-  <string name="left_default_voice_summary_off">الاختصار الافتراضي هو تطبيق الهاتف</string>
+  <string name="left_default_voice_title">الاختصار الأيسر في شاشة القفل</string>
+  <string name="left_default_voice_summary_on">إلاختصار الإفتراضي هو المساعد الصوتي</string>
+  <string name="left_default_voice_summary_off">الاختصار الافتراضي هو الهاتف</string>
   <!-- Hide the next alarm on lockscreen -->
-  <string name="show_next_alarm_lockscreen_title">إظهار التنبيه التالي</string>
+  <string name="show_next_alarm_lockscreen_title">عرض التنبيه التالي</string>
   <string name="show_next_alarm_lockscreen_summary">إظهار التنبيه المقبل عند تعيينه على شاشة القفل</string>
   <!-- Disabling immersive mode messages -->
   <string name="disable_immersive_message_title">تعطيل رسائل الوضع الغامر</string>
