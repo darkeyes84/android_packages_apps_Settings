@@ -17,202 +17,202 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Default left shortcut on lockscreen -->
-  <string name="left_default_voice_title">कुंजीकवच पर बाएँ शॉर्टकट</string>
-  <string name="left_default_voice_summary_on">डिफ़ॉल्ट शॉर्टकट आवाज सहायक है</string>
-  <string name="left_default_voice_summary_off">फोन डिफ़ॉल्ट शॉर्टकट है</string>
-  <!-- Hide the next alarm on lockscreen -->
-  <string name="show_next_alarm_lockscreen_title">अगला अलार्म दिखाएँ</string>
-  <string name="show_next_alarm_lockscreen_summary">लॉक स्क्रीन पर अगला अलार्म दिखाएं जब एक अलार्म सेट किया हुआ हो</string>
-  <!-- Disabling immersive mode messages -->
-  <string name="disable_immersive_message_title">इमर्सिव मोड संदेशों को बंद करें</string>
-  <string name="disable_immersive_message_summary">यह सभी इमर्सिव मोड संदेश छिपा देगा</string>
-  <!-- Volume Steps -->
-  <string name="volume_steps_title">वॉल्यूम स्टेप्स</string>
-  <string name="volume_steps_alarm_title">वॉल्यूम स्टेप्स: अलार्म</string>
-  <string name="volume_steps_dtmf_title">वॉल्यूम स्टेप्स: DTMF</string>
-  <string name="volume_steps_music_title">वॉल्यूम स्टेप्स: संगीत</string>
-  <string name="volume_steps_notification_title">वॉल्यूम स्टेप्स: सूचना</string>
-  <string name="volume_steps_ring_title">वॉल्यूम स्टेप्स: रिंगर</string>
-  <string name="volume_steps_system_title">वॉल्यूम स्टेप्स: सिस्टम</string>
-  <string name="volume_steps_voice_call_title">वॉल्यूम स्टेप्स: वॉयस कॉल</string>
-  <string name="volume_steps_reset">रीसेट</string>
-  <string name="volume_steps_60">60</string>
-  <string name="volume_steps_45">45</string>
-  <string name="volume_steps_30">30</string>
-  <string name="volume_steps_15">15</string>
-  <string name="volume_steps_7">7</string>
-  <string name="volume_steps_5">5</string>
-  <!-- OpenDelta updates -->
-  <string name="deltaupdate_settings_title">सिस्टम अपडेट</string>
-  <!-- Optional screenshot type -->
-  <string name="screenshot_type_title">स्क्रीनशॉट प्रकार</string>
-  <string name="screenshot_type_fullscreen">पूरी स्क्रीन का स्क्रीनशॉट लें</string>
-  <string name="screenshot_type_partial">एक आंशिक स्क्रीनशॉट लेने के लिए चयन खींचें</string>
-  <!-- Quick unlock -->
-  <string name="unlock_quick_unlock_control_title">तुरन्त अनलॉक</string>
-  <string name="unlock_quick_unlock_control_summary_password">स्वचालित रूप से अनलॉक जब सही पिन/पासवर्ड दर्ज किया गया है</string>
-  <string name="unlock_quick_unlock_control_summary_pin">स्वचालित रूप से अनलॉक जब सही पिन दर्ज किया गया है</string>
-  <!-- Notification Ticker -->
-  <string name="ticker_title">टिककर</string>
-  <string name="ticker_summary">प्राथमिकता वाली सूचनाएं प्रदर्शित स्थिति पट्टी में</string>
-  <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">टिकर संगीत पटरियों</string>
-  <string name="ticker_track_summary">जब एक नया ट्रैक खेलता मेटाडेटा दिखाएँ</string>
-  <!-- Secure lockscreen -->
-  <string name="lockscreen_enable_power_menu_title">सुरक्षित lockscreen</string>
-  <string name="lockscreen_enable_power_menu_summary">त्वरित सेटिंग्स और पावर मेनू करने के लिए पहुँच को रोकने</string>
-  <!-- Settings suggestions  -->
-  <string name="disable_settings_suggestions_title">सुझाव अक्षम करें</string>
-  <!-- Custom carrier label and position -->
-  <string name="keyguard_show_carrier_title">वाहक लेबल छुपाएँ</string>
-  <string name="keyguard_show_carrier_summary">वाहक लेबल कुंजीकवच पर छुपाएँ</string>
-  <string name="custom_carrier_label_title">कस्टम वाहक लेबल</string>
-  <string name="custom_carrier_label_explain">कृपया कोई नया लेबल दर्ज करें या स्टॉक लेबल करने के लिए वापस जाने के लिए खाली छोड़ दें</string>
-  <string name="custom_carrier_label_notset">वर्तमान में कस्टम लेबल सेट नहीं</string>
-  <string name="one_hand_mode_title">एक हाथ मोड</string>
-  <string name="one_hand_mode_summary">एक हाथ मोड को सक्षम करने के लिए नेविगेशन पट्टी पर ज़ोर से मारना</string>
-  <!-- Advanced night mode brightness -->
-  <string name="night_brightness_category">स्क्रीन की रोशनी</string>
-  <string name="night_brightness_value_title">रात प्रकाश चमक</string>
-  <string name="night_brightness_text">नाइट लाइट सक्षम करते हैं, स्वचालित रूप से वांछित चमक सेट।</string>
-  <string name="night_bright_disabled">असक्षम</string>
-  <string name="night_bright_min">कम से कम चमक</string>
-  <string name="night_bright_low">कम चमक</string>
-  <string name="night_bright_medium">मध्यम चमक</string>
-  <string name="magisk_title">Magisk प्रबंधक</string>
-  <string name="magisk_summary">नियंत्रण मॉड्यूल और सेटिंग्स</string>
-  <string name="substratum_title">सब्स्त्राटम</string>
-  <string name="substratum_summary">डिवाइस थीम को अनुकूलित करें</string>
-  <!-- Incall vibrate options -->
-  <string name="incall_vibrate_connect_title">कंपन पर कॉल कनेक्ट</string>
-  <string name="incall_vibrate_call_wait_title">कॉल प्रतीक्षा पर कंपन</string>
-  <string name="incall_vibrate_disconnect_title">कंपन पर कॉल डिस्कनेक्ट करें</string>
-  <string name="doze_brightness_level_title">परिवेशी प्रदर्शन चमक</string>
-  <string name="doze_brightness_level_summary">परिवेशी प्रदर्शन के लिए चमक स्तर समायोजित करें</string>
-  <!-- Heads up timeout -->
-  <string name="heads_up_time_out_title">मध्यांतर तक सिर</string>
-  <string name="heads_up_time_out_summary">सूचनाएँ ऊपर सिर के लिए <xliff:g id="number">%d </xliff:g> सेकंड दिखाई देगा</string>
-  <string name="heads_up_time_out_2sec">2 सेकंड</string>
-  <string name="heads_up_time_out_4sec">4 सेकंड</string>
-  <string name="heads_up_time_out_5sec">5 सेकंड</string>
-  <string name="heads_up_time_out_6sec">6 सेकंड</string>
-  <string name="heads_up_time_out_8sec">8 सेकंड</string>
-  <string name="heads_up_time_out_10sec">10 सेकंड</string>
-  <!-- Heads up snooze -->
-  <string name="heads_up_snooze_title">सिर ऊपर झपकी लेना</string>
-  <string name="heads_up_snooze_summary_one_minute">सूचनाएँ ऊपर सिर पर ऊपर स्वाइप करके उन्हें 1 मिनट के लिए उस अनुप्रयोग के लिए दिन में झपकी लेना होगा</string>
-  <string name="heads_up_snooze_summary">सूचनाएँ ऊपर सिर पर ऊपर स्वाइप करके उन्हें <xliff:g id="number">%d </xliff:g> मिनट के लिए उस अनुप्रयोग के लिए दिन में झपकी लेना होगा</string>
-  <string name="heads_up_snooze_disabled_summary">दिन में झपकी लेना अक्षम किया गया है</string>
-  <string name="heads_up_snooze_1min">1 मिनट</string>
-  <string name="heads_up_snooze_3min">3 मिनट</string>
-  <string name="heads_up_snooze_5min">5 मिनट</string>
-  <string name="heads_up_snooze_10min">10 मिनट</string>
-  <string name="heads_up_snooze_15min">15 मिनट</string>
-  <string name="heads_up_snooze_20min">20 मिनट</string>
-  <!-- Recents panel settings -->
-  <string name="show_clear_all_recents_button_title">स्पष्ट सभी बटन को सक्षम</string>
-  <string name="show_clear_all_recents_button_summary">हाल ही में स्पष्ट सभी बटन दिखाएँ</string>
-  <string name="recents_clear_all_location_title">सभी बटन स्थान रिक्त करें</string>
-  <string name="recents_clear_all_location_stock">ऊपरी दाईं ओर (स्वत: छुपाएँ)</string>
-  <string name="recents_clear_all_location_top_right">ऊपरी दाईं ओर स्थित</string>
-  <string name="recents_clear_all_location_top_left">शीर्ष बाएँ</string>
-  <string name="recents_clear_all_location_top_center">ऊपर मध्य</string>
-  <string name="recents_clear_all_location_bottom_right">नीचे-दाएँ</string>
-  <string name="recents_clear_all_location_bottom_left">नीचे बाएँ</string>
-  <string name="recents_clear_all_location_bottom_center">नीचे मध्य</string>
-  <!-- Battery stats reset -->
-  <string name="battery_stats_reset">आँकड़े रीसेट करें</string>
-  <string name="battery_stats_message">बैटरी इतिहास हटा दिया जाएगा</string>
-  <string name="ok_string">ठीक है</string>
-  <!-- Fullscreen Keyboard -->
-  <string name="disable_fullscreen_keyboard_title">फुल स्क्रीन कुंजीपटल अक्षम करें</string>
-  <string name="disable_fullscreen_keyboard_summary">कीबोर्ड में लैंडस्केप पूरे स्क्रीन का उपयोग करने से रोकने</string>
-  <string name="tile_summary_title">सारांश को अक्षम करें</string>
-  <string name="notification_light_zen_mode">सूचना प्रकाश</string>
-  <string name="battery_light_zen_mode">बैटरी प्रकाश</string>
-  <!-- Fingerprint unlock keystore -->
-  <string name="fp_unlock_keystore_title">फ़िंगरप्रिंट अनवरोधित</string>
-  <string name="fp_unlock_password_summary">डिवाइस के साथ फिंगरप्रिंट पासवर्ड के बिना रिबूट के बाद अनलॉक</string>
-  <string name="fp_unlock_pattern_summary">डिवाइस के साथ फिंगरप्रिंट पैटर्न के बिना रिबूट के बाद अनलॉक</string>
-  <string name="fp_unlock_pin_summary">पिन के बिना रिबूट के बाद अंगुली की छाप के साथ डिवाइस को अनलॉक</string>
-  <!-- Force expanded notifications -->
-  <string name="expanded_notifications_title">विस्तृत सूचना के लिए बाध्य</string>
-  <string name="expanded_notifications_summary">हमेशा जब समर्थित विस्तारित सूचनाएँ दिखाएँ</string>
-  <!-- Color engine -->
-  <string name="theme_switch_palette">प्राथमिक और उच्चारण रंगों के बीच स्विच करें</string>
-  <string name="theme_title">रंग इंजन</string>
-  <string name="theme_summary">अपने वर्तमान थीम के लिए अलग-अलग रंगों का चयन करें</string>
-  <string name="theme_accent_color">एक्सेंट रंग</string>
-  <string name="theme_primary_color">बैकग्राउंड रंग</string>
-  <string name="theme">थीम</string>
-  <string name="oms_enabled">थीम मोड उपलब्ध नहीं है, क्योंकि एक Substratum उपरिशायी वर्तमान में लागू किया जाता है</string>
-  <string name="red">लाल</string>
-  <string name="orange">नारंगी</string>
-  <string name="blue">गहरा हरिताभ नीला</string>
-  <string name="green">हरा</string>
-  <string name="yellow">पीला</string>
-  <string name="purple">बैंगनी</string>
-  <string name="pink">गुलाबी</string>
-  <string name="black">काला</string>
-  <string name="dark">डार्क</string>
-  <string name="pixel">पिक्सेल</string>
-  <string name="teal">नीला</string>
-  <string name="cyan">हरिनील</string>
-  <string name="grey">ग्रे</string>
-  <string name="white">सफ़ेद</string>
-  <!-- Force authorize substratum packages -->
-  <string name="force_authorize_substratum_packages_title">हर थीम ऐप को प्रबलता से अधिकृत करे</string>
-  <string name="force_authorize_substratum_packages_summary">अज्ञात स्रोतों से थीम ऐप की अनुमति दें</string>
-  <string name="dashboard_label">डैशबोर्ड</string>
-  <string name="miscellaneous_label">विविध</string>
-  <string name="two_columns_title">दो कॉलम</string>
-  <string name="headsup_label">हैड्स अप</string>
-  <string name="ticker_label">टिककर</string>
-  <string name="ticker_disabled">टिकर अक्षम है क्योंकि सिर सक्षम किया गया है</string>
-  <string name="headsup_disabled">टिकर सक्षम किया गया है, क्योंकि सिर को अक्षम किया गया है</string>
-  <string name="ringtones_title">रिंगटोन</string>
-  <string name="call_options_title">कॉल करने के विकल्प</string>
-  <!-- Recents -->
-  <string name="recents_label">हाल ही के</string>
-  <string name="immersive_recents_title">इमर्सिव मोड</string>
-  <string name="immersive_recents_summary">हाल ही में दृश्यों को बदलने</string>
-  <string name="immersive_recents_dialog_title">हाल ही विचारों को छिपाने के लिए का चयन करें</string>
-  <string name="immersive_recents_default">कुछ ना छिपाए</string>
-  <string name="immersive_recents_fullscreen">दोनों छुपाएँ</string>
-  <string name="immersive_recents_statusbar">नेविगेशन बार छुपाएँ</string>
-  <string name="immersive_recents_navbar">स्टेटस बार को छुपाएँ</string>
-  <string name="systemui_recents_mem_display_title">स्मृति पट्टी</string>
-  <string name="systemui_recents_mem_display_summary">हाल ही में प्रदर्शन स्मृति पट्टी</string>
-  <string name="recents_lock_icon_title">अवरोधित कार्य</string>
-  <string name="recents_lock_icon_summary">कार्य शीर्षक में ताला आइकन दिखाएँ</string>
-  <string name="recents_dismiss_icon_title">कार्य को ख़ारिज करें</string>
-  <string name="recents_dismiss_icon_summary">शो को खारिज कार्य शीर्षक में चिह्न</string>
-  <!-- Toast icon -->
-  <string name="toast_icon_title">टोस्ट चिह्न</string>
-  <string name="toast_icon_summary">टोस्ट संदेश जनरेट करता है गतिविधि के चिह्न प्रदर्शित करें</string>
-  <!-- Settings conditions  -->
-  <string name="disable_settings_conditions_title">शर्तें अक्षम करें</string>
-  <string name="theme_force_enabled_title">बल सक्षम रंग इंजन</string>
-  <string name="theme_force_enabled_summary">OMS के होने के बाद भी थीम जबरन सछम हो जाएगा</string>
-  <!-- Pie -->
-  <string name="pie_settings">पाइ नियंत्रण</string>
-  <string name="pie_gravity_title">पोर्ट्रेट स्थान</string>
-  <string name="pie_gravity_landscape_title">लैंडस्केप स्थान</string>
-  <string name="pie_gravity_bottom">नीचे</string>
-  <string name="pie_gravity_right">दाईं ओर</string>
-  <string name="pie_gravity_left">बाएँ</string>
-  <string name="pie_theme_mode_title">थीम</string>
-  <string name="pie_auto">आटोमेटिक</string>
-  <string name="pie_white">सफ़ेद</string>
-  <string name="pie_dark">डार्क</string>
-  <string name="pie_battery_title">बैटरी सूचक</string>
-  <string name="pie_battery_text">केवल टेक्स्ट</string>
-  <string name="pie_battery_circle">केवल वृत्त</string>
-  <string name="pie_battery_both">दोनों</string>
-  <string name="pie_status_indicator">नेटवर्क सूचक</string>
-  <string name="pie_status_wifi">केवल वाईफाई</string>
-  <string name="pie_status_mobile">केवल मोबाइल</string>
-  <string name="pie_status_none">कोई नहीं</string>
-  <string name="pie_status_both">दोनों</string>
+    <!-- Default left shortcut on lockscreen -->
+    <string name="left_default_voice_title">कुंजीकवच पर बाएँ शॉर्टकट</string>
+    <string name="left_default_voice_summary_on">डिफ़ॉल्ट शॉर्टकट आवाज सहायक है</string>
+    <string name="left_default_voice_summary_off">फोन डिफ़ॉल्ट शॉर्टकट है</string>
+    <!-- Hide the next alarm on lockscreen -->
+    <string name="show_next_alarm_lockscreen_title">अगला अलार्म दिखाएँ</string>
+    <string name="show_next_alarm_lockscreen_summary">लॉक स्क्रीन पर अगला अलार्म दिखाएं जब एक अलार्म सेट किया हुआ हो</string>
+    <!-- Disabling immersive mode messages -->
+    <string name="disable_immersive_message_title">इमर्सिव मोड संदेशों को बंद करें</string>
+    <string name="disable_immersive_message_summary">यह सभी इमर्सिव मोड संदेश छिपा देगा</string>
+    <!-- Volume Steps -->
+    <string name="volume_steps_title">वॉल्यूम स्टेप्स</string>
+    <string name="volume_steps_alarm_title">वॉल्यूम स्टेप्स: अलार्म</string>
+    <string name="volume_steps_dtmf_title">वॉल्यूम स्टेप्स: DTMF</string>
+    <string name="volume_steps_music_title">वॉल्यूम स्टेप्स: संगीत</string>
+    <string name="volume_steps_notification_title">वॉल्यूम स्टेप्स: सूचना</string>
+    <string name="volume_steps_ring_title">वॉल्यूम स्टेप्स: रिंगर</string>
+    <string name="volume_steps_system_title">वॉल्यूम स्टेप्स: सिस्टम</string>
+    <string name="volume_steps_voice_call_title">वॉल्यूम स्टेप्स: वॉयस कॉल</string>
+    <string name="volume_steps_reset">रीसेट</string>
+    <string name="volume_steps_60">60</string>
+    <string name="volume_steps_45">45</string>
+    <string name="volume_steps_30">30</string>
+    <string name="volume_steps_15">15</string>
+    <string name="volume_steps_7">7</string>
+    <string name="volume_steps_5">5</string>
+    <!-- OpenDelta updates -->
+    <string name="deltaupdate_settings_title">सिस्टम अपडेट</string>
+    <!-- Optional screenshot type -->
+    <string name="screenshot_type_title">स्क्रीनशॉट प्रकार</string>
+    <string name="screenshot_type_fullscreen">पूरी स्क्रीन का स्क्रीनशॉट लें</string>
+    <string name="screenshot_type_partial">एक आंशिक स्क्रीनशॉट लेने के लिए चयन खींचें</string>
+    <!-- Quick unlock -->
+    <string name="unlock_quick_unlock_control_title">तुरन्त अनलॉक</string>
+    <string name="unlock_quick_unlock_control_summary_password">स्वचालित रूप से अनलॉक जब सही पिन/पासवर्ड दर्ज किया गया है</string>
+    <string name="unlock_quick_unlock_control_summary_pin">स्वचालित रूप से अनलॉक जब सही पिन दर्ज किया गया है</string>
+    <!-- Notification Ticker -->
+    <string name="ticker_title">टिककर</string>
+    <string name="ticker_summary">प्राथमिकता वाली सूचनाएं प्रदर्शित स्थिति पट्टी में</string>
+    <!-- Notification Ticker Track-->
+    <string name="ticker_track_title">टिकर संगीत पटरियों</string>
+    <string name="ticker_track_summary">जब एक नया ट्रैक खेलता मेटाडेटा दिखाएँ</string>
+    <!-- Secure lockscreen -->
+    <string name="lockscreen_enable_power_menu_title">सुरक्षित lockscreen</string>
+    <string name="lockscreen_enable_power_menu_summary">त्वरित सेटिंग्स और पावर मेनू करने के लिए पहुँच को रोकने</string>
+    <!-- Settings suggestions  -->
+    <string name="disable_settings_suggestions_title">सुझाव अक्षम करें</string>
+    <!-- Custom carrier label and position -->
+    <string name="keyguard_show_carrier_title">वाहक लेबल छुपाएँ</string>
+    <string name="keyguard_show_carrier_summary">वाहक लेबल कुंजीकवच पर छुपाएँ</string>
+    <string name="custom_carrier_label_title">कस्टम वाहक लेबल</string>
+    <string name="custom_carrier_label_explain">कृपया कोई नया लेबल दर्ज करें या स्टॉक लेबल करने के लिए वापस जाने के लिए खाली छोड़ दें</string>
+    <string name="custom_carrier_label_notset">वर्तमान में कस्टम लेबल सेट नहीं</string>
+    <string name="one_hand_mode_title">एक हाथ मोड</string>
+    <string name="one_hand_mode_summary">एक हाथ मोड को सक्षम करने के लिए नेविगेशन पट्टी पर ज़ोर से मारना</string>
+    <!-- Advanced night mode brightness -->
+    <string name="night_brightness_category">स्क्रीन की रोशनी</string>
+    <string name="night_brightness_value_title">रात प्रकाश चमक</string>
+    <string name="night_brightness_text">नाइट लाइट सक्षम करते हैं, स्वचालित रूप से वांछित चमक सेट।</string>
+    <string name="night_bright_disabled">असक्षम</string>
+    <string name="night_bright_min">कम से कम चमक</string>
+    <string name="night_bright_low">कम चमक</string>
+    <string name="night_bright_medium">मध्यम चमक</string>
+    <string name="magisk_title">Magisk प्रबंधक</string>
+    <string name="magisk_summary">नियंत्रण मॉड्यूल और सेटिंग्स</string>
+    <string name="substratum_title">सब्स्त्राटम</string>
+    <string name="substratum_summary">डिवाइस थीम को अनुकूलित करें</string>
+    <!-- Incall vibrate options -->
+    <string name="incall_vibrate_connect_title">कंपन पर कॉल कनेक्ट</string>
+    <string name="incall_vibrate_call_wait_title">कॉल प्रतीक्षा पर कंपन</string>
+    <string name="incall_vibrate_disconnect_title">कंपन पर कॉल डिस्कनेक्ट करें</string>
+    <string name="doze_brightness_level_title">परिवेशी प्रदर्शन चमक</string>
+    <string name="doze_brightness_level_summary">परिवेशी प्रदर्शन के लिए चमक स्तर समायोजित करें</string>
+    <!-- Heads up timeout -->
+    <string name="heads_up_time_out_title">मध्यांतर तक सिर</string>
+    <string name="heads_up_time_out_summary">सूचनाएँ ऊपर सिर के लिए <xliff:g id="number">%d </xliff:g> सेकंड दिखाई देगा</string>
+    <string name="heads_up_time_out_2sec">2 सेकंड</string>
+    <string name="heads_up_time_out_4sec">4 सेकंड</string>
+    <string name="heads_up_time_out_5sec">5 सेकंड</string>
+    <string name="heads_up_time_out_6sec">6 सेकंड</string>
+    <string name="heads_up_time_out_8sec">8 सेकंड</string>
+    <string name="heads_up_time_out_10sec">10 सेकंड</string>
+    <!-- Heads up snooze -->
+    <string name="heads_up_snooze_title">सिर ऊपर झपकी लेना</string>
+    <string name="heads_up_snooze_summary_one_minute">सूचनाएँ ऊपर सिर पर ऊपर स्वाइप करके उन्हें 1 मिनट के लिए उस अनुप्रयोग के लिए दिन में झपकी लेना होगा</string>
+    <string name="heads_up_snooze_summary">सूचनाएँ ऊपर सिर पर ऊपर स्वाइप करके उन्हें <xliff:g id="number">%d </xliff:g> मिनट के लिए उस अनुप्रयोग के लिए दिन में झपकी लेना होगा</string>
+    <string name="heads_up_snooze_disabled_summary">दिन में झपकी लेना अक्षम किया गया है</string>
+    <string name="heads_up_snooze_1min">1 मिनट</string>
+    <string name="heads_up_snooze_3min">3 मिनट</string>
+    <string name="heads_up_snooze_5min">5 मिनट</string>
+    <string name="heads_up_snooze_10min">10 मिनट</string>
+    <string name="heads_up_snooze_15min">15 मिनट</string>
+    <string name="heads_up_snooze_20min">20 मिनट</string>
+    <!-- Recents panel settings -->
+    <string name="show_clear_all_recents_button_title">स्पष्ट सभी बटन को सक्षम</string>
+    <string name="show_clear_all_recents_button_summary">हाल ही में स्पष्ट सभी बटन दिखाएँ</string>
+    <string name="recents_clear_all_location_title">सभी बटन स्थान रिक्त करें</string>
+    <string name="recents_clear_all_location_stock">ऊपरी दाईं ओर (स्वत: छुपाएँ)</string>
+    <string name="recents_clear_all_location_top_right">ऊपरी दाईं ओर स्थित</string>
+    <string name="recents_clear_all_location_top_left">शीर्ष बाएँ</string>
+    <string name="recents_clear_all_location_top_center">ऊपर मध्य</string>
+    <string name="recents_clear_all_location_bottom_right">नीचे-दाएँ</string>
+    <string name="recents_clear_all_location_bottom_left">नीचे बाएँ</string>
+    <string name="recents_clear_all_location_bottom_center">नीचे मध्य</string>
+    <!-- Battery stats reset -->
+    <string name="battery_stats_reset">आँकड़े रीसेट करें</string>
+    <string name="battery_stats_message">बैटरी इतिहास हटा दिया जाएगा</string>
+    <string name="ok_string">ठीक है</string>
+    <!-- Fullscreen Keyboard -->
+    <string name="disable_fullscreen_keyboard_title">फुल स्क्रीन कुंजीपटल अक्षम करें</string>
+    <string name="disable_fullscreen_keyboard_summary">कीबोर्ड में लैंडस्केप पूरे स्क्रीन का उपयोग करने से रोकने</string>
+    <string name="tile_summary_title">सारांश को अक्षम करें</string>
+    <string name="notification_light_zen_mode">सूचना प्रकाश</string>
+    <string name="battery_light_zen_mode">बैटरी प्रकाश</string>
+    <!-- Fingerprint unlock keystore -->
+    <string name="fp_unlock_keystore_title">फ़िंगरप्रिंट अनवरोधित</string>
+    <string name="fp_unlock_password_summary">डिवाइस के साथ फिंगरप्रिंट पासवर्ड के बिना रिबूट के बाद अनलॉक</string>
+    <string name="fp_unlock_pattern_summary">डिवाइस के साथ फिंगरप्रिंट पैटर्न के बिना रिबूट के बाद अनलॉक</string>
+    <string name="fp_unlock_pin_summary">पिन के बिना रिबूट के बाद अंगुली की छाप के साथ डिवाइस को अनलॉक</string>
+    <!-- Force expanded notifications -->
+    <string name="expanded_notifications_title">विस्तृत सूचना के लिए बाध्य</string>
+    <string name="expanded_notifications_summary">हमेशा जब समर्थित विस्तारित सूचनाएँ दिखाएँ</string>
+    <!-- Color engine -->
+    <string name="theme_switch_palette">प्राथमिक और उच्चारण रंगों के बीच स्विच करें</string>
+    <string name="theme_title">रंग इंजन</string>
+    <string name="theme_summary">अपने वर्तमान थीम के लिए अलग-अलग रंगों का चयन करें</string>
+    <string name="theme_accent_color">एक्सेंट रंग</string>
+    <string name="theme_primary_color">बैकग्राउंड रंग</string>
+    <string name="theme">थीम</string>
+    <string name="oms_enabled">थीम मोड उपलब्ध नहीं है, क्योंकि एक Substratum उपरिशायी वर्तमान में लागू किया जाता है</string>
+    <string name="red">लाल</string>
+    <string name="orange">नारंगी</string>
+    <string name="blue">गहरा हरिताभ नीला</string>
+    <string name="green">हरा</string>
+    <string name="yellow">पीला</string>
+    <string name="purple">बैंगनी</string>
+    <string name="pink">गुलाबी</string>
+    <string name="black">काला</string>
+    <string name="dark">डार्क</string>
+    <string name="pixel">पिक्सेल</string>
+    <string name="teal">नीला</string>
+    <string name="cyan">हरिनील</string>
+    <string name="grey">ग्रे</string>
+    <string name="white">सफ़ेद</string>
+    <!-- Force authorize substratum packages -->
+    <string name="force_authorize_substratum_packages_title">हर थीम ऐप को प्रबलता से अधिकृत करे</string>
+    <string name="force_authorize_substratum_packages_summary">अज्ञात स्रोतों से थीम ऐप की अनुमति दें</string>
+    <string name="dashboard_label">डैशबोर्ड</string>
+    <string name="miscellaneous_label">विविध</string>
+    <string name="two_columns_title">दो कॉलम</string>
+    <string name="headsup_label">हैड्स अप</string>
+    <string name="ticker_label">टिककर</string>
+    <string name="ticker_disabled">टिकर अक्षम है क्योंकि सिर सक्षम किया गया है</string>
+    <string name="headsup_disabled">टिकर सक्षम किया गया है, क्योंकि सिर को अक्षम किया गया है</string>
+    <string name="ringtones_title">रिंगटोन</string>
+    <string name="call_options_title">कॉल करने के विकल्प</string>
+    <!-- Recents -->
+    <string name="recents_label">हाल ही के</string>
+    <string name="immersive_recents_title">इमर्सिव मोड</string>
+    <string name="immersive_recents_summary">हाल ही में दृश्यों को बदलने</string>
+    <string name="immersive_recents_dialog_title">हाल ही विचारों को छिपाने के लिए का चयन करें</string>
+    <string name="immersive_recents_default">कुछ ना छिपाए</string>
+    <string name="immersive_recents_fullscreen">दोनों छुपाएँ</string>
+    <string name="immersive_recents_statusbar">नेविगेशन बार छुपाएँ</string>
+    <string name="immersive_recents_navbar">स्टेटस बार को छुपाएँ</string>
+    <string name="systemui_recents_mem_display_title">स्मृति पट्टी</string>
+    <string name="systemui_recents_mem_display_summary">हाल ही में प्रदर्शन स्मृति पट्टी</string>
+    <string name="recents_lock_icon_title">अवरोधित कार्य</string>
+    <string name="recents_lock_icon_summary">कार्य शीर्षक में ताला आइकन दिखाएँ</string>
+    <string name="recents_dismiss_icon_title">कार्य को ख़ारिज करें</string>
+    <string name="recents_dismiss_icon_summary">शो को खारिज कार्य शीर्षक में चिह्न</string>
+    <!-- Toast icon -->
+    <string name="toast_icon_title">टोस्ट चिह्न</string>
+    <string name="toast_icon_summary">टोस्ट संदेश जनरेट करता है गतिविधि के चिह्न प्रदर्शित करें</string>
+    <!-- Settings conditions  -->
+    <string name="disable_settings_conditions_title">शर्तें अक्षम करें</string>
+    <string name="theme_force_enabled_title">बल सक्षम रंग इंजन</string>
+    <string name="theme_force_enabled_summary">OMS के होने के बाद भी थीम जबरन सछम हो जाएगा</string>
+    <!-- Pie -->
+    <string name="pie_settings">पाइ नियंत्रण</string>
+    <string name="pie_gravity_title">पोर्ट्रेट स्थान</string>
+    <string name="pie_gravity_landscape_title">लैंडस्केप स्थान</string>
+    <string name="pie_gravity_bottom">नीचे</string>
+    <string name="pie_gravity_right">दाईं ओर</string>
+    <string name="pie_gravity_left">बाएँ</string>
+    <string name="pie_theme_mode_title">थीम</string>
+    <string name="pie_auto">आटोमेटिक</string>
+    <string name="pie_white">सफ़ेद</string>
+    <string name="pie_dark">डार्क</string>
+    <string name="pie_battery_title">बैटरी सूचक</string>
+    <string name="pie_battery_text">केवल टेक्स्ट</string>
+    <string name="pie_battery_circle">केवल वृत्त</string>
+    <string name="pie_battery_both">दोनों</string>
+    <string name="pie_status_indicator">नेटवर्क सूचक</string>
+    <string name="pie_status_wifi">केवल वाईफाई</string>
+    <string name="pie_status_mobile">केवल मोबाइल</string>
+    <string name="pie_status_none">कोई नहीं</string>
+    <string name="pie_status_both">दोनों</string>
 </resources>
