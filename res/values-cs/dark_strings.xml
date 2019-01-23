@@ -17,202 +17,202 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Default left shortcut on lockscreen -->
-  <string name="left_default_voice_title">Levá zkratka na zamykací obrazovce</string>
-  <string name="left_default_voice_summary_on">Výchozí zkratka je hlasový asistent</string>
-  <string name="left_default_voice_summary_off">Výchozí zkratka je telefon</string>
-  <!-- Hide the next alarm on lockscreen -->
-  <string name="show_next_alarm_lockscreen_title">Zobrazit čas následujícího budíku</string>
-  <string name="show_next_alarm_lockscreen_summary">Zobrazit oznámení budíku na zamykací obrazovce, pokud je budík nastaven</string>
-  <!-- Disabling immersive mode messages -->
-  <string name="disable_immersive_message_title">Zakázat rozšířený mód zpráv</string>
-  <string name="disable_immersive_message_summary">Toto skryje všechny zprávy rozšířeného režimu</string>
-  <!-- Volume Steps -->
-  <string name="volume_steps_title">Kroky hlasitosti</string>
-  <string name="volume_steps_alarm_title">Kroky hlasitosti: Budík</string>
-  <string name="volume_steps_dtmf_title">Kroky hlasitosti: DTMF</string>
-  <string name="volume_steps_music_title">Kroky hlasitosti: Hudba</string>
-  <string name="volume_steps_notification_title">Kroky hlasitosti: Upozornění</string>
-  <string name="volume_steps_ring_title">Kroky hlasitosti: Vyzvánění</string>
-  <string name="volume_steps_system_title">Kroky hlasitosti: Systémové zvuky</string>
-  <string name="volume_steps_voice_call_title">Kroky hlasitosti: Hlasové hovory</string>
-  <string name="volume_steps_reset">Resetovat</string>
-  <string name="volume_steps_60">60</string>
-  <string name="volume_steps_45">45</string>
-  <string name="volume_steps_30">30</string>
-  <string name="volume_steps_15">15</string>
-  <string name="volume_steps_7">7</string>
-  <string name="volume_steps_5">5</string>
-  <!-- OpenDelta updates -->
-  <string name="deltaupdate_settings_title">Aktualizace systému</string>
-  <!-- Optional screenshot type -->
-  <string name="screenshot_type_title">Typ snímku obrazovky</string>
-  <string name="screenshot_type_fullscreen">Zhotovit snímky celé obrazovky</string>
-  <string name="screenshot_type_partial">Přetáhněte pro výběr a proveďte částečný snímek obrazovky</string>
-  <!-- Quick unlock -->
-  <string name="unlock_quick_unlock_control_title">Rychlé odemknutí</string>
-  <string name="unlock_quick_unlock_control_summary_password">Automatické odemknutí, pokud je zadáno správné heslo</string>
-  <string name="unlock_quick_unlock_control_summary_pin">Automatické odemknutí, pokud je zadán správný PIN</string>
-  <!-- Notification Ticker -->
-  <string name="ticker_title">Text oznámení</string>
-  <string name="ticker_summary">Zobrazit prioritní oznámení ve stavové liště</string>
-  <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Názvy hudebních skladeb ve stavové liště</string>
-  <string name="ticker_track_summary">Zobrazí metadata při přehrávání nové skladby</string>
-  <!-- Secure lockscreen -->
-  <string name="lockscreen_enable_power_menu_title">Zabezpečená zamykací obrazovka</string>
-  <string name="lockscreen_enable_power_menu_summary">Zakázat přístup k rychlým nastavením a nabídce tlačítka Vypnout</string>
-  <!-- Settings suggestions  -->
-  <string name="disable_settings_suggestions_title">Zakázat návrhy</string>
-  <!-- Custom carrier label and position -->
-  <string name="keyguard_show_carrier_title">Skrýt název operátora</string>
-  <string name="keyguard_show_carrier_summary">Skrýt název operátora na zamykací obrazovce</string>
-  <string name="custom_carrier_label_title">Vlastní název operátora</string>
-  <string name="custom_carrier_label_explain">Zadejte prosím nový název nebo ponechte prázdné pro navrácení k původnímu</string>
-  <string name="custom_carrier_label_notset">Vlastní název není momentálně nastaven</string>
-  <string name="one_hand_mode_title">Režim jedné ruky</string>
-  <string name="one_hand_mode_summary">Přejetím přes navigační lištu povolíte režim jedné ruky</string>
-  <!-- Advanced night mode brightness -->
-  <string name="night_brightness_category">Jas</string>
-  <string name="night_brightness_value_title">Jas nočního osvětlení</string>
-  <string name="night_brightness_text">Při zapnutí nočního osvětlení automaticky nastavit požadovaný jas.</string>
-  <string name="night_bright_disabled">Vypnuto</string>
-  <string name="night_bright_min">Minimální jas</string>
-  <string name="night_bright_low">Nízký jas</string>
-  <string name="night_bright_medium">Střední jas</string>
-  <string name="magisk_title">Magisk Manager</string>
-  <string name="magisk_summary">Ovládací moduly a nastavení</string>
-  <string name="substratum_title">Substratum</string>
-  <string name="substratum_summary">Přizpůsobit motiv vzhledu zařízení</string>
-  <!-- Incall vibrate options -->
-  <string name="incall_vibrate_connect_title">Vibrovat při spojení hovoru</string>
-  <string name="incall_vibrate_call_wait_title">Vibrovat při čekajícím hovoru</string>
-  <string name="incall_vibrate_disconnect_title">Vibrovat při ukončení hovoru</string>
-  <string name="doze_brightness_level_title">Jas ambientního displeje</string>
-  <string name="doze_brightness_level_summary">Upravit úroveň jasu pro ambientní displej</string>
-  <!-- Heads up timeout -->
-  <string name="heads_up_time_out_title">Časový limit plovoucího oznámení</string>
-  <string name="heads_up_time_out_summary">Plovoucí oznámení budou zobrazena na <xliff:g id="number">%d</xliff:g> sekund</string>
-  <string name="heads_up_time_out_2sec">2 sekundy</string>
-  <string name="heads_up_time_out_4sec">4 sekundy</string>
-  <string name="heads_up_time_out_5sec">5 sekund</string>
-  <string name="heads_up_time_out_6sec">6 sekund</string>
-  <string name="heads_up_time_out_8sec">8 sekund</string>
-  <string name="heads_up_time_out_10sec">10 sekund</string>
-  <!-- Heads up snooze -->
-  <string name="heads_up_snooze_title">Odložení plovoucího oznámení</string>
-  <string name="heads_up_snooze_summary_one_minute">Přetažení plovoucích notifikací nahoru, je odloží pro danou aplikaci po dobu 1 minuty</string>
-  <string name="heads_up_snooze_summary">Přetažení plovoucích notifikací nahoru, je odloží pro danou aplikaci po dobu <xliff:g id="number">%d</xliff:g> min</string>
-  <string name="heads_up_snooze_disabled_summary">Odložení je deaktivováno</string>
-  <string name="heads_up_snooze_1min">1 minuta</string>
-  <string name="heads_up_snooze_3min">3 minuty</string>
-  <string name="heads_up_snooze_5min">5 minut</string>
-  <string name="heads_up_snooze_10min">10 minut</string>
-  <string name="heads_up_snooze_15min">15 minut</string>
-  <string name="heads_up_snooze_20min">20 minut</string>
-  <!-- Recents panel settings -->
-  <string name="show_clear_all_recents_button_title">Povolit tlačítko \"Vyčistit vše\"</string>
-  <string name="show_clear_all_recents_button_summary">Zobrazit tlačítko \"Vyčistit vše\" v zobrazení nedávných aplikací</string>
-  <string name="recents_clear_all_location_title">Pozice tlačítka \"Vyčistit vše\"</string>
-  <string name="recents_clear_all_location_stock">Vpravo nahoře (automaticky skrývat)</string>
-  <string name="recents_clear_all_location_top_right">Vpravo nahoře</string>
-  <string name="recents_clear_all_location_top_left">Vlevo nahoře</string>
-  <string name="recents_clear_all_location_top_center">Nahoře uprostřed</string>
-  <string name="recents_clear_all_location_bottom_right">Vpravo dole</string>
-  <string name="recents_clear_all_location_bottom_left">Vlevo dole</string>
-  <string name="recents_clear_all_location_bottom_center">Dole uprostřed</string>
-  <!-- Battery stats reset -->
-  <string name="battery_stats_reset">Vynulovat statistiky</string>
-  <string name="battery_stats_message">Historie baterie bude odstraněna</string>
-  <string name="ok_string">Ok</string>
-  <!-- Fullscreen Keyboard -->
-  <string name="disable_fullscreen_keyboard_title">Zákazat klávesnici přes celou obrazovku</string>
-  <string name="disable_fullscreen_keyboard_summary">Zabránit klávesnici používat celou obrazovku v režimu na šířku</string>
-  <string name="tile_summary_title">Zakázat souhrny</string>
-  <string name="notification_light_zen_mode">Notifikační LED</string>
-  <string name="battery_light_zen_mode">Světelná signalizace stavu baterie</string>
-  <!-- Fingerprint unlock keystore -->
-  <string name="fp_unlock_keystore_title">Odemknutí otiskem prstu</string>
-  <string name="fp_unlock_password_summary">Odemknutí zařízení pomocí otisku prstu po restartu bez zadání hesla</string>
-  <string name="fp_unlock_pattern_summary">Odemknutí zařízení pomocí otisku prstu po restartu bez zadání vzoru</string>
-  <string name="fp_unlock_pin_summary">Odemknutí zařízení pomocí otisku prstu po restartu bez zadání PINu</string>
-  <!-- Force expanded notifications -->
-  <string name="expanded_notifications_title">Vynutit rozšířené notifikace</string>
-  <string name="expanded_notifications_summary">Vždy zobrazovat rozšířené oznámení, pokud je podporováno</string>
-  <!-- Color engine -->
-  <string name="theme_switch_palette">Přepínání mezi barvou pozadí a doplňkovými barvami</string>
-  <string name="theme_title">Nastavení barev</string>
-  <string name="theme_summary">Vybrat různé barvy pro aktuální motiv</string>
-  <string name="theme_accent_color">Doplňková barva</string>
-  <string name="theme_primary_color">Barva pozadí</string>
-  <string name="theme">Motiv</string>
-  <string name="oms_enabled">Režim motivů není k dispozici, protože je momentálně aplikován Substratum motiv</string>
-  <string name="red">Červená</string>
-  <string name="orange">Oranžová</string>
-  <string name="blue">Šedozelená</string>
-  <string name="green">Zelená</string>
-  <string name="yellow">Žlutá</string>
-  <string name="purple">Fialová</string>
-  <string name="pink">Růžová</string>
-  <string name="black">Černá</string>
-  <string name="dark">Tmavý</string>
-  <string name="pixel">Pixel</string>
-  <string name="teal">Modrá</string>
-  <string name="cyan">Tyrkysová</string>
-  <string name="grey">Šedá</string>
-  <string name="white">Bílá</string>
-  <!-- Force authorize substratum packages -->
-  <string name="force_authorize_substratum_packages_title">Vyžadovat povolení pro každý motiv</string>
-  <string name="force_authorize_substratum_packages_summary">Povolit instalaci motivů z neznámých zdrojů</string>
-  <string name="dashboard_label">Hlavní panel</string>
-  <string name="miscellaneous_label">Různé</string>
-  <string name="two_columns_title">Dva sloupce</string>
-  <string name="headsup_label">Plovoucí upozornění</string>
-  <string name="ticker_label">Text oznámení</string>
-  <string name="ticker_disabled">Text oznámení je zakázán, je povoleno plovoucí upozornění</string>
-  <string name="headsup_disabled">Plovoucí upozornění je zakázáno, je povolen text oznámení</string>
-  <string name="ringtones_title">Vyzváněcí tóny</string>
-  <string name="call_options_title">Možnosti volání</string>
-  <!-- Recents -->
-  <string name="recents_label">Nedávné</string>
-  <string name="immersive_recents_title">Režim celé obrazovky</string>
-  <string name="immersive_recents_summary">Změna zobrazení v seznamu historie</string>
-  <string name="immersive_recents_dialog_title">Vyberte skrýt zobrazení nedávné historie</string>
-  <string name="immersive_recents_default">Nic neskrývat</string>
-  <string name="immersive_recents_fullscreen">Skrýt obojí</string>
-  <string name="immersive_recents_statusbar">Skrýt navigační panel</string>
-  <string name="immersive_recents_navbar">Skrýt stavovou lištu</string>
-  <string name="systemui_recents_mem_display_title">Ukazatel paměti</string>
-  <string name="systemui_recents_mem_display_summary">Zobrazit ukazatel paměti v seznamu historie</string>
-  <string name="recents_lock_icon_title">Uzamknout</string>
-  <string name="recents_lock_icon_summary">Zobrazit ikonu zámku v záhlaví úloh</string>
-  <string name="recents_dismiss_icon_title">Odstranit úlohu</string>
-  <string name="recents_dismiss_icon_summary">Zobrazit ikonu \"odstranit\" v záhlaví úloh</string>
-  <!-- Toast icon -->
-  <string name="toast_icon_title">Ikona oznámení</string>
-  <string name="toast_icon_summary">Zobrazit ikonu aktivit generující zprávu oznámení</string>
-  <!-- Settings conditions  -->
-  <string name="disable_settings_conditions_title">Zakázat podmínky</string>
-  <string name="theme_force_enabled_title">Vynuceně povolit správce motivů</string>
-  <string name="theme_force_enabled_summary">Správce motivů bude vynuceně povolen bez ohledu na stav OMS</string>
-  <!-- Pie -->
-  <string name="pie_settings">Ovládání PIE</string>
-  <string name="pie_gravity_title">Umístění v režimu na výšku</string>
-  <string name="pie_gravity_landscape_title">Umístění v režimu na šířku</string>
-  <string name="pie_gravity_bottom">Dole</string>
-  <string name="pie_gravity_right">Vpravo</string>
-  <string name="pie_gravity_left">Vlevo</string>
-  <string name="pie_theme_mode_title">Motiv</string>
-  <string name="pie_auto">Automaticky</string>
-  <string name="pie_white">Bílá</string>
-  <string name="pie_dark">Tmavý</string>
-  <string name="pie_battery_title">Indikátor baterie</string>
-  <string name="pie_battery_text">Pouze text</string>
-  <string name="pie_battery_circle">Pouze kruh</string>
-  <string name="pie_battery_both">Obojí</string>
-  <string name="pie_status_indicator">Indikátor sítě</string>
-  <string name="pie_status_wifi">Pouze WiFi</string>
-  <string name="pie_status_mobile">Pouze mobilní data</string>
-  <string name="pie_status_none">Žádné</string>
-  <string name="pie_status_both">Obojí</string>
+    <!-- Default left shortcut on lockscreen -->
+    <string name="left_default_voice_title">Levá zkratka na zamykací obrazovce</string>
+    <string name="left_default_voice_summary_on">Výchozí zkratka je hlasový asistent</string>
+    <string name="left_default_voice_summary_off">Výchozí zkratka je telefon</string>
+    <!-- Hide the next alarm on lockscreen -->
+    <string name="show_next_alarm_lockscreen_title">Zobrazit čas následujícího budíku</string>
+    <string name="show_next_alarm_lockscreen_summary">Zobrazit oznámení budíku na zamykací obrazovce, pokud je budík nastaven</string>
+    <!-- Disabling immersive mode messages -->
+    <string name="disable_immersive_message_title">Zakázat rozšířený mód zpráv</string>
+    <string name="disable_immersive_message_summary">Toto skryje všechny zprávy rozšířeného režimu</string>
+    <!-- Volume Steps -->
+    <string name="volume_steps_title">Kroky hlasitosti</string>
+    <string name="volume_steps_alarm_title">Kroky hlasitosti: Budík</string>
+    <string name="volume_steps_dtmf_title">Kroky hlasitosti: DTMF</string>
+    <string name="volume_steps_music_title">Kroky hlasitosti: Hudba</string>
+    <string name="volume_steps_notification_title">Kroky hlasitosti: Upozornění</string>
+    <string name="volume_steps_ring_title">Kroky hlasitosti: Vyzvánění</string>
+    <string name="volume_steps_system_title">Kroky hlasitosti: Systémové zvuky</string>
+    <string name="volume_steps_voice_call_title">Kroky hlasitosti: Hlasové hovory</string>
+    <string name="volume_steps_reset">Resetovat</string>
+    <string name="volume_steps_60">60</string>
+    <string name="volume_steps_45">45</string>
+    <string name="volume_steps_30">30</string>
+    <string name="volume_steps_15">15</string>
+    <string name="volume_steps_7">7</string>
+    <string name="volume_steps_5">5</string>
+    <!-- OpenDelta updates -->
+    <string name="deltaupdate_settings_title">Aktualizace systému</string>
+    <!-- Optional screenshot type -->
+    <string name="screenshot_type_title">Typ snímku obrazovky</string>
+    <string name="screenshot_type_fullscreen">Zhotovit snímky celé obrazovky</string>
+    <string name="screenshot_type_partial">Přetáhněte pro výběr a proveďte částečný snímek obrazovky</string>
+    <!-- Quick unlock -->
+    <string name="unlock_quick_unlock_control_title">Rychlé odemknutí</string>
+    <string name="unlock_quick_unlock_control_summary_password">Automatické odemknutí, pokud je zadáno správné heslo</string>
+    <string name="unlock_quick_unlock_control_summary_pin">Automatické odemknutí, pokud je zadán správný PIN</string>
+    <!-- Notification Ticker -->
+    <string name="ticker_title">Text oznámení</string>
+    <string name="ticker_summary">Zobrazit prioritní oznámení ve stavové liště</string>
+    <!-- Notification Ticker Track-->
+    <string name="ticker_track_title">Názvy hudebních skladeb ve stavové liště</string>
+    <string name="ticker_track_summary">Zobrazí metadata při přehrávání nové skladby</string>
+    <!-- Secure lockscreen -->
+    <string name="lockscreen_enable_power_menu_title">Zabezpečená zamykací obrazovka</string>
+    <string name="lockscreen_enable_power_menu_summary">Zakázat přístup k rychlým nastavením a nabídce tlačítka Vypnout</string>
+    <!-- Settings suggestions  -->
+    <string name="disable_settings_suggestions_title">Zakázat návrhy</string>
+    <!-- Custom carrier label and position -->
+    <string name="keyguard_show_carrier_title">Skrýt název operátora</string>
+    <string name="keyguard_show_carrier_summary">Skrýt název operátora na zamykací obrazovce</string>
+    <string name="custom_carrier_label_title">Vlastní název operátora</string>
+    <string name="custom_carrier_label_explain">Zadejte prosím nový název nebo ponechte prázdné pro navrácení k původnímu</string>
+    <string name="custom_carrier_label_notset">Vlastní název není momentálně nastaven</string>
+    <string name="one_hand_mode_title">Režim jedné ruky</string>
+    <string name="one_hand_mode_summary">Přejetím přes navigační lištu povolíte režim jedné ruky</string>
+    <!-- Advanced night mode brightness -->
+    <string name="night_brightness_category">Jas</string>
+    <string name="night_brightness_value_title">Jas nočního osvětlení</string>
+    <string name="night_brightness_text">Při zapnutí nočního osvětlení automaticky nastavit požadovaný jas.</string>
+    <string name="night_bright_disabled">Vypnuto</string>
+    <string name="night_bright_min">Minimální jas</string>
+    <string name="night_bright_low">Nízký jas</string>
+    <string name="night_bright_medium">Střední jas</string>
+    <string name="magisk_title">Magisk Manager</string>
+    <string name="magisk_summary">Ovládací moduly a nastavení</string>
+    <string name="substratum_title">Substratum</string>
+    <string name="substratum_summary">Přizpůsobit motiv vzhledu zařízení</string>
+    <!-- Incall vibrate options -->
+    <string name="incall_vibrate_connect_title">Vibrovat při spojení hovoru</string>
+    <string name="incall_vibrate_call_wait_title">Vibrovat při čekajícím hovoru</string>
+    <string name="incall_vibrate_disconnect_title">Vibrovat při ukončení hovoru</string>
+    <string name="doze_brightness_level_title">Jas ambientního displeje</string>
+    <string name="doze_brightness_level_summary">Upravit úroveň jasu pro ambientní displej</string>
+    <!-- Heads up timeout -->
+    <string name="heads_up_time_out_title">Časový limit plovoucího oznámení</string>
+    <string name="heads_up_time_out_summary">Plovoucí oznámení budou zobrazena na <xliff:g id="number">%d</xliff:g> sekund</string>
+    <string name="heads_up_time_out_2sec">2 sekundy</string>
+    <string name="heads_up_time_out_4sec">4 sekundy</string>
+    <string name="heads_up_time_out_5sec">5 sekund</string>
+    <string name="heads_up_time_out_6sec">6 sekund</string>
+    <string name="heads_up_time_out_8sec">8 sekund</string>
+    <string name="heads_up_time_out_10sec">10 sekund</string>
+    <!-- Heads up snooze -->
+    <string name="heads_up_snooze_title">Odložení plovoucího oznámení</string>
+    <string name="heads_up_snooze_summary_one_minute">Přetažení plovoucích notifikací nahoru, je odloží pro danou aplikaci po dobu 1 minuty</string>
+    <string name="heads_up_snooze_summary">Přetažení plovoucích notifikací nahoru, je odloží pro danou aplikaci po dobu <xliff:g id="number">%d</xliff:g> min</string>
+    <string name="heads_up_snooze_disabled_summary">Odložení je deaktivováno</string>
+    <string name="heads_up_snooze_1min">1 minuta</string>
+    <string name="heads_up_snooze_3min">3 minuty</string>
+    <string name="heads_up_snooze_5min">5 minut</string>
+    <string name="heads_up_snooze_10min">10 minut</string>
+    <string name="heads_up_snooze_15min">15 minut</string>
+    <string name="heads_up_snooze_20min">20 minut</string>
+    <!-- Recents panel settings -->
+    <string name="show_clear_all_recents_button_title">Povolit tlačítko \"Vyčistit vše\"</string>
+    <string name="show_clear_all_recents_button_summary">Zobrazit tlačítko \"Vyčistit vše\" v zobrazení nedávných aplikací</string>
+    <string name="recents_clear_all_location_title">Pozice tlačítka \"Vyčistit vše\"</string>
+    <string name="recents_clear_all_location_stock">Vpravo nahoře (automaticky skrývat)</string>
+    <string name="recents_clear_all_location_top_right">Vpravo nahoře</string>
+    <string name="recents_clear_all_location_top_left">Vlevo nahoře</string>
+    <string name="recents_clear_all_location_top_center">Nahoře uprostřed</string>
+    <string name="recents_clear_all_location_bottom_right">Vpravo dole</string>
+    <string name="recents_clear_all_location_bottom_left">Vlevo dole</string>
+    <string name="recents_clear_all_location_bottom_center">Dole uprostřed</string>
+    <!-- Battery stats reset -->
+    <string name="battery_stats_reset">Vynulovat statistiky</string>
+    <string name="battery_stats_message">Historie baterie bude odstraněna</string>
+    <string name="ok_string">Ok</string>
+    <!-- Fullscreen Keyboard -->
+    <string name="disable_fullscreen_keyboard_title">Zákazat klávesnici přes celou obrazovku</string>
+    <string name="disable_fullscreen_keyboard_summary">Zabránit klávesnici používat celou obrazovku v režimu na šířku</string>
+    <string name="tile_summary_title">Zakázat souhrny</string>
+    <string name="notification_light_zen_mode">Notifikační LED</string>
+    <string name="battery_light_zen_mode">Světelná signalizace stavu baterie</string>
+    <!-- Fingerprint unlock keystore -->
+    <string name="fp_unlock_keystore_title">Odemknutí otiskem prstu</string>
+    <string name="fp_unlock_password_summary">Odemknutí zařízení pomocí otisku prstu po restartu bez zadání hesla</string>
+    <string name="fp_unlock_pattern_summary">Odemknutí zařízení pomocí otisku prstu po restartu bez zadání vzoru</string>
+    <string name="fp_unlock_pin_summary">Odemknutí zařízení pomocí otisku prstu po restartu bez zadání PINu</string>
+    <!-- Force expanded notifications -->
+    <string name="expanded_notifications_title">Vynutit rozšířené notifikace</string>
+    <string name="expanded_notifications_summary">Vždy zobrazovat rozšířené oznámení, pokud je podporováno</string>
+    <!-- Color engine -->
+    <string name="theme_switch_palette">Přepínání mezi barvou pozadí a doplňkovými barvami</string>
+    <string name="theme_title">Nastavení barev</string>
+    <string name="theme_summary">Vybrat různé barvy pro aktuální motiv</string>
+    <string name="theme_accent_color">Doplňková barva</string>
+    <string name="theme_primary_color">Barva pozadí</string>
+    <string name="theme">Motiv</string>
+    <string name="oms_enabled">Režim motivů není k dispozici, protože je momentálně aplikován Substratum motiv</string>
+    <string name="red">Červená</string>
+    <string name="orange">Oranžová</string>
+    <string name="blue">Šedozelená</string>
+    <string name="green">Zelená</string>
+    <string name="yellow">Žlutá</string>
+    <string name="purple">Fialová</string>
+    <string name="pink">Růžová</string>
+    <string name="black">Černá</string>
+    <string name="dark">Tmavý</string>
+    <string name="pixel">Pixel</string>
+    <string name="teal">Modrá</string>
+    <string name="cyan">Tyrkysová</string>
+    <string name="grey">Šedá</string>
+    <string name="white">Bílá</string>
+    <!-- Force authorize substratum packages -->
+    <string name="force_authorize_substratum_packages_title">Vyžadovat povolení pro každý motiv</string>
+    <string name="force_authorize_substratum_packages_summary">Povolit instalaci motivů z neznámých zdrojů</string>
+    <string name="dashboard_label">Hlavní panel</string>
+    <string name="miscellaneous_label">Různé</string>
+    <string name="two_columns_title">Dva sloupce</string>
+    <string name="headsup_label">Plovoucí upozornění</string>
+    <string name="ticker_label">Text oznámení</string>
+    <string name="ticker_disabled">Text oznámení je zakázán, je povoleno plovoucí upozornění</string>
+    <string name="headsup_disabled">Plovoucí upozornění je zakázáno, je povolen text oznámení</string>
+    <string name="ringtones_title">Vyzváněcí tóny</string>
+    <string name="call_options_title">Možnosti volání</string>
+    <!-- Recents -->
+    <string name="recents_label">Nedávné</string>
+    <string name="immersive_recents_title">Režim celé obrazovky</string>
+    <string name="immersive_recents_summary">Změna zobrazení v seznamu historie</string>
+    <string name="immersive_recents_dialog_title">Vyberte skrýt zobrazení nedávné historie</string>
+    <string name="immersive_recents_default">Nic neskrývat</string>
+    <string name="immersive_recents_fullscreen">Skrýt obojí</string>
+    <string name="immersive_recents_statusbar">Skrýt navigační panel</string>
+    <string name="immersive_recents_navbar">Skrýt stavovou lištu</string>
+    <string name="systemui_recents_mem_display_title">Ukazatel paměti</string>
+    <string name="systemui_recents_mem_display_summary">Zobrazit ukazatel paměti v seznamu historie</string>
+    <string name="recents_lock_icon_title">Uzamknout</string>
+    <string name="recents_lock_icon_summary">Zobrazit ikonu zámku v záhlaví úloh</string>
+    <string name="recents_dismiss_icon_title">Odstranit úlohu</string>
+    <string name="recents_dismiss_icon_summary">Zobrazit ikonu \"odstranit\" v záhlaví úloh</string>
+    <!-- Toast icon -->
+    <string name="toast_icon_title">Ikona oznámení</string>
+    <string name="toast_icon_summary">Zobrazit ikonu aktivit generující zprávu oznámení</string>
+    <!-- Settings conditions  -->
+    <string name="disable_settings_conditions_title">Zakázat podmínky</string>
+    <string name="theme_force_enabled_title">Vynuceně povolit správce motivů</string>
+    <string name="theme_force_enabled_summary">Správce motivů bude vynuceně povolen bez ohledu na stav OMS</string>
+    <!-- Pie -->
+    <string name="pie_settings">Ovládání PIE</string>
+    <string name="pie_gravity_title">Umístění v režimu na výšku</string>
+    <string name="pie_gravity_landscape_title">Umístění v režimu na šířku</string>
+    <string name="pie_gravity_bottom">Dole</string>
+    <string name="pie_gravity_right">Vpravo</string>
+    <string name="pie_gravity_left">Vlevo</string>
+    <string name="pie_theme_mode_title">Motiv</string>
+    <string name="pie_auto">Automaticky</string>
+    <string name="pie_white">Bílá</string>
+    <string name="pie_dark">Tmavý</string>
+    <string name="pie_battery_title">Indikátor baterie</string>
+    <string name="pie_battery_text">Pouze text</string>
+    <string name="pie_battery_circle">Pouze kruh</string>
+    <string name="pie_battery_both">Obojí</string>
+    <string name="pie_status_indicator">Indikátor sítě</string>
+    <string name="pie_status_wifi">Pouze WiFi</string>
+    <string name="pie_status_mobile">Pouze mobilní data</string>
+    <string name="pie_status_none">Žádné</string>
+    <string name="pie_status_both">Obojí</string>
 </resources>
