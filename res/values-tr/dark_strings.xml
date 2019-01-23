@@ -17,202 +17,202 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Default left shortcut on lockscreen -->
-  <string name="left_default_voice_title">Kilit ekranı sol kısayol</string>
-  <string name="left_default_voice_summary_on">Varsayılan kısayol ses yardımcısıdır</string>
-  <string name="left_default_voice_summary_off">Varsayılan kısayol arama</string>
-  <!-- Hide the next alarm on lockscreen -->
-  <string name="show_next_alarm_lockscreen_title">Gelecek alarmı göster</string>
-  <string name="show_next_alarm_lockscreen_summary">Bir alarm kurulduğunda sonraki alarmı kilit ekranında göster</string>
-  <!-- Disabling immersive mode messages -->
-  <string name="disable_immersive_message_title">Tam ekran modu mesajları devre dışı</string>
-  <string name="disable_immersive_message_summary">Bütün tam ekran modu iletilerini gizle</string>
-  <!-- Volume Steps -->
-  <string name="volume_steps_title">Ses seviyeleri</string>
-  <string name="volume_steps_alarm_title">Ses seviyesi: Alarm</string>
-  <string name="volume_steps_dtmf_title">Ses seviyesi: DTMF</string>
-  <string name="volume_steps_music_title">Ses seviyesi: Müzik</string>
-  <string name="volume_steps_notification_title">Ses seviyesi: Bildirimler</string>
-  <string name="volume_steps_ring_title">Ses seviyesi: Zil sesi</string>
-  <string name="volume_steps_system_title">Ses seviyesi: Sistem</string>
-  <string name="volume_steps_voice_call_title">Ses seviyesi: Sesli Arama</string>
-  <string name="volume_steps_reset">Sıfırla</string>
-  <string name="volume_steps_60">60</string>
-  <string name="volume_steps_45">45</string>
-  <string name="volume_steps_30">30</string>
-  <string name="volume_steps_15">15</string>
-  <string name="volume_steps_7">7</string>
-  <string name="volume_steps_5">5</string>
-  <!-- OpenDelta updates -->
-  <string name="deltaupdate_settings_title">Sistem güncellemeleri</string>
-  <!-- Optional screenshot type -->
-  <string name="screenshot_type_title">Ekran görüntüsü tipi</string>
-  <string name="screenshot_type_fullscreen">Tam ekran görüntüsü alma</string>
-  <string name="screenshot_type_partial">Kısmi bir ekran görüntüsü almak için seçimi sürükleyin</string>
-  <!-- Quick unlock -->
-  <string name="unlock_quick_unlock_control_title">Hızlı kilit açma</string>
-  <string name="unlock_quick_unlock_control_summary_password">Doğru PIN/şifre girildiğinde otomatik olarak kilidi aç</string>
-  <string name="unlock_quick_unlock_control_summary_pin">Doğru PIN/şifre girildiğinde otomatik olarak kilidi aç</string>
-  <!-- Notification Ticker -->
-  <string name="ticker_title">Bildirim şeridi</string>
-  <string name="ticker_summary">Öncelik bildirimleri durum çubuğunda görüntüle</string>
-  <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Bildirim şeridi parça bildirimi</string>
-  <string name="ticker_track_summary">Yeni bir parça çalarken meta verileri göster</string>
-  <!-- Secure lockscreen -->
-  <string name="lockscreen_enable_power_menu_title">Güvenli kilit ekranı</string>
-  <string name="lockscreen_enable_power_menu_summary">Hızlı ayarlara ve güç menüsüne erişimi engelleme</string>
-  <!-- Settings suggestions  -->
-  <string name="disable_settings_suggestions_title">Önerileri devre dışı bırak</string>
-  <!-- Custom carrier label and position -->
-  <string name="keyguard_show_carrier_title">Şebeke etiketini gizle</string>
-  <string name="keyguard_show_carrier_summary">Tuş kilidinde şebeke etiketini gizle</string>
-  <string name="custom_carrier_label_title">Özel operatör etiketi</string>
-  <string name="custom_carrier_label_explain">Lütfen yeni bir etiket girin veya varsayılan etikete dönmek için boş bırakın</string>
-  <string name="custom_carrier_label_notset">Özel etiket şu anda tanımlı değil</string>
-  <string name="one_hand_mode_title">Tek el modu</string>
-  <string name="one_hand_mode_summary">Tek elle kullanılan modu etkinleştirmek için gezinme çubuğunda hızlıca kaydır</string>
-  <!-- Advanced night mode brightness -->
-  <string name="night_brightness_category">Parlaklık</string>
-  <string name="night_brightness_value_title">Gece ışığı parlaklığı</string>
-  <string name="night_brightness_text">Gece Işığı etkinleştirildiğinde, otomatik olarak istenen parlaklığı ayarla.</string>
-  <string name="night_bright_disabled">Devre Dışı</string>
-  <string name="night_bright_min">Minimum parlaklık</string>
-  <string name="night_bright_low">Düşük parlaklık</string>
-  <string name="night_bright_medium">Orta parlaklık</string>
-  <string name="magisk_title">Magisk Yöneticisi</string>
-  <string name="magisk_summary">Kontrol modülleri ve ayarları</string>
-  <string name="substratum_title">Substratum</string>
-  <string name="substratum_summary">Cihaz temasını özelleştir</string>
-  <!-- Incall vibrate options -->
-  <string name="incall_vibrate_connect_title">Çağrı bağlandığında titre</string>
-  <string name="incall_vibrate_call_wait_title">Çağrı beklemede titre</string>
-  <string name="incall_vibrate_disconnect_title">Çağrı bağlantısı kesildiğinde titre</string>
-  <string name="doze_brightness_level_title">Bildirim ekranı parlaklığı</string>
-  <string name="doze_brightness_level_summary">Bildirim ekranı parlaklığını ayarla</string>
-  <!-- Heads up timeout -->
-  <string name="heads_up_time_out_title">Bildirim penceresi zaman aşımı</string>
-  <string name="heads_up_time_out_summary">Bildirim penceresi bildirimi <xliff:g id="number">%d</xliff:g> saniye gösterilecek</string>
-  <string name="heads_up_time_out_2sec">2 saniye</string>
-  <string name="heads_up_time_out_4sec">4 saniye</string>
-  <string name="heads_up_time_out_5sec">5 saniye</string>
-  <string name="heads_up_time_out_6sec">6 saniye</string>
-  <string name="heads_up_time_out_8sec">8 saniye</string>
-  <string name="heads_up_time_out_10sec">10 saniye</string>
-  <!-- Heads up snooze -->
-  <string name="heads_up_snooze_title">Bildirim penceresi erteleme</string>
-  <string name="heads_up_snooze_summary_one_minute">Bildirim pencereleri yukarı kaydırılarak 1 dakika boyunca o uygulamadan gelecek olan bildirimleri erteler</string>
-  <string name="heads_up_snooze_summary">Bildirim pencereleri yukarı kaydırılarak <xliff:g id="number">%d</xliff:g> dakika boyunca o uygulamadan gelecek olan bildirimleri erteler</string>
-  <string name="heads_up_snooze_disabled_summary">Erteleme devredışı</string>
-  <string name="heads_up_snooze_1min">1 dakika</string>
-  <string name="heads_up_snooze_3min">3 dakika</string>
-  <string name="heads_up_snooze_5min">5 dakika</string>
-  <string name="heads_up_snooze_10min">10 dakika</string>
-  <string name="heads_up_snooze_15min">15 dakika</string>
-  <string name="heads_up_snooze_20min">20 dakika</string>
-  <!-- Recents panel settings -->
-  <string name="show_clear_all_recents_button_title">Tümünü temizle düğmesini etkinleştir</string>
-  <string name="show_clear_all_recents_button_summary">Son uygulamalar kullanırken tümünü temizle düğmesini göster</string>
-  <string name="recents_clear_all_location_title">Tümünü temizle butonu konumu</string>
-  <string name="recents_clear_all_location_stock">Sağ üst (Otomatik Gizle)</string>
-  <string name="recents_clear_all_location_top_right">Sağ Üst</string>
-  <string name="recents_clear_all_location_top_left">Üst Sol</string>
-  <string name="recents_clear_all_location_top_center">Üst orta</string>
-  <string name="recents_clear_all_location_bottom_right">Alt Sağ</string>
-  <string name="recents_clear_all_location_bottom_left">Alt sol</string>
-  <string name="recents_clear_all_location_bottom_center">Alt orta</string>
-  <!-- Battery stats reset -->
-  <string name="battery_stats_reset">İstatistikleri Sıfırla</string>
-  <string name="battery_stats_message">Pil geçmişi temizlenecek</string>
-  <string name="ok_string">Tamam</string>
-  <!-- Fullscreen Keyboard -->
-  <string name="disable_fullscreen_keyboard_title">Tam ekran klavyeyi kapat</string>
-  <string name="disable_fullscreen_keyboard_summary">Klavyeyi manzara modunda ekranın tamamını kullanmasını engelle</string>
-  <string name="tile_summary_title">Özetleri devre dışı bırak</string>
-  <string name="notification_light_zen_mode">Bildirim ışığı</string>
-  <string name="battery_light_zen_mode">Pil Işığı</string>
-  <!-- Fingerprint unlock keystore -->
-  <string name="fp_unlock_keystore_title">Parmak iziyle kilit açma</string>
-  <string name="fp_unlock_password_summary">Yeniden başlattıktan sonra şifre olmadan parmak iziyle cihazın kilidini aç</string>
-  <string name="fp_unlock_pattern_summary">Yeniden başlattıktan sonra desen olmadan parmak iziyle cihazın kilidini aç</string>
-  <string name="fp_unlock_pin_summary">Yeniden başlattıktan sonra pin olmadan parmak iziyle cihazın kilidini aç</string>
-  <!-- Force expanded notifications -->
-  <string name="expanded_notifications_title">Genişletilmiş bildirimleri zorla</string>
-  <string name="expanded_notifications_summary">Desteklendiğinde genişletilmiş bildirimleri her zaman göster</string>
-  <!-- Color engine -->
-  <string name="theme_switch_palette">Ana ve vurgu renkleri arasında geçiş yap</string>
-  <string name="theme_title">Renk motoru</string>
-  <string name="theme_summary">Geçerli temanız için farklı renkler seçin</string>
-  <string name="theme_accent_color">Vurgu rengi</string>
-  <string name="theme_primary_color">Arka plan rengi</string>
-  <string name="theme">Tema</string>
-  <string name="oms_enabled">Bir Substratum teması halihazırda uygulandığından tema modları kullanılamıyor</string>
-  <string name="red">Kırmızı</string>
-  <string name="orange">Turuncu</string>
-  <string name="blue">Turkuaz</string>
-  <string name="green">Yeşil</string>
-  <string name="yellow">Sarı</string>
-  <string name="purple">Mor</string>
-  <string name="pink">Pembe</string>
-  <string name="black">Siyah</string>
-  <string name="dark">Koyu</string>
-  <string name="pixel">Pixel</string>
-  <string name="teal">Mavi</string>
-  <string name="cyan">Camgöbeği</string>
-  <string name="grey">Gri</string>
-  <string name="white">Beyaz</string>
-  <!-- Force authorize substratum packages -->
-  <string name="force_authorize_substratum_packages_title">Her tema uygulamasının yetkisini zorla</string>
-  <string name="force_authorize_substratum_packages_summary">Bilinmeyen kaynaklardan tema uygulamalarına izin ver</string>
-  <string name="dashboard_label">Kontrol paneli</string>
-  <string name="miscellaneous_label">Çeşitli</string>
-  <string name="two_columns_title">İki sütun</string>
-  <string name="headsup_label">Bildirim pencereleri</string>
-  <string name="ticker_label">Bildirim şeridi</string>
-  <string name="ticker_disabled">Bildirim pencereleri etkin olduğundan bildirim çubuğu etkin değil</string>
-  <string name="headsup_disabled">Bildirim çubuğu etkin olduğundan bildirim penceresi kapalı</string>
-  <string name="ringtones_title">Zil sesleri</string>
-  <string name="call_options_title">Çağrı seçenekleri</string>
-  <!-- Recents -->
-  <string name="recents_label">Son uygulamalar</string>
-  <string name="immersive_recents_title">Tam ekran modu</string>
-  <string name="immersive_recents_summary">Son uygulamalar görünümünü değiştir</string>
-  <string name="immersive_recents_dialog_title">Gizlenecek son uygulamaları seçin</string>
-  <string name="immersive_recents_default">Hiçbirşey gizleme</string>
-  <string name="immersive_recents_fullscreen">İkisini de gizle</string>
-  <string name="immersive_recents_statusbar">Gezinme çubuğunu gizle</string>
-  <string name="immersive_recents_navbar">Durum çubuğunu gizle</string>
-  <string name="systemui_recents_mem_display_title">Bellek Çubuğu</string>
-  <string name="systemui_recents_mem_display_summary">Son uygulamalarda hafıza çubuğunu göster</string>
-  <string name="recents_lock_icon_title">Görevi kilitle</string>
-  <string name="recents_lock_icon_summary">Görev başlığında kilitleme düğmesini göster</string>
-  <string name="recents_dismiss_icon_title">Görevi reddet</string>
-  <string name="recents_dismiss_icon_summary">Görev başlığında reddet düğmesini göster</string>
-  <!-- Toast icon -->
-  <string name="toast_icon_title">Bildirim simgesi</string>
-  <string name="toast_icon_summary">Bildirimle uyumlu uygulama simgesini görüntüler</string>
-  <!-- Settings conditions  -->
-  <string name="disable_settings_conditions_title">Koşulları devre dışı bırak</string>
-  <string name="theme_force_enabled_title">Kuvvet etkinleştirmek renk motoru</string>
-  <string name="theme_force_enabled_summary">Tema OMS durumuna rağmen yine de zorla etkinleştirilecek</string>
-  <!-- Pie -->
-  <string name="pie_settings">Pie kontrolleri</string>
-  <string name="pie_gravity_title">Dikey konumu</string>
-  <string name="pie_gravity_landscape_title">Yatay konumu</string>
-  <string name="pie_gravity_bottom">Alt</string>
-  <string name="pie_gravity_right">Sağ</string>
-  <string name="pie_gravity_left">Sol</string>
-  <string name="pie_theme_mode_title">Tema</string>
-  <string name="pie_auto">Otomatik</string>
-  <string name="pie_white">Beyaz</string>
-  <string name="pie_dark">Koyu</string>
-  <string name="pie_battery_title">Pil göstergesi</string>
-  <string name="pie_battery_text">Yalnızca metin</string>
-  <string name="pie_battery_circle">Yalnızca daire</string>
-  <string name="pie_battery_both">Her ikisi</string>
-  <string name="pie_status_indicator">Ağ göstergesi</string>
-  <string name="pie_status_wifi">Yalnızca WiFi</string>
-  <string name="pie_status_mobile">Yalnızca mobil ağ</string>
-  <string name="pie_status_none">Hiçbiri</string>
-  <string name="pie_status_both">Her ikisi</string>
+    <!-- Default left shortcut on lockscreen -->
+    <string name="left_default_voice_title">Kilit ekranı sol kısayol</string>
+    <string name="left_default_voice_summary_on">Varsayılan kısayol ses yardımcısıdır</string>
+    <string name="left_default_voice_summary_off">Varsayılan kısayol arama</string>
+    <!-- Hide the next alarm on lockscreen -->
+    <string name="show_next_alarm_lockscreen_title">Gelecek alarmı göster</string>
+    <string name="show_next_alarm_lockscreen_summary">Bir alarm kurulduğunda sonraki alarmı kilit ekranında göster</string>
+    <!-- Disabling immersive mode messages -->
+    <string name="disable_immersive_message_title">Tam ekran modu mesajları devre dışı</string>
+    <string name="disable_immersive_message_summary">Bütün tam ekran modu iletilerini gizle</string>
+    <!-- Volume Steps -->
+    <string name="volume_steps_title">Ses seviyeleri</string>
+    <string name="volume_steps_alarm_title">Ses seviyesi: Alarm</string>
+    <string name="volume_steps_dtmf_title">Ses seviyesi: DTMF</string>
+    <string name="volume_steps_music_title">Ses seviyesi: Müzik</string>
+    <string name="volume_steps_notification_title">Ses seviyesi: Bildirimler</string>
+    <string name="volume_steps_ring_title">Ses seviyesi: Zil sesi</string>
+    <string name="volume_steps_system_title">Ses seviyesi: Sistem</string>
+    <string name="volume_steps_voice_call_title">Ses seviyesi: Sesli Arama</string>
+    <string name="volume_steps_reset">Sıfırla</string>
+    <string name="volume_steps_60">60</string>
+    <string name="volume_steps_45">45</string>
+    <string name="volume_steps_30">30</string>
+    <string name="volume_steps_15">15</string>
+    <string name="volume_steps_7">7</string>
+    <string name="volume_steps_5">5</string>
+    <!-- OpenDelta updates -->
+    <string name="deltaupdate_settings_title">Sistem güncellemeleri</string>
+    <!-- Optional screenshot type -->
+    <string name="screenshot_type_title">Ekran görüntüsü tipi</string>
+    <string name="screenshot_type_fullscreen">Tam ekran görüntüsü alma</string>
+    <string name="screenshot_type_partial">Kısmi bir ekran görüntüsü almak için seçimi sürükleyin</string>
+    <!-- Quick unlock -->
+    <string name="unlock_quick_unlock_control_title">Hızlı kilit açma</string>
+    <string name="unlock_quick_unlock_control_summary_password">Doğru PIN/şifre girildiğinde otomatik olarak kilidi aç</string>
+    <string name="unlock_quick_unlock_control_summary_pin">Doğru PIN/şifre girildiğinde otomatik olarak kilidi aç</string>
+    <!-- Notification Ticker -->
+    <string name="ticker_title">Bildirim şeridi</string>
+    <string name="ticker_summary">Öncelik bildirimleri durum çubuğunda görüntüle</string>
+    <!-- Notification Ticker Track-->
+    <string name="ticker_track_title">Bildirim şeridi parça bildirimi</string>
+    <string name="ticker_track_summary">Yeni bir parça çalarken meta verileri göster</string>
+    <!-- Secure lockscreen -->
+    <string name="lockscreen_enable_power_menu_title">Güvenli kilit ekranı</string>
+    <string name="lockscreen_enable_power_menu_summary">Hızlı ayarlara ve güç menüsüne erişimi engelleme</string>
+    <!-- Settings suggestions  -->
+    <string name="disable_settings_suggestions_title">Önerileri devre dışı bırak</string>
+    <!-- Custom carrier label and position -->
+    <string name="keyguard_show_carrier_title">Şebeke etiketini gizle</string>
+    <string name="keyguard_show_carrier_summary">Tuş kilidinde şebeke etiketini gizle</string>
+    <string name="custom_carrier_label_title">Özel operatör etiketi</string>
+    <string name="custom_carrier_label_explain">Lütfen yeni bir etiket girin veya varsayılan etikete dönmek için boş bırakın</string>
+    <string name="custom_carrier_label_notset">Özel etiket şu anda tanımlı değil</string>
+    <string name="one_hand_mode_title">Tek el modu</string>
+    <string name="one_hand_mode_summary">Tek elle kullanılan modu etkinleştirmek için gezinme çubuğunda hızlıca kaydır</string>
+    <!-- Advanced night mode brightness -->
+    <string name="night_brightness_category">Parlaklık</string>
+    <string name="night_brightness_value_title">Gece ışığı parlaklığı</string>
+    <string name="night_brightness_text">Gece Işığı etkinleştirildiğinde, otomatik olarak istenen parlaklığı ayarla.</string>
+    <string name="night_bright_disabled">Devre Dışı</string>
+    <string name="night_bright_min">Minimum parlaklık</string>
+    <string name="night_bright_low">Düşük parlaklık</string>
+    <string name="night_bright_medium">Orta parlaklık</string>
+    <string name="magisk_title">Magisk Yöneticisi</string>
+    <string name="magisk_summary">Kontrol modülleri ve ayarları</string>
+    <string name="substratum_title">Substratum</string>
+    <string name="substratum_summary">Cihaz temasını özelleştir</string>
+    <!-- Incall vibrate options -->
+    <string name="incall_vibrate_connect_title">Çağrı bağlandığında titre</string>
+    <string name="incall_vibrate_call_wait_title">Çağrı beklemede titre</string>
+    <string name="incall_vibrate_disconnect_title">Çağrı bağlantısı kesildiğinde titre</string>
+    <string name="doze_brightness_level_title">Bildirim ekranı parlaklığı</string>
+    <string name="doze_brightness_level_summary">Bildirim ekranı parlaklığını ayarla</string>
+    <!-- Heads up timeout -->
+    <string name="heads_up_time_out_title">Bildirim penceresi zaman aşımı</string>
+    <string name="heads_up_time_out_summary">Bildirim penceresi bildirimi <xliff:g id="number">%d</xliff:g> saniye gösterilecek</string>
+    <string name="heads_up_time_out_2sec">2 saniye</string>
+    <string name="heads_up_time_out_4sec">4 saniye</string>
+    <string name="heads_up_time_out_5sec">5 saniye</string>
+    <string name="heads_up_time_out_6sec">6 saniye</string>
+    <string name="heads_up_time_out_8sec">8 saniye</string>
+    <string name="heads_up_time_out_10sec">10 saniye</string>
+    <!-- Heads up snooze -->
+    <string name="heads_up_snooze_title">Bildirim penceresi erteleme</string>
+    <string name="heads_up_snooze_summary_one_minute">Bildirim pencereleri yukarı kaydırılarak 1 dakika boyunca o uygulamadan gelecek olan bildirimleri erteler</string>
+    <string name="heads_up_snooze_summary">Bildirim pencereleri yukarı kaydırılarak <xliff:g id="number">%d</xliff:g> dakika boyunca o uygulamadan gelecek olan bildirimleri erteler</string>
+    <string name="heads_up_snooze_disabled_summary">Erteleme devredışı</string>
+    <string name="heads_up_snooze_1min">1 dakika</string>
+    <string name="heads_up_snooze_3min">3 dakika</string>
+    <string name="heads_up_snooze_5min">5 dakika</string>
+    <string name="heads_up_snooze_10min">10 dakika</string>
+    <string name="heads_up_snooze_15min">15 dakika</string>
+    <string name="heads_up_snooze_20min">20 dakika</string>
+    <!-- Recents panel settings -->
+    <string name="show_clear_all_recents_button_title">Tümünü temizle düğmesini etkinleştir</string>
+    <string name="show_clear_all_recents_button_summary">Son uygulamalar kullanırken tümünü temizle düğmesini göster</string>
+    <string name="recents_clear_all_location_title">Tümünü temizle butonu konumu</string>
+    <string name="recents_clear_all_location_stock">Sağ üst (Otomatik Gizle)</string>
+    <string name="recents_clear_all_location_top_right">Sağ Üst</string>
+    <string name="recents_clear_all_location_top_left">Üst Sol</string>
+    <string name="recents_clear_all_location_top_center">Üst orta</string>
+    <string name="recents_clear_all_location_bottom_right">Alt Sağ</string>
+    <string name="recents_clear_all_location_bottom_left">Alt sol</string>
+    <string name="recents_clear_all_location_bottom_center">Alt orta</string>
+    <!-- Battery stats reset -->
+    <string name="battery_stats_reset">İstatistikleri Sıfırla</string>
+    <string name="battery_stats_message">Pil geçmişi temizlenecek</string>
+    <string name="ok_string">Tamam</string>
+    <!-- Fullscreen Keyboard -->
+    <string name="disable_fullscreen_keyboard_title">Tam ekran klavyeyi kapat</string>
+    <string name="disable_fullscreen_keyboard_summary">Klavyeyi manzara modunda ekranın tamamını kullanmasını engelle</string>
+    <string name="tile_summary_title">Özetleri devre dışı bırak</string>
+    <string name="notification_light_zen_mode">Bildirim ışığı</string>
+    <string name="battery_light_zen_mode">Pil Işığı</string>
+    <!-- Fingerprint unlock keystore -->
+    <string name="fp_unlock_keystore_title">Parmak iziyle kilit açma</string>
+    <string name="fp_unlock_password_summary">Yeniden başlattıktan sonra şifre olmadan parmak iziyle cihazın kilidini aç</string>
+    <string name="fp_unlock_pattern_summary">Yeniden başlattıktan sonra desen olmadan parmak iziyle cihazın kilidini aç</string>
+    <string name="fp_unlock_pin_summary">Yeniden başlattıktan sonra pin olmadan parmak iziyle cihazın kilidini aç</string>
+    <!-- Force expanded notifications -->
+    <string name="expanded_notifications_title">Genişletilmiş bildirimleri zorla</string>
+    <string name="expanded_notifications_summary">Desteklendiğinde genişletilmiş bildirimleri her zaman göster</string>
+    <!-- Color engine -->
+    <string name="theme_switch_palette">Ana ve vurgu renkleri arasında geçiş yap</string>
+    <string name="theme_title">Renk motoru</string>
+    <string name="theme_summary">Geçerli temanız için farklı renkler seçin</string>
+    <string name="theme_accent_color">Vurgu rengi</string>
+    <string name="theme_primary_color">Arka plan rengi</string>
+    <string name="theme">Tema</string>
+    <string name="oms_enabled">Bir Substratum teması halihazırda uygulandığından tema modları kullanılamıyor</string>
+    <string name="red">Kırmızı</string>
+    <string name="orange">Turuncu</string>
+    <string name="blue">Turkuaz</string>
+    <string name="green">Yeşil</string>
+    <string name="yellow">Sarı</string>
+    <string name="purple">Mor</string>
+    <string name="pink">Pembe</string>
+    <string name="black">Siyah</string>
+    <string name="dark">Koyu</string>
+    <string name="pixel">Pixel</string>
+    <string name="teal">Mavi</string>
+    <string name="cyan">Camgöbeği</string>
+    <string name="grey">Gri</string>
+    <string name="white">Beyaz</string>
+    <!-- Force authorize substratum packages -->
+    <string name="force_authorize_substratum_packages_title">Her tema uygulamasının yetkisini zorla</string>
+    <string name="force_authorize_substratum_packages_summary">Bilinmeyen kaynaklardan tema uygulamalarına izin ver</string>
+    <string name="dashboard_label">Kontrol paneli</string>
+    <string name="miscellaneous_label">Çeşitli</string>
+    <string name="two_columns_title">İki sütun</string>
+    <string name="headsup_label">Bildirim pencereleri</string>
+    <string name="ticker_label">Bildirim şeridi</string>
+    <string name="ticker_disabled">Bildirim pencereleri etkin olduğundan bildirim çubuğu etkin değil</string>
+    <string name="headsup_disabled">Bildirim çubuğu etkin olduğundan bildirim penceresi kapalı</string>
+    <string name="ringtones_title">Zil sesleri</string>
+    <string name="call_options_title">Çağrı seçenekleri</string>
+    <!-- Recents -->
+    <string name="recents_label">Son uygulamalar</string>
+    <string name="immersive_recents_title">Tam ekran modu</string>
+    <string name="immersive_recents_summary">Son uygulamalar görünümünü değiştir</string>
+    <string name="immersive_recents_dialog_title">Gizlenecek son uygulamaları seçin</string>
+    <string name="immersive_recents_default">Hiçbirşey gizleme</string>
+    <string name="immersive_recents_fullscreen">İkisini de gizle</string>
+    <string name="immersive_recents_statusbar">Gezinme çubuğunu gizle</string>
+    <string name="immersive_recents_navbar">Durum çubuğunu gizle</string>
+    <string name="systemui_recents_mem_display_title">Bellek Çubuğu</string>
+    <string name="systemui_recents_mem_display_summary">Son uygulamalarda hafıza çubuğunu göster</string>
+    <string name="recents_lock_icon_title">Görevi kilitle</string>
+    <string name="recents_lock_icon_summary">Görev başlığında kilitleme düğmesini göster</string>
+    <string name="recents_dismiss_icon_title">Görevi reddet</string>
+    <string name="recents_dismiss_icon_summary">Görev başlığında reddet düğmesini göster</string>
+    <!-- Toast icon -->
+    <string name="toast_icon_title">Bildirim simgesi</string>
+    <string name="toast_icon_summary">Bildirimle uyumlu uygulama simgesini görüntüler</string>
+    <!-- Settings conditions  -->
+    <string name="disable_settings_conditions_title">Koşulları devre dışı bırak</string>
+    <string name="theme_force_enabled_title">Kuvvet etkinleştirmek renk motoru</string>
+    <string name="theme_force_enabled_summary">Tema OMS durumuna rağmen yine de zorla etkinleştirilecek</string>
+    <!-- Pie -->
+    <string name="pie_settings">Pie kontrolleri</string>
+    <string name="pie_gravity_title">Dikey konumu</string>
+    <string name="pie_gravity_landscape_title">Yatay konumu</string>
+    <string name="pie_gravity_bottom">Alt</string>
+    <string name="pie_gravity_right">Sağ</string>
+    <string name="pie_gravity_left">Sol</string>
+    <string name="pie_theme_mode_title">Tema</string>
+    <string name="pie_auto">Otomatik</string>
+    <string name="pie_white">Beyaz</string>
+    <string name="pie_dark">Koyu</string>
+    <string name="pie_battery_title">Pil göstergesi</string>
+    <string name="pie_battery_text">Yalnızca metin</string>
+    <string name="pie_battery_circle">Yalnızca daire</string>
+    <string name="pie_battery_both">Her ikisi</string>
+    <string name="pie_status_indicator">Ağ göstergesi</string>
+    <string name="pie_status_wifi">Yalnızca WiFi</string>
+    <string name="pie_status_mobile">Yalnızca mobil ağ</string>
+    <string name="pie_status_none">Hiçbiri</string>
+    <string name="pie_status_both">Her ikisi</string>
 </resources>
