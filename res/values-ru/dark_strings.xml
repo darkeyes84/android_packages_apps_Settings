@@ -17,202 +17,202 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Default left shortcut on lockscreen -->
-  <string name="left_default_voice_title">Левый ярлык на экране блокировки</string>
-  <string name="left_default_voice_summary_on">Использовать голосовой ассистент</string>
-  <string name="left_default_voice_summary_off">Использовать телефон</string>
-  <!-- Hide the next alarm on lockscreen -->
-  <string name="show_next_alarm_lockscreen_title">Показать время следующего будильника</string>
-  <string name="show_next_alarm_lockscreen_summary">Показывать след. будильник на экране блокировки, когда он установлен</string>
-  <!-- Disabling immersive mode messages -->
-  <string name="disable_immersive_message_title">Отключить сообщения о режиме погружения</string>
-  <string name="disable_immersive_message_summary">Это отключит все сообщения о режиме погружения</string>
-  <!-- Volume Steps -->
-  <string name="volume_steps_title">Шаги громкости</string>
-  <string name="volume_steps_alarm_title">Шаг громкости: будильник</string>
-  <string name="volume_steps_dtmf_title">Шаг громкости: тональный набор</string>
-  <string name="volume_steps_music_title">Шаг громкости: музыка</string>
-  <string name="volume_steps_notification_title">Шаг громкости: уведомление</string>
-  <string name="volume_steps_ring_title">Шаг громкости: звонок</string>
-  <string name="volume_steps_system_title">Шаг громкости: система</string>
-  <string name="volume_steps_voice_call_title">Шаг громкости: голосовой вызов</string>
-  <string name="volume_steps_reset">Сбросить</string>
-  <string name="volume_steps_60">60</string>
-  <string name="volume_steps_45">45</string>
-  <string name="volume_steps_30">30</string>
-  <string name="volume_steps_15">15</string>
-  <string name="volume_steps_7">7</string>
-  <string name="volume_steps_5">5</string>
-  <!-- OpenDelta updates -->
-  <string name="deltaupdate_settings_title">Обновления системы</string>
-  <!-- Optional screenshot type -->
-  <string name="screenshot_type_title">Тип скриншота</string>
-  <string name="screenshot_type_fullscreen">Полноэкранный скриншот</string>
-  <string name="screenshot_type_partial">Скриншот выбранной области</string>
-  <!-- Quick unlock -->
-  <string name="unlock_quick_unlock_control_title">Быстрая разблокировка</string>
-  <string name="unlock_quick_unlock_control_summary_password">Автоматическая разблокировка при вводе правильного пароля или PIN-кода</string>
-  <string name="unlock_quick_unlock_control_summary_pin">Разблокировать автоматически при вводе правильного ПИН-кода/пароля</string>
-  <!-- Notification Ticker -->
-  <string name="ticker_title">Бегущая строка</string>
-  <string name="ticker_summary">Отображение приоритетных уведомлений в строке состояния</string>
-  <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Название треков в бегущей строке</string>
-  <string name="ticker_track_summary">Показывать метаданные при воспроизведении нового трека</string>
-  <!-- Secure lockscreen -->
-  <string name="lockscreen_enable_power_menu_title">Защищённый экран блокировки</string>
-  <string name="lockscreen_enable_power_menu_summary">Запретить доступ к быстрым настройкам и меню управления питанием</string>
-  <!-- Settings suggestions  -->
-  <string name="disable_settings_suggestions_title">Подсказки в главном меню</string>
-  <!-- Custom carrier label and position -->
-  <string name="keyguard_show_carrier_title">Скрыть имя оператора</string>
-  <string name="keyguard_show_carrier_summary">Скрыть имя оператора на экрана блокировки</string>
-  <string name="custom_carrier_label_title">Использовать своё имя оператора</string>
-  <string name="custom_carrier_label_explain">Введите новое имя. Для возрата к имени по умолчанию оставьте строку пустой</string>
-  <string name="custom_carrier_label_notset">Пользовательское имя оператора не установлено</string>
-  <string name="one_hand_mode_title">Режим \"Управление одной рукой\"</string>
-  <string name="one_hand_mode_summary">Позволяет свайпом по панели навигации включать режим \"Управление одной рукой\"</string>
-  <!-- Advanced night mode brightness -->
-  <string name="night_brightness_category">Яркость</string>
-  <string name="night_brightness_value_title">Яркость в Ночном режиме</string>
-  <string name="night_brightness_text">Когда ночной режим включен, автоматически устанавливать желаемую яркость.</string>
-  <string name="night_bright_disabled">Выключена</string>
-  <string name="night_bright_min">Минимальная яркость</string>
-  <string name="night_bright_low">Низкая яркость</string>
-  <string name="night_bright_medium">Средняя яркость</string>
-  <string name="magisk_title">Менеджер Magisk</string>
-  <string name="magisk_summary">Настройка Magisk и модулей</string>
-  <string name="substratum_title">Темы Substratum</string>
-  <string name="substratum_summary">Настройка темы</string>
-  <!-- Incall vibrate options -->
-  <string name="incall_vibrate_connect_title">Вибрировать при подключении во время вызова</string>
-  <string name="incall_vibrate_call_wait_title">Вибрировать при ожидании во время вызова</string>
-  <string name="incall_vibrate_disconnect_title">Вибрировать при отключении во время вызова</string>
-  <string name="doze_brightness_level_title">Яркость при работе Активного дисплея</string>
-  <string name="doze_brightness_level_summary">Настроить уровень яркости для Активного дисплея</string>
-  <!-- Heads up timeout -->
-  <string name="heads_up_time_out_title">Тайм-аут Всплывающих уведомлений</string>
-  <string name="heads_up_time_out_summary">Всплывающие уведомления будут показываться в течение <xliff:g id="number">%d</xliff:g> секунд</string>
-  <string name="heads_up_time_out_2sec">2 секунды</string>
-  <string name="heads_up_time_out_4sec">4 секунды</string>
-  <string name="heads_up_time_out_5sec">5 секунд</string>
-  <string name="heads_up_time_out_6sec">6 секунд</string>
-  <string name="heads_up_time_out_8sec">8 секунд</string>
-  <string name="heads_up_time_out_10sec">10 секунд</string>
-  <!-- Heads up snooze -->
-  <string name="heads_up_snooze_title">Отключить всплывающие уведомления</string>
-  <string name="heads_up_snooze_summary_one_minute">Свайп вверх по всплывающему уведомлению отключит его для выбранного приложения на 1 минуту</string>
-  <string name="heads_up_snooze_summary">Свайп вверх по всплывающему уведомлению отключит его для этого приложения на <xliff:g id="number">%d</xliff:g> минут</string>
-  <string name="heads_up_snooze_disabled_summary">Функция \"Отложить уведомление\" отключена</string>
-  <string name="heads_up_snooze_1min">1 мин</string>
-  <string name="heads_up_snooze_3min">3 мин</string>
-  <string name="heads_up_snooze_5min">5 мин</string>
-  <string name="heads_up_snooze_10min">10 мин</string>
-  <string name="heads_up_snooze_15min">15 мин</string>
-  <string name="heads_up_snooze_20min">20 минут</string>
-  <!-- Recents panel settings -->
-  <string name="show_clear_all_recents_button_title">Включить кнопку \"Очистить всё\"</string>
-  <string name="show_clear_all_recents_button_summary">Показывать кнопку \"Очистить всё\" при использовании меню недавних приложений</string>
-  <string name="recents_clear_all_location_title">Расположение кнопки \"Очистить всё\"</string>
-  <string name="recents_clear_all_location_stock">Вверху справа (автоматически скрывать)</string>
-  <string name="recents_clear_all_location_top_right">Вверху справа</string>
-  <string name="recents_clear_all_location_top_left">Вверху слева</string>
-  <string name="recents_clear_all_location_top_center">Вверху в центре</string>
-  <string name="recents_clear_all_location_bottom_right">Внизу справа</string>
-  <string name="recents_clear_all_location_bottom_left">Внизу слева</string>
-  <string name="recents_clear_all_location_bottom_center">Внизу в центре</string>
-  <!-- Battery stats reset -->
-  <string name="battery_stats_reset">Сброс статистики</string>
-  <string name="battery_stats_message">История батареи будет удалена</string>
-  <string name="ok_string">Ок</string>
-  <!-- Fullscreen Keyboard -->
-  <string name="disable_fullscreen_keyboard_title">Отключить клавиатуру в полноэкранном режиме</string>
-  <string name="disable_fullscreen_keyboard_summary">В ландшафтном режиме клавиатура не займет весь экран</string>
-  <string name="tile_summary_title">Отключить резюме</string>
-  <string name="notification_light_zen_mode">Индикация уведомлений</string>
-  <string name="battery_light_zen_mode">Индикация батареи</string>
-  <!-- Fingerprint unlock keystore -->
-  <string name="fp_unlock_keystore_title">Разблокировка отпечатком пальца</string>
-  <string name="fp_unlock_password_summary">Разблокировать устройство с помощью отпечатка пальца после перезагрузки без пароля</string>
-  <string name="fp_unlock_pattern_summary">Разблокировать устройство с помощью отпечатка пальца после перезагрузки без графического ключа</string>
-  <string name="fp_unlock_pin_summary">Разблокировать устройство с помощью отпечатка пальца после перезагрузки без пароля</string>
-  <!-- Force expanded notifications -->
-  <string name="expanded_notifications_title">Принудительно расширять уведомления</string>
-  <string name="expanded_notifications_summary">Всегда показывать расширенные уведомления если поддерживает</string>
-  <!-- Color engine -->
-  <string name="theme_switch_palette">Переключение между основным и дополнительным цветом</string>
-  <string name="theme_title">Цветовая схема</string>
-  <string name="theme_summary">Выберите различные цвета для вашей текущей темы</string>
-  <string name="theme_accent_color">Контрастный цвет</string>
-  <string name="theme_primary_color">Цвет фона</string>
-  <string name="theme">Темы</string>
-  <string name="oms_enabled">Режимы тем недоступны, потому что в настоящее время применяется тема Substratum</string>
-  <string name="red">Красный</string>
-  <string name="orange">Оранжевый</string>
-  <string name="blue">Бирюзовый</string>
-  <string name="green">Зеленый</string>
-  <string name="yellow">Желтый</string>
-  <string name="purple">Фиолетовый</string>
-  <string name="pink">Розовый</string>
-  <string name="black">Чёрный</string>
-  <string name="dark">Темный</string>
-  <string name="pixel">Пиксель</string>
-  <string name="teal">Синий</string>
-  <string name="cyan">Голубой</string>
-  <string name="grey">Серый</string>
-  <string name="white">Белый</string>
-  <!-- Force authorize substratum packages -->
-  <string name="force_authorize_substratum_packages_title">Принудительно запрашивать разрешения для каждой темы</string>
-  <string name="force_authorize_substratum_packages_summary">Разрешить установку тем из неизвестных источников</string>
-  <string name="dashboard_label">Подсказки</string>
-  <string name="miscellaneous_label">Прочее</string>
-  <string name="two_columns_title">Две колонки</string>
-  <string name="headsup_label">Всплывающие уведомления</string>
-  <string name="ticker_label">Бегущая строка</string>
-  <string name="ticker_disabled">Бегущая строка состояния отключена, т.к. включены всплывающие уведомления</string>
-  <string name="headsup_disabled">Всплывающие уведомления отключены, т.к. бегущая строка состояния включена</string>
-  <string name="ringtones_title">Рингтоны</string>
-  <string name="call_options_title">Параметры звонка</string>
-  <!-- Recents -->
-  <string name="recents_label">Меню недавних приложений</string>
-  <string name="immersive_recents_title">Полноэкранный режим</string>
-  <string name="immersive_recents_summary">Изменить вид \"Меню недавних приложений\"</string>
-  <string name="immersive_recents_dialog_title">Выберите \"Меню недавних приложений\", чтобы скрыть</string>
-  <string name="immersive_recents_default">Ничего не скрывать</string>
-  <string name="immersive_recents_fullscreen">Скрывать строку состояния и панель навигации</string>
-  <string name="immersive_recents_statusbar">Скрывать панель навигации</string>
-  <string name="immersive_recents_navbar">Скрывать строку состояния</string>
-  <string name="systemui_recents_mem_display_title">Панель использования RAM</string>
-  <string name="systemui_recents_mem_display_summary">Отображать панель использования RAM в недавних приложениях</string>
-  <string name="recents_lock_icon_title">Значек замка в \"Меню недавних приложений\"</string>
-  <string name="recents_lock_icon_summary">Отображать значек замка в панели уведомлений</string>
-  <string name="recents_dismiss_icon_title">Удалить все</string>
-  <string name="recents_dismiss_icon_summary">Отображать кнопку \"Очистить все\" в панели уведомлений</string>
-  <!-- Toast icon -->
-  <string name="toast_icon_title">Иконка всплывающего уведомления</string>
-  <string name="toast_icon_summary">Отображать значок приложения в тост-уведомлениях</string>
-  <!-- Settings conditions  -->
-  <string name="disable_settings_conditions_title">Отключить условия</string>
-  <string name="theme_force_enabled_title">Принудительное включение двигателя цвета</string>
-  <string name="theme_force_enabled_summary">Тема будет включена принудительно, независимо от состояния OMS</string>
-  <!-- Pie -->
-  <string name="pie_settings">Панель PIE</string>
-  <string name="pie_gravity_title">Портретный режим</string>
-  <string name="pie_gravity_landscape_title">Альбомный режим</string>
-  <string name="pie_gravity_bottom">Внизу</string>
-  <string name="pie_gravity_right">Справа</string>
-  <string name="pie_gravity_left">Слева</string>
-  <string name="pie_theme_mode_title">Темы</string>
-  <string name="pie_auto">Автоматически</string>
-  <string name="pie_white">Белый</string>
-  <string name="pie_dark">Темный</string>
-  <string name="pie_battery_title">Индикатор батареи</string>
-  <string name="pie_battery_text">Только текст</string>
-  <string name="pie_battery_circle">Только круг</string>
-  <string name="pie_battery_both">Оба</string>
-  <string name="pie_status_indicator">Индикатор сети</string>
-  <string name="pie_status_wifi">Только Wi-Fi</string>
-  <string name="pie_status_mobile">Только мобильное устройство</string>
-  <string name="pie_status_none">Нет</string>
-  <string name="pie_status_both">Оба</string>
+    <!-- Default left shortcut on lockscreen -->
+    <string name="left_default_voice_title">Левый ярлык на экране блокировки</string>
+    <string name="left_default_voice_summary_on">Использовать голосовой ассистент</string>
+    <string name="left_default_voice_summary_off">Использовать телефон</string>
+    <!-- Hide the next alarm on lockscreen -->
+    <string name="show_next_alarm_lockscreen_title">Показать время следующего будильника</string>
+    <string name="show_next_alarm_lockscreen_summary">Показывать след. будильник на экране блокировки, когда он установлен</string>
+    <!-- Disabling immersive mode messages -->
+    <string name="disable_immersive_message_title">Отключить сообщения о режиме погружения</string>
+    <string name="disable_immersive_message_summary">Это отключит все сообщения о режиме погружения</string>
+    <!-- Volume Steps -->
+    <string name="volume_steps_title">Шаги громкости</string>
+    <string name="volume_steps_alarm_title">Шаг громкости: будильник</string>
+    <string name="volume_steps_dtmf_title">Шаг громкости: тональный набор</string>
+    <string name="volume_steps_music_title">Шаг громкости: музыка</string>
+    <string name="volume_steps_notification_title">Шаг громкости: уведомление</string>
+    <string name="volume_steps_ring_title">Шаг громкости: звонок</string>
+    <string name="volume_steps_system_title">Шаг громкости: система</string>
+    <string name="volume_steps_voice_call_title">Шаг громкости: голосовой вызов</string>
+    <string name="volume_steps_reset">Сбросить</string>
+    <string name="volume_steps_60">60</string>
+    <string name="volume_steps_45">45</string>
+    <string name="volume_steps_30">30</string>
+    <string name="volume_steps_15">15</string>
+    <string name="volume_steps_7">7</string>
+    <string name="volume_steps_5">5</string>
+    <!-- OpenDelta updates -->
+    <string name="deltaupdate_settings_title">Обновления системы</string>
+    <!-- Optional screenshot type -->
+    <string name="screenshot_type_title">Тип скриншота</string>
+    <string name="screenshot_type_fullscreen">Полноэкранный скриншот</string>
+    <string name="screenshot_type_partial">Скриншот выбранной области</string>
+    <!-- Quick unlock -->
+    <string name="unlock_quick_unlock_control_title">Быстрая разблокировка</string>
+    <string name="unlock_quick_unlock_control_summary_password">Автоматическая разблокировка при вводе правильного пароля или PIN-кода</string>
+    <string name="unlock_quick_unlock_control_summary_pin">Разблокировать автоматически при вводе правильного ПИН-кода/пароля</string>
+    <!-- Notification Ticker -->
+    <string name="ticker_title">Бегущая строка</string>
+    <string name="ticker_summary">Отображение приоритетных уведомлений в строке состояния</string>
+    <!-- Notification Ticker Track-->
+    <string name="ticker_track_title">Название треков в бегущей строке</string>
+    <string name="ticker_track_summary">Показывать метаданные при воспроизведении нового трека</string>
+    <!-- Secure lockscreen -->
+    <string name="lockscreen_enable_power_menu_title">Защищённый экран блокировки</string>
+    <string name="lockscreen_enable_power_menu_summary">Запретить доступ к быстрым настройкам и меню управления питанием</string>
+    <!-- Settings suggestions  -->
+    <string name="disable_settings_suggestions_title">Подсказки в главном меню</string>
+    <!-- Custom carrier label and position -->
+    <string name="keyguard_show_carrier_title">Скрыть имя оператора</string>
+    <string name="keyguard_show_carrier_summary">Скрыть имя оператора на экрана блокировки</string>
+    <string name="custom_carrier_label_title">Использовать своё имя оператора</string>
+    <string name="custom_carrier_label_explain">Введите новое имя. Для возрата к имени по умолчанию оставьте строку пустой</string>
+    <string name="custom_carrier_label_notset">Пользовательское имя оператора не установлено</string>
+    <string name="one_hand_mode_title">Режим \"Управление одной рукой\"</string>
+    <string name="one_hand_mode_summary">Позволяет свайпом по панели навигации включать режим \"Управление одной рукой\"</string>
+    <!-- Advanced night mode brightness -->
+    <string name="night_brightness_category">Яркость</string>
+    <string name="night_brightness_value_title">Яркость в Ночном режиме</string>
+    <string name="night_brightness_text">Когда ночной режим включен, автоматически устанавливать желаемую яркость.</string>
+    <string name="night_bright_disabled">Выключена</string>
+    <string name="night_bright_min">Минимальная яркость</string>
+    <string name="night_bright_low">Низкая яркость</string>
+    <string name="night_bright_medium">Средняя яркость</string>
+    <string name="magisk_title">Менеджер Magisk</string>
+    <string name="magisk_summary">Настройка Magisk и модулей</string>
+    <string name="substratum_title">Темы Substratum</string>
+    <string name="substratum_summary">Настройка темы</string>
+    <!-- Incall vibrate options -->
+    <string name="incall_vibrate_connect_title">Вибрировать при подключении во время вызова</string>
+    <string name="incall_vibrate_call_wait_title">Вибрировать при ожидании во время вызова</string>
+    <string name="incall_vibrate_disconnect_title">Вибрировать при отключении во время вызова</string>
+    <string name="doze_brightness_level_title">Яркость при работе Активного дисплея</string>
+    <string name="doze_brightness_level_summary">Настроить уровень яркости для Активного дисплея</string>
+    <!-- Heads up timeout -->
+    <string name="heads_up_time_out_title">Тайм-аут Всплывающих уведомлений</string>
+    <string name="heads_up_time_out_summary">Всплывающие уведомления будут показываться в течение <xliff:g id="number">%d</xliff:g> секунд</string>
+    <string name="heads_up_time_out_2sec">2 секунды</string>
+    <string name="heads_up_time_out_4sec">4 секунды</string>
+    <string name="heads_up_time_out_5sec">5 секунд</string>
+    <string name="heads_up_time_out_6sec">6 секунд</string>
+    <string name="heads_up_time_out_8sec">8 секунд</string>
+    <string name="heads_up_time_out_10sec">10 секунд</string>
+    <!-- Heads up snooze -->
+    <string name="heads_up_snooze_title">Отключить всплывающие уведомления</string>
+    <string name="heads_up_snooze_summary_one_minute">Свайп вверх по всплывающему уведомлению отключит его для выбранного приложения на 1 минуту</string>
+    <string name="heads_up_snooze_summary">Свайп вверх по всплывающему уведомлению отключит его для этого приложения на <xliff:g id="number">%d</xliff:g> минут</string>
+    <string name="heads_up_snooze_disabled_summary">Функция \"Отложить уведомление\" отключена</string>
+    <string name="heads_up_snooze_1min">1 мин</string>
+    <string name="heads_up_snooze_3min">3 мин</string>
+    <string name="heads_up_snooze_5min">5 мин</string>
+    <string name="heads_up_snooze_10min">10 мин</string>
+    <string name="heads_up_snooze_15min">15 мин</string>
+    <string name="heads_up_snooze_20min">20 минут</string>
+    <!-- Recents panel settings -->
+    <string name="show_clear_all_recents_button_title">Включить кнопку \"Очистить всё\"</string>
+    <string name="show_clear_all_recents_button_summary">Показывать кнопку \"Очистить всё\" при использовании меню недавних приложений</string>
+    <string name="recents_clear_all_location_title">Расположение кнопки \"Очистить всё\"</string>
+    <string name="recents_clear_all_location_stock">Вверху справа (автоматически скрывать)</string>
+    <string name="recents_clear_all_location_top_right">Вверху справа</string>
+    <string name="recents_clear_all_location_top_left">Вверху слева</string>
+    <string name="recents_clear_all_location_top_center">Вверху в центре</string>
+    <string name="recents_clear_all_location_bottom_right">Внизу справа</string>
+    <string name="recents_clear_all_location_bottom_left">Внизу слева</string>
+    <string name="recents_clear_all_location_bottom_center">Внизу в центре</string>
+    <!-- Battery stats reset -->
+    <string name="battery_stats_reset">Сброс статистики</string>
+    <string name="battery_stats_message">История батареи будет удалена</string>
+    <string name="ok_string">Ок</string>
+    <!-- Fullscreen Keyboard -->
+    <string name="disable_fullscreen_keyboard_title">Отключить клавиатуру в полноэкранном режиме</string>
+    <string name="disable_fullscreen_keyboard_summary">В ландшафтном режиме клавиатура не займет весь экран</string>
+    <string name="tile_summary_title">Отключить резюме</string>
+    <string name="notification_light_zen_mode">Индикация уведомлений</string>
+    <string name="battery_light_zen_mode">Индикация батареи</string>
+    <!-- Fingerprint unlock keystore -->
+    <string name="fp_unlock_keystore_title">Разблокировка отпечатком пальца</string>
+    <string name="fp_unlock_password_summary">Разблокировать устройство с помощью отпечатка пальца после перезагрузки без пароля</string>
+    <string name="fp_unlock_pattern_summary">Разблокировать устройство с помощью отпечатка пальца после перезагрузки без графического ключа</string>
+    <string name="fp_unlock_pin_summary">Разблокировать устройство с помощью отпечатка пальца после перезагрузки без пароля</string>
+    <!-- Force expanded notifications -->
+    <string name="expanded_notifications_title">Принудительно расширять уведомления</string>
+    <string name="expanded_notifications_summary">Всегда показывать расширенные уведомления если поддерживает</string>
+    <!-- Color engine -->
+    <string name="theme_switch_palette">Переключение между основным и дополнительным цветом</string>
+    <string name="theme_title">Цветовая схема</string>
+    <string name="theme_summary">Выберите различные цвета для вашей текущей темы</string>
+    <string name="theme_accent_color">Контрастный цвет</string>
+    <string name="theme_primary_color">Цвет фона</string>
+    <string name="theme">Темы</string>
+    <string name="oms_enabled">Режимы тем недоступны, потому что в настоящее время применяется тема Substratum</string>
+    <string name="red">Красный</string>
+    <string name="orange">Оранжевый</string>
+    <string name="blue">Бирюзовый</string>
+    <string name="green">Зеленый</string>
+    <string name="yellow">Желтый</string>
+    <string name="purple">Фиолетовый</string>
+    <string name="pink">Розовый</string>
+    <string name="black">Чёрный</string>
+    <string name="dark">Темный</string>
+    <string name="pixel">Пиксель</string>
+    <string name="teal">Синий</string>
+    <string name="cyan">Голубой</string>
+    <string name="grey">Серый</string>
+    <string name="white">Белый</string>
+    <!-- Force authorize substratum packages -->
+    <string name="force_authorize_substratum_packages_title">Принудительно запрашивать разрешения для каждой темы</string>
+    <string name="force_authorize_substratum_packages_summary">Разрешить установку тем из неизвестных источников</string>
+    <string name="dashboard_label">Подсказки</string>
+    <string name="miscellaneous_label">Прочее</string>
+    <string name="two_columns_title">Две колонки</string>
+    <string name="headsup_label">Всплывающие уведомления</string>
+    <string name="ticker_label">Бегущая строка</string>
+    <string name="ticker_disabled">Бегущая строка состояния отключена, т.к. включены всплывающие уведомления</string>
+    <string name="headsup_disabled">Всплывающие уведомления отключены, т.к. бегущая строка состояния включена</string>
+    <string name="ringtones_title">Рингтоны</string>
+    <string name="call_options_title">Параметры звонка</string>
+    <!-- Recents -->
+    <string name="recents_label">Меню недавних приложений</string>
+    <string name="immersive_recents_title">Полноэкранный режим</string>
+    <string name="immersive_recents_summary">Изменить вид \"Меню недавних приложений\"</string>
+    <string name="immersive_recents_dialog_title">Выберите \"Меню недавних приложений\", чтобы скрыть</string>
+    <string name="immersive_recents_default">Ничего не скрывать</string>
+    <string name="immersive_recents_fullscreen">Скрывать строку состояния и панель навигации</string>
+    <string name="immersive_recents_statusbar">Скрывать панель навигации</string>
+    <string name="immersive_recents_navbar">Скрывать строку состояния</string>
+    <string name="systemui_recents_mem_display_title">Панель использования RAM</string>
+    <string name="systemui_recents_mem_display_summary">Отображать панель использования RAM в недавних приложениях</string>
+    <string name="recents_lock_icon_title">Значек замка в \"Меню недавних приложений\"</string>
+    <string name="recents_lock_icon_summary">Отображать значек замка в панели уведомлений</string>
+    <string name="recents_dismiss_icon_title">Удалить все</string>
+    <string name="recents_dismiss_icon_summary">Отображать кнопку \"Очистить все\" в панели уведомлений</string>
+    <!-- Toast icon -->
+    <string name="toast_icon_title">Иконка всплывающего уведомления</string>
+    <string name="toast_icon_summary">Отображать значок приложения в тост-уведомлениях</string>
+    <!-- Settings conditions  -->
+    <string name="disable_settings_conditions_title">Отключить условия</string>
+    <string name="theme_force_enabled_title">Принудительное включение двигателя цвета</string>
+    <string name="theme_force_enabled_summary">Тема будет включена принудительно, независимо от состояния OMS</string>
+    <!-- Pie -->
+    <string name="pie_settings">Панель PIE</string>
+    <string name="pie_gravity_title">Портретный режим</string>
+    <string name="pie_gravity_landscape_title">Альбомный режим</string>
+    <string name="pie_gravity_bottom">Внизу</string>
+    <string name="pie_gravity_right">Справа</string>
+    <string name="pie_gravity_left">Слева</string>
+    <string name="pie_theme_mode_title">Темы</string>
+    <string name="pie_auto">Автоматически</string>
+    <string name="pie_white">Белый</string>
+    <string name="pie_dark">Темный</string>
+    <string name="pie_battery_title">Индикатор батареи</string>
+    <string name="pie_battery_text">Только текст</string>
+    <string name="pie_battery_circle">Только круг</string>
+    <string name="pie_battery_both">Оба</string>
+    <string name="pie_status_indicator">Индикатор сети</string>
+    <string name="pie_status_wifi">Только Wi-Fi</string>
+    <string name="pie_status_mobile">Только мобильное устройство</string>
+    <string name="pie_status_none">Нет</string>
+    <string name="pie_status_both">Оба</string>
 </resources>
