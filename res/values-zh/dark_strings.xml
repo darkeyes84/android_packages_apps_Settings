@@ -17,202 +17,202 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Default left shortcut on lockscreen -->
-  <string name="left_default_voice_title">锁屏界面左侧快捷方式</string>
-  <string name="left_default_voice_summary_on">默认快捷方式为语音助理</string>
-  <string name="left_default_voice_summary_off">默认快捷方式为拨打电话</string>
-  <!-- Hide the next alarm on lockscreen -->
-  <string name="show_next_alarm_lockscreen_title">显示下一个闹钟</string>
-  <string name="show_next_alarm_lockscreen_summary">当设有闹钟时在锁屏界面内显示下一个闹钟的信息</string>
-  <!-- Disabling immersive mode messages -->
-  <string name="disable_immersive_message_title">禁用沉浸模式消息</string>
-  <string name="disable_immersive_message_summary">这将隐藏所有的沉浸模式消息</string>
-  <!-- Volume Steps -->
-  <string name="volume_steps_title">音量步数</string>
-  <string name="volume_steps_alarm_title">音量步数：闹钟</string>
-  <string name="volume_steps_dtmf_title">音量步数：双音多频</string>
-  <string name="volume_steps_music_title">音量步数：音乐</string>
-  <string name="volume_steps_notification_title">音量步数：通知</string>
-  <string name="volume_steps_ring_title">音量步数：铃声</string>
-  <string name="volume_steps_system_title">音量步数：系统</string>
-  <string name="volume_steps_voice_call_title">音量步数：语音通话</string>
-  <string name="volume_steps_reset">重置</string>
-  <string name="volume_steps_60">60</string>
-  <string name="volume_steps_45">45</string>
-  <string name="volume_steps_30">30</string>
-  <string name="volume_steps_15">15</string>
-  <string name="volume_steps_7">7</string>
-  <string name="volume_steps_5">5</string>
-  <!-- OpenDelta updates -->
-  <string name="deltaupdate_settings_title">系统更新</string>
-  <!-- Optional screenshot type -->
-  <string name="screenshot_type_title">屏幕截图类型</string>
-  <string name="screenshot_type_fullscreen">全屏截图</string>
-  <string name="screenshot_type_partial">拖动选择区域进行局部截图</string>
-  <!-- Quick unlock -->
-  <string name="unlock_quick_unlock_control_title">快速解锁</string>
-  <string name="unlock_quick_unlock_control_summary_password">当输入正确的密码时自动解锁</string>
-  <string name="unlock_quick_unlock_control_summary_pin">当输入正确的 PIN 时自动解锁</string>
-  <!-- Notification Ticker -->
-  <string name="ticker_title">预览</string>
-  <string name="ticker_summary">在状态栏上显示优先通知</string>
-  <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">音乐曲目预览</string>
-  <string name="ticker_track_summary">当播放歌曲时显示曲目信息</string>
-  <!-- Secure lockscreen -->
-  <string name="lockscreen_enable_power_menu_title">安全锁屏</string>
-  <string name="lockscreen_enable_power_menu_summary">防止访问快速设置和电源菜单</string>
-  <!-- Settings suggestions  -->
-  <string name="disable_settings_suggestions_title">禁用建议</string>
-  <!-- Custom carrier label and position -->
-  <string name="keyguard_show_carrier_title">隐藏运营商名称</string>
-  <string name="keyguard_show_carrier_summary">在锁屏内隐藏运营商名称</string>
-  <string name="custom_carrier_label_title">自定义运营商名称</string>
-  <string name="custom_carrier_label_explain">请输入一个新名称，留空将恢复至默认的运营商名称</string>
-  <string name="custom_carrier_label_notset">当前未设置自定义名称</string>
-  <string name="one_hand_mode_title">单手模式</string>
-  <string name="one_hand_mode_summary">在导航栏上滑动以启用单手模式</string>
-  <!-- Advanced night mode brightness -->
-  <string name="night_brightness_category">亮度</string>
-  <string name="night_brightness_value_title">夜间模式亮度</string>
-  <string name="night_brightness_text">当夜间模式启动时将自动设置合适的亮度。</string>
-  <string name="night_bright_disabled">禁用</string>
-  <string name="night_bright_min">最低亮度</string>
-  <string name="night_bright_low">低亮度</string>
-  <string name="night_bright_medium">中等亮度</string>
-  <string name="magisk_title">Magisk 管理器</string>
-  <string name="magisk_summary">控制模块和设置</string>
-  <string name="substratum_title">Substratum</string>
-  <string name="substratum_summary">自定义设备主题</string>
-  <!-- Incall vibrate options -->
-  <string name="incall_vibrate_connect_title">接通时振动</string>
-  <string name="incall_vibrate_call_wait_title">呼叫等待时振动</string>
-  <string name="incall_vibrate_disconnect_title">挂断时振动</string>
-  <string name="doze_brightness_level_title">主动显示亮度</string>
-  <string name="doze_brightness_level_summary">调整主动显示的亮度级别</string>
-  <!-- Heads up timeout -->
-  <string name="heads_up_time_out_title">浮动通知超时</string>
-  <string name="heads_up_time_out_summary">浮动通知将显示 <xliff:g id="number">%d</xliff:g> 秒</string>
-  <string name="heads_up_time_out_2sec">2 秒</string>
-  <string name="heads_up_time_out_4sec">4 秒</string>
-  <string name="heads_up_time_out_5sec">5 秒</string>
-  <string name="heads_up_time_out_6sec">6 秒</string>
-  <string name="heads_up_time_out_8sec">8 秒</string>
-  <string name="heads_up_time_out_10sec">10 秒</string>
-  <!-- Heads up snooze -->
-  <string name="heads_up_snooze_title">浮动通知延时</string>
-  <string name="heads_up_snooze_summary_one_minute">上滑浮动通知将使通知显示延时 1 分钟</string>
-  <string name="heads_up_snooze_summary">上滑浮动通知将使通知显示延时 <xliff:g id="number">%d</xliff:g> 分钟</string>
-  <string name="heads_up_snooze_disabled_summary">已禁用延时</string>
-  <string name="heads_up_snooze_1min">1 分钟</string>
-  <string name="heads_up_snooze_3min">3 分钟</string>
-  <string name="heads_up_snooze_5min">5 分钟</string>
-  <string name="heads_up_snooze_10min">10 分钟</string>
-  <string name="heads_up_snooze_15min">15 分钟</string>
-  <string name="heads_up_snooze_20min">20 分钟</string>
-  <!-- Recents panel settings -->
-  <string name="show_clear_all_recents_button_title">启用全部清除按钮</string>
-  <string name="show_clear_all_recents_button_summary">在近期任务视图内显示全部清除按钮</string>
-  <string name="recents_clear_all_location_title">全部清除按钮位置</string>
-  <string name="recents_clear_all_location_stock">右上角 (自动隐藏)</string>
-  <string name="recents_clear_all_location_top_right">右上角</string>
-  <string name="recents_clear_all_location_top_left">左上角</string>
-  <string name="recents_clear_all_location_top_center">顶部居中</string>
-  <string name="recents_clear_all_location_bottom_right">右下角</string>
-  <string name="recents_clear_all_location_bottom_left">左下角</string>
-  <string name="recents_clear_all_location_bottom_center">底部居中</string>
-  <!-- Battery stats reset -->
-  <string name="battery_stats_reset">重置统计数据</string>
-  <string name="battery_stats_message">电池历史记录将被移除</string>
-  <string name="ok_string">确定</string>
-  <!-- Fullscreen Keyboard -->
-  <string name="disable_fullscreen_keyboard_title">禁用全屏键盘</string>
-  <string name="disable_fullscreen_keyboard_summary">阻止键盘在横屏时占用整块屏幕</string>
-  <string name="tile_summary_title">禁用概要</string>
-  <string name="notification_light_zen_mode">通知指示灯</string>
-  <string name="battery_light_zen_mode">电量指示灯</string>
-  <!-- Fingerprint unlock keystore -->
-  <string name="fp_unlock_keystore_title">指纹解锁</string>
-  <string name="fp_unlock_password_summary">在重启后无须输入密码直接使用指纹解锁设备</string>
-  <string name="fp_unlock_pattern_summary">在重启后无须绘制图案直接使用指纹解锁设备</string>
-  <string name="fp_unlock_pin_summary">在重启后无须输入 PIN 直接使用指纹解锁设备</string>
-  <!-- Force expanded notifications -->
-  <string name="expanded_notifications_title">强制展开通知</string>
-  <string name="expanded_notifications_summary">如通知支持则总是显示展开后通知</string>
-  <!-- Color engine -->
-  <string name="theme_switch_palette">在背景色和强调色间切换</string>
-  <string name="theme_title">色彩引擎</string>
-  <string name="theme_summary">为你的当前主题选择不同的颜色</string>
-  <string name="theme_accent_color">强调色</string>
-  <string name="theme_primary_color">背景色</string>
-  <string name="theme">主题</string>
-  <string name="oms_enabled">主题模式不可用，因当前已应用 Substratum 叠加层</string>
-  <string name="red">红色</string>
-  <string name="orange">橙色</string>
-  <string name="blue">蓝绿色</string>
-  <string name="green">绿色</string>
-  <string name="yellow">黄色</string>
-  <string name="purple">紫色</string>
-  <string name="pink">粉红色</string>
-  <string name="black">黑色</string>
-  <string name="dark">酷黑</string>
-  <string name="pixel">Pixel</string>
-  <string name="teal">蓝色</string>
-  <string name="cyan">青色</string>
-  <string name="grey">灰色</string>
-  <string name="white">白色</string>
-  <!-- Force authorize substratum packages -->
-  <string name="force_authorize_substratum_packages_title">强制授权所有主题应用</string>
-  <string name="force_authorize_substratum_packages_summary">允许使用来自未知来源的主题应用</string>
-  <string name="dashboard_label">控制面板</string>
-  <string name="miscellaneous_label">其他</string>
-  <string name="two_columns_title">双列</string>
-  <string name="headsup_label">浮动通知</string>
-  <string name="ticker_label">预览</string>
-  <string name="ticker_disabled">因启用过浮动通知功能，通知预览已禁用</string>
-  <string name="headsup_disabled">因启用过通知预览功能，浮动通知已禁用</string>
-  <string name="ringtones_title">铃声</string>
-  <string name="call_options_title">呼叫选项</string>
-  <!-- Recents -->
-  <string name="recents_label">近期</string>
-  <string name="immersive_recents_title">沉浸模式</string>
-  <string name="immersive_recents_summary">更改近期任务视图</string>
-  <string name="immersive_recents_dialog_title">选择要隐藏的近期任务视图</string>
-  <string name="immersive_recents_default">不隐藏</string>
-  <string name="immersive_recents_fullscreen">全部隐藏</string>
-  <string name="immersive_recents_statusbar">隐藏导航栏</string>
-  <string name="immersive_recents_navbar">隐藏状态栏</string>
-  <string name="systemui_recents_mem_display_title">内存栏</string>
-  <string name="systemui_recents_mem_display_summary">在近期任务视图内显示内存栏</string>
-  <string name="recents_lock_icon_title">锁定任务</string>
-  <string name="recents_lock_icon_summary">在任务标题上显示锁定图标</string>
-  <string name="recents_dismiss_icon_title">清除任务</string>
-  <string name="recents_dismiss_icon_summary">在任务标题上显示清除图标</string>
-  <!-- Toast icon -->
-  <string name="toast_icon_title">Toast 通知图标</string>
-  <string name="toast_icon_summary">在 Toast 通知上显示对应应用的图标</string>
-  <!-- Settings conditions  -->
-  <string name="disable_settings_conditions_title">禁用条件</string>
-  <string name="theme_force_enabled_title">强制启用色彩引擎</string>
-  <string name="theme_force_enabled_summary">色彩引擎将忽略 OMS 的状态并强制启用</string>
-  <!-- Pie -->
-  <string name="pie_settings">Pie 控制</string>
-  <string name="pie_gravity_title">竖屏位置</string>
-  <string name="pie_gravity_landscape_title">横屏位置</string>
-  <string name="pie_gravity_bottom">底部</string>
-  <string name="pie_gravity_right">右侧</string>
-  <string name="pie_gravity_left">左侧</string>
-  <string name="pie_theme_mode_title">主题</string>
-  <string name="pie_auto">自动</string>
-  <string name="pie_white">白色</string>
-  <string name="pie_dark">酷黑</string>
-  <string name="pie_battery_title">电量指示器</string>
-  <string name="pie_battery_text">只显示文字</string>
-  <string name="pie_battery_circle">只显示环形</string>
-  <string name="pie_battery_both">同时显示</string>
-  <string name="pie_status_indicator">网络指示器</string>
-  <string name="pie_status_wifi">只显示 WiFi</string>
-  <string name="pie_status_mobile">只显示移动网络</string>
-  <string name="pie_status_none">不显示</string>
-  <string name="pie_status_both">同时显示</string>
+    <!-- Default left shortcut on lockscreen -->
+    <string name="left_default_voice_title">锁屏界面左侧快捷方式</string>
+    <string name="left_default_voice_summary_on">默认快捷方式为语音助理</string>
+    <string name="left_default_voice_summary_off">默认快捷方式为拨打电话</string>
+    <!-- Hide the next alarm on lockscreen -->
+    <string name="show_next_alarm_lockscreen_title">显示下一个闹钟</string>
+    <string name="show_next_alarm_lockscreen_summary">当设有闹钟时在锁屏界面内显示下一个闹钟的信息</string>
+    <!-- Disabling immersive mode messages -->
+    <string name="disable_immersive_message_title">禁用沉浸模式消息</string>
+    <string name="disable_immersive_message_summary">这将隐藏所有的沉浸模式消息</string>
+    <!-- Volume Steps -->
+    <string name="volume_steps_title">音量步数</string>
+    <string name="volume_steps_alarm_title">音量步数：闹钟</string>
+    <string name="volume_steps_dtmf_title">音量步数：双音多频</string>
+    <string name="volume_steps_music_title">音量步数：音乐</string>
+    <string name="volume_steps_notification_title">音量步数：通知</string>
+    <string name="volume_steps_ring_title">音量步数：铃声</string>
+    <string name="volume_steps_system_title">音量步数：系统</string>
+    <string name="volume_steps_voice_call_title">音量步数：语音通话</string>
+    <string name="volume_steps_reset">重置</string>
+    <string name="volume_steps_60">60</string>
+    <string name="volume_steps_45">45</string>
+    <string name="volume_steps_30">30</string>
+    <string name="volume_steps_15">15</string>
+    <string name="volume_steps_7">7</string>
+    <string name="volume_steps_5">5</string>
+    <!-- OpenDelta updates -->
+    <string name="deltaupdate_settings_title">系统更新</string>
+    <!-- Optional screenshot type -->
+    <string name="screenshot_type_title">屏幕截图类型</string>
+    <string name="screenshot_type_fullscreen">全屏截图</string>
+    <string name="screenshot_type_partial">拖动选择区域进行局部截图</string>
+    <!-- Quick unlock -->
+    <string name="unlock_quick_unlock_control_title">快速解锁</string>
+    <string name="unlock_quick_unlock_control_summary_password">当输入正确的密码时自动解锁</string>
+    <string name="unlock_quick_unlock_control_summary_pin">当输入正确的 PIN 时自动解锁</string>
+    <!-- Notification Ticker -->
+    <string name="ticker_title">预览</string>
+    <string name="ticker_summary">在状态栏上显示优先通知</string>
+    <!-- Notification Ticker Track-->
+    <string name="ticker_track_title">音乐曲目预览</string>
+    <string name="ticker_track_summary">当播放歌曲时显示曲目信息</string>
+    <!-- Secure lockscreen -->
+    <string name="lockscreen_enable_power_menu_title">安全锁屏</string>
+    <string name="lockscreen_enable_power_menu_summary">防止访问快速设置和电源菜单</string>
+    <!-- Settings suggestions  -->
+    <string name="disable_settings_suggestions_title">禁用建议</string>
+    <!-- Custom carrier label and position -->
+    <string name="keyguard_show_carrier_title">隐藏运营商名称</string>
+    <string name="keyguard_show_carrier_summary">在锁屏内隐藏运营商名称</string>
+    <string name="custom_carrier_label_title">自定义运营商名称</string>
+    <string name="custom_carrier_label_explain">请输入一个新名称，留空将恢复至默认的运营商名称</string>
+    <string name="custom_carrier_label_notset">当前未设置自定义名称</string>
+    <string name="one_hand_mode_title">单手模式</string>
+    <string name="one_hand_mode_summary">在导航栏上滑动以启用单手模式</string>
+    <!-- Advanced night mode brightness -->
+    <string name="night_brightness_category">亮度</string>
+    <string name="night_brightness_value_title">夜间模式亮度</string>
+    <string name="night_brightness_text">当夜间模式启动时将自动设置合适的亮度。</string>
+    <string name="night_bright_disabled">禁用</string>
+    <string name="night_bright_min">最低亮度</string>
+    <string name="night_bright_low">低亮度</string>
+    <string name="night_bright_medium">中等亮度</string>
+    <string name="magisk_title">Magisk 管理器</string>
+    <string name="magisk_summary">控制模块和设置</string>
+    <string name="substratum_title">Substratum</string>
+    <string name="substratum_summary">自定义设备主题</string>
+    <!-- Incall vibrate options -->
+    <string name="incall_vibrate_connect_title">接通时振动</string>
+    <string name="incall_vibrate_call_wait_title">呼叫等待时振动</string>
+    <string name="incall_vibrate_disconnect_title">挂断时振动</string>
+    <string name="doze_brightness_level_title">主动显示亮度</string>
+    <string name="doze_brightness_level_summary">调整主动显示的亮度级别</string>
+    <!-- Heads up timeout -->
+    <string name="heads_up_time_out_title">浮动通知超时</string>
+    <string name="heads_up_time_out_summary">浮动通知将显示 <xliff:g id="number">%d</xliff:g> 秒</string>
+    <string name="heads_up_time_out_2sec">2 秒</string>
+    <string name="heads_up_time_out_4sec">4 秒</string>
+    <string name="heads_up_time_out_5sec">5 秒</string>
+    <string name="heads_up_time_out_6sec">6 秒</string>
+    <string name="heads_up_time_out_8sec">8 秒</string>
+    <string name="heads_up_time_out_10sec">10 秒</string>
+    <!-- Heads up snooze -->
+    <string name="heads_up_snooze_title">浮动通知延时</string>
+    <string name="heads_up_snooze_summary_one_minute">上滑浮动通知将使通知显示延时 1 分钟</string>
+    <string name="heads_up_snooze_summary">上滑浮动通知将使通知显示延时 <xliff:g id="number">%d</xliff:g> 分钟</string>
+    <string name="heads_up_snooze_disabled_summary">已禁用延时</string>
+    <string name="heads_up_snooze_1min">1 分钟</string>
+    <string name="heads_up_snooze_3min">3 分钟</string>
+    <string name="heads_up_snooze_5min">5 分钟</string>
+    <string name="heads_up_snooze_10min">10 分钟</string>
+    <string name="heads_up_snooze_15min">15 分钟</string>
+    <string name="heads_up_snooze_20min">20 分钟</string>
+    <!-- Recents panel settings -->
+    <string name="show_clear_all_recents_button_title">启用全部清除按钮</string>
+    <string name="show_clear_all_recents_button_summary">在近期任务视图内显示全部清除按钮</string>
+    <string name="recents_clear_all_location_title">全部清除按钮位置</string>
+    <string name="recents_clear_all_location_stock">右上角 (自动隐藏)</string>
+    <string name="recents_clear_all_location_top_right">右上角</string>
+    <string name="recents_clear_all_location_top_left">左上角</string>
+    <string name="recents_clear_all_location_top_center">顶部居中</string>
+    <string name="recents_clear_all_location_bottom_right">右下角</string>
+    <string name="recents_clear_all_location_bottom_left">左下角</string>
+    <string name="recents_clear_all_location_bottom_center">底部居中</string>
+    <!-- Battery stats reset -->
+    <string name="battery_stats_reset">重置统计数据</string>
+    <string name="battery_stats_message">电池历史记录将被移除</string>
+    <string name="ok_string">确定</string>
+    <!-- Fullscreen Keyboard -->
+    <string name="disable_fullscreen_keyboard_title">禁用全屏键盘</string>
+    <string name="disable_fullscreen_keyboard_summary">阻止键盘在横屏时占用整块屏幕</string>
+    <string name="tile_summary_title">禁用概要</string>
+    <string name="notification_light_zen_mode">通知指示灯</string>
+    <string name="battery_light_zen_mode">电量指示灯</string>
+    <!-- Fingerprint unlock keystore -->
+    <string name="fp_unlock_keystore_title">指纹解锁</string>
+    <string name="fp_unlock_password_summary">在重启后无须输入密码直接使用指纹解锁设备</string>
+    <string name="fp_unlock_pattern_summary">在重启后无须绘制图案直接使用指纹解锁设备</string>
+    <string name="fp_unlock_pin_summary">在重启后无须输入 PIN 直接使用指纹解锁设备</string>
+    <!-- Force expanded notifications -->
+    <string name="expanded_notifications_title">强制展开通知</string>
+    <string name="expanded_notifications_summary">如通知支持则总是显示展开后通知</string>
+    <!-- Color engine -->
+    <string name="theme_switch_palette">在背景色和强调色间切换</string>
+    <string name="theme_title">色彩引擎</string>
+    <string name="theme_summary">为你的当前主题选择不同的颜色</string>
+    <string name="theme_accent_color">强调色</string>
+    <string name="theme_primary_color">背景色</string>
+    <string name="theme">主题</string>
+    <string name="oms_enabled">主题模式不可用，因当前已应用 Substratum 叠加层</string>
+    <string name="red">红色</string>
+    <string name="orange">橙色</string>
+    <string name="blue">蓝绿色</string>
+    <string name="green">绿色</string>
+    <string name="yellow">黄色</string>
+    <string name="purple">紫色</string>
+    <string name="pink">粉红色</string>
+    <string name="black">黑色</string>
+    <string name="dark">酷黑</string>
+    <string name="pixel">Pixel</string>
+    <string name="teal">蓝色</string>
+    <string name="cyan">青色</string>
+    <string name="grey">灰色</string>
+    <string name="white">白色</string>
+    <!-- Force authorize substratum packages -->
+    <string name="force_authorize_substratum_packages_title">强制授权所有主题应用</string>
+    <string name="force_authorize_substratum_packages_summary">允许使用来自未知来源的主题应用</string>
+    <string name="dashboard_label">控制面板</string>
+    <string name="miscellaneous_label">其他</string>
+    <string name="two_columns_title">双列</string>
+    <string name="headsup_label">浮动通知</string>
+    <string name="ticker_label">预览</string>
+    <string name="ticker_disabled">因启用过浮动通知功能，通知预览已禁用</string>
+    <string name="headsup_disabled">因启用过通知预览功能，浮动通知已禁用</string>
+    <string name="ringtones_title">铃声</string>
+    <string name="call_options_title">呼叫选项</string>
+    <!-- Recents -->
+    <string name="recents_label">近期</string>
+    <string name="immersive_recents_title">沉浸模式</string>
+    <string name="immersive_recents_summary">更改近期任务视图</string>
+    <string name="immersive_recents_dialog_title">选择要隐藏的近期任务视图</string>
+    <string name="immersive_recents_default">不隐藏</string>
+    <string name="immersive_recents_fullscreen">全部隐藏</string>
+    <string name="immersive_recents_statusbar">隐藏导航栏</string>
+    <string name="immersive_recents_navbar">隐藏状态栏</string>
+    <string name="systemui_recents_mem_display_title">内存栏</string>
+    <string name="systemui_recents_mem_display_summary">在近期任务视图内显示内存栏</string>
+    <string name="recents_lock_icon_title">锁定任务</string>
+    <string name="recents_lock_icon_summary">在任务标题上显示锁定图标</string>
+    <string name="recents_dismiss_icon_title">清除任务</string>
+    <string name="recents_dismiss_icon_summary">在任务标题上显示清除图标</string>
+    <!-- Toast icon -->
+    <string name="toast_icon_title">Toast 通知图标</string>
+    <string name="toast_icon_summary">在 Toast 通知上显示对应应用的图标</string>
+    <!-- Settings conditions  -->
+    <string name="disable_settings_conditions_title">禁用条件</string>
+    <string name="theme_force_enabled_title">强制启用色彩引擎</string>
+    <string name="theme_force_enabled_summary">色彩引擎将忽略 OMS 的状态并强制启用</string>
+    <!-- Pie -->
+    <string name="pie_settings">Pie 控制</string>
+    <string name="pie_gravity_title">竖屏位置</string>
+    <string name="pie_gravity_landscape_title">横屏位置</string>
+    <string name="pie_gravity_bottom">底部</string>
+    <string name="pie_gravity_right">右侧</string>
+    <string name="pie_gravity_left">左侧</string>
+    <string name="pie_theme_mode_title">主题</string>
+    <string name="pie_auto">自动</string>
+    <string name="pie_white">白色</string>
+    <string name="pie_dark">酷黑</string>
+    <string name="pie_battery_title">电量指示器</string>
+    <string name="pie_battery_text">只显示文字</string>
+    <string name="pie_battery_circle">只显示环形</string>
+    <string name="pie_battery_both">同时显示</string>
+    <string name="pie_status_indicator">网络指示器</string>
+    <string name="pie_status_wifi">只显示 WiFi</string>
+    <string name="pie_status_mobile">只显示移动网络</string>
+    <string name="pie_status_none">不显示</string>
+    <string name="pie_status_both">同时显示</string>
 </resources>
