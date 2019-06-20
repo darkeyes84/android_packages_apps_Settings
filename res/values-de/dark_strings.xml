@@ -17,202 +17,202 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Default left shortcut on lockscreen -->
-  <string name="left_default_voice_title">Linke Verknüpfung auf Sperrbildschirm</string>
-  <string name="left_default_voice_summary_on">Standardtastenkombination für Sprachassistent</string>
-  <string name="left_default_voice_summary_off">Standardtastenkombination für Telefon</string>
-  <!-- Hide the next alarm on lockscreen -->
-  <string name="show_next_alarm_lockscreen_title">Nächsten Alarm anzeigen</string>
-  <string name="show_next_alarm_lockscreen_summary">Zeigt den nächste Alarm auf dem Lockscreen an, wenn ein Alarm eingestellt ist</string>
-  <!-- Disabling immersive mode messages -->
-  <string name="disable_immersive_message_title">Deaktiviert der immersive-mode-für Benachrichtigungen</string>
-  <string name="disable_immersive_message_summary">Diese Einstellung versteckt alle immersive Mode-Nachrichten</string>
-  <!-- Volume Steps -->
-  <string name="volume_steps_title">Lautstärke-Schritte</string>
-  <string name="volume_steps_alarm_title">Lautstärkestufen: Wecker</string>
-  <string name="volume_steps_dtmf_title">Lautstärke-Stufen: DTMF</string>
-  <string name="volume_steps_music_title">Lautstärke-Schritte: Musik</string>
-  <string name="volume_steps_notification_title">Lautstärkestufen: Benachrichtigung</string>
-  <string name="volume_steps_ring_title">Lautstärkestufen: Rufton</string>
-  <string name="volume_steps_system_title">Lautstärkestufen: System</string>
-  <string name="volume_steps_voice_call_title">Lautstärkestufen: Telefongespräch</string>
-  <string name="volume_steps_reset">Zurücksetzen</string>
-  <string name="volume_steps_60">60</string>
-  <string name="volume_steps_45">45</string>
-  <string name="volume_steps_30">30</string>
-  <string name="volume_steps_15">15</string>
-  <string name="volume_steps_7">7</string>
-  <string name="volume_steps_5">5</string>
-  <!-- OpenDelta updates -->
-  <string name="deltaupdate_settings_title">Systemaktualisierungen</string>
-  <!-- Optional screenshot type -->
-  <string name="screenshot_type_title">Screenshot</string>
-  <string name="screenshot_type_fullscreen">Vollbild Screenshot</string>
-  <string name="screenshot_type_partial">Ziehen der Auswahl für einen partiellen Screenshot</string>
-  <!-- Quick unlock -->
-  <string name="unlock_quick_unlock_control_title">Schnelles Entsperren</string>
-  <string name="unlock_quick_unlock_control_summary_password">Entsperren durch korrekte Pin- oder Passworteingabe</string>
-  <string name="unlock_quick_unlock_control_summary_pin">Automatisch entsperren, wenn die korrekte PIN/Passwort eingegeben wird</string>
-  <!-- Notification Ticker -->
-  <string name="ticker_title">Benachrichtigungsticker</string>
-  <string name="ticker_summary">Benachrichtigungen mit Priorität in der Statusleiste anzeigen</string>
-  <!-- Notification Ticker Track-->
-  <string name="ticker_track_title">Ticker-Musik-Titel</string>
-  <string name="ticker_track_summary">Zeige die Metadaten an, wenn ein neuer Titel läuft</string>
-  <!-- Secure lockscreen -->
-  <string name="lockscreen_enable_power_menu_title">Auf dem Sperrbildschirm werden keine Schnelleinstellungen angezeigt</string>
-  <string name="lockscreen_enable_power_menu_summary">Verhinderung des Zugriffs auf Schnelleinstellungen und Power-Menü</string>
-  <!-- Settings suggestions  -->
-  <string name="disable_settings_suggestions_title">Vorschläge deaktivieren</string>
-  <!-- Custom carrier label and position -->
-  <string name="keyguard_show_carrier_title">Netzbetreiber ausblenden</string>
-  <string name="keyguard_show_carrier_summary">Netzanbieter auf dem Tastenschutz verstecken</string>
-  <string name="custom_carrier_label_title">Eigene Netzanbieter-Anzeige</string>
-  <string name="custom_carrier_label_explain">Bitte geben Sie eine neue Bezeichnung ein. Um Ihre Standard Bezeichnung wiederherzustellen, lassen Sie das Feld leer</string>
-  <string name="custom_carrier_label_notset">Benutzerdefiniertes Label ist nicht gesetzt</string>
-  <string name="one_hand_mode_title">Einhandmodus</string>
-  <string name="one_hand_mode_summary">Durch streichen auf der Navigationsleiste den Einhand-Modus aktivieren</string>
-  <!-- Advanced night mode brightness -->
-  <string name="night_brightness_category">Helligkeit</string>
-  <string name="night_brightness_value_title">Nachtlicht Helligkeit</string>
-  <string name="night_brightness_text">Bei aktiviertem Nachtlicht, wird automatisch die gewünschte Helligkeit eingestellt.</string>
-  <string name="night_bright_disabled">Deaktiviert</string>
-  <string name="night_bright_min">Minimale Helligkeit</string>
-  <string name="night_bright_low">Niedrige Helligkeit</string>
-  <string name="night_bright_medium">Mittlere Helligkeit</string>
-  <string name="magisk_title">Magisk Manager</string>
-  <string name="magisk_summary">Steuerung und Einstellungen</string>
-  <string name="substratum_title">Substratum</string>
-  <string name="substratum_summary">Ausgewähltes Theme anpassen</string>
-  <!-- Incall vibrate options -->
-  <string name="incall_vibrate_connect_title">Vibriert bei Verbindung</string>
-  <string name="incall_vibrate_call_wait_title">Vibriert beim Halten des Anrufs</string>
-  <string name="incall_vibrate_disconnect_title">Vibriert bei Verbindung</string>
-  <string name="doze_brightness_level_title">Ambient-Display-Helligkeit</string>
-  <string name="doze_brightness_level_summary">Passt die Helligkeit für Inaktivitätsdisplay an</string>
-  <!-- Heads up timeout -->
-  <string name="heads_up_time_out_title">Heads up Timeout</string>
-  <string name="heads_up_time_out_summary">Heads-Up Benachrichtigung für <xliff:g id="number">%d</xliff:g> Sekunden anzeigen</string>
-  <string name="heads_up_time_out_2sec">2 Sekunden</string>
-  <string name="heads_up_time_out_4sec">4 Sekunden</string>
-  <string name="heads_up_time_out_5sec">5 Sekunden</string>
-  <string name="heads_up_time_out_6sec">6 Sekunden</string>
-  <string name="heads_up_time_out_8sec">8 Sekunden</string>
-  <string name="heads_up_time_out_10sec">10 Sekunden</string>
-  <!-- Heads up snooze -->
-  <string name="heads_up_snooze_title">Heads-Up-Modus</string>
-  <string name="heads_up_snooze_summary_one_minute">Durch das Hochwischen der Heads-Up-Benachrichtigung werden alle Meldungen der entsprechenden Applikation für 1 Minute pausiert</string>
-  <string name="heads_up_snooze_summary">Durch das Hochwischen der Heads Up-Benachrichtigung werden alle Meldungen der entsprechenden Applikation für <xliff:g id="number">%d</xliff:g> Minuten pausiert</string>
-  <string name="heads_up_snooze_disabled_summary">Snooze-Timer ist deaktiviert</string>
-  <string name="heads_up_snooze_1min">1 Minute</string>
-  <string name="heads_up_snooze_3min">3 Minuten</string>
-  <string name="heads_up_snooze_5min">5 Minuten</string>
-  <string name="heads_up_snooze_10min">10 Minuten</string>
-  <string name="heads_up_snooze_15min">15 Minuten</string>
-  <string name="heads_up_snooze_20min">20 Minuten</string>
-  <!-- Recents panel settings -->
-  <string name="show_clear_all_recents_button_title">Alle-Beenden Taste aktivieren</string>
-  <string name="show_clear_all_recents_button_summary">Alle-Beenden Taste im Anwendungsverlauf anzeigen</string>
-  <string name="recents_clear_all_location_title">Position der Alle-Schließen Taste</string>
-  <string name="recents_clear_all_location_stock">Oben rechts (automatische Ausblenden)</string>
-  <string name="recents_clear_all_location_top_right">Oben rechts</string>
-  <string name="recents_clear_all_location_top_left">Oben links</string>
-  <string name="recents_clear_all_location_top_center">Oben in der Mitte</string>
-  <string name="recents_clear_all_location_bottom_right">Unten rechts</string>
-  <string name="recents_clear_all_location_bottom_left">Unten links</string>
-  <string name="recents_clear_all_location_bottom_center">Unten in der Mitte</string>
-  <!-- Battery stats reset -->
-  <string name="battery_stats_reset">Statistik zurücksetzen</string>
-  <string name="battery_stats_message">Batterie-Verlauf wird entfernt</string>
-  <string name="ok_string">Ok</string>
-  <!-- Fullscreen Keyboard -->
-  <string name="disable_fullscreen_keyboard_title">Vollbild-Tastatur deaktivieren</string>
-  <string name="disable_fullscreen_keyboard_summary">Verhindert, dass die Tastatur im Querformat über den gesamten Bildschirm verläuft</string>
-  <string name="tile_summary_title">Zusammenfassungen deaktivieren</string>
-  <string name="notification_light_zen_mode">Benachrichtigungs-LED</string>
-  <string name="battery_light_zen_mode">Akku-LED</string>
-  <!-- Fingerprint unlock keystore -->
-  <string name="fp_unlock_keystore_title">Entsperren mit Fingerabdruck</string>
-  <string name="fp_unlock_password_summary">Gerät mit Fingerabdruck nach Neustart ohne Passwort entsperren</string>
-  <string name="fp_unlock_pattern_summary">Gerät mit Fingerabdruck nach einem Neustart ohne Muster entsperren</string>
-  <string name="fp_unlock_pin_summary">Gerät mit Fingerabdruck nach Neustart ohne Pin entsperren</string>
-  <!-- Force expanded notifications -->
-  <string name="expanded_notifications_title">Erzwinge erweiterte Benachrichtigungen</string>
-  <string name="expanded_notifications_summary">Immer erweiterte Benachrichtigungen anzeigen, sofern unterstützt</string>
-  <!-- Color engine -->
-  <string name="theme_switch_palette">Wechsel zwischen Haupt- und Akzentfarben</string>
-  <string name="theme_title">Farbanpassung</string>
-  <string name="theme_summary">Wähle verschiedene Farben für das aktuelle Schema</string>
-  <string name="theme_accent_color">Akzentfarbe</string>
-  <string name="theme_primary_color">Hintergrundfarbe</string>
-  <string name="theme">Erscheinungsbild</string>
-  <string name="oms_enabled">Erscheinungsbildänderungsmodus nicht verfügbar weil eine Substratum Maske aktiv ist</string>
-  <string name="red">Rot</string>
-  <string name="orange">Orange</string>
-  <string name="blue">Blaugrün</string>
-  <string name="green">Grün</string>
-  <string name="yellow">Gelb</string>
-  <string name="purple">Violett</string>
-  <string name="pink">Rosa</string>
-  <string name="black">Schwarz</string>
-  <string name="dark">Dunkel</string>
-  <string name="pixel">Pixel</string>
-  <string name="teal">Blau</string>
-  <string name="cyan">Türkis</string>
-  <string name="grey">Grau</string>
-  <string name="white">Weiß</string>
-  <!-- Force authorize substratum packages -->
-  <string name="force_authorize_substratum_packages_title">Erzwinge Autorisierung jeder Erscheinungsbildänderungs App</string>
-  <string name="force_authorize_substratum_packages_summary">Erlaube Erscheinungsbildänderungs-Apps von unbekannten Quellen</string>
-  <string name="dashboard_label">Einstellungen</string>
-  <string name="miscellaneous_label">Verschiedenes</string>
-  <string name="two_columns_title">Zwei Spalten</string>
-  <string name="headsup_label">Heads-Up</string>
-  <string name="ticker_label">Benachrichtigungsticker</string>
-  <string name="ticker_disabled">Ticker ist deaktiviert, weil Heads-up aktiviert ist</string>
-  <string name="headsup_disabled">Heads-up ist deaktiviert, weil Ticker aktiviert ist</string>
-  <string name="ringtones_title">Klingeltöne</string>
-  <string name="call_options_title">Anruf Optionen</string>
-  <!-- Recents -->
-  <string name="recents_label">Anwendungsverlauf</string>
-  <string name="immersive_recents_title">Immersiver Modus</string>
-  <string name="immersive_recents_summary">Ändern der Ansichten im Anwendungsverlauf</string>
-  <string name="immersive_recents_dialog_title">Aktiviere ausblenden vom Anwendungsverlauf</string>
-  <string name="immersive_recents_default">Nichts ausblenden</string>
-  <string name="immersive_recents_fullscreen">Beides ausblenden</string>
-  <string name="immersive_recents_statusbar">Navigationsleiste ausblenden</string>
-  <string name="immersive_recents_navbar">Statusleiste ausblenden</string>
-  <string name="systemui_recents_mem_display_title">RAM-Speicher-Leiste</string>
-  <string name="systemui_recents_mem_display_summary">Einblenden der Speicher-Leiste im Anwendungsverlauf</string>
-  <string name="recents_lock_icon_title">Anwendung sperren</string>
-  <string name="recents_lock_icon_summary">Schloss-Symbol im Anwendungskopf anzeigen</string>
-  <string name="recents_dismiss_icon_title">Anwendung verwerfen</string>
-  <string name="recents_dismiss_icon_summary">Verwerfen-Symbol im Anwendungskopf anzeigen</string>
-  <!-- Toast icon -->
-  <string name="toast_icon_title">Toast-Benachrichtigungs-Symbol</string>
-  <string name="toast_icon_summary">Aktivitätssymbolanzeige das die Toast-Benachrichtigung erzeugt</string>
-  <!-- Settings conditions  -->
-  <string name="disable_settings_conditions_title">Bedienung deaktivieren</string>
-  <string name="theme_force_enabled_title">Farbanpassungen aktivieren (Zwang)</string>
-  <string name="theme_force_enabled_summary">Farbanpassungen werden zwangsaktiviert unabhängig vom OMS Status</string>
-  <!-- Pie -->
-  <string name="pie_settings">PIE-Steuerungen</string>
-  <string name="pie_gravity_title">Position im Hochformat</string>
-  <string name="pie_gravity_landscape_title">Position im Querformat</string>
-  <string name="pie_gravity_bottom">Unten</string>
-  <string name="pie_gravity_right">Rechts</string>
-  <string name="pie_gravity_left">Links</string>
-  <string name="pie_theme_mode_title">Erscheinungsbild</string>
-  <string name="pie_auto">Automatisch</string>
-  <string name="pie_white">Weiß</string>
-  <string name="pie_dark">Dunkel</string>
-  <string name="pie_battery_title">Akkuanzeige</string>
-  <string name="pie_battery_text">Nur Text</string>
-  <string name="pie_battery_circle">Nur Kreis</string>
-  <string name="pie_battery_both">Beides</string>
-  <string name="pie_status_indicator">Netzwerkanzeige</string>
-  <string name="pie_status_wifi">Nur WLAN</string>
-  <string name="pie_status_mobile">Nur Mobildaten</string>
-  <string name="pie_status_none">Keine</string>
-  <string name="pie_status_both">Beides</string>
+    <!-- Default left shortcut on lockscreen -->
+    <string name="left_default_voice_title">Linke Verknüpfung auf Sperrbildschirm</string>
+    <string name="left_default_voice_summary_on">Standardtastenkombination für Sprachassistent</string>
+    <string name="left_default_voice_summary_off">Standardtastenkombination für Telefon</string>
+    <!-- Hide the next alarm on lockscreen -->
+    <string name="show_next_alarm_lockscreen_title">Nächsten Alarm anzeigen</string>
+    <string name="show_next_alarm_lockscreen_summary">Zeigt den nächste Alarm auf dem Lockscreen an, wenn ein Alarm eingestellt ist</string>
+    <!-- Disabling immersive mode messages -->
+    <string name="disable_immersive_message_title">Deaktiviert der immersive-mode-für Benachrichtigungen</string>
+    <string name="disable_immersive_message_summary">Diese Einstellung versteckt alle immersive Mode-Nachrichten</string>
+    <!-- Volume Steps -->
+    <string name="volume_steps_title">Lautstärke-Schritte</string>
+    <string name="volume_steps_alarm_title">Lautstärkestufen: Wecker</string>
+    <string name="volume_steps_dtmf_title">Lautstärke-Stufen: DTMF</string>
+    <string name="volume_steps_music_title">Lautstärke-Schritte: Musik</string>
+    <string name="volume_steps_notification_title">Lautstärkestufen: Benachrichtigung</string>
+    <string name="volume_steps_ring_title">Lautstärkestufen: Rufton</string>
+    <string name="volume_steps_system_title">Lautstärkestufen: System</string>
+    <string name="volume_steps_voice_call_title">Lautstärkestufen: Telefongespräch</string>
+    <string name="volume_steps_reset">Zurücksetzen</string>
+    <string name="volume_steps_60">60</string>
+    <string name="volume_steps_45">45</string>
+    <string name="volume_steps_30">30</string>
+    <string name="volume_steps_15">15</string>
+    <string name="volume_steps_7">7</string>
+    <string name="volume_steps_5">5</string>
+    <!-- OpenDelta updates -->
+    <string name="deltaupdate_settings_title">Systemaktualisierungen</string>
+    <!-- Optional screenshot type -->
+    <string name="screenshot_type_title">Screenshot</string>
+    <string name="screenshot_type_fullscreen">Vollbild Screenshot</string>
+    <string name="screenshot_type_partial">Ziehen der Auswahl für einen partiellen Screenshot</string>
+    <!-- Quick unlock -->
+    <string name="unlock_quick_unlock_control_title">Schnelles Entsperren</string>
+    <string name="unlock_quick_unlock_control_summary_password">Entsperren durch korrekte Pin- oder Passworteingabe</string>
+    <string name="unlock_quick_unlock_control_summary_pin">Automatisch entsperren, wenn die korrekte PIN/Passwort eingegeben wird</string>
+    <!-- Notification Ticker -->
+    <string name="ticker_title">Benachrichtigungsticker</string>
+    <string name="ticker_summary">Benachrichtigungen mit Priorität in der Statusleiste anzeigen</string>
+    <!-- Notification Ticker Track-->
+    <string name="ticker_track_title">Ticker-Musik-Titel</string>
+    <string name="ticker_track_summary">Zeige die Metadaten an, wenn ein neuer Titel läuft</string>
+    <!-- Secure lockscreen -->
+    <string name="lockscreen_enable_power_menu_title">Auf dem Sperrbildschirm werden keine Schnelleinstellungen angezeigt</string>
+    <string name="lockscreen_enable_power_menu_summary">Verhinderung des Zugriffs auf Schnelleinstellungen und Power-Menü</string>
+    <!-- Settings suggestions  -->
+    <string name="disable_settings_suggestions_title">Vorschläge deaktivieren</string>
+    <!-- Custom carrier label and position -->
+    <string name="keyguard_show_carrier_title">Netzbetreiber ausblenden</string>
+    <string name="keyguard_show_carrier_summary">Netzanbieter auf dem Tastenschutz verstecken</string>
+    <string name="custom_carrier_label_title">Eigene Netzanbieter-Anzeige</string>
+    <string name="custom_carrier_label_explain">Bitte geben Sie eine neue Bezeichnung ein. Um Ihre Standard Bezeichnung wiederherzustellen, lassen Sie das Feld leer</string>
+    <string name="custom_carrier_label_notset">Benutzerdefiniertes Label ist nicht gesetzt</string>
+    <string name="one_hand_mode_title">Einhandmodus</string>
+    <string name="one_hand_mode_summary">Durch streichen auf der Navigationsleiste den Einhand-Modus aktivieren</string>
+    <!-- Advanced night mode brightness -->
+    <string name="night_brightness_category">Helligkeit</string>
+    <string name="night_brightness_value_title">Nachtlicht Helligkeit</string>
+    <string name="night_brightness_text">Bei aktiviertem Nachtlicht, wird automatisch die gewünschte Helligkeit eingestellt.</string>
+    <string name="night_bright_disabled">Deaktiviert</string>
+    <string name="night_bright_min">Minimale Helligkeit</string>
+    <string name="night_bright_low">Niedrige Helligkeit</string>
+    <string name="night_bright_medium">Mittlere Helligkeit</string>
+    <string name="magisk_title">Magisk Manager</string>
+    <string name="magisk_summary">Steuerung und Einstellungen</string>
+    <string name="substratum_title">Substratum</string>
+    <string name="substratum_summary">Ausgewähltes Theme anpassen</string>
+    <!-- Incall vibrate options -->
+    <string name="incall_vibrate_connect_title">Vibriert bei Verbindung</string>
+    <string name="incall_vibrate_call_wait_title">Vibriert beim Halten des Anrufs</string>
+    <string name="incall_vibrate_disconnect_title">Vibriert bei Verbindung</string>
+    <string name="doze_brightness_level_title">Ambient-Display-Helligkeit</string>
+    <string name="doze_brightness_level_summary">Passt die Helligkeit für Inaktivitätsdisplay an</string>
+    <!-- Heads up timeout -->
+    <string name="heads_up_time_out_title">Heads up Timeout</string>
+    <string name="heads_up_time_out_summary">Heads-Up Benachrichtigung für <xliff:g id="number">%d</xliff:g> Sekunden anzeigen</string>
+    <string name="heads_up_time_out_2sec">2 Sekunden</string>
+    <string name="heads_up_time_out_4sec">4 Sekunden</string>
+    <string name="heads_up_time_out_5sec">5 Sekunden</string>
+    <string name="heads_up_time_out_6sec">6 Sekunden</string>
+    <string name="heads_up_time_out_8sec">8 Sekunden</string>
+    <string name="heads_up_time_out_10sec">10 Sekunden</string>
+    <!-- Heads up snooze -->
+    <string name="heads_up_snooze_title">Heads-Up-Modus</string>
+    <string name="heads_up_snooze_summary_one_minute">Durch das Hochwischen der Heads-Up-Benachrichtigung werden alle Meldungen der entsprechenden Applikation für 1 Minute pausiert</string>
+    <string name="heads_up_snooze_summary">Durch das Hochwischen der Heads Up-Benachrichtigung werden alle Meldungen der entsprechenden Applikation für <xliff:g id="number">%d</xliff:g> Minuten pausiert</string>
+    <string name="heads_up_snooze_disabled_summary">Snooze-Timer ist deaktiviert</string>
+    <string name="heads_up_snooze_1min">1 Minute</string>
+    <string name="heads_up_snooze_3min">3 Minuten</string>
+    <string name="heads_up_snooze_5min">5 Minuten</string>
+    <string name="heads_up_snooze_10min">10 Minuten</string>
+    <string name="heads_up_snooze_15min">15 Minuten</string>
+    <string name="heads_up_snooze_20min">20 Minuten</string>
+    <!-- Recents panel settings -->
+    <string name="show_clear_all_recents_button_title">Alle-Beenden Taste aktivieren</string>
+    <string name="show_clear_all_recents_button_summary">Alle-Beenden Taste im Anwendungsverlauf anzeigen</string>
+    <string name="recents_clear_all_location_title">Position der Alle-Schließen Taste</string>
+    <string name="recents_clear_all_location_stock">Oben rechts (automatische Ausblenden)</string>
+    <string name="recents_clear_all_location_top_right">Oben rechts</string>
+    <string name="recents_clear_all_location_top_left">Oben links</string>
+    <string name="recents_clear_all_location_top_center">Oben in der Mitte</string>
+    <string name="recents_clear_all_location_bottom_right">Unten rechts</string>
+    <string name="recents_clear_all_location_bottom_left">Unten links</string>
+    <string name="recents_clear_all_location_bottom_center">Unten in der Mitte</string>
+    <!-- Battery stats reset -->
+    <string name="battery_stats_reset">Statistik zurücksetzen</string>
+    <string name="battery_stats_message">Batterie-Verlauf wird entfernt</string>
+    <string name="ok_string">Ok</string>
+    <!-- Fullscreen Keyboard -->
+    <string name="disable_fullscreen_keyboard_title">Vollbild-Tastatur deaktivieren</string>
+    <string name="disable_fullscreen_keyboard_summary">Verhindert, dass die Tastatur im Querformat über den gesamten Bildschirm verläuft</string>
+    <string name="tile_summary_title">Zusammenfassungen deaktivieren</string>
+    <string name="notification_light_zen_mode">Benachrichtigungs-LED</string>
+    <string name="battery_light_zen_mode">Akku-LED</string>
+    <!-- Fingerprint unlock keystore -->
+    <string name="fp_unlock_keystore_title">Entsperren mit Fingerabdruck</string>
+    <string name="fp_unlock_password_summary">Gerät mit Fingerabdruck nach Neustart ohne Passwort entsperren</string>
+    <string name="fp_unlock_pattern_summary">Gerät mit Fingerabdruck nach einem Neustart ohne Muster entsperren</string>
+    <string name="fp_unlock_pin_summary">Gerät mit Fingerabdruck nach Neustart ohne Pin entsperren</string>
+    <!-- Force expanded notifications -->
+    <string name="expanded_notifications_title">Erzwinge erweiterte Benachrichtigungen</string>
+    <string name="expanded_notifications_summary">Immer erweiterte Benachrichtigungen anzeigen, sofern unterstützt</string>
+    <!-- Color engine -->
+    <string name="theme_switch_palette">Wechsel zwischen Haupt- und Akzentfarben</string>
+    <string name="theme_title">Farbanpassung</string>
+    <string name="theme_summary">Wähle verschiedene Farben für das aktuelle Schema</string>
+    <string name="theme_accent_color">Akzentfarbe</string>
+    <string name="theme_primary_color">Hintergrundfarbe</string>
+    <string name="theme">Erscheinungsbild</string>
+    <string name="oms_enabled">Erscheinungsbildänderungsmodus nicht verfügbar weil eine Substratum Maske aktiv ist</string>
+    <string name="red">Rot</string>
+    <string name="orange">Orange</string>
+    <string name="blue">Blaugrün</string>
+    <string name="green">Grün</string>
+    <string name="yellow">Gelb</string>
+    <string name="purple">Violett</string>
+    <string name="pink">Rosa</string>
+    <string name="black">Schwarz</string>
+    <string name="dark">Dunkel</string>
+    <string name="pixel">Pixel</string>
+    <string name="teal">Blau</string>
+    <string name="cyan">Türkis</string>
+    <string name="grey">Grau</string>
+    <string name="white">Weiß</string>
+    <!-- Force authorize substratum packages -->
+    <string name="force_authorize_substratum_packages_title">Erzwinge Autorisierung jeder Erscheinungsbildänderungs App</string>
+    <string name="force_authorize_substratum_packages_summary">Erlaube Erscheinungsbildänderungs-Apps von unbekannten Quellen</string>
+    <string name="dashboard_label">Einstellungen</string>
+    <string name="miscellaneous_label">Verschiedenes</string>
+    <string name="two_columns_title">Zwei Spalten</string>
+    <string name="headsup_label">Heads-Up</string>
+    <string name="ticker_label">Benachrichtigungsticker</string>
+    <string name="ticker_disabled">Ticker ist deaktiviert, weil Heads-up aktiviert ist</string>
+    <string name="headsup_disabled">Heads-up ist deaktiviert, weil Ticker aktiviert ist</string>
+    <string name="ringtones_title">Klingeltöne</string>
+    <string name="call_options_title">Anruf Optionen</string>
+    <!-- Recents -->
+    <string name="recents_label">Anwendungsverlauf</string>
+    <string name="immersive_recents_title">Immersiver Modus</string>
+    <string name="immersive_recents_summary">Ändern der Ansichten im Anwendungsverlauf</string>
+    <string name="immersive_recents_dialog_title">Aktiviere ausblenden vom Anwendungsverlauf</string>
+    <string name="immersive_recents_default">Nichts ausblenden</string>
+    <string name="immersive_recents_fullscreen">Beides ausblenden</string>
+    <string name="immersive_recents_statusbar">Navigationsleiste ausblenden</string>
+    <string name="immersive_recents_navbar">Statusleiste ausblenden</string>
+    <string name="systemui_recents_mem_display_title">RAM-Speicher-Leiste</string>
+    <string name="systemui_recents_mem_display_summary">Einblenden der Speicher-Leiste im Anwendungsverlauf</string>
+    <string name="recents_lock_icon_title">Anwendung sperren</string>
+    <string name="recents_lock_icon_summary">Schloss-Symbol im Anwendungskopf anzeigen</string>
+    <string name="recents_dismiss_icon_title">Anwendung verwerfen</string>
+    <string name="recents_dismiss_icon_summary">Verwerfen-Symbol im Anwendungskopf anzeigen</string>
+    <!-- Toast icon -->
+    <string name="toast_icon_title">Toast-Benachrichtigungs-Symbol</string>
+    <string name="toast_icon_summary">Aktivitätssymbolanzeige das die Toast-Benachrichtigung erzeugt</string>
+    <!-- Settings conditions  -->
+    <string name="disable_settings_conditions_title">Bedienung deaktivieren</string>
+    <string name="theme_force_enabled_title">Farbanpassungen aktivieren (Zwang)</string>
+    <string name="theme_force_enabled_summary">Farbanpassungen werden zwangsaktiviert unabhängig vom OMS Status</string>
+    <!-- Pie -->
+    <string name="pie_settings">PIE-Steuerungen</string>
+    <string name="pie_gravity_title">Position im Hochformat</string>
+    <string name="pie_gravity_landscape_title">Position im Querformat</string>
+    <string name="pie_gravity_bottom">Unten</string>
+    <string name="pie_gravity_right">Rechts</string>
+    <string name="pie_gravity_left">Links</string>
+    <string name="pie_theme_mode_title">Erscheinungsbild</string>
+    <string name="pie_auto">Automatisch</string>
+    <string name="pie_white">Weiß</string>
+    <string name="pie_dark">Dunkel</string>
+    <string name="pie_battery_title">Akkuanzeige</string>
+    <string name="pie_battery_text">Nur Text</string>
+    <string name="pie_battery_circle">Nur Kreis</string>
+    <string name="pie_battery_both">Beides</string>
+    <string name="pie_status_indicator">Netzwerkanzeige</string>
+    <string name="pie_status_wifi">Nur WLAN</string>
+    <string name="pie_status_mobile">Nur Mobildaten</string>
+    <string name="pie_status_none">Keine</string>
+    <string name="pie_status_both">Beides</string>
 </resources>
